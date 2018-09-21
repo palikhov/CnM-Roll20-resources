@@ -1,4 +1,6 @@
-This copied from https://github.com/poltergeisha/Roll20-Like-A-Boss/blob/master/Macros.md 
+This copied from https://github.com/poltergeisha/Roll20-Like-A-Boss/blob/master/Macros.md as its probably the best content.
+I need to go through and give attribution to the various sites and authors for these macros. I will, but want to get them all entered first.
+
 
 I also have a set of macros that I use with my custom shopping rules. You can find those here: https://gist.github.com/poltergeisha/41fb953a21c32323b66f6beb0bce2c21
 
