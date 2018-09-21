@@ -1,18 +1,18 @@
 !import-table  --EE Trinkets --hide
 !import-table-item --EE Trinkets --A Compass that always points to Mulmaster. --1 --
-!import-table-item --EE Trinkets --A paper fan that wonít produce a breeze no matter how hard itís waved. --1 --
+!import-table-item --EE Trinkets --A paper fan that won‚Äôt produce a breeze no matter how hard it‚Äôs waved. --1 --
 !import-table-item --EE Trinkets --A petrified potato that resembles someone important to you. --1 --
 !import-table-item --EE Trinkets --A glass cup that can only be filled half way no matter how much liquid is pored into it. --1 --
 !import-table-item --EE Trinkets --A mirror that only shows the back of your head. --1 --
 !import-table-item --EE Trinkets --A small glass bird that when set down near water dips its head in as if to get a drink. --1 --
-!import-table-item --EE Trinkets --A ladyís coin purse containing two sharp fangs. --1 --
-!import-table-item --EE Trinkets --A small sea conch with the words ìFrom the beginningî painted on the lip. --1 --
-!import-table-item --EE Trinkets --A frost-covered silver locket thatís frozen shut. --1 --
+!import-table-item --EE Trinkets --A lady‚Äôs coin purse containing two sharp fangs. --1 --
+!import-table-item --EE Trinkets --A small sea conch with the words ‚ÄúFrom the beginning‚Äù painted on the lip. --1 --
+!import-table-item --EE Trinkets --A frost-covered silver locket that‚Äôs frozen shut. --1 --
 !import-table-item --EE Trinkets --A seal which imprints a mysterious, unknown coat of arms into hard rock. --1 --
 !import-table-item --EE Trinkets --A small wooden doll that when held brings back fond memories. --1 --
 !import-table-item --EE Trinkets --A small handmirror which only reflects inanimate objects. --1 --
 !import-table-item --EE Trinkets --A glass eyeball that looks about of its own accordance, and can roll around. --1 --
-!import-table-item --EE Trinkets --A glass orb that replicates yesterdayís weather inside itself. --1 --
+!import-table-item --EE Trinkets --A glass orb that replicates yesterday‚Äôs weather inside itself. --1 --
 !import-table-item --EE Trinkets --A drinking cup, that randomly fills with fresh or salt water. Refilling once emptied. --1 --
 !import-table-item --EE Trinkets --A deep blue piece of flint, that when struck with steel produces not a spark but a drop of water. --1 --
 !import-table-item --EE Trinkets --A conch shell which is always damp and constantly drips saltwater. --1 --
@@ -23,11 +23,11 @@
 !import-table-item --EE Trinkets --A rough stone eye pulled from a petrified creature. --1 --
 !import-table-item --EE Trinkets --A stone smoking pipe that never needs lighting. --1 --
 !import-table-item --EE Trinkets --A small whistle, that when blown, whispers a name  of a person or place unknown to you, instead of the whistle sound. --1 --
-!import-table-item --EE Trinkets --A fist sized rock that ìbeatsî like a heart. --1 --
+!import-table-item --EE Trinkets --A fist sized rock that ‚Äúbeats‚Äù like a heart. --1 --
 !import-table-item --EE Trinkets --A pair of bronze scissors in the shape of a pair of leaping dolphins. --1 --
 !import-table-item --EE Trinkets --A bronze oil lamp which is rumored to have once held a genie. --1 --
 !import-table-item --EE Trinkets --A single gauntlet inscribed with a fire motif and an unfamiliar name in Primordial. --1 --
-!import-table-item --EE Trinkets --A one-eyed little fish inside a spherical vial, much bigger than the vialís neck. He has a cunning look. --1 --
+!import-table-item --EE Trinkets --A one-eyed little fish inside a spherical vial, much bigger than the vial‚Äôs neck. He has a cunning look. --1 --
 !import-table-item --EE Trinkets --The tiny skull of a rabbit that whispers scathing insults when nobody is looking. --1 --
 !import-table-item --EE Trinkets --A rag doll in the likeness of an owlbear. --1 --
 !import-table-item --EE Trinkets --The desiccated body of a small eight-legged black lizard. --1 --
@@ -39,8 +39,8 @@
 !import-table-item --EE Trinkets --An old scratched monocle which shows an underwater landscape whenever someone looks through it. --1 --
 !import-table-item --EE Trinkets --A rose carved from coral. --1 --
 !import-table-item --EE Trinkets --A set of dice with elemental symbols and primordial runes instead of pips or numbers. --1 --
-!import-table-item --EE Trinkets --A amulet filled with liquid that churns, freezes, or boils to match its wearerís mood. --1 --
-!import-table-item --EE Trinkets --A small silver bell that makes a sound like quiet, distant thunder when itís struck. --1 --
+!import-table-item --EE Trinkets --A amulet filled with liquid that churns, freezes, or boils to match its wearer‚Äôs mood. --1 --
+!import-table-item --EE Trinkets --A small silver bell that makes a sound like quiet, distant thunder when it‚Äôs struck. --1 --
 !import-table-item --EE Trinkets --A small vial of black sand that glows slightly in the moonlight. --1 --
 !import-table-item --EE Trinkets --A small whale tooth with etched with an image of waves crashing upon a beach. --1 --
 !import-table-item --EE Trinkets --An hourglass in which the sands pour upward instead of downward. --1 --
@@ -50,7 +50,7 @@
 !import-table-item --EE Trinkets --A small crystal snowglobe that, when shaken, seems to form silhouettes of dancing forms. --1 --
 !import-table-item --EE Trinkets --Half of a palm-sized geode that pulses dimly with purple light. --1 --
 !import-table-item --EE Trinkets --A book filled with writing that only appears when the book is held underwater. --1 --
-!import-table-item --EE Trinkets --A sealed envelope made of red leather that you havenít been able to open. It smells of campfire. --1 --
+!import-table-item --EE Trinkets --A sealed envelope made of red leather that you haven‚Äôt been able to open. It smells of campfire. --1 --
 !import-table-item --EE Trinkets --A locket of hair that is rumored to have come from a famed fire genasi. --1 --
 !import-table-item --EE Trinkets --Flint and steel that, when used to start a faire, creates a random colored flame. --1 --
 !import-table-item --EE Trinkets --A blank piece of wet parchment that never seems to dry. --1 --
@@ -93,7 +93,7 @@
 !import-table-item --EE Trinkets --An arrowhead carved from seasalt --1 --
 !import-table-item --EE Trinkets --A small comb made of blue coral. --1 --
 !import-table-item --EE Trinkets --Seven small beads of sandstone on a string, all different colors. --1 --
-!import-table-item --EE Trinkets --A romance chapbook written in undercommon titled ìJust one Layer of Greyî. --1 --
+!import-table-item --EE Trinkets --A romance chapbook written in undercommon titled ‚ÄúJust one Layer of Grey‚Äù. --1 --
 !import-table-item --EE Trinkets --A tiny, broken clockwork Harpy. --1 --
 !import-table-item --EE Trinkets --An ivory whale statuette. --1 --
 !import-table-item --EE Trinkets --A fist-sized cog, covered in barnacles. --1 --
