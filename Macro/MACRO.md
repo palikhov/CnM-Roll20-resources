@@ -1,8 +1,8 @@
-This copied from https://github.com/poltergeisha/Roll20-Like-A-Boss/blob/master/Macros.md as its probably the best content.
+This copied from https://github.com/poltergeisha/Roll20-Like-A-Boss/blob/master/Macros.md as its probably the best content and I'm not clever enough to know how to fork the file and mirror to copy it locally.
+
 I need to go through and give attribution to the various sites and authors for these macros. I will, but want to get them all entered first.
 
-
-I also have a set of macros that I use with my custom shopping rules. You can find those here: https://gist.github.com/poltergeisha/41fb953a21c32323b66f6beb0bce2c21
+Poltergeisha has a set of macros that I use with my custom shopping rules. You can find those here: https://gist.github.com/poltergeisha/41fb953a21c32323b66f6beb0bce2c21
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # How to Organize Macros
@@ -621,3 +621,65 @@ Create an FX in a directed line
 ```
 /fx ?{Type|Beam, beam|Breath, breath|Splatter, splatter}-?{Color|Green Acid, acid|Blood, blood|Pink Charm, charm|Black Death, death|Fire, fire|Frost, frost|Holy Light, holy|Rainbow Magic, magic|Neon Slime, slime|Smoke, smoke|Water, water} @{target|Caster|token_id} @{target|Foe|token_id} 
 ```
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+# Biblography & Pedigree of the Macros
+
+
+File Name | Author | Description/Requirements | Game System |
+-----------------------|--------------|-------------|--------------|
+5e Buying Mundane Item | Poltergeisha | | D&D 5e |
+5e Buying a Magic Item | Poltergeisha | | D&D 5e |
+5e Carousing | Modnar | Powercards API | D&D 5e |
+5e Roll Saving Throws all| unknown | Rolls the ALL saves for the set of characters | D&D 5e |
+5e Roll Saving Throws select |  unknown | Rolls the ALL saves for a selected character | D&D 5e |
+5e Roll Skills all |unknown | Rolls a massive skill check for the set of characters | D&D 5e |
+5e Roll Skills selected |  unknown | Rolls the ALL saves for a selected character | D&D 5e |
+5e Selling Mundane Items | | | D&D 5e |
+5e Selling a Magic Item | | | D&D 5e |
+5e Shaped AddMONSTER_TokenActions | | | D&D 5e |
+5e Shaped AddPC_TokenActions | | | D&D 5e |
+5e Shopping.txt	Create 5e Shopping | | | D&D 5e |
+Buying-Magic-Item | | | D&D 5e |
+Buying-Mundane-Item | | | D&D 5e |
+CoS Encounters	 | | | D&D 5e |
+ItsATrap_trapCreationWizard | | | Any |
+Loot Generation | | | D&D 5e |
+Loot-Generation | | | D&D 5e |
+Magical Loot	| | | |
+MarchingOrderMenu | | | Any |
+Mountain Encounter	| | | |
+NPC Action Table	| | | |
+NPC Action.txt		| | | |
+NPC Perception | | | D&D 5e |
+NPC Reaction	| | | |
+NPC Traits	| | | |
+PartyConnection | | | Any |
+Powercards Background | | | Any |
+Roll Ability Check all	| | | |
+Roll Ability Check select	| | | |
+Roll Initative Target	| | | |
+Show Miniblock	| | | |
+Show Spellbook	| | | |
+StartingMoney{DMGpg38}	| | | |
+StatRollNPC | | | D&D |
+StatRollPC | | | D&D |
+Talk-to-another | | | Any |
+Tavern Name | | | Any |
+Tavern-Names | | | Any |
+TokenMod Concentration	| | | |
+TokenMod Dead | | | Any |
+TokenMod Dying | | | Any |
+TokenMod Grappled | | | Any |
+TokenMod Minionify	| | | |
+TokenMod Prone | | | Any |
+TokenMod Reset Token | | | Any |
+TokenMod Restrained | | | Any |
+TokenMod Reveal NPC target | | | Any |
+TokenMod Save as Default | | | Any |
+TokenMod SetPC Token | | | Any |
+TokenMod Show_Hide Name | | | Any |
+WHISPER-2-Token | | | Any |
+WildMage_SURGE | | | D&D 5e |
+WhisperToken | | | Any |
