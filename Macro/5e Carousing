@@ -5,7 +5,7 @@
 --leftsub|Resist
 --rightsub|Save
 
---Results:|[! [^Save] !] vs. DC [[ 8 + ?{Negative Modifier|—, 0|2|4|6|8|10|12|14} ]]
+--Results:|[! [^Save] !] vs. DC [[ 8 + ?{Negative Modifier|â€”, 0|2|4|6|8|10|12|14} ]]
 
 -- ?? $Days <= 0 ?? !Success|@{selected|token_name} wastes no time carousing.
 
