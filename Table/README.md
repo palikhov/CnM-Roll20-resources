@@ -9,8 +9,6 @@ Filename | Author | Description | Game System |
 5e Critical Hit Effects| WoTC (XGtE)|| 5e |	
 5e PHB wild-magic	|||| 
 Allvegie ||||
-
-
 Art from DMG	||||
 BackStory_EducationEarly		||||
 BackStory_EducationFormal		||||
