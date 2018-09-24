@@ -5,130 +5,131 @@ ________________________________________________________________________________
 # Bibilography and Pedigree of the Tables
 
 Filename | Author | Description | Game System |
----------|--------|-------------|-------------|
-||||
+|---------|--------|-------------|-------------|
+5e Critical Hit Effects| WoTC (XGtE)|| 5e |	
+5e PHB wild-magic	|||| 
+Allvegie ||||
 
-5e Critical Hit Effects XGtE	Create 5e Critical Hit Effects XGtE	2 days ago
-5e PHB wild-magic	Rename 5e PHB wild-magic.txt to 5e PHB wild-magic	2 days ago
-Allvegie	Rename Allvegie.txt to Allvegie	2 days ago
-Art from DMG	Create Art from DMG	2 days ago
-BackStory_EducationEarly	Create BackStory_EducationEarly	2 days ago
-BackStory_EducationFormal	Create BackStory_EducationFormal	2 days ago
-BackStory_EducationTrade	Create BackStory_EducationTrade	2 days ago
-BackStory_FamilyAncestorsOfNote	Create BackStory_FamilyAncestorsOfNote	2 days ago
-BackStory_FamilyDefenseReadiness	Create BackStory_FamilyDefenseReadiness	2 days ago
-BackStory_FamilyEconomics	Create BackStory_FamilyEconomics	2 days ago
-BackStory_FamilyPowerStructure	Create BackStory_FamilyPowerStructure	2 days ago
-BackStory_FamilyPrivateEthics	Create BackStory_FamilyPrivateEthics	2 days ago
-BackStory_FamilyPublicEthics	Create BackStory_FamilyPublicEthics	2 days ago
-BackStory_FamilySocialStanding	Create BackStory_FamilySocialStanding	2 days ago
-BackStory_HomeClimateTemperate	Create BackStory_HomeClimateTemperate	2 days ago
-BackStory_HomeClimateTerrain	Create BackStory_HomeClimateTerrain	2 days ago
-BackStory_LifeEventsEarly	Create BackStory_LifeEventsEarly	2 days ago
-BackStory_LifeEventsPivotal	Create BackStory_LifeEventsPivotal	2 days ago
-BackStory_LifeEventsYouth	Create BackStory_LifeEventsYouth	2 days ago
-BackStory_RelationshipInstructors	Create BackStory_RelationshipInstructors	2 days ago
-BackStory_RelationshipParent	Create BackStory_RelationshipParent	2 days ago
-Coinage	Create Coinage	2 days ago
-Colors	Create Colors	2 days ago
-Colors All	Create Colors All	2 days ago
-Common Loot	Create Common Loot	2 days ago
-Condition Fear	Create Condition Fear	2 days ago
-Critical Acid	Create Critical Acid	2 days ago
-Critical Bludgeon	Create Critical Bludgeon	2 days ago
-Critical Cold	Create Critical Cold	2 days ago
-Critical Fire	Create Critical Fire	2 days ago
-Critical Force	Create Critical Force	2 days ago
-Critical Fumble	Create Critical Fumble	2 days ago
-Critical Fumble RANGED	Create Critical Fumble RANGED	2 days ago
-Critical Fumble Ranged Thrown	Create Critical Fumble Ranged Thrown	2 days ago
-Critical Fumble SPELL	Create Critical Fumble SPELL	2 days ago
-Critical Fumble WEAPON	Create Critical Fumble WEAPON	2 days ago
-Critical Hit	Create Critical Hit	2 days ago
-Critical Hit Spell	Create Critical Hit Spell	2 days ago
-Critical Hit Weapon	Create Critical Hit Weapon	2 days ago
-Critical Hit v2	Rename Critical Hit to Critical Hit v2	2 days ago
-Critical Lightning	Create Critical Lightning	2 days ago
-Critical Miss	Create Critical Miss	2 days ago
-Critical Miss v2	Rename Critical Miss to Critical Miss v2	2 days ago
-Critical Necrotic	Create Critical Necrotic	2 days ago
-Critical Piercing	Create Critical Piercing	2 days ago
-Critical Poison	Create Critical Poison	2 days ago
-Critical Psychic	Create Critical Psychic	2 days ago
-Critical Radiant	Create Critical Radiant	2 days ago
-Critical Slashing	Create Critical Slashing	2 days ago
-Critical Thunder	Create Critical Thunder	2 days ago
-Culinary Nuts	Rename Culinary Nuts.txt to Culinary Nuts	2 days ago
-DMG_MagicArmor	Create DMG_MagicArmor	2 days ago
-DMG_SewerChaseComplications{user}	Create DMG_SewerChaseComplications{user}	2 days ago
-Dairy Product	Rename Dairy Product.rtf to Dairy Product	2 days ago
-Dimensional Clash	Create Dimensional Clash	2 days ago
-Domesticated Meat.rtf	Add files via upload	2 days ago
-Dwarf-Surname-Second	Create Dwarf-Surname-Second	2 days ago
-EE Trinkets	Rename EE Trinkets.txt to EE Trinkets	2 days ago
-Encounters Grassland	Create Encounters Grassland	2 days ago
-Encounters PortTown	Create Encounters PortTown	2 days ago
-Encounters Roadside	Create Encounters Roadside	2 days ago
-Encounters Town	Create Encounters Town	2 days ago
-Failed Perception	Create Failed Perception	2 days ago
-Foodprep	Create Foodprep	2 days ago
-Gems	Create Gems	2 days ago
-Giant Bag.txt	Add files via upload	2 days ago
-Grains	Create Grains	2 days ago
-Greater Major Magic Armor n Shield	Create Greater Major Magic Armor n Shield	2 days ago
-Greater Major Magic Item	Create Greater Major Magic Item	2 days ago
-Greater Medium Magic Armor nested table	Create Greater Medium Magic Armor nested table	2 days ago
-Greater Minor Wrist	Create Greater Minor Wrist	2 days ago
-Injury	Create Injury	2 days ago
-Junk	Create Junk	2 days ago
-Kingdom Event	Create Kingdom Event	2 days ago
-Kingdom Event DanSettlement	Create Kingdom Event DanSettlement	2 days ago
-Kingdom Event Generic	Create Kingdom Event Generic	2 days ago
-Kingdom Event Settlement	Create Kingdom Event Settlement	2 days ago
-Kingdom Event benSettlement	Create Kingdom Event benSettlement	2 days ago
-Less Medium Magic Armor Nested Table	Create Less Medium Magic Armor Nested Table	2 days ago
-Lesser Major Magic Armor n Shield	Create Lesser Major Magic Armor n Shield	2 days ago
-Lesser Major Magic Weapon	Create Lesser Major Magic Weapon	2 days ago
-Long Rest Events	Create Long Rest Events	2 days ago
-Loot Jewelry	Create Loot Jewelry	2 days ago
-Magic Ioun Stone (Condition)	Create Magic Ioun Stone (Condition)	2 days ago
-Magic Ioun Stone (Resonante Power)	Create Magic Ioun Stone (Resonante Power)	2 days ago
-Magic Ioun Stone (Shape)	Create Magic Ioun Stone (Shape)	2 days ago
-Magic Ioun Stone (color)	Create Magic Ioun Stone (color)	2 days ago
-Magic Ioun Stone Standard	Create Magic Ioun Stone Standard	2 days ago
-Magic WildMagic Fumble	Create Magic WildMagic Fumble	2 days ago
-Major Scrolls	Create Major Scrolls	2 days ago
-Major Woundrous Item Nested Table	Create Major Woundrous Item Nested Table	2 days ago
-Materials Metal	Create Materials Metal	2 days ago
-Medium Scrolls	Create Medium Scrolls	2 days ago
-Medium Wands	Create Medium Wands	2 days ago
-Medium Wondrous Item Nested	Create Medium Wondrous Item Nested	2 days ago
-Minor Item	Create Minor Item	2 days ago
-Minor Magic Items	Create Minor Magic Items	2 days ago
-Minor Scroll nested table	Create Minor Scroll nested table	2 days ago
-Minor Wands	Create Minor Wands	2 days ago
-Minor Wondrous Items Nested	Create Minor Wondrous Items Nested	2 days ago
-Mountain Encounter	Create Mountain Encounter	2 days ago
-Mountain EncounterCA	Create Mountain EncounterCA	2 days ago
-Mountain EncounterOb	Create Mountain EncounterOb	2 days ago
-Mountain EncounterWe	Create Mountain EncounterWe	2 days ago
-Mundane Items	Create Mundane Items	2 days ago
-NPC Description Body	Create NPC Description Body	2 days ago
-NPC Description Chin Jaw	Create NPC Description Chin Jaw	2 days ago
-NPC Description Clothes	Create NPC Description Clothes	2 days ago
-NPC Description Eye	Create NPC Description Eye	2 days ago
-NPC Description Eye Color	Create NPC Description Eye Color	2 days ago
-NPC Description Facial Traits	Create NPC Description Facial Traits	2 days ago
-NPC Description Hair	Create NPC Description Hair	2 days ago
-NPC Description Hair Color	Create NPC Description Hair Color	2 days ago
-NPC Description Height	Create NPC Description Height	2 days ago
-NPC Description Mouth	Create NPC Description Mouth	2 days ago
-NPC Description Nose	Create NPC Description Nose	2 days ago
-NPC Personality	Create NPC Personality	2 days ago
-NPC Profession	Create NPC Profession	2 days ago
-PartyRealtion_Family	Create PartyRealtion_Family	2 days ago
-PartyRealtion_Friends	Create PartyRealtion_Friends	2 days ago
-PartyRelation_Fellowship	Create PartyRelation_Fellowship	2 days ago
+
+Art from DMG	||||
+BackStory_EducationEarly		||||
+BackStory_EducationFormal		||||
+BackStory_EducationTrade		||||
+BackStory_FamilyAncestorsOfNote		||||
+BackStory_FamilyDefenseReadiness		||||
+BackStory_FamilyEconomics	Create 	||||
+BackStory_FamilyPowerStructure		||||
+BackStory_FamilyPrivateEthics		||||
+BackStory_FamilyPublicEthics		||||
+BackStory_FamilySocialStanding		||||
+BackStory_HomeClimateTemperate		||||
+BackStory_HomeClimateTerrain		||||
+BackStory_LifeEventsEarly		||||
+BackStory_LifeEventsPivotal		||||
+BackStory_LifeEventsYouth	Create 	||||
+BackStory_RelationshipInstructors		||||
+BackStory_RelationshipParent		||||
+Coinage		||||
+Colors		||||
+Colors All		||||
+Common Loot		||||
+Condition Fear		||||
+Critical Acid		||||
+Critical Bludgeon		||||
+Critical Cold		||||
+Critical Fire		||||
+Critical Force		||||
+Critical Fumble		||||
+Critical Fumble RANGED		||||
+Critical Fumble Ranged Thrown		||||
+Critical Fumble SPELL		||||
+Critical Fumble WEAPON		||||
+Critical Hit		||||
+Critical Hit Spell		||||
+Critical Hit Weapon		||||
+Critical Hit v2		||||
+Critical Lightning		||||
+Critical Miss		||||
+Critical Miss v2		||||
+Critical Necrotic		||||
+Critical Piercing		||||
+Critical Poison		||||
+Critical Psychic		||||
+Critical Radiant		||||
+Critical Slashing		||||
+Critical Thunder		||||
+Culinary Nuts		||||
+DMG_MagicArmor		||||
+DMG_SewerChaseComplications{user}		||||
+Dairy Product		||||
+Dimensional Clash		||||
+Domesticated Meat	||||
+Dwarf-Surname-Second		||||
+EE Trinkets	||||
+Encounters Grassland		||||
+Encounters PortTown		||||
+Encounters Roadside		||||
+Encounters Town		||||
+Failed Perception		||||
+Foodprep		||||
+Gems		||||
+Giant Bag	||||
+Grains		||||
+Greater Major Magic Armor n Shield		||||
+Greater Major Magic Item		||||
+Greater Medium Magic Armor nested table	||||
+Greater Minor Wrist		||||
+Injury		||||
+Junk		||||
+Kingdom Event		||||
+Kingdom Event DanSettlement		||||
+Kingdom Event Generic		||||
+Kingdom Event Settlement		||||
+Kingdom Event benSettlement		||||
+Less Medium Magic Armor Nested Table	||||
+Lesser Major Magic Armor n Shield		||||
+Lesser Major Magic Weapon		||||
+Long Rest Events		||||
+Loot Jewelry		||||
+Magic Ioun Stone (Condition)		||||
+Magic Ioun Stone (Resonante Power)		||||
+Magic Ioun Stone (Shape)		||||
+Magic Ioun Stone (color)		||||
+Magic Ioun Stone Standard		||||
+Magic WildMagic Fumble		||||
+Major Scrolls		||||
+Major Woundrous Item Nested Table	||||
+Materials Metal		||||
+Medium Scrolls		||||
+Medium Wands		||||
+Medium Wondrous Item Nested		||||
+Minor Item		||||
+Minor Magic Items		||||
+Minor Scroll nested table		||||
+Minor Wands		||||
+Minor Wondrous Items Nested		||||
+Mountain Encounter		||||
+Mountain EncounterCA		||||
+Mountain EncounterOb		||||
+Mountain EncounterWe		||||
+Mundane Items		||||
+NPC Description Body		||||
+NPC Description Chin Jaw	||||
+NPC Description Clothes	||||
+NPC Description Eye	||||
+NPC Description Eye Color		||||
+NPC Description Facial Traits		||||
+NPC Description Hair		||||
+NPC Description Hair Color		||||
+NPC Description Height		||||
+NPC Description Mouth		||||
+NPC Description Nose		||||
+NPC Personality		||||
+NPC Profession		||||
+PartyRealtion_Family		||||
+PartyRealtion_Friends		||||
+PartyRelation_Fellowship		||||
+
 Party Relation Fellowship
 PartyRelation_Service	Create PartyRelation_Service	2 days ago
 PartyRelation_War	Create PartyRelation_War	2 days ago
@@ -234,8 +235,8 @@ Weapon Enchantment	Create Weapon Enchantment	2 days ago
 Weapon Material	Create Weapon Material	2 days ago
 Weapons	Create Weapons	2 days ago
 bveggie	Rename bveggie.txt to bveggie	2 days ago
-lveggie	Create lveggie	2 days ago
-profession	Create profession	2 days ago
-pveggie	Rename pveggie.txt to pveggie	2 days ago
-rveggie	Rename rveggie.txt to rveggie	2 days ago
-sveggie	Rename sveggie.txt to sveggie	2 days ago
+lveggie		||||
+profession		||||
+pveggie		||||
+rveggie		||||
+sveggie		||||
