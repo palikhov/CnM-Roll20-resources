@@ -127,112 +127,109 @@ NPC Profession		||||
 PartyRealtion_Family		||||
 PartyRealtion_Friends		||||
 PartyRelation_Fellowship		||||
-
-Party Relation Fellowship
-PartyRelation_Service	Create PartyRelation_Service	2 days ago
-PartyRelation_War	Create PartyRelation_War	2 days ago
-Pathfinder +1 Armor Special Abilities	Create Pathfinder +1 Armor Special Abilities	2 days ago
-Pathfinder +2 Armor Special Abilities	Create Pathfinder +2 Armor Special Abilities	2 days ago
-Pathfinder +3 Armor Special Abilities	Create Pathfinder +3 Armor Special Abilities	2 days ago
-Pathfinder +4 Armor Special Abilities	Create Pathfinder +4 Armor Special Abilities	2 days ago
-Pathfinder +5 Armor Special Abilities	Create Pathfinder +5 Armor Special Abilities	2 days ago
-Pathfinder +5 Shield Special Abilities	Create Pathfinder +5 Shield Special Abilities	2 days ago
-Pathfinder 0 level spells	Create Pathfinder 0 level spells	2 days ago
-Pathfinder 1st level Spells	Create Pathfinder 1st level Spells	2 days ago
-Pathfinder 2nd Level Spells	Create Pathfinder 2nd Level Spells	2 days ago
-Pathfinder 3rd Level Spells	Create Pathfinder 3rd Level Spells	2 days ago
-Pathfinder 4th Level Spells	Create Pathfinder 4th Level Spells	2 days ago
-Pathfinder 5th Level Spells	Create Pathfinder 5th Level Spells	2 days ago
-Pathfinder 6th Level Spells	Create Pathfinder 6th Level Spells	2 days ago
-Pathfinder 8th Level Spell	Create Pathfinder 8th Level Spell	2 days ago
-Pathfinder 8th Level Spells	Rename Pathfinder 8th Level Spell to Pathfinder 8th Level Spells	2 days ago
-Pathfinder 9th Level Spells	Create Pathfinder 9th Level Spells	2 days ago
-Pathfinder Armortype	Create Pathfinder Armortype	2 days ago
-Pathfinder Greater Major Body	Create Pathfinder Greater Major Body	2 days ago
-Pathfinder Greater Major Rings	Create Pathfinder Greater Major Rings	2 days ago
-Pathfinder Greater Major Rod	Create Pathfinder Greater Major Rod	2 days ago
-Pathfinder Greater Major Slotless	Create Pathfinder Greater Major Slotless	2 days ago
-Pathfinder Greater Major Specific Armor	Create Pathfinder Greater Major Specific Armor	2 days ago
-Pathfinder Greater Major Specific Weapon	Create Pathfinder Greater Major Specific Weapon	2 days ago
-Pathfinder Greater Major Staff	Create Pathfinder Greater Major Staff	2 days ago
-Pathfinder Greater Medium Head	Create Pathfinder Greater Medium Head	2 days ago
-Pathfinder Greater Medium Magic Weapon	Create Pathfinder Greater Medium Magic Weapon	2 days ago
-Pathfinder Greater Medium Neck	Create Pathfinder Greater Medium Neck	2 days ago
-Pathfinder Greater Medium Rod	Create Pathfinder Greater Medium Rod	2 days ago
-Pathfinder Greater Medium Slotless	Create Pathfinder Greater Medium Slotless	2 days ago
-Pathfinder Greater Medium Specific Armor	Create Pathfinder Greater Medium Specific Armor	2 days ago
-Pathfinder Greater Medium Specific Shields	Create Pathfinder Greater Medium Specific Shields	2 days ago
-Pathfinder Greater Medium Specific Weapon	Create Pathfinder Greater Medium Specific Weapon	2 days ago
-Pathfinder Greater Medium Wrist	Create Pathfinder Greater Medium Wrist	2 days ago
-Pathfinder Greater Minor Chest	Create Pathfinder Greater Minor Chest	2 days ago
-Pathfinder Greater Minor Headband	Create Pathfinder Greater Minor Headband	2 days ago
-Pathfinder Greater Minor Magic Armor n Shield	Create Pathfinder Greater Minor Magic Armor n Shield	2 days ago
-Pathfinder Greater Minor Neck	Create Pathfinder Greater Minor Neck	2 days ago
-Pathfinder Greater Minor Slotless	Create Pathfinder Greater Minor Slotless	2 days ago
-Pathfinder Least Minor Slotless	Create Pathfinder Least Minor Slotless	2 days ago
-Pathfinder Less Minor Magic Weapon	Create Pathfinder Less Minor Magic Weapon	2 days ago
-Pathfinder Lesser Major Headband	Create Pathfinder Lesser Major Headband	2 days ago
-Pathfinder Lesser Major Magical Item	Create Pathfinder Lesser Major Magical Item	2 days ago
-Pathfinder Lesser Major Rod	Create Pathfinder Lesser Major Rod	2 days ago
-Pathfinder Lesser Major Specific Armor	Create Pathfinder Lesser Major Specific Armor	2 days ago
-Pathfinder Lesser Major Staff	Create Pathfinder Lesser Major Staff	2 days ago
-Pathfinder Lesser Major Wrist	Create Pathfinder Lesser Major Wrist	2 days ago
-Pathfinder Lesser Medium Belt	Create Pathfinder Lesser Medium Belt	2 days ago
-Pathfinder Lesser Medium Headband	Create Pathfinder Lesser Medium Headband	2 days ago
-Pathfinder Lesser Medium Magic Weapon	Create Pathfinder Lesser Medium Magic Weapon	2 days ago
-Pathfinder Lesser Medium Magical Items	Create Pathfinder Lesser Medium Magical Items	2 days ago
-Pathfinder Lesser Medium Neck	Create Pathfinder Lesser Medium Neck	2 days ago
-Pathfinder Lesser Medium Rings	Create Pathfinder Lesser Medium Rings	2 days ago
-Pathfinder Lesser Medium Shoulder	Create Pathfinder Lesser Medium Shoulder	2 days ago
-Pathfinder Lesser Medium Specific Weapon	Create Pathfinder Lesser Medium Specific Weapon	2 days ago
-Pathfinder Lesser Medium Wrist	Create Pathfinder Lesser Medium Wrist	2 days ago
-Pathfinder Lesser Minor Magic Armor n Shield	Create Pathfinder Lesser Minor Magic Armor n Shield	2 days ago
-Pathfinder Lesser Minor Neck	Create Pathfinder Lesser Minor Neck	2 days ago
-Pathfinder Lesser Minor Shoulder	Create Pathfinder Lesser Minor Shoulder	2 days ago
-Pathfinder Lesser Minor Slotless	Create Pathfinder Lesser Minor Slotless	2 days ago
-Pathfinder Lesser Minor Specific Weapon	Create Pathfinder Lesser Minor Specific Weapon	2 days ago
-Pathfinder Magic Items	Create Pathfinder Magic Items	2 days ago
-Pathfinder Major Potions	Create Pathfinder Major Potions	2 days ago
-Pathfinder Medium Potions	Create Pathfinder Medium Potions	2 days ago
-Pathfinder Melee Special Abilities	Rename Melee Special Abilities to Pathfinder Melee Special Abilities	2 days ago
-Pathfinder Melee Weapon	Rename Melee Weapon to Pathfinder Melee Weapon	2 days ago
-Pathfinder MetaMagic Rod	Create Pathfinder MetaMagic Rod	2 days ago
-Pathfinder Minor Potions	Create Pathfinder Minor Potions	2 days ago
-Pathfinder Ranged Weapons	Rename Ranged Weapons to Pathfinder Ranged Weapons	2 days ago
-Pathfinder Shield +1 Special Abilities	Create Pathfinder Shield +1 Special Abilities	2 days ago
-Pathfinder Shield +2 Special Abilities	Create Pathfinder Shield +2 Special Abilities	2 days ago
-Pathfinder Shield Type	Create Pathfinder Shield Type	2 days ago
-Pathfinder Special Materials	Rename Special Materials to Pathfinder Special Materials	2 days ago
-Pathfinder Tech Armor	Create Pathfinder Tech Armor	2 days ago
-Pathfinder Tech Gear	Create Pathfinder Tech Gear	2 days ago
-Pathfinder Tech Weapon	Rename TeachWeapon to Pathfinder Tech Weapon	2 days ago
-PickPocketRESULTS	Create PickPocketRESULTS	2 days ago
-Product	Create Product	2 days ago
-README.md	Create README.md	2 days ago
-Random Books	Create Random Books	2 days ago
-Random Books F4nt4stic tomes 4nd l1br4ms	Rename Random Books to Random Books F4nt4stic tomes 4nd l1br4ms	2 days ago
-Random Encounter Phandelver	Create Random Encounter Phandelver	2 days ago
-Ranged Weapon	Create Ranged Weapon	2 days ago
-Ranged Weapon Enchantment	Create Ranged Weapon Enchantment	2 days ago
-Rare Loot	Create Rare Loot	2 days ago
-Reddit r_d100 Minor Magic Items	Create Reddit r_d100 Minor Magic Items	2 days ago
-Scam	Create Scam	2 days ago
-Shield	Create Shield	2 days ago
-Shield Enchantment	Create Shield Enchantment	2 days ago
-Shield Material	Create Shield Material	2 days ago
-TECH ITEMS nested table	Create TECH ITEMS nested table	2 days ago
-Tavern Name-First	Rename Tavern Name-First.txt to Tavern Name-First	2 days ago
-Tavern Name-Last	Rename Tavern Name-Last.txt to Tavern Name-Last	2 days ago
-Teleport Description	Create Teleport Description	2 days ago
-Teleport False Destination	Create Teleport False Destination	2 days ago
-Teleport Seen Casually	Create Teleport Seen Casually	2 days ago
-Teleport Very Familiar	Create Teleport Very Familiar	2 days ago
-Teleport Viewed Once	Create Teleport Viewed Once	2 days ago
-Townfolk Reaction	Create Townfolk Reaction	2 days ago
-Weapon Enchantment	Create Weapon Enchantment	2 days ago
-Weapon Material	Create Weapon Material	2 days ago
-Weapons	Create Weapons	2 days ago
-bveggie	Rename bveggie.txt to bveggie	2 days ago
+PartyRelation_Service	||||
+PartyRelation_War	||||
+Pathfinder +1 Armor Special Abilities||||
+Pathfinder +2 Armor Special Abilities	||||
+Pathfinder +3 Armor Special Abilities	||||
+Pathfinder +4 Armor Special Abilities	||||
+Pathfinder +5 Armor Special Abilities	||||
+Pathfinder +5 Shield Special Abilities	||||
+Pathfinder 0 level spells	||||
+Pathfinder 1st level Spells	||||
+Pathfinder 2nd Level Spells	||||
+Pathfinder 3rd Level Spells	||||
+Pathfinder 4th Level Spells	||||
+Pathfinder 5th Level Spells	||||
+Pathfinder 6th Level Spells	||||
+Pathfinder 8th Level Spell	||||
+Pathfinder 8th Level Spells	||||
+Pathfinder 9th Level Spells	||||
+Pathfinder Armortype	||||
+Pathfinder Greater Major Body||||
+Pathfinder Greater Major Rings	||||
+Pathfinder Greater Major Rod	||||
+Pathfinder Greater Major Slotless||||
+Pathfinder Greater Major Specific Armor||||
+Pathfinder Greater Major Specific Weapon	||||
+Pathfinder Greater Major Staff	||||
+Pathfinder Greater Medium Head	||||
+Pathfinder Greater Medium Magic Weapon||||
+Pathfinder Greater Medium Neck	||||
+Pathfinder Greater Medium Rod	||||
+Pathfinder Greater Medium Slotless||||
+Pathfinder Greater Medium Specific Armor||||
+Pathfinder Greater Medium Specific Shields	||||
+Pathfinder Greater Medium Specific Weapon	||||
+Pathfinder Greater Medium Wrist	||||
+Pathfinder Greater Minor Chest	||||
+Pathfinder Greater Minor Headband	||||
+Pathfinder Greater Minor Magic Armor n Shield||||
+Pathfinder Greater Minor Neck||||
+Pathfinder Greater Minor Slotless||||
+Pathfinder Least Minor Slotless	||||
+Pathfinder Less Minor Magic Weapon	||||
+Pathfinder Lesser Major Headband	||||
+Pathfinder Lesser Major Magical Item	||||
+Pathfinder Lesser Major Rod	||||
+Pathfinder Lesser Major Specific Armor||||
+Pathfinder Lesser Major Staff	||||
+Pathfinder Lesser Major Wrist	||||
+Pathfinder Lesser Medium Belt	||||
+Pathfinder Lesser Medium Headband	||||
+Pathfinder Lesser Medium Magic Weapon	||||
+Pathfinder Lesser Medium Magical Items	||||
+Pathfinder Lesser Medium Neck	||||
+Pathfinder Lesser Medium Rings	||||
+Pathfinder Lesser Medium Shoulder	||||
+Pathfinder Lesser Medium Specific Weapon||||
+Pathfinder Lesser Medium Wrist	||||
+Pathfinder Lesser Minor Magic Armor n Shield||||
+Pathfinder Lesser Minor Neck	||||
+Pathfinder Lesser Minor Shoulder	||||
+Pathfinder Lesser Minor Slotless	||||
+Pathfinder Lesser Minor Specific Weapon||||
+Pathfinder Magic Items	||||
+Pathfinder Major Potions	||||
+Pathfinder Medium Potions	||||
+Pathfinder Melee Special Abilities||||
+Pathfinder Melee Weapon	||||
+Pathfinder MetaMagic Rod	||||
+Pathfinder Minor Potions	||||
+Pathfinder Ranged Weapons	||||
+Pathfinder Shield +1 Special Abilities	||||
+Pathfinder Shield +2 Special Abilities||||
+Pathfinder Shield Type	||||
+Pathfinder Special Materials||||
+Pathfinder Tech Armor	||||
+Pathfinder Tech Gear	||||
+Pathfinder Tech Weapon	||||
+PickPocketRESULTS	||||
+Product||||
+Random Books	||||
+Random Books F4nt4stic tomes 4nd l1br4ms	||||
+Random Encounter Phandelver||||
+Ranged Weapon	||||
+Ranged Weapon Enchantment	||||
+Rare Loot	||||
+Reddit r_d100 Minor Magic Items||||
+Scam	||||
+Shield	||||
+Shield Enchantment	||||
+Shield Material	||||
+TECH ITEMS nested table||||
+Tavern Name-First	||||
+Tavern Name-Last	||||
+Teleport Description	||||
+Teleport False Destination	||||
+Teleport Seen Casually	||||
+Teleport Very Familiar	||||
+Teleport Viewed Once	||||
+Townfolk Reaction	||||
+Weapon Enchantment	||||
+Weapon Material	||||
+Weapons	||||
+bveggie	||||
 lveggie		||||
 profession		||||
 pveggie		||||
