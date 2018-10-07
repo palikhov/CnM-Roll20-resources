@@ -4,7 +4,7 @@
 	"description": "Resources for Roll20.",
 	"scripts": {
 		"test": "npm test",
-		"run:art": "node _node/ArtGrab.js"
+		"art": "node _node/ArtGrab.js"
 	},
 	"repository": {
 		"type": "git",
