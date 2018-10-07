@@ -1,0 +1,30 @@
+{
+	"data": [
+		{
+			"artist": "CD Projekt",
+			"set": "Witcher : Town Fort Day",
+			"uri": "http://i.imgur.com/jVCGupa.jpg",
+			"features": [
+				"Settlement"
+			],
+			"imageType": [
+				"Map"
+			],
+			"setting": [
+				"Fantasy"
+			],
+			"style": [
+				"Photorealistic"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"None"
+			],
+			"terrain": [
+				"Settlement"
+			]
+		}
+	]
+}

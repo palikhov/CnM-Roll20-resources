@@ -1,0 +1,26 @@
+{
+	"data": [
+		{
+			"artist": "Dyson Logos",
+			"set": "Dyson's Dodecahedron : Friday Map – Dwarven Barracks at Kuln",
+			"uri": "https://rpgcharacters.files.wordpress.com/2009/07/dwarven-barracks-map.jpg",
+			"features": [
+				"Dungeon"
+			],
+			"imageType": [
+				"Map"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"terrain": [
+				"Underdark"
+			],
+			"support": "https://www.patreon.com/dysonlogos"
+		}
+	]
+}

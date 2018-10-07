@@ -1,0 +1,23 @@
+{
+	"data": [
+		{
+			"artist": "Dyson Logos",
+			"set": "Dyson's Dodecahedron : Dyson Circle of Doom",
+			"uri": "http://rpgcharacters.files.wordpress.com/2018/06/the-new-circle-of-doom-patreon.png",
+			"imageType": [
+				"Map"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"Square"
+			],
+			"support": "https://www.patreon.com/dysonlogos"
+		}
+	]
+}

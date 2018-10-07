@@ -1,0 +1,29 @@
+{
+	"data": [
+		{
+			"artist": "WoTC",
+			"set": "Spelljammer : Triop",
+			"uri": "http://www.spelljammer.org/ships/deckplans/Triop.gif",
+			"features": [
+				"Ship"
+			],
+			"imageType": [
+				"Map"
+			],
+			"setting": [
+				"Fantasy",
+				"Sci-Fi"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"Square"
+			]
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"data": [
+		{
+			"artist": "Dyson Logos",
+			"set": "Dyson's Dodecahedron : The Quiet Margose Tavern",
+			"uri": "http://rpgcharacters.files.wordpress.com/2018/06/quiet-margose-tavern-patreon.png",
+			"features": [
+				"Building",
+				"Tavern"
+			],
+			"imageType": [
+				"Map"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"Square"
+			],
+			"support": "https://www.patreon.com/dysonlogos"
+		}
+	]
+}

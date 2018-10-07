@@ -1,0 +1,29 @@
+{
+	"data": [
+		{
+			"artist": "WoTC",
+			"set": "Player's Handbook",
+			"uri": "https://5e.tools/img/PHB/Animated Object (Large).png"
+		},
+		{
+			"artist": "WoTC",
+			"set": "Player's Handbook",
+			"uri": "https://5e.tools/img/PHB/Animated Object (Medium).png"
+		},
+		{
+			"artist": "WoTC",
+			"set": "Player's Handbook",
+			"uri": "https://5e.tools/img/PHB/Animated Object (Small).png"
+		},
+		{
+			"artist": "WoTC",
+			"set": "Player's Handbook",
+			"uri": "https://5e.tools/img/PHB/Animated Object (Tiny).png"
+		},
+		{
+			"artist": "WoTC",
+			"set": "Player's Handbook",
+			"uri": "https://5e.tools/img/PHB/Animated Object (Huge).png"
+		}
+	]
+}

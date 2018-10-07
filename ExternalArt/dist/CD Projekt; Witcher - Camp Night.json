@@ -1,0 +1,30 @@
+{
+	"data": [
+		{
+			"artist": "CD Projekt",
+			"set": "Witcher : Camp Night",
+			"uri": "http://i.imgur.com/z3ccT99.jpg",
+			"features": [
+				"Night"
+			],
+			"imageType": [
+				"Map"
+			],
+			"setting": [
+				"Fantasy"
+			],
+			"style": [
+				"Photorealistic"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"None"
+			],
+			"terrain": [
+				"Settlement"
+			]
+		}
+	]
+}

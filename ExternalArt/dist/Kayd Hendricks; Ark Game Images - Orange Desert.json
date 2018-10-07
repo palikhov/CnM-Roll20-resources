@@ -1,0 +1,20 @@
+{
+	"data": [
+		{
+			"artist": "Kayd Hendricks",
+			"set": "Ark Game Images - Orange Desert",
+			"uri": "http://i.imgur.com/YgG88FB.jpg",
+			"imageType": [
+				"Map"
+			],
+			"view": [
+				"Overhead"
+			],
+			"terrain": [
+				"Desert",
+				"Mountain"
+			],
+			"support": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/"
+		}
+	]
+}

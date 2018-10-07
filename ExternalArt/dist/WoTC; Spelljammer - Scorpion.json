@@ -1,0 +1,29 @@
+{
+	"data": [
+		{
+			"artist": "WoTC",
+			"set": "Spelljammer : Scorpion",
+			"uri": "http://www.spelljammer.org/ships/deckplans/Scorpion.gif",
+			"features": [
+				"Ship"
+			],
+			"imageType": [
+				"Map"
+			],
+			"setting": [
+				"Fantasy",
+				"Sci-Fi"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"Square"
+			]
+		}
+	]
+}

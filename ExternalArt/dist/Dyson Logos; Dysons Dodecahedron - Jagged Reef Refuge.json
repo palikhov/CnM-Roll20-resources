@@ -1,0 +1,27 @@
+{
+	"data": [
+		{
+			"artist": "Dyson Logos",
+			"set": "Dyson's Dodecahedron : Jagged Reef Refuge",
+			"uri": "http://rpgcharacters.files.wordpress.com/2017/05/pirates-cave-patreon.jpg",
+			"features": [
+				"Dungeon"
+			],
+			"imageType": [
+				"Map"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"terrain": [
+				"Coastal",
+				"Underdark"
+			],
+			"support": "https://www.patreon.com/dysonlogos"
+		}
+	]
+}

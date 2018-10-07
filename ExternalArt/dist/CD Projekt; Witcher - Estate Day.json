@@ -1,0 +1,30 @@
+{
+	"data": [
+		{
+			"artist": "CD Projekt",
+			"set": "Witcher : Estate Day",
+			"uri": "http://i.imgur.com/flDDcVm.jpg",
+			"features": [
+				"Building"
+			],
+			"imageType": [
+				"Map"
+			],
+			"setting": [
+				"Fantasy"
+			],
+			"style": [
+				"Photorealistic"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"None"
+			],
+			"terrain": [
+				"Coastal"
+			]
+		}
+	]
+}

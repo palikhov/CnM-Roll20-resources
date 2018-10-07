@@ -1,0 +1,74 @@
+{
+	"data": [
+		{
+			"artist": "WoTC",
+			"set": "Curse of Stradh",
+			"uri": "https://5e.tools/img/bestiary/CoS/Strahd's Animated Armor.jpg",
+			"imageType": [
+				"Portrait"
+			],
+			"view": [
+				"Profile"
+			],
+			"grid": [
+				"None"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Curse of Stradh",
+			"uri": "https://5e.tools/img/bestiary/CoS/Phantom Warrior.jpg",
+			"imageType": [
+				"Portrait"
+			],
+			"view": [
+				"Profile"
+			],
+			"grid": [
+				"None"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Curse of Stradh",
+			"uri": "https://5e.tools/img/bestiary/CoS/Guardian Portrait.jpg",
+			"imageType": [
+				"Portrait"
+			],
+			"view": [
+				"Profile"
+			],
+			"grid": [
+				"None"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Curse of Stradh",
+			"uri": "https://5e.tools/img/bestiary/CoS/Amber Golem.jpg",
+			"imageType": [
+				"Portrait"
+			],
+			"view": [
+				"Profile"
+			],
+			"grid": [
+				"None"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Curse of Stradh",
+			"uri": "https://5e.tools/img/bestiary/CoS/Barovian Witch.jpg",
+			"imageType": [
+				"Portrait"
+			],
+			"view": [
+				"Profile"
+			],
+			"grid": [
+				"None"
+			]
+		}
+	]
+}

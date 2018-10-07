@@ -1,0 +1,23 @@
+{
+	"data": [
+		{
+			"artist": "Dyson Logos",
+			"set": "Dyson's Dodecahedron : Tavern",
+			"uri": "http://rpgcharacters.files.wordpress.com/2018/04/tertiary-tunnels-patreon.png",
+			"imageType": [
+				"Map"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"terrain": [
+				"Building"
+			],
+			"support": "https://www.patreon.com/dysonlogos"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"data": [
+		{
+			"artist": "CD Projekt",
+			"set": "Witcher : Camp Day",
+			"uri": "http://i.imgur.com/cjpNdfZ.jpg",
+			"imageType": [
+				"Map"
+			],
+			"setting": [
+				"Fantasy"
+			],
+			"style": [
+				"Photorealistic"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"None"
+			],
+			"terrain": [
+				"Mountain"
+			]
+		},
+		{
+			"artist": "CD Projekt",
+			"set": "Witcher : Camp Day",
+			"uri": "http://i.imgur.com/nj5fplc.jpg",
+			"features": [
+				"Settlement"
+			],
+			"imageType": [
+				"Map"
+			],
+			"setting": [
+				"Fantasy"
+			],
+			"style": [
+				"Photorealistic"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"None"
+			],
+			"terrain": [
+				"Forest",
+				"Coastal"
+			]
+		}
+	]
+}

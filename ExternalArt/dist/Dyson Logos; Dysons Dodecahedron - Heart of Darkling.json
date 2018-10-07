@@ -1,0 +1,23 @@
+{
+	"data": [
+		{
+			"artist": "Dyson Logos",
+			"set": "Dyson's Dodecahedron : Heart of Darkling",
+			"uri": "http://rpgcharacters.files.wordpress.com/2018/02/heart-of-darkling-the-lakeshore-patreon.png",
+			"imageType": [
+				"Map"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"terrain": [
+				"Coastal"
+			],
+			"support": "https://www.patreon.com/dysonlogos"
+		}
+	]
+}

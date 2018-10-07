@@ -1,0 +1,628 @@
+{
+	"data": [
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Myrkul.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Mystra.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Mystra.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Oghma.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Oghma.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Savras.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Savras.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Selune.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Selune.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Silvanus.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Silvanus.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Sune.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Sune.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Talona.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Talona.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Talos.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Talos.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Tempus.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Tempus.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of The Red Knight.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of The Red Knight.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Torm.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Torm.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Tyr.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Tyr.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Umberlee.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Umberlee.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Waukeen.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Waukeen.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Amaunator.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Asmodeus.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Asmodeus.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Auril.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Auril.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Azuth.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Azuth.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Bane.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Bane.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Beshaba.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Beshaba.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Bhaal.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Bhaal.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Chauntea.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Chauntea.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Cyric.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Cyric.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Deneir.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Deneir.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Eldath.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Eldath.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Gond.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Gond.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Helm.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Helm.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Hoar.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Hoar.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Ilmater.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Ilmater.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Jergal.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Jergal.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Kelemvor.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Kelemvor.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Lathander.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Lathander.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Leira.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Leira.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Lliira.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Lliira.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Loviatar.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Loviatar.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Malar.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Malar.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Mask.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Mask.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Mielikki.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Mielikki.png",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Myrkul.jpg",
+			"imageType": [
+				"Token"
+			]
+		},
+		{
+			"artist": "WoTC",
+			"set": "Deity Symbols",
+			"uri": "https://5e.tools/img/deities/Symbol of Amaunator.png",
+			"imageType": [
+				"Token"
+			]
+		}
+	]
+}

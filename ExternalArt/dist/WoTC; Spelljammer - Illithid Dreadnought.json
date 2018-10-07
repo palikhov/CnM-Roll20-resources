@@ -1,0 +1,29 @@
+{
+	"data": [
+		{
+			"artist": "WoTC",
+			"set": "Spelljammer : Illithid Dreadnought",
+			"uri": "http://www.spelljammer.org/ships/deckplans/IllithidDreadnought.gif",
+			"features": [
+				"Ship"
+			],
+			"imageType": [
+				"Map"
+			],
+			"setting": [
+				"Fantasy",
+				"Sci-Fi"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"Square"
+			]
+		}
+	]
+}

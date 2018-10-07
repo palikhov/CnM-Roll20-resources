@@ -1,0 +1,30 @@
+{
+	"data": [
+		{
+			"artist": "CD Projekt",
+			"set": "Witcher : Forest Camp Day",
+			"uri": "http://i.imgur.com/GjJUeMi.jpg",
+			"features": [
+				"Settlement"
+			],
+			"imageType": [
+				"Map"
+			],
+			"setting": [
+				"Fantasy"
+			],
+			"style": [
+				"Photorealistic"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"None"
+			],
+			"terrain": [
+				"Forest"
+			]
+		}
+	]
+}

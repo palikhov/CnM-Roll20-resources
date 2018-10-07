@@ -1,0 +1,26 @@
+{
+	"data": [
+		{
+			"artist": "Dyson Logos",
+			"set": "Dyson's Dodecahedron : Dyson Mapper’s Challenge",
+			"uri": "https://rpgcharacters.files.wordpress.com/2009/07/mappers-challenge-smaller.jpg",
+			"features": [
+				"Dungeon"
+			],
+			"imageType": [
+				"Map"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"terrain": [
+				"Underdark"
+			],
+			"support": "https://www.patreon.com/dysonlogos"
+		}
+	]
+}

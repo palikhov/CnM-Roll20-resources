@@ -1,0 +1,29 @@
+{
+	"data": [
+		{
+			"artist": "WoTC",
+			"set": "Spelljammer : Cuttle Command",
+			"uri": "http://www.spelljammer.org/ships/deckplans/CuttleCommand.gif",
+			"features": [
+				"Ship"
+			],
+			"imageType": [
+				"Map"
+			],
+			"setting": [
+				"Fantasy",
+				"Sci-Fi"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"Square"
+			]
+		}
+	]
+}

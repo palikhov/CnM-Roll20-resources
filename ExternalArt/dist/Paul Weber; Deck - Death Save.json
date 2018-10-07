@@ -1,0 +1,20 @@
+{
+	"data": [
+		{
+			"artist": "Paul Weber",
+			"set": "Deck : Death Save",
+			"uri": "https://i.imgur.com/f71qmRu.png",
+			"features": [
+				"Good"
+			]
+		},
+		{
+			"artist": "Paul Weber",
+			"set": "Deck : Death Save",
+			"uri": "https://i.imgur.com/qFMgsgt.png",
+			"features": [
+				"Bad"
+			]
+		}
+	]
+}

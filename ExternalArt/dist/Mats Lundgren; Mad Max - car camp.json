@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"artist": "Mats Lundgren",
+			"set": "Mad Max : car camp",
+			"uri": "http://i.imgur.com/DhpeDoB.jpg",
+			"imageType": [
+				"Map"
+			],
+			"setting": [
+				"Modern",
+				"Dystopia, Sci-Fi"
+			],
+			"style": [
+				"Photorealistic"
+			],
+			"view": [
+				"Overhead"
+			],
+			"grid": [
+				"None"
+			],
+			"terrain": [
+				"Desert"
+			]
+		}
+	]
+}

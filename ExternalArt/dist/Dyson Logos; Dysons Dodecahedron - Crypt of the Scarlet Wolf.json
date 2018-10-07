@@ -1,0 +1,26 @@
+{
+	"data": [
+		{
+			"artist": "Dyson Logos",
+			"set": "Dyson's Dodecahedron : Crypt of the Scarlet Wolf",
+			"uri": "http://rpgcharacters.files.wordpress.com/2017/05/crypt-of-the-scarlet-wolf-grid-patreon.jpg",
+			"features": [
+				"Building"
+			],
+			"imageType": [
+				"Map"
+			],
+			"style": [
+				"Simple",
+				"B/W"
+			],
+			"view": [
+				"Overhead"
+			],
+			"terrain": [
+				"Settlement"
+			],
+			"support": "https://www.patreon.com/dysonlogos"
+		}
+	]
+}

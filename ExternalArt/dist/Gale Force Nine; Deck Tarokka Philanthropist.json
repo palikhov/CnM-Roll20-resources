@@ -1,0 +1,25 @@
+{
+	"data": [
+		{
+			"artist": "Gale Force Nine",
+			"set": "Deck Tarokka Philanthropist",
+			"uri": "https://i.imgur.com/iIid1Y4.png",
+			"features": [
+				"Ravenloft"
+			],
+			"imageType": [
+				"Deck"
+			],
+			"setting": [
+				"Apocalypse"
+			],
+			"quality": [
+				"B/W"
+			],
+			"view": [
+				"Profile"
+			],
+			"support": "http://dnd.wizards.com/products/tabletop-games/rpg-products/tarokka-deck"
+		}
+	]
+}
