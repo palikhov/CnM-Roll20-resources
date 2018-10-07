@@ -240,13 +240,13 @@ class ArtGrab {
 	_saveFile (artist, set, contents) {
 		const fileName = `./ExternalArt/dist/${ArtGrab._getCleanFilename(artist, set)}`;
 		if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping data write: "${fileName}" (${contents.data.length} entries)...`);
-		else fs.writeFileSync(fileName, JSON.stringify(contents, null, "\t"), "utf-8");
+		else fs.writeFileSync(fileName, JSON.stringify(contents), "utf-8");
 	}
 
 	_saveMetaFile (metaName, data) {
 		const fileName = `./ExternalArt/dist/_meta_${metaName}.json`;
 		if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping meta write: "${fileName}"...`);
-		else fs.writeFileSync(fileName, JSON.stringify(data, null, "\t"), "utf-8");
+		else fs.writeFileSync(fileName, JSON.stringify(data), "utf-8");
 	}
 
 	static _sortRows (a, b) {

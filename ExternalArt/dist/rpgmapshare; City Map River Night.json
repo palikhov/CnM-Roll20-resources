@@ -1,15 +1,1 @@
-{
-	"data": [
-		{
-			"artist": "rpgmapshare",
-			"set": "City Map River Night",
-			"uri": "http://i.imgur.com/nygW4Ld.jpg",
-			"imageType": [
-				"Map"
-			],
-			"view": [
-				"Overhead"
-			]
-		}
-	]
-}
+{"data":[{"artist":"rpgmapshare","set":"City Map River Night","uri":"http://i.imgur.com/nygW4Ld.jpg","imageType":["Map"],"view":["Overhead"]}]}
