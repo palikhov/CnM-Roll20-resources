@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require("fs");
 const login = require("./GoogleAuth");
 const kg = require("./Kludge");
 
@@ -149,6 +149,9 @@ class ArtGrab {
 				})
 			}))
 			.then(res => {
+				console.log(`${ArtGrab._logPad("PROCESS")}Shredding output directory...`);
+				kg.rmDir("ExternalArt/dist", true);
+
 				const rows = res.data.values;
 				rows.map(r => this._parseRow(r)).filter(it => it).sort(ArtGrab._sortRows).forEach(r => {
 					if (this.lastArtist == null && this.lastSet == null) {
@@ -169,7 +172,7 @@ class ArtGrab {
 				Object.values(this.index).forEach(fileIndex => Object.keys(fileIndex).filter(k => !k.startsWith("_")).forEach(k => fileIndex[k].sort(kg.ascSortLower)));
 				this._saveMetaFile(`index`, this.index);
 
-				console.log(`${ArtGrab._logPad("PROCESS")}Run complete. Output ${this.fileIndex} data files.`)
+				console.log(`${ArtGrab._logPad("PROCESS")}Run complete. Output ${this.fileIndex} data files.`);
 			});
 	}
 
