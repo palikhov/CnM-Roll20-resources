@@ -15,7 +15,7 @@ class ArtGrab {
 
 		this.fileIndex = 0;
 		this.enums = {}; // fill this with values for each field
-		this.index = {}; // fill this with metadata for each file
+		this.index = []; // fill this with metadata for each file
 		this.schema = {
 			Artist: {
 				prop: "artist",
