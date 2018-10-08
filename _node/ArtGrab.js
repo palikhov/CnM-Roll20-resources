@@ -14,6 +14,7 @@ class ArtGrab {
 		this.dryRun = opt.dryRun;
 
 		this.enums = {}; // fill this with values for each field
+		this.index = {}; // fill this with metadata for each file
 		this.schema = {
 			Artist: {
 				prop: "artist",
@@ -30,8 +31,7 @@ class ArtGrab {
 			},
 			"Feature(s)": {
 				prop: "features",
-				map: ArtGrab.semicolonMapper,
-				enum: true
+				map: ArtGrab.semicolonMapper
 			},
 			"Size/Resolution": {
 				ignore: true,
@@ -159,7 +159,14 @@ class ArtGrab {
 					}
 				});
 				this._doAccumulateAndOutput({artist: "", set: ""}); // pass an empty row to trigger output
+
+				// output enum metadata
+				Object.values(this.enums).forEach(enumList => enumList.sort((a, b) => kg.ascSortLower(a.v, b.v)));
 				this._saveMetaFile("enums", this.enums);
+
+				// output index metadata
+				Object.values(this.index).forEach(fileIndex => Object.values(fileIndex).forEach(enumList => enumList.sort(kg.ascSortLower)));
+				this._saveMetaFile(`index`, this.index);
 			});
 	}
 
@@ -167,7 +174,8 @@ class ArtGrab {
 		if (row.artist.toLowerCase() === this.lastArtist.toLowerCase() && row.set.toLowerCase() === this.lastSet.toLowerCase()) {
 			this.accumulatedRows.push(row);
 		} else {
-			this._saveFile(this.lastArtist, this.lastSet, {data: this.accumulatedRows});
+			const fileName = this._saveFile(this.lastArtist, this.lastSet, {data: this.accumulatedRows});
+			this._indexFile(fileName, this.accumulatedRows);
 			if (this.accumulatedRows.length === 1) console.warn(`${ArtGrab._logPad("ACCUMULATOR")}Artist: "${this.lastArtist}"; set: "${this.lastSet}" had only one item!`);
 			this.lastArtist = row.artist;
 			this.lastSet = row.set;
@@ -207,8 +215,8 @@ class ArtGrab {
 				if (schema.map) cell = schema.map(cell);
 
 				if (schema.enum) {
-					if (cell instanceof Array) cell.forEach(c => addToEnum(c));
-					else addToEnum(cell)
+					if (cell instanceof Array) cell.forEach(c => addToEnum(schema.prop, c));
+					else addToEnum(schema.prop, cell)
 				}
 
 				hasAny = true;
@@ -240,10 +248,34 @@ class ArtGrab {
 		return `${[artist || "", set || ""].map(it => it.trim()).map(it => doClean(it)).join("; ")}.json`;
 	}
 
+	_indexFile (fileName, content) {
+		const target = (this.index[fileName] = {});
+		const enumProps = Object.values(this.schema).filter(v => v.enum).map(v => v.prop);
+		content.forEach(row => {
+			enumProps.forEach(prop => {
+				const target2 = (target[prop] = target[prop] || []);
+				const cell = row[prop];
+				if (cell instanceof Array) {
+					cell.forEach(cellPart => {
+						if (!target2.includes(cellPart)) target2.push(cellPart);
+					})
+				} else if (cell) {
+					if (!target2.includes(cell)) target2.push(cell);
+				}
+			})
+		});
+		Object.keys(target).forEach(k => {
+			if (!target[k].length) delete target[k];
+		});
+		if (!Object.keys(target).length) delete this.index[fileName];
+	}
+
 	_saveFile (artist, set, contents) {
-		const fileName = `./ExternalArt/dist/${ArtGrab._getCleanFilename(artist, set)}`;
-		if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping data write: "${fileName}" (${contents.data.length} entries)...`);
-		else fs.writeFileSync(fileName, JSON.stringify(contents), "utf-8");
+	 	const fileName = ArtGrab._getCleanFilename(artist, set);
+		const filePath = `./ExternalArt/dist/${fileName}`;
+		if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping data write: "${filePath}" (${contents.data.length} entries)...`);
+		else fs.writeFileSync(filePath, JSON.stringify(contents), "utf-8");
+		return fileName;
 	}
 
 	_saveMetaFile (metaName, data) {
