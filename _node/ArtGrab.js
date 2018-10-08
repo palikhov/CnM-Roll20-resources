@@ -13,6 +13,7 @@ class ArtGrab {
 	constructor (opt= {}) {
 		this.dryRun = opt.dryRun;
 
+		this.fileIndex = 0;
 		this.enums = {}; // fill this with values for each field
 		this.index = {}; // fill this with metadata for each file
 		this.schema = {
@@ -165,8 +166,10 @@ class ArtGrab {
 				this._saveMetaFile("enums", this.enums);
 
 				// output index metadata
-				Object.values(this.index).forEach(fileIndex => Object.values(fileIndex).forEach(enumList => enumList.sort(kg.ascSortLower)));
+				Object.values(this.index).forEach(fileIndex => Object.keys(fileIndex).filter(k => !k.startsWith("_")).forEach(k => fileIndex[k].sort(kg.ascSortLower)));
 				this._saveMetaFile(`index`, this.index);
+
+				console.log(`${ArtGrab._logPad("PROCESS")}Run complete. Output ${this.fileIndex} data files.`)
 			});
 	}
 
@@ -175,7 +178,7 @@ class ArtGrab {
 			this.accumulatedRows.push(row);
 		} else {
 			const fileName = this._saveFile(this.lastArtist, this.lastSet, {data: this.accumulatedRows});
-			this._indexFile(fileName, this.accumulatedRows);
+			this._indexFile(this.lastArtist, this.lastSet, fileName, this.accumulatedRows);
 			if (this.accumulatedRows.length === 1) console.warn(`${ArtGrab._logPad("ACCUMULATOR")}Artist: "${this.lastArtist}"; set: "${this.lastSet}" had only one item!`);
 			this.lastArtist = row.artist;
 			this.lastSet = row.set;
@@ -235,20 +238,12 @@ class ArtGrab {
 		})
 	}
 
-	static _getCleanFilename (artist, set) {
-		function doClean (str) {
-			return str
-				.replace(/[,.'"!?()]+/g, "") // remove common "unnecessary" punctuation
-				.replace(/\s+/g, " ") // collapse spaces
-				.replace(/[:;]+/g, "-") // colons in filenames are bad on Windows; we use semicolons as separators
-				.replace(/\s*(&+\s*)+\s*/g, " and ") // maintain readability
-				.replace(/\s*([/\\]+\s*)+\s*/g, " or ") // maintain readability
-				.replace(/[^0-9A-Za-z \-_]/g, "_") // replace anything else with underscores
-		}
-		return `${[artist || "", set || ""].map(it => it.trim()).map(it => doClean(it)).join("; ")}.json`;
+	_getNextFilename () {
+		return `${this.fileIndex++}.json`;
 	}
 
-	_indexFile (fileName, content) {
+	_indexFile (artist, set, fileName, content) {
+		fileName = fileName.replace(/\.json$/, "");
 		const target = (this.index[fileName] = {});
 		const enumProps = Object.values(this.schema).filter(v => v.enum).map(v => v.prop);
 		content.forEach(row => {
@@ -267,11 +262,12 @@ class ArtGrab {
 		Object.keys(target).forEach(k => {
 			if (!target[k].length) delete target[k];
 		});
-		if (!Object.keys(target).length) delete this.index[fileName];
+		target._artist = artist;
+		target._set = set;
 	}
 
 	_saveFile (artist, set, contents) {
-	 	const fileName = ArtGrab._getCleanFilename(artist, set);
+	 	const fileName = this._getNextFilename();
 		const filePath = `./ExternalArt/dist/${fileName}`;
 		if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping data write: "${filePath}" (${contents.data.length} entries)...`);
 		else fs.writeFileSync(filePath, JSON.stringify(contents), "utf-8");
