@@ -176,6 +176,19 @@ class ArtGrab {
 	}
 
 	_parseRow (row) {
+		const addToEnum = (prop, val) => {
+			this.enums[prop] = this.enums[prop] || [];
+			const existing = this.enums[prop].find(it => it.v === val);
+			if (existing) {
+				existing.c++;
+			} else {
+				this.enums[prop].push({
+					v: val,
+					c: 1
+				})
+			}
+		};
+
 		let hasAny = false;
 		const out = {};
 
@@ -194,18 +207,8 @@ class ArtGrab {
 				if (schema.map) cell = schema.map(cell);
 
 				if (schema.enum) {
-					this.enums[schema.prop] = this.enums[schema.prop] || [];
-					if (cell instanceof Array) {
-						cell.forEach(c => {
-							if (!this.enums[schema.prop].includes(c)) {
-								this.enums[schema.prop].push(c);
-							}
-						});
-					} else {
-						if (!this.enums[schema.prop].includes(cell)) {
-							this.enums[schema.prop].push(cell);
-						}
-					}
+					if (cell instanceof Array) cell.forEach(c => addToEnum(c));
+					else addToEnum(cell)
 				}
 
 				hasAny = true;
