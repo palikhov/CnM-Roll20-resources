@@ -32,7 +32,8 @@ class ArtGrab {
 			},
 			"Feature(s)": {
 				prop: "features",
-				map: ArtGrab.semicolonMapper
+				map: ArtGrab.semicolonMapper,
+				index: true
 			},
 			"Size/Resolution": {
 				ignore: true,
@@ -248,9 +249,9 @@ class ArtGrab {
 	_indexFile (artist, set, fileName, contents) {
 		fileName = fileName.replace(/\.json$/, "");
 		const target = (this.index[fileName] = {});
-		const enumProps = Object.values(this.schema).filter(v => v.enum).map(v => v.prop);
+		const indexProps = Object.values(this.schema).filter(v => v.enum || v.index).map(v => v.prop);
 		contents.forEach(row => {
-			enumProps.forEach(prop => {
+			indexProps.forEach(prop => {
 				const target2 = (target[prop] = target[prop] || []);
 				const cell = row[prop];
 				if (cell instanceof Array) {
