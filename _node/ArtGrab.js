@@ -249,17 +249,17 @@ class ArtGrab {
 	_indexFile (artist, set, fileName, contents) {
 		fileName = fileName.replace(/\.json$/, "");
 		const target = (this.index[fileName] = {});
-		const indexProps = Object.values(this.schema).filter(v => v.enum || v.index).map(v => v.prop);
+		const indexProps = Object.values(this.schema).filter(v => v.enum || v.index);
 		contents.forEach(row => {
-			indexProps.forEach(prop => {
-				const target2 = (target[prop] = target[prop] || []);
-				const cell = row[prop];
+			indexProps.forEach(v => {
+				const target2 = (target[v.prop] = target[v.prop] || []);
+				const cell = row[v.prop];
 				if (cell instanceof Array) {
-					cell.forEach(cellPart => {
+					cell.map(it => v.index ? it.toLowerCase() : it).forEach(cellPart => {
 						if (!target2.includes(cellPart)) target2.push(cellPart);
 					})
 				} else if (cell) {
-					if (!target2.includes(cell)) target2.push(cell);
+					if (!target2.includes(cell)) target2.push(cell => v.index ? cell.toLowerCase() : cell);
 				}
 			})
 		});
