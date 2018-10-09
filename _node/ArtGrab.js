@@ -245,11 +245,11 @@ class ArtGrab {
 		return `${this.fileIndex++}.json`;
 	}
 
-	_indexFile (artist, set, fileName, content) {
+	_indexFile (artist, set, fileName, contents) {
 		fileName = fileName.replace(/\.json$/, "");
 		const target = (this.index[fileName] = {});
 		const enumProps = Object.values(this.schema).filter(v => v.enum).map(v => v.prop);
-		content.forEach(row => {
+		contents.forEach(row => {
 			enumProps.forEach(prop => {
 				const target2 = (target[prop] = target[prop] || []);
 				const cell = row[prop];
@@ -267,11 +267,22 @@ class ArtGrab {
 		});
 		target._artist = artist;
 		target._set = set;
+		target._sample = contents[0].uri;
 	}
 
 	_saveFile (artist, set, contents) {
 	 	const fileName = this._getNextFilename();
 		const filePath = `./ExternalArt/dist/${fileName}`;
+
+		// add headers
+		contents.artist = artist;
+		contents.set = set;
+		// remove excess data
+		contents.data.forEach(d => {
+			delete d.artist;
+			delete d.set;
+		});
+
 		if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping data write: "${filePath}" (${contents.data.length} entries)...`);
 		else fs.writeFileSync(filePath, JSON.stringify(contents), "utf-8");
 		return fileName;
