@@ -1,0 +1,1833 @@
+{
+    "schema_version": 1,
+    "playlists": [
+        {
+            "name": "SFX",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "S.W. Effect -  Wilhelm Scream by Zaku350",
+                    "track_id": "92yoyn",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Whispering by Annatar",
+                    "track_id": "92q6eg",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ghostly Whispers SFX by Bryn",
+                    "track_id": "xprqjz",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "SFX - Creaking Floor 1 by Kaleo",
+                    "track_id": "xv76mq",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Falling Whistle Sound Effect by StevenCalder",
+                    "track_id": "xk7qed",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Gunshot by JadeFalcon777",
+                    "track_id": "xvolk5",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "roll20 hit by nzroller",
+                    "track_id": "96oneo",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "SFX - Ground Rumble by Kaleo",
+                    "track_id": "w5g382",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Abandoned House",
+                    "track_id": "18_House_on_the_Hill.mp3-1490787538768",
+                    "volume": 24.009999999999998
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Screaming Crowd SFX Roll20 by mbg98",
+                    "track_id": "wde5v4",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Heartbeat SFX by Yangwenli",
+                    "track_id": "xgm3k2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Falling rocks sound effect by aegnor",
+                    "track_id": "wd46g0",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Ocean",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Black Flag Sea Shanty - Leave Her Johnny by SugarKing",
+                    "track_id": "92yy3l",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sound Effects For Ship Creaks  by Yuripa",
+                    "track_id": "97j8kk",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Drunken Sailor Sea Shanty by renhatt",
+                    "track_id": "we2ej4",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ambient Pirate Ship Sounds by Bryn",
+                    "track_id": "wdeod0",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ocean Waves SFX by nzroller",
+                    "track_id": "xvogg2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "SFX - Ship Ambience by Kaleo",
+                    "track_id": "xpo610",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Forest",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Forest - The Emerald Glades at Night - Pablo Betancourt",
+                    "track_id": "Forest - The Emerald Glades at Night - Pablo Betancourt.mp3-1498685139276",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Forest - The Emerald Glades in Day - Pablo Betancourt",
+                    "track_id": "Forest - The Emerald Glades in Day - Pablo Betancourt.mp3-1498685139276",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Spooky Forest _ Ambience & Sound Effects by bdrosemore",
+                    "track_id": "w3rprr",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Forest Ambience by Robert A.",
+                    "track_id": "xprjj0",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Woodland Campsite by Tabletop Audio",
+                    "track_id": "51_Woodland_Campsite.mp3-1498678108463",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Inns and Taverns",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Bar roll20 by azza696",
+                    "track_id": "wqo8v6",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Innkeeper - Adventurer's Standby Inn - Kyle McCarley",
+                    "track_id": "Innkeeper - Adventurer's Standby Inn - Kyle McCarley.mp3-1498682429216",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Irish tavern music - tavern by Bhaal91",
+                    "track_id": "we2726",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Mount & Blade - Tavern's Violin by Raziel1641",
+                    "track_id": "wl14qp",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Overland with Oxen by Tabletop Audio",
+                    "track_id": "48_Overland_with_Oxen.mp3-1498678108461",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Restaurant Ambience by drgark",
+                    "track_id": "xg2354",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Roll20 Tavern Noise by azza696",
+                    "track_id": "91n3lj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Tavern Music (BG2 - Taverns) by Heti",
+                    "track_id": "96ko72",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Bolan's song",
+                    "track_id": "Halfling Camp - Hear ye All You Rascals - Source Music - Mike Bridge.mp3-1490059354711",
+                    "volume": 26.009999999999998
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "The Frost-Touched Frog",
+                    "track_id": "23_The_Slaughtered_Ox.mp3-1490784767844",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Tavern Singing by mbg98",
+                    "track_id": "9m4n0v",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "The Slaughtered Ox by Tabletop Audio",
+                    "track_id": "23_The_Slaughtered_Ox.mp3-1486266855315",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Weather",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "SFX - Thunderstorm - Far by Kaleo",
+                    "track_id": "wdjmd4",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Thunderstorm sound effect (Roll20) by Sam",
+                    "track_id": "xvnvz5",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Heavy Rain - WildDog Productions",
+                    "track_id": "Weather - Heavy Rain - WildDog Productions.mp3-1498685139259",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Light Rain - WildDog Productions",
+                    "track_id": "Weather - Light Rain - WildDog Productions.mp3-1498685139260",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Lightning Tempest - WildDog Productions",
+                    "track_id": "Weather - Lightning Tempest - WildDog Productions.mp3-1498685139261",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Moderate Rain - WildDog Productions",
+                    "track_id": "Weather - Moderate Rain - WildDog Productions.mp3-1498685139262",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Moderate Wind - WildDog Productions",
+                    "track_id": "Weather - Moderate Wind - WildDog Productions.mp3-1498685139262",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Thunder Crash 1 - WildDog Productions",
+                    "track_id": "Weather - Thunder Crash 1 - WildDog Productions.mp3-1498685139266",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Thunder Crash 2 - WildDog Productions",
+                    "track_id": "Weather - Thunder Crash 2 - WildDog Productions.mp3-1498685139266",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Thunder Crash 3 - WildDog Productions",
+                    "track_id": "Weather - Thunder Crash 3 - WildDog Productions.mp3-1498685139267",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "[Ambient D&D] Weather 1 by Rob DnD",
+                    "track_id": "xv8qlk",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "[Ambient D&D] Weather 3 by Rob DnD",
+                    "track_id": "xko8qd",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Dark and Stormy by Tabletop Audio",
+                    "track_id": "60_Dark_and_Stormy.mp3-1498678108466",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "rain and storm by gcm",
+                    "track_id": "wd26m4",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Outdoor Ambience",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Campfire",
+                    "track_id": "xgk4e2",
+                    "volume": 42.25000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Desert - Shifting Sands at Night (With Animals) - Olivier Girardot",
+                    "track_id": "Desert - Shifting Sands at Night (With Animals) - Olivier Girardot.mp3-1498685139269",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Swamp - Marsh of Madness at Night (Some Spirits) - WildDog Productions",
+                    "track_id": "Swamp - Marsh of Madness at Night (Some Spirits) - WildDog Productions.mp3-1498685139323",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Swamp - Marsh of Madness at Night - WildDog Productions",
+                    "track_id": "Swamp - Marsh of Madness at Night - WildDog Productions.mp3-1498685139325",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Swamp - Marsh of Madness in Day (Heavy Spirits) - WildDog Productions",
+                    "track_id": "Swamp - Marsh of Madness in Day (Heavy Spirits) - WildDog Productions.mp3-1498685139326",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "river by Groovy81",
+                    "track_id": "xk116n",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "waterfall by aegnor",
+                    "track_id": "xkl6rg",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Spells & Magic",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "ArmsofHadar by DM98362",
+                    "track_id": "9nv1yy",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Eldritch Blast by w1face",
+                    "track_id": "w5q4k6",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Fire - SFX Roll20 by mbg98",
+                    "track_id": "wjn0z3",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Heal Spell SFX Roll20 by Caio Viel",
+                    "track_id": "wqyndy",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Water spell SFX for Roll20 by ShadySoundtrackStranger",
+                    "track_id": "xzegvv",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Shield Spell Cast by Gussish",
+                    "track_id": "x8z15y",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Wildshape SFX by Vrevyus",
+                    "track_id": "8ne32o",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Firebolt by Aarithian",
+                    "track_id": "xv56gk",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Teleport Spell Fade - Filippo Buresta",
+                    "track_id": "Teleport Spell Fade - Filippo Buresta.mp3-1489976662140",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Teleport",
+                    "track_id": "Teleport Spell Fade - Filippo Buresta.mp3-1489983722493",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Enchantment Spell Cast by Gussish",
+                    "track_id": "xr4zq3",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Shops",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Alchemist's Lab by Tabletop Audio",
+                    "track_id": "76_Alchemists_Lab.mp3-1498678108472",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Blacksmith Shoppe by Tabletop Audio",
+                    "track_id": "80_Blacksmith_Shoppe.mp3-1498678108474",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Blacksmiths Shop Ambience_s76zJP0QlWo_youtube by CSDavis35",
+                    "track_id": "wd36n4",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Brothel",
+                    "track_id": "xgr537",
+                    "volume": 15.21
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Hammer & Anvil Sound Effect by Xaphire",
+                    "track_id": "xkd28g",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Kecleons Shop - Kecleons Shop - Pokémon Mystery Dungeon Explorers of Time by dank memeller",
+                    "track_id": "wyg0j2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ryuji - Blacksmith Shop by AreaDM",
+                    "track_id": "xgroer",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Shop by Rennnnnnnnnnnn",
+                    "track_id": "xpg64z",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Foehammer Smithy",
+                    "track_id": "80_Blacksmith_Shoppe.mp3-1490784845004",
+                    "volume": 57.76
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dwarf Temple - Stone Father Hymn - Score Music - Richard Daskas",
+                    "track_id": "Dwarf Temple - Stone Father Hymn - Score Music - Richard Daskas.mp3-1486910186751",
+                    "volume": 4.000000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Triboar Square",
+                    "track_id": "56_Medieval_Town.mp3-1490784659034",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Shopping Square by Groovy81",
+                    "track_id": "w5zz8r",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Dungeon or Mine",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Mine ambient",
+                    "track_id": "98_Lost_Mine.mp3-1489976544418",
+                    "volume": 12.959999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Goblin's Cave by Tabletop Audio",
+                    "track_id": "49_Goblin's_Cave.mp3-1498678108462",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Roll20 Damp Cave Dripping Ambience by Victor",
+                    "track_id": "977kko",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Cave of Time by Tabletop Audio",
+                    "track_id": "13_Cave_of_Time.mp3-1486909061805",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Ice Cavern by Tabletop Audio",
+                    "track_id": "55_Ice_Cavern.mp3-1498678108464",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Sewers by Tabletop Audio",
+                    "track_id": "85_Sewers.mp3-1498678108492",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Catacombs by Tabletop Audio",
+                    "track_id": "37_Catacombs.mp3-1498678108458",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Town",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "(Ambience) Medieval City  by Narthe Raytei",
+                    "track_id": "wqy3vn",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "(Ambience) Town Day by Narthe Raytei",
+                    "track_id": "xr4ljj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "(Ambience) Town Night by Narthe Raytei",
+                    "track_id": "xk123p",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Farming Town by Ziben",
+                    "track_id": "92dlpn",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Medieval Town by Tabletop Audio",
+                    "track_id": "56_Medieval_Town.mp3-1498678108464",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Small Town Ambient (Roll20) by Sam",
+                    "track_id": "94god7",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Town Ambience by Demicus",
+                    "track_id": "wy8r42",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Towns by UgMug",
+                    "track_id": "xpovnz",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Medieval Town by Tabletop Audio",
+                    "track_id": "56_Medieval_Town.mp3-1498678108464",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ambient - Town by Lux",
+                    "track_id": "wjq28j",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "town noise by P",
+                    "track_id": "96q3p2",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Opening Music",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Lute Music - John Dowland - Paul O'Dette by Luke",
+                    "track_id": "wjqp6j",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "[aventure] 'Dragonsong' (Main Theme of Final Fantasy XIV- Heavensward) by Samoplop",
+                    "track_id": "96pmqo",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Cave Dungeon - Super Mario 64 nickhammer by nickhammer",
+                    "track_id": "w5ngg6",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Inspirational Violin Music by Caio Viel",
+                    "track_id": "9nyee2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Mass Effect - Uncharted Worlds by Xenolith",
+                    "track_id": "xk7dpo",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Act Intro",
+                    "track_id": "4_Solemn_Vow.mp3-1490210341057",
+                    "volume": 47.60999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Private Farm by Reiu",
+                    "track_id": "9np280",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Location Ambience",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": " Map ambient",
+                    "track_id": "62_Middle_Earth_Dawn.mp3-1489976863788",
+                    "volume": 62.41000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Temple of Helm",
+                    "track_id": "w0o7qj",
+                    "volume": 18.49
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dungeons by UgMug",
+                    "track_id": "96qgk2",
+                    "volume": 4.000000000000001
+                }
+            ]
+        },
+        {
+            "name": "Monster SFX",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Angry-chicken by LittleSam",
+                    "track_id": "92g2nr",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Daggerford - Goblin Cackle by Daggerford",
+                    "track_id": "9mrp08",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Daggerford - Goblin Death by Daggerford",
+                    "track_id": "9432o2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Daggerford - Goblin Evil Laugh by Daggerford",
+                    "track_id": "96n1e2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dragonroar by StevenCalder",
+                    "track_id": "xv0gek",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Goblins - Combat - When Goblins Attack - Olivier Girardot",
+                    "track_id": "Goblins - Combat - When Goblins Attack - Olivier Girardot.mp3-1486908941955",
+                    "volume": 1.0000000000000002
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Rat Squeaking by Razir",
+                    "track_id": "91nn4d",
+                    "volume": 9.610000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sound of a Murloc by Hornet",
+                    "track_id": "wdze06",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Undead Sound - Zombie Man Sound Effect by Andrey Luiz",
+                    "track_id": "9o41mv",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dog barking SFX by Yangwenli",
+                    "track_id": "wqrvze",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "SFX - Monster, scream by Lux",
+                    "track_id": "w0dy45",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Worg Howl by teklis",
+                    "track_id": "x8yod7",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Battle Music",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Act Outro",
+                    "track_id": "An%20Upsetting%20Theme.mp3-1490210715798",
+                    "volume": 25
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ambush at 89th Street by DeadbeamZERO",
+                    "track_id": "94gz6r",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ambushed - Back Alley",
+                    "track_id": "xz72jm",
+                    "volume": 4.84
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Battle - D&D by JohnCesario",
+                    "track_id": "w3q0zp",
+                    "volume": 9.610000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Boss Battle (Full) by StarCopper",
+                    "track_id": "w5gy7r",
+                    "volume": 4.84
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Combat Music Roll20 AoS Roll20 by Caio Viel",
+                    "track_id": "w0elvj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Escaflowne- Dance Of Curse by JadeFalcon777",
+                    "track_id": "w304rd",
+                    "volume": 4.000000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Forest Battle",
+                    "track_id": "Action.mp3-1490210715792",
+                    "volume": 36
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Forest Battle (Loop) by StarCopper",
+                    "track_id": "wlg5kj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Monk Duel",
+                    "track_id": "wdemog",
+                    "volume": 5.76
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "NWN Roll20 Battle Roll20 by Caio Viel",
+                    "track_id": "wqy7d6",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Clan Warsong Battle Music by Bryn",
+                    "track_id": "xr4l15",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Stoneworld Battle by Kevin MacLeod",
+                    "track_id": "Stoneworld%20Battle.mp3-1486910206539",
+                    "volume": 6.25
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Battle Music 2 by Zzasikar",
+                    "track_id": "wqrg66",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dark Souls - Iron Golem \"Extended\" by ROARwaffle",
+                    "track_id": "xpddo0",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Assassin's Creed 2 OST - Jesper Kyd - Chariot Chase by Yomakgamer",
+                    "track_id": "xgzng2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Spanish Pirate Battle Music - The Great Pirate Hunt by dank memeller",
+                    "track_id": "wqr6ry",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Assassin's Creed 2 OST - Jesper Kyd - Venice Combat Low by Yomakgamer",
+                    "track_id": "xvkl8r",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Mood (Sad)",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Burial",
+                    "track_id": "Despair%20and%20Triumph.mp3-1490210715855",
+                    "volume": 94.08999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Burial",
+                    "track_id": "Ambiment.mp3-1490210715796",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sad by Knight",
+                    "track_id": "w0enoj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sad Music by pjkax",
+                    "track_id": "w56d52",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "sad by Roll20",
+                    "track_id": "wd228p",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "[Roll20] Sadness by Redox",
+                    "track_id": "9n4oyy",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dark Souls Boss Battle Music - Artorias the Abysswalker by RedLetter",
+                    "track_id": "9ovr3v",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Mood (Humorous)",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Kevin MacLeod - Sneaky Snitch by Soul",
+                    "track_id": "w34d7r",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "DND Campaign Market by Demonic",
+                    "track_id": "947rzg",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "DND Campaign Joyful Market by Demonic",
+                    "track_id": "9onyp1",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Mood (Suspense)",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Adventure theme - Explorers by SuperMuuh",
+                    "track_id": "wd7q84",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Dark City by Tabletop Audio",
+                    "track_id": "86_Dark_City.mp3-1498678108492",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dark Souls - Ambient 1 by ROARwaffle",
+                    "track_id": "wjqq16",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Demon hunter anthem by Omedon",
+                    "track_id": "978djk",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Decisions by Kevin MacLeod",
+                    "track_id": "Decisions.mp3-1486321298064",
+                    "volume": 8.41
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Devastation and Revenge by Kevin MacLeod",
+                    "track_id": "Devastation%20and%20Revenge.mp3-1486321298064",
+                    "volume": 7.290000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Pillars Of Eternity - Dungeon, Temple Of Skean by Yarrick",
+                    "track_id": "9oyj1v",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ravenloft -  A Cold Presence by Routetomode",
+                    "track_id": "9mnn5v",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ravenloft - King Vendrick(Roll20) - Dark Souls 2 by Routetomode",
+                    "track_id": "wyle61",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ravenloft - Max's Passion(Roll20) by Routetomode",
+                    "track_id": "xprrym",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ravenloft - Mists of Ravenloft(Roll20) Evan Nagy by Routetomode",
+                    "track_id": "w5qq46",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "DND Campaign Spooky Tone by Demonic",
+                    "track_id": "wylogy",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ravenloft - The Eternal Forest(Roll20) by Routetomode",
+                    "track_id": "9mll7n",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Swamp Music - Mushroom Swamp by Rashagall",
+                    "track_id": "xv1r15",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Tangible Suspense by Evilpillows",
+                    "track_id": "w3o3qz",
+                    "volume": 7.840000000000001
+                }
+            ]
+        },
+        {
+            "name": "UNSORTED",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": " Caravan day",
+                    "track_id": "48_Overland_with_Oxen.mp3-1490058253527",
+                    "volume": 23.04
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Before The Storm by Tabletop Audio",
+                    "track_id": "9_Before_The_Storm.mp3-1498678108437",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Breathtaking violin music by shaille",
+                    "track_id": "9ng75k",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Goblin Warrens by MrRpg",
+                    "track_id": "97j54p",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ossuary 5 - Rest  ISLANDCONFLUX444 by Jader7777",
+                    "track_id": "xko17d",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "DND Campaign River by Demonic",
+                    "track_id": "xvkyn5",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Diablo III - Demon Hunter by Shandril",
+                    "track_id": "x8vd66",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Kevin MacLeod - Aftermath by Shyneet",
+                    "track_id": "9134lj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "The Inner Core by Tabletop Audio",
+                    "track_id": "1_The_Inner_Core.mp3-1494987572268",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "DND Campaign Penance by Demonic",
+                    "track_id": "xpyznm",
+                    "volume": 30
+                }
+            ]
+        }
+    ]
+}

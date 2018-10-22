@@ -1,0 +1,1385 @@
+{
+    "schema_version": 1,
+    "playlists": [
+        {
+            "name": "Ambient Neutral",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Peaceful",
+                    "track_id": "78308975",
+                    "volume": 14.44
+                }
+            ]
+        },
+        {
+            "name": "Ambient Spooky",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - CREEPY In The Shadows by Tabletop Audio",
+                    "track_id": "10_In_The_Shadows.mp3-1444359873146",
+                    "volume": 19.36
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Ambient - Lurking Fear by zean",
+                    "track_id": "46405963",
+                    "volume": 37.21
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Spooky - Alchemists Lab",
+                    "track_id": "76_Alchemists_Lab.mp3-1444359873203",
+                    "volume": 50.41
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient Spooky - Dark Water by sound of valium",
+                    "track_id": "60002549",
+                    "volume": 43.56
+                }
+            ]
+        },
+        {
+            "name": "Ambient Mood",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Cheerful",
+                    "track_id": "137825590",
+                    "volume": 34.809999999999995
+                }
+            ]
+        },
+        {
+            "name": "BCKGRN MUSIC",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "BKGnd - City Of Khorinis Gothic II - 05 by outermind",
+                    "track_id": "145839170",
+                    "volume": 16.81
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "BKGnd - Dramatic 6 by CyberSeraphim",
+                    "track_id": "81673594",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGnd - Mysterious 2 by CyberSeraphim",
+                    "track_id": "78308972",
+                    "volume": 10.89
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGnd - Mystery y miedo (roll20 aku) by Antonio Bolarín",
+                    "track_id": "88964323",
+                    "volume": 21.16
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGnd - Suspense mike oldfield-tubular bells (part one) by aarias",
+                    "track_id": "6290698",
+                    "volume": 9.610000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Battle Dark - Battle In The Warrens by Benjamin Ghaffarzadeh",
+                    "track_id": "189985542",
+                    "volume": 9
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Battle Dark - Mournweald Encounter by Benjamin Ghaffarzadeh",
+                    "track_id": "189985784",
+                    "volume": 19.36
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Battle Energy Ghostpocalypse - 7 Master by Damocoates",
+                    "track_id": "1556753",
+                    "volume": 6.25
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "BKGrnd - Battle Suspense Hitman by suddingpizza",
+                    "track_id": "103101945",
+                    "volume": 19.36
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Battle suspense - Combat In The Ruins by Benjamin Ghaffarzadeh",
+                    "track_id": "189985539",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "BKGrnd - Diablo III Reaper Of Souls - Malthael Theme by BluCaerellius",
+                    "track_id": "175429246",
+                    "volume": 9
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Epic Cinematic Action Film by SoundEffectsforFree",
+                    "track_id": "161292403",
+                    "volume": 12.249999999999998
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Joyful Choral - Requiem Mass 2015 by Phil Wright Sound",
+                    "track_id": "220673029",
+                    "volume": 7.840000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Joyful Gothic Monastic Cry of the Celts (Full version) by Yipyioh",
+                    "track_id": "67346360",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Middle Ages - Medieval Music - Riu Riu by thelonggallery",
+                    "track_id": "36261220",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Suspense Battle \"The Assassin\" - UCLA extension final project, layer 2 by AnimusTrax",
+                    "track_id": "105560925",
+                    "volume": 16.81
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Suspense Clash of Kings by Tabletop Audio",
+                    "track_id": "34_Clash_of_Kings.mp3-1444359873166",
+                    "volume": 19.36
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Suspense Combat 4 by Tobias Partario Bacchus",
+                    "track_id": "75504835",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Suspense Dark - Mystery 4 by Tobias Partario Bacchus",
+                    "track_id": "62478748",
+                    "volume": 17.639999999999997
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - foreboding Ruminations - Trail of Cthulhu by Roll20-Nevarre",
+                    "track_id": "141036886",
+                    "volume": 3.2399999999999998
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - joyous Oompah Loompah Sugah by Tim Benjamin",
+                    "track_id": "179289595",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BCKGRND - DRAMA Tension Main Theme - City Of Villains by Echo1338",
+                    "track_id": "120477856",
+                    "volume": 9
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BCKGRND MUSIC - Epic Trevor Morris - The Pillars of the Earth Theme (long Version) by Azumargui",
+                    "track_id": "89117416",
+                    "volume": 7.290000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "AMBIENT - Tension - Ultimate Dungeon Music by Dungeonman",
+                    "track_id": "143291846",
+                    "volume": 7.840000000000001
+                }
+            ]
+        },
+        {
+            "name": "EFFECTS",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Bar Fight",
+                    "track_id": "107907886",
+                    "volume": 5.76
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Effect - Breaking ",
+                    "track_id": "81270048",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "EFFECT - Chant low evil ",
+                    "track_id": "162988719",
+                    "volume": 7.290000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Clock ticking",
+                    "track_id": "125089834",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Effect - Door break",
+                    "track_id": "206880422",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Effect - Door close",
+                    "track_id": "61229329",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Effect - Door knock",
+                    "track_id": "162988720",
+                    "volume": 62.41000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Dragon Roar",
+                    "track_id": "101314257",
+                    "volume": 33.64
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Effect - Explosion",
+                    "track_id": "76650575",
+                    "volume": 39.690000000000005
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Fast Heartbeat",
+                    "track_id": "179592860",
+                    "volume": 1.0000000000000002
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Effect - Fireball",
+                    "track_id": "116823979",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Footsteps",
+                    "track_id": "148965736",
+                    "volume": 14.44
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Effect - Goblin Laugh",
+                    "track_id": "79394932",
+                    "volume": 15.21
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Horn Deep Fanfare",
+                    "track_id": "53743681",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - horse",
+                    "track_id": "79385275",
+                    "volume": 11.560000000000002
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Laughter Evil ",
+                    "track_id": "76556080",
+                    "volume": 4.84
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Laughter Evil  2 ",
+                    "track_id": "76575129",
+                    "volume": 12.249999999999998
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Lighning",
+                    "track_id": "153482820",
+                    "volume": 9
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - metal gate slams shut",
+                    "track_id": "138051912",
+                    "volume": 40.96
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Monster Growl",
+                    "track_id": "125930883",
+                    "volume": 21.16
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Scream",
+                    "track_id": "76650571",
+                    "volume": 17.639999999999997
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Scream Half Ogre",
+                    "track_id": "143761963",
+                    "volume": 12.959999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Effect - Scream for help (woman)",
+                    "track_id": "162988667",
+                    "volume": 12.959999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Stone Door",
+                    "track_id": "201612755",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Sword Battle",
+                    "track_id": "221182778",
+                    "volume": 1.9600000000000002
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Effect - Sword battling",
+                    "track_id": "135075385",
+                    "volume": 3.61
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Yakkity Sax",
+                    "track_id": "71179059",
+                    "volume": 22.09
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "EFFECT - Scream Sound Effect by Bunnytail",
+                    "track_id": "187583347",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "EFFECT - Scary Sound Effect by SoundEffectsforFree",
+                    "track_id": "148729420",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Campsite",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "AMBIENT - Campfire At Night With Crikets by Hans Groöber",
+                    "track_id": "108735629",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "AMBIENT - Woodland Campsite by MinisculeMax",
+                    "track_id": "205507187",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Woodland Campsite",
+                    "track_id": "51_Woodland_Campsite.mp3-1444359873180",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Cave",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Cave Into the Deep",
+                    "track_id": "38_Into_the_Deep.mp3-1444359873170",
+                    "volume": 34.809999999999995
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Cavern Wet Goblin's Cave by Tabletop Audio",
+                    "track_id": "49_Goblin's_Cave.mp3-1444359873178",
+                    "volume": 18.49
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "AMBIENT - Cave, Sewer (Ambient) by Victor_Valle_Mineiro",
+                    "track_id": "98690638",
+                    "volume": 12.959999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "AMBIENT - Cave Fantasy Cave by nailmoth",
+                    "track_id": "95158997",
+                    "volume": 44.89000000000001
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Desert",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient: Desert by Kai Kauske",
+                    "track_id": "81136086",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Forest (Night)",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Forest (Night)",
+                    "track_id": "45359068",
+                    "volume": 32.489999999999995
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Forest Night",
+                    "track_id": "69_Forest_Night.mp3-1444359873196",
+                    "volume": 32.489999999999995
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Forest (day)",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambiance - Forest Day by Travis Howell 6",
+                    "track_id": "223685038",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambiant - Magic Forest, Day by UltimateRPG",
+                    "track_id": "130060079",
+                    "volume": 5.76
+                }
+            ]
+        },
+        {
+            "name": "LOCALE - Mountain Pas",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Mountain Pass by Tabletop Audio",
+                    "track_id": "64_Mountain_Pass.mp3-1444359873192",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Swamp",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "AMBIENT - swamp sounds at night by rutor23",
+                    "track_id": "130318153",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "AMBIENT - Swamp Sounds D&D by Justin Beatley",
+                    "track_id": "193772750",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Tavern",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Tavern Music 2 by Justin Beatley",
+                    "track_id": "188882405",
+                    "volume": 96.03999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BCKGRND MUSIC - tavern FESTIVE Стары Ольса - Ave Maria by Ultra-Music",
+                    "track_id": "118411160",
+                    "volume": 11.560000000000002
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Russian-Gypsy Dance by Natasha Dukach",
+                    "track_id": "118154768",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "TAVERN Music - Longa - Mound (Stary Olsa) (Recording from a rehearsal) by Oldboroda",
+                    "track_id": "93338685",
+                    "volume": 65.61000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Tavern",
+                    "track_id": "54_Mountain_Tavern.mp3-1444359873182",
+                    "volume": 23.04
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Roll20 Tavern Noise by Gahnz0",
+                    "track_id": "121052169",
+                    "volume": 33.64
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Tavern Music (over 1 hour) by Jon Enge",
+                    "track_id": "188050251",
+                    "volume": 9.610000000000001
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Town",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Blacksmith Shoppe",
+                    "track_id": "80_Blacksmith_Shoppe.mp3-1444359873206",
+                    "volume": 17.639999999999997
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - City Market",
+                    "track_id": "197303084",
+                    "volume": 60.84
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - City w/ Blacksmith",
+                    "track_id": "96031275",
+                    "volume": 38.440000000000005
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Ambient - City Medieval Town",
+                    "track_id": "56_Medieval_Town.mp3-1444359873184",
+                    "volume": 18.49
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Crowd (Outside)",
+                    "track_id": "45359063",
+                    "volume": 2.56
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Crowd Cheering",
+                    "track_id": "148738750",
+                    "volume": 0.36
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Crowd Whispering ",
+                    "track_id": "112654002",
+                    "volume": 7.840000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Crowd murmmering",
+                    "track_id": "53744506",
+                    "volume": 15.21
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Crowd, Angry",
+                    "track_id": "82132801",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "AMBIENT - Screaming Crowd by Michael Cole 38",
+                    "track_id": "93783294",
+                    "volume": 1.0000000000000002
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "AMBIENT - Fantasy Elven City Market Ambient by nailmoth",
+                    "track_id": "94564170",
+                    "volume": 73.96
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Warf-Waterfront",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Water Flowing",
+                    "track_id": "114197854",
+                    "volume": 7.840000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "AMBIENT - Flowing Water Villena Plaza - Water Flowing Sound Mark by Villena Soundmap",
+                    "track_id": "160936326",
+                    "volume": 0.64
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Docks City",
+                    "track_id": "197303087",
+                    "volume": 11.560000000000002
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Docks District",
+                    "track_id": "75_Docks_District.mp3-1444359873202",
+                    "volume": 12.249999999999998
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Sea - Harbour - Waves by GypsyLogic",
+                    "track_id": "225347011",
+                    "volume": 15.21
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "EFFECT - Creak - Wood - Floor - 09 by kingdaddy8",
+                    "track_id": "199582841",
+                    "volume": 43.56
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "EFFECT - rowing a boat by at3sparky",
+                    "track_id": "119633541",
+                    "volume": 14.44
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Effect - Sea Shanty - #02 Bully In The Alley - AC4 Black Flag In - Game Soundtrack by Assassin's Creed Latam",
+                    "track_id": "160062197",
+                    "volume": 17.639999999999997
+                }
+            ]
+        },
+        {
+            "name": "STORM",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Howling Wind by lontas",
+                    "track_id": "145059279",
+                    "volume": 4.409999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Rain sounds by rutor23",
+                    "track_id": "130318147",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Raining",
+                    "track_id": "60_Dark_and_Stormy.mp3-1444359873189",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Ambient - storm small by DJ WhiteRabbit",
+                    "track_id": "142047679",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Storm - Thunder",
+                    "track_id": "205838104",
+                    "volume": 14.44
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Ambient - Storm Aftermath",
+                    "track_id": "53314103",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "AMBIENT - Thunder And Lightning Sound Effect by Hans Groöber",
+                    "track_id": "108973974",
+                    "volume": 12.249999999999998
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Wind howl",
+                    "track_id": "113139633",
+                    "volume": 9
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Shelter from the Storm by Tabletop Audio",
+                    "track_id": "11_Shelter_from_the_Storm.mp3-1444359873147",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Storm Approaching by Ross Flight",
+                    "track_id": "73534551",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Ten Minutes Of Rain And Thunder Audio [HQ] by Jonathan MacDonald 6",
+                    "track_id": "127074093",
+                    "volume": 4.409999999999999
+                }
+            ]
+        },
+        {
+            "name": "STUFF",
+            "mode": "b",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BCKgrn MUSIC - Honor of Battle  Epic Music Mix 1 by rutor23",
+                    "track_id": "130318151",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Medieval Battle by Tabletop Audio",
+                    "track_id": "79_Medieval_Battle.mp3-1444359873206",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Middle Earth Dawn by Tabletop Audio",
+                    "track_id": "62_Middle_Earth_Dawn.mp3-1444359873191",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Midnight Syndicate - Vampyre by iri_ucnauri.com",
+                    "track_id": "8737446",
+                    "volume": 26.009999999999998
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Mus Bat X2boss1 by Aungoni",
+                    "track_id": "144288937",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Mus Bat X2boss2 by Aungoni",
+                    "track_id": "144288935",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Mus Bat X2hell by Aungoni",
+                    "track_id": "144288927",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Night Camp by darksoulbringer",
+                    "track_id": "116836561",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Oh, it's not so bad, Lissa. Just a healthy little walk! - Fire Emblem Awakening by SamNovak",
+                    "track_id": "160607894",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "PERFORMANCE - SINGER Once Upon a December - Russian by Eyri",
+                    "track_id": "130548022",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKgrnd neutral orchestral ambiente Dark Music Challenge the Dead by EpicMusic123",
+                    "track_id": "135363825",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Pathfinder - Unholy Mountain by SonicFlux",
+                    "track_id": "226781930",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Resident Evil 4- Garrador by Bluerocker",
+                    "track_id": "129067778",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Roll20 Defiled morgenstern by msuitt",
+                    "track_id": "179222896",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Roll20 Horror Fantasy Dungeon Ambient Loop by nailmoth",
+                    "track_id": "100669825",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Sword Art Online - Mainstream Song by Orbould",
+                    "track_id": "67834867",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Temple of the Eye by Tabletop Audio",
+                    "track_id": "39_Temple_of_the_Eye.mp3-1444359873171",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Tension3 by AGAsimov",
+                    "track_id": "52905460",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Terror by Tabletop Audio",
+                    "track_id": "58_Terror.mp3-1444359873186",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "The Dark Forest Combat by jesperkyd",
+                    "track_id": "98422900",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "The Lost Dungeons Of Xon Audio Soundfx Sword Drawn by Trendy67",
+                    "track_id": "216338629",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "The Misty Mountains Cold by Justin Beatley",
+                    "track_id": "188883470",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Uncommon Valor a by Tabletop Audio",
+                    "track_id": "26_Uncommon_Valor_a.mp3-1444359873160",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Veni Sancte Spiritus by Sub Specie Aeternitatis",
+                    "track_id": "105484385",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Versus - Epic Legendary Intense Massive Heroic Vengeful Dramatic Music Mix - 1 Hour Long by Versus Official",
+                    "track_id": "91290887",
+                    "volume": 12.249999999999998
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Torgo's Theme by mario0318",
+                    "track_id": "51738099",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "roll20 orchestral ambiete Winter Breath by EpicMusic123",
+                    "track_id": "135361253",
+                    "volume": 21.16
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "[Game Of Thrones] Main Title - RAMIN DJAWADI by Pedro Noe",
+                    "track_id": "42236962",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "x Dungeon I by Tabletop Audio",
+                    "track_id": "65_Dungeon_I.mp3-1444359873193",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Volatile Reaction - Boss Battle Music, Booming, Intense by stevbrisc",
+                    "track_id": "222362945",
+                    "volume": 17.639999999999997
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient Effect - Fantasy Airship Engine Loop by nailmoth",
+                    "track_id": "100673687",
+                    "volume": 30
+                }
+            ]
+        }
+    ]
+}
