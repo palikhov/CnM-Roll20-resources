@@ -69,6 +69,11 @@ Encounters PortTown		||||
 Encounters Roadside		||||
 Encounters Town		||||
 Failed Perception		||||
+Foraging - Forest | [d100](https://docs.google.com/document/d/1XlG09TtDbxzMIj13pyY0VcH9JFSEPIGe6uqnziUq8nI/edit) |||
+Foraging - Arid/Desert | [d100](https://docs.google.com/document/d/1XlG09TtDbxzMIj13pyY0VcH9JFSEPIGe6uqnziUq8nI/edit) |||
+Foraging - Plains/Meadows | [d100](https://docs.google.com/document/d/1XlG09TtDbxzMIj13pyY0VcH9JFSEPIGe6uqnziUq8nI/edit) |||
+Foraging - Water/Coastal | [d100](https://docs.google.com/document/d/1XlG09TtDbxzMIj13pyY0VcH9JFSEPIGe6uqnziUq8nI/edit) |||
+Foraging - Mountains | [d100](https://docs.google.com/document/d/1XlG09TtDbxzMIj13pyY0VcH9JFSEPIGe6uqnziUq8nI/edit) |||
 Foodprep		||||
 Gems		||||
 Giant Bag	||||
