@@ -1,0 +1,3769 @@
+{
+    "schema_version": 1,
+    "playlists": [
+        {
+            "name": "Crowd",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Cr1",
+                    "track_id": "1rodnq",
+                    "volume": "50"
+                }
+            ]
+        },
+        {
+            "name": "Adventure",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A1",
+                    "track_id": "wd7q84",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A2",
+                    "track_id": "9n150y",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A3",
+                    "track_id": "xz4g6v",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A4",
+                    "track_id": "97zkp4",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A5",
+                    "track_id": "960762",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A6",
+                    "track_id": "w0yj05",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A7",
+                    "track_id": "9204rr",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A8",
+                    "track_id": "wj8e46",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A9",
+                    "track_id": "we1zv6",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A10",
+                    "track_id": "91qkmk",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A11",
+                    "track_id": "x831ro",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A12",
+                    "track_id": "xvon7r",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A13",
+                    "track_id": "wdyqqg",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A14",
+                    "track_id": "wlge3j",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A15",
+                    "track_id": "wdmll6",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A16",
+                    "track_id": "921deg",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A17",
+                    "track_id": "wj2jl6",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "A18",
+                    "track_id": "wdjg36",
+                    "volume": "50"
+                }
+            ]
+        },
+        {
+            "name": "Ambient",
+            "mode": "b",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ambient1",
+                    "track_id": "y867vy",
+                    "volume": 0.64
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ambient2",
+                    "track_id": "y867vy",
+                    "volume": 1.6900000000000002
+                }
+            ]
+        },
+        {
+            "name": "Battle Music",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B1",
+                    "track_id": "w5qd56",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B2",
+                    "track_id": "w5gy7r",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B3",
+                    "track_id": "wlg5kj",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B4",
+                    "track_id": "w3q0zp",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B5",
+                    "track_id": "wq60lg",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B6",
+                    "track_id": "xvk7vk",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B7",
+                    "track_id": "xpn5qz",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B8",
+                    "track_id": "ez77qe",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B9",
+                    "track_id": "vomm25",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B10",
+                    "track_id": "xpo622",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B11",
+                    "track_id": "xrqj0y",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B12",
+                    "track_id": "9o12r1",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B13",
+                    "track_id": "wqg4ry",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B14",
+                    "track_id": "w0yn7g",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B15",
+                    "track_id": "9or2gy",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B16",
+                    "track_id": "pev242",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B17",
+                    "track_id": "6ojdeo",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B18",
+                    "track_id": "9o4pg0",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B19",
+                    "track_id": "w5goq1",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B20",
+                    "track_id": "9op4dv",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B21",
+                    "track_id": "wed52q",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B22",
+                    "track_id": "wjr1qj",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B23",
+                    "track_id": "971mjk",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B24",
+                    "track_id": "9nzdqn",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B25",
+                    "track_id": "xvoqzk",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B26",
+                    "track_id": "xglnp4",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B27",
+                    "track_id": "w0e825",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "B28",
+                    "track_id": "9o43my",
+                    "volume": "50"
+                }
+            ]
+        },
+        {
+            "name": "Cave",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "V1",
+                    "track_id": "94o7og",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "V2",
+                    "track_id": "xpd3p2",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "V3",
+                    "track_id": "973y7o",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "V4",
+                    "track_id": "xrj275",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "V5",
+                    "track_id": "9mg36z",
+                    "volume": 2.8900000000000006
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "V6",
+                    "track_id": "wqo6gy",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "V7",
+                    "track_id": "9mgvd8",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "V8",
+                    "track_id": "wqgd7g",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "V9",
+                    "track_id": "xgy4yr",
+                    "volume": 7.840000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "V10",
+                    "track_id": "w31kld",
+                    "volume": "50"
+                }
+            ]
+        },
+        {
+            "name": "Classic Rock",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C1",
+                    "track_id": "vz46kr",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C2",
+                    "track_id": "9658q6",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C3",
+                    "track_id": "9617po",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C4",
+                    "track_id": "xgy417",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C5",
+                    "track_id": "dv40o4",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C6",
+                    "track_id": "wd2elp",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C7",
+                    "track_id": "xpg1o2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C8",
+                    "track_id": "w0l3oj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C9",
+                    "track_id": "jvgvl2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C10",
+                    "track_id": "xrljqj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C11",
+                    "track_id": "wq12jj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C12",
+                    "track_id": "7m385m",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C13",
+                    "track_id": "92yjrl",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C14",
+                    "track_id": "wd31y6",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C15",
+                    "track_id": "xpvppq",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C16",
+                    "track_id": "o30vz0",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C17",
+                    "track_id": "1lq75j",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C18",
+                    "track_id": "7y7np3",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C19",
+                    "track_id": "y55ne0",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C20",
+                    "track_id": "031pz4",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C21",
+                    "track_id": "336076",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C22",
+                    "track_id": "4n6ogg",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C23",
+                    "track_id": "p7zng0",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C24",
+                    "track_id": "xr23lj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C25",
+                    "track_id": "w5m356",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C26",
+                    "track_id": "xg6kq4",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C27",
+                    "track_id": "w3qgdp",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C28",
+                    "track_id": "xp0ond",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C29",
+                    "track_id": "e87dg6",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "C30",
+                    "track_id": "p707e2",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Farm",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Hunter Berry and Michael Cleveland play Chicken Reel by TipMcVenus",
+                    "track_id": "0en855",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Pumpkin Farm by Vrevyus",
+                    "track_id": "9noeg2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Farm Theme (Breath of fire 3 OST remix) by Solidmachine",
+                    "track_id": "l2pylj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Suikoden III - Farm Village by steamwolf",
+                    "track_id": "wd0ge6",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Savage Space - 65 - Farming by Metaknight",
+                    "track_id": "9mngmv",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "26 Farm Village Scenery by rt",
+                    "track_id": "917gzj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Life at the farms by JohnGoodwin",
+                    "track_id": "xv08z5",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Farts",
+            "mode": "a",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F001",
+                    "track_id": "wyd6j5",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F002",
+                    "track_id": "wj0dp6",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F003",
+                    "track_id": "wdql4g",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F004",
+                    "track_id": "e8j2mp",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F005",
+                    "track_id": "n3glq0",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F006",
+                    "track_id": "xrv4vy",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F007",
+                    "track_id": "zme67v",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F008",
+                    "track_id": "8zqqgy",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F009",
+                    "track_id": "0ezzq3",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F010",
+                    "track_id": "de88g6",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F011",
+                    "track_id": "qyzz5n",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F012",
+                    "track_id": "nydd8r",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "F013",
+                    "track_id": "1rzzvd",
+                    "volume": "50"
+                }
+            ]
+        },
+        {
+            "name": "Horror",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H1",
+                    "track_id": "92nyqn",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H2",
+                    "track_id": "xz0zl8",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H3",
+                    "track_id": "wlmv5j",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H4",
+                    "track_id": "xkd65o",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H6",
+                    "track_id": "9mv5d8",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H7",
+                    "track_id": "92loq6",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H8",
+                    "track_id": "wdz3z6",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H9",
+                    "track_id": "xgze05",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H10",
+                    "track_id": "wl37pp",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H11",
+                    "track_id": "wdj7ln",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H12",
+                    "track_id": "973krk",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H13",
+                    "track_id": "w5gdm6",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H14",
+                    "track_id": "97lq4m",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H15",
+                    "track_id": "x8kddy",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H16",
+                    "track_id": "xgpdg5",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H17",
+                    "track_id": "037pe5",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H18",
+                    "track_id": "w0djqg",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H19",
+                    "track_id": "9mjvy1",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H20",
+                    "track_id": "9n164k",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H21",
+                    "track_id": "9448v2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H22",
+                    "track_id": "wygr21",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H23",
+                    "track_id": "wq7n1g",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H24",
+                    "track_id": "wqdg1j",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H25",
+                    "track_id": "91n6jq",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "H26",
+                    "track_id": "x857jq",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Industrial Ambient",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "IA1",
+                    "track_id": "wqqrzg",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "IA2",
+                    "track_id": "glvj7y",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "IA3",
+                    "track_id": "1rqzkd",
+                    "volume": "50"
+                }
+            ]
+        },
+        {
+            "name": "Inn",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "I1",
+                    "track_id": "x8og1q",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "I2",
+                    "track_id": "xk62kg",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "I3",
+                    "track_id": "kgdrmo",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "I4",
+                    "track_id": "we60de",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "I5",
+                    "track_id": "o3gon1",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Metal",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M1",
+                    "track_id": "91kjr2",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M2",
+                    "track_id": "yk8d35",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M3",
+                    "track_id": "7y0vqp",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M4",
+                    "track_id": "8e7j76",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M5",
+                    "track_id": "og1mr0",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M6",
+                    "track_id": "o3dlq0",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M7",
+                    "track_id": "1l63g2",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M8",
+                    "track_id": "e82vke",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M9",
+                    "track_id": "zlpj2m",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M10",
+                    "track_id": "w3yl5d",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M11",
+                    "track_id": "961mvo",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M12",
+                    "track_id": "p7k460",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "M13",
+                    "track_id": "vmv0v5",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Myconid",
+            "mode": "a",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Y1",
+                    "track_id": "o3mz8v",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Y2",
+                    "track_id": "wekld4",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Overrun",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O1",
+                    "track_id": "w048qg",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O2",
+                    "track_id": "w0pp85",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O3",
+                    "track_id": "wye801",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O4",
+                    "track_id": "wj6qy0",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O5",
+                    "track_id": "w3q0lz",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O6",
+                    "track_id": "w3mn3l",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O7",
+                    "track_id": "97vrzk",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O8",
+                    "track_id": "92zl7n",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O9",
+                    "track_id": "wd32rg",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O10",
+                    "track_id": "91odp2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O11",
+                    "track_id": "9ngdon",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O12",
+                    "track_id": "xz0joy",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O13",
+                    "track_id": "xrrel2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O14",
+                    "track_id": "9nmy8n",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O15",
+                    "track_id": "xgede7",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O16",
+                    "track_id": "wjk132",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O17",
+                    "track_id": "91jyrk",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O18",
+                    "track_id": "w044zj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O19",
+                    "track_id": "wd7y4p",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O20",
+                    "track_id": "w0ln4g",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O21",
+                    "track_id": "xgorv2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "O22",
+                    "track_id": "wqv20g",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Reggea",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R1",
+                    "track_id": "wj5z70",
+                    "volume": 2.56
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R2",
+                    "track_id": "916el2",
+                    "volume": 4.84
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R3",
+                    "track_id": "wyr5zy",
+                    "volume": 7.290000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R4",
+                    "track_id": "91myrl",
+                    "volume": 5.76
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R5",
+                    "track_id": "94ergr",
+                    "volume": 5.29
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R6",
+                    "track_id": "9onj50",
+                    "volume": 5.29
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R7",
+                    "track_id": "w3p5dz",
+                    "volume": 9
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R8",
+                    "track_id": "9nmyq0",
+                    "volume": 6.25
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R9",
+                    "track_id": "9nv3dn",
+                    "volume": 7.290000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R10",
+                    "track_id": "xvq5q5",
+                    "volume": 5.76
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R11",
+                    "track_id": "o30z4v",
+                    "volume": 5.76
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R12",
+                    "track_id": "xp5qpz",
+                    "volume": 5.29
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R13",
+                    "track_id": "g88kj4",
+                    "volume": 5.76
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R14",
+                    "track_id": "wq5o86",
+                    "volume": 4.84
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "R15",
+                    "track_id": "5ok5o2",
+                    "volume": 6.25
+                }
+            ]
+        },
+        {
+            "name": "Terrain",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Waterfall",
+                    "track_id": "xp6o0z",
+                    "volume": 13.69
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Magma",
+                    "track_id": "9nrl8r",
+                    "volume": 44.89000000000001
+                }
+            ]
+        },
+        {
+            "name": "Tomb",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "T1",
+                    "track_id": "9nyn2k",
+                    "volume": 2.56
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "T2",
+                    "track_id": "w55ym2",
+                    "volume": 3.61
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "T3",
+                    "track_id": "9od42v",
+                    "volume": 6.25
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "T4",
+                    "track_id": "974jmk",
+                    "volume": 4.84
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "T5",
+                    "track_id": "92kljv",
+                    "volume": 5.29
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "T6",
+                    "track_id": "9784v4",
+                    "volume": 4.000000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "T7",
+                    "track_id": "9ny0l0",
+                    "volume": 4.000000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "T8",
+                    "track_id": "wezkk1",
+                    "volume": 4.000000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "T9",
+                    "track_id": "wy0vv3",
+                    "volume": 4.000000000000001
+                }
+            ]
+        },
+        {
+            "name": "Underdark",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U1",
+                    "track_id": "okzvq1",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U2",
+                    "track_id": "zmo028",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U3",
+                    "track_id": "94k5z2",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U4",
+                    "track_id": "94om02",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U5",
+                    "track_id": "9ng20k",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U6",
+                    "track_id": "wd4rd4",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U7",
+                    "track_id": "wqrmye",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U8",
+                    "track_id": "x8jr8l",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U9",
+                    "track_id": "wjkd8p",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U10",
+                    "track_id": "94j847",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U11",
+                    "track_id": "wl1qr5",
+                    "volume": 5.76
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U12",
+                    "track_id": "xkn43o",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U13",
+                    "track_id": "92l74g",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U14",
+                    "track_id": "w5m166",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U15",
+                    "track_id": "wjqq16",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U16",
+                    "track_id": "wl33ge",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U17",
+                    "track_id": "96o26v",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U18",
+                    "track_id": "2e5eog",
+                    "volume": 12.959999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U19",
+                    "track_id": "9no8nr",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U20",
+                    "track_id": "91jeml",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U21",
+                    "track_id": "0772r3",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U22",
+                    "track_id": "xzqly8",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U23",
+                    "track_id": "9o1020",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U24",
+                    "track_id": "2re176",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U25",
+                    "track_id": "wer8gp",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U26",
+                    "track_id": "6odpjn",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U27",
+                    "track_id": "w0djqg",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "U28",
+                    "track_id": "mg1rr7",
+                    "volume": "50"
+                }
+            ]
+        },
+        {
+            "name": "SFX",
+            "mode": "b",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Scream",
+                    "track_id": "x85jy7",
+                    "volume": 50
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Bow",
+                    "track_id": "wey7p4",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Flametongue",
+                    "track_id": "xg52v2",
+                    "volume": 79.21000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sneak",
+                    "track_id": "94dvyr",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Wave",
+                    "track_id": "wy0gq5",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sacred",
+                    "track_id": "wde3n0",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Heal",
+                    "track_id": "wqyndy",
+                    "volume": 34.809999999999995
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Bell",
+                    "track_id": "w317r6",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Necrotic",
+                    "track_id": "gv8n85",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Command",
+                    "track_id": "rezoj3",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ding",
+                    "track_id": "96qnln",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Calm",
+                    "track_id": "8nezko",
+                    "volume": 34.809999999999995
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Curse",
+                    "track_id": "xpzr8z",
+                    "volume": 40.96
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Clairvoyance",
+                    "track_id": "9mq0d8",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Eating",
+                    "track_id": "xv7ll2",
+                    "volume": 31.360000000000003
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dispel",
+                    "track_id": "gv8jey",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sending",
+                    "track_id": "xprqjz",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Tongues",
+                    "track_id": "Dwarf - Adult Dwarf Rallies - M Lewis Sauerwein.mp3-1519746697634",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Raise",
+                    "track_id": "Raise Dead Spell - Pablo Betancourt.mp3-1519746697637",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Regenerate",
+                    "track_id": "Regenerate Spell - Pablo Betancourt.mp3-1519746697637",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Restore",
+                    "track_id": "Restorative Spell - Pablo Betancourt.mp3-1519746697637",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "CureBig",
+                    "track_id": "Cure Serious Wounds Spell - Pablo Betancourt.mp3-1519746697637",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "CureMedium",
+                    "track_id": "Cure Moderate Wounds Spell - Pablo Betancourt.mp3-1519746697637",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "CureSmall",
+                    "track_id": "Cure Light Wounds Spell - Pablo Betancourt.mp3-1519746697637",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "SonicBlast",
+                    "track_id": "Sonic Blast Spell - Pitch Michael.mp3-1519746697638",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "IceBlast",
+                    "track_id": "Ice Blast Spell - Pitch Michael.mp3-1519746697638",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Fireball",
+                    "track_id": "Fireball Spell - Daniel Warneke.mp3-1519746697637",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "FireBlast",
+                    "track_id": "Fire Blast Spell - Pitch Michael.mp3-1519746697637",
+                    "volume": 15.21
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Acid",
+                    "track_id": "Acid Blast Spell - Pitch Michael.mp3-1519746697637",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Ironskin",
+                    "track_id": "Ironskin Spell - Filippo Buresta.mp3-1519746697639",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Mirror",
+                    "track_id": "Mirror Image Spell - Filippo Buresta.mp3-1519746697639",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Stoneskin",
+                    "track_id": "Stoneskin Spell - Filippo Buresta.mp3-1519746697639",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "MindControl",
+                    "track_id": "Mind Control Psi - Daniele Galante.mp3-1519746697640",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "MindDamage",
+                    "track_id": "Mind Damage Psi - Daniele Galante.mp3-1519746697640",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "MindStun",
+                    "track_id": "Mind Stun Psi - Daniele Galante.mp3-1519746697640",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Prayer",
+                    "track_id": "Dwarf - Adult Dwarf Mourns - M Lewis Sauerwein.mp3-1519750351391",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "LightningBolt",
+                    "track_id": "wjqd3p",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "DevilCall",
+                    "track_id": "Infernal - Highborn Devil Calls to Battle - AIFR Productions.mp3-1519750351392",
+                    "volume": 34.809999999999995
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "DevilTalk",
+                    "track_id": "Infernal - Highborn Devil Converses - AIFR Productions.mp3-1519750351392",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "DevilDisgust",
+                    "track_id": "Infernal - Highborn Devil Disgusts - AIFR Productions.mp3-1519750351392",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "DevilLaugh",
+                    "track_id": "Infernal - Highborn Devil Snickers - AIFR Productions.mp3-1519750351392",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "DevilSpeaks",
+                    "track_id": "Infernal - Highborn Devil Speaks - AIFR Productions.mp3-1519750351392",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "DevilStews",
+                    "track_id": "Infernal - Highborn Devil Stews - AIFR Productions.mp3-1519750351392",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "MagicMissile",
+                    "track_id": "6mk8m2",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "WitchBolt",
+                    "track_id": "gvp0n7",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Blast",
+                    "track_id": "xpn5ld",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Haste",
+                    "track_id": "xz761v",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Crit",
+                    "track_id": "97j6go",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Trombone",
+                    "track_id": "xz7j8m",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Boo",
+                    "track_id": "xr4vr3",
+                    "volume": 56.25
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Levitate",
+                    "track_id": "wq735y",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "SnakeCharm",
+                    "track_id": "we5jnp",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Where",
+                    "track_id": "wd20g6",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Orb1",
+                    "track_id": "wjpjd0",
+                    "volume": 4.000000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Barrier",
+                    "track_id": "33z586",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Lore",
+                    "track_id": "xp5k60",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sphere",
+                    "track_id": "xznppv",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "SaberHit",
+                    "track_id": "94om57",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "SaberSwing",
+                    "track_id": "94yrvr",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "HeavyHit",
+                    "track_id": "96oneo",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "ForceLightning",
+                    "track_id": "xr1p33",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Hiya",
+                    "track_id": "w0eoo4",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Punch",
+                    "track_id": "xrqo3j",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "ForcePush",
+                    "track_id": "w3l33r",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "ForceShield",
+                    "track_id": "wlvq00",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Conjure",
+                    "track_id": "4r5qvr",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Shit",
+                    "track_id": "w3qnjr",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "DemonLaugh",
+                    "track_id": "96nkro",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Whip",
+                    "track_id": "w31ozd",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sickness",
+                    "track_id": "91gg3k",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Madness",
+                    "track_id": "9o1moe",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Spider",
+                    "track_id": "wl5ygp",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "MonsterBite",
+                    "track_id": "w5dqzz",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "FleshEating",
+                    "track_id": "92pv8g",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Bite",
+                    "track_id": "wezry6",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Web",
+                    "track_id": "xz130y",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dancing Lights",
+                    "track_id": "m24ye7",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Faerie Fire",
+                    "track_id": "n3vn6r",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Darkness",
+                    "track_id": "xzrqmj",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Poison Spray",
+                    "track_id": "x82mjy",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ray Of Frost",
+                    "track_id": "xgl1g5",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Alter Self",
+                    "track_id": "w01883",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Misty Step",
+                    "track_id": "7yl1o3",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Lightning Bolt",
+                    "track_id": "wjqd3p",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Black Tentacles",
+                    "track_id": "xzp0pm",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Invisibility",
+                    "track_id": "wyd3p1",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ray Of Frost",
+                    "track_id": "xgl1g5",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Shockwave",
+                    "track_id": "wdk000",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Cloudkill",
+                    "track_id": "w0dog4",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Detect",
+                    "track_id": "9mq0d8",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Lesser Restoration",
+                    "track_id": "wqyndy",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dispel Magic",
+                    "track_id": "gv8jey",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Insect",
+                    "track_id": "1loyzq",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Summon",
+                    "track_id": "924gqv",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Axe",
+                    "track_id": "e8e4rp",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sword",
+                    "track_id": "xk6pdm",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Claw",
+                    "track_id": "9mmn4v",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Tentacle",
+                    "track_id": "xrdj2y",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Rapier",
+                    "track_id": "nqm76n",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dagger",
+                    "track_id": "xrlog3",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Vicious Mockery",
+                    "track_id": "mk3m71",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Eldritch Blast",
+                    "track_id": "w5q4k6",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Hideous Laughter",
+                    "track_id": "9o80n1",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Pan Flute",
+                    "track_id": "g8z8ry",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Lute",
+                    "track_id": "wez1j1",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Booming Blade",
+                    "track_id": "9748pp",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Fire",
+                    "track_id": "xrqyoj",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Hex",
+                    "track_id": "l2dpz0",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Flail",
+                    "track_id": "wendk6",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Shillelagh",
+                    "track_id": "qp80qj",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Thunderwave",
+                    "track_id": "gvp05y",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Thunderwave",
+                    "track_id": "gvp05y",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Quarterstaff",
+                    "track_id": "6mo32o",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sneak Attack",
+                    "track_id": "4nrdml",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Glaive",
+                    "track_id": "zn8rgj",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Blur",
+                    "track_id": "7yl1o3",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Bane",
+                    "track_id": "y5dnn5",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Bless",
+                    "track_id": "dvpjrn",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dissonant Whisper",
+                    "track_id": "rezoj3",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dissonant Whispers by Cerwin",
+                    "track_id": "w0rn63",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Heat Metal",
+                    "track_id": "2y61dl",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ogre",
+                    "track_id": "xgjmy2",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Hellhound",
+                    "track_id": "9mly67",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Fire Breath",
+                    "track_id": "xro4k3",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Natural 20",
+                    "track_id": "5ogdp2",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Critical Fail",
+                    "track_id": "97jl2o",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Minor Illusion",
+                    "track_id": "w040zg",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Mage Armor",
+                    "track_id": "x8z15y",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sleep",
+                    "track_id": "xr4zq3",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Greatsword1",
+                    "track_id": "rervzv",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Mace",
+                    "track_id": "945ld7",
+                    "volume": "50"
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ray of Enfeeblement",
+                    "track_id": "gv8n85",
+                    "volume": "50"
+                }
+            ]
+        }
+    ]
+}
