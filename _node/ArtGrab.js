@@ -7,7 +7,7 @@ const kg = require("./Kludge");
 global.args = require('minimist')(process.argv.slice(2));
 
 if (args.h || args.help) {
-	console.log(`Usage: npm run art [-- [--dry]]`);
+	console.log(`Usage: npm run art [-- [dry] [nothumbs]]`);
 	return;
 }
 
@@ -16,6 +16,7 @@ class ArtGrab {
 
 	constructor (opt= {}) {
 		this.dryRun = opt.dryRun;
+		this.skipThumbnailGeneration = opt.skipThumbnailGeneration;
 
 		this.fileIndex = 0;
 		this.rowIndex = 0;
@@ -196,7 +197,7 @@ class ArtGrab {
 			this.accumulatedRows = [row];
 			this.rowIndex = 0;
 		}
-		this._doSaveThumbnail(row.uri);
+		if (this.skipThumbnailGeneration) this._doSaveThumbnail(row.uri);
 	}
 
 	async _doSaveThumbnail (uri) {
@@ -352,5 +353,5 @@ class ArtGrab {
 	}
 }
 
-const grabber = new ArtGrab({dryRun: !!args.dry});
+const grabber = new ArtGrab({dryRun: !!args.dry, skipThumbnailGeneration: !!args.nothumbs});
 grabber.run();
