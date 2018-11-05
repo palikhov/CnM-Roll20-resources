@@ -19,6 +19,7 @@ class ArtGrab {
 
 		this.fileIndex = 0;
 		this.rowIndex = 0;
+		this.thumbnailCount = 0;
 		this.enums = {}; // fill this with values for each field
 		this.index = []; // fill this with metadata for each file
 		this.schema = {
@@ -198,24 +199,39 @@ class ArtGrab {
 		this._doSaveThumbnail(row.uri);
 	}
 
-	_doSaveThumbnail (uri) {
+	async _doSaveThumbnail (uri) {
 		const fileName = `${this.fileIndex}-thumb-${this.rowIndex}.jpg`;
 		const path = `./ExternalArt/dist/${fileName}`;
-		rp({
-			url: uri,
-			encoding: null
-		}).then(res => {
-			const img = sharp(res)
+
+		let imageData;
+		try {
+			imageData = await rp({
+				url: uri,
+				encoding: null
+			});
+		} catch (e) {
+			return console.error(`${ArtGrab._logPad("THUMBNAIL")}Failed to retrieve image data from ${uri}: `, e.message);
+		}
+
+		let img;
+		try {
+			img = sharp(imageData)
 				.resize(180, 180, {
 					fit: "contain",
 					background: ArtGrab.WHITE
 				})
 				.flatten(ArtGrab.WHITE)
 				.jpeg();
+		} catch (e) {
+			return console.error(`${ArtGrab._logPad("THUMBNAIL")}Failed to create thumbnail image for ${uri}: `, e.message);
+		}
 
-			if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping image write: "${fileName}"...`);
-			else img.toFile(path);
-		});
+		if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping image write: "${fileName}"...`);
+		else {
+			img.toFile(path);
+			const thumbnailCount = ++this.thumbnailCount;
+			if (!(thumbnailCount % 50)) console.log(`${ArtGrab._logPad("THUMBNAIL")}${thumbnailCount} thumbnails created...`);
+		}
 	}
 
 	_parseRow (row) {
