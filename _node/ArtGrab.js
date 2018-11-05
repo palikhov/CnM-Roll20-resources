@@ -3,6 +3,7 @@ const sharp = require("sharp");
 const rp = require("request-promise-native");
 const login = require("./GoogleAuth");
 const kg = require("./Kludge");
+const rq = require("./RequestQueue");
 
 global.args = require('minimist')(process.argv.slice(2));
 
@@ -17,6 +18,8 @@ class ArtGrab {
 	constructor (opt= {}) {
 		this.dryRun = opt.dryRun;
 		this.skipThumbnailGeneration = opt.skipThumbnailGeneration;
+
+		this.requestQueue = new rq.RequestQueue(16);
 
 		this.fileIndex = 0;
 		this.rowIndex = 0;
@@ -180,7 +183,7 @@ class ArtGrab {
 				Object.values(this.index).forEach(fileIndex => Object.keys(fileIndex).filter(k => !k.startsWith("_")).forEach(k => fileIndex[k].sort(kg.ascSortLower)));
 				this._saveMetaFile(`index`, this.index);
 
-				console.log(`${ArtGrab._logPad("PROCESS")}Run complete. Output ${this.fileIndex} data files.`);
+				console.log(`${ArtGrab._logPad("PROCESS")}Output ${this.fileIndex} data files.`);
 			});
 	}
 
@@ -197,7 +200,7 @@ class ArtGrab {
 			this.accumulatedRows = [row];
 			this.rowIndex = 0;
 		}
-		if (this.skipThumbnailGeneration) this._doSaveThumbnail(row.uri);
+		if (!this.skipThumbnailGeneration) this.requestQueue.add(this._doSaveThumbnail.bind(this, row.uri));
 	}
 
 	async _doSaveThumbnail (uri) {
