@@ -1,4 +1,6 @@
 const fs = require("fs");
+const sharp = require("sharp");
+const rp = require("request-promise-native");
 const login = require("./GoogleAuth");
 const kg = require("./Kludge");
 
@@ -10,10 +12,13 @@ if (args.h || args.help) {
 }
 
 class ArtGrab {
+	static get WHITE () {return {r: 255, g: 255, b: 255, alpha: 1}}
+
 	constructor (opt= {}) {
 		this.dryRun = opt.dryRun;
 
 		this.fileIndex = 0;
+		this.rowIndex = 0;
 		this.enums = {}; // fill this with values for each field
 		this.index = []; // fill this with metadata for each file
 		this.schema = {
@@ -180,6 +185,7 @@ class ArtGrab {
 	_doAccumulateAndOutput (row) {
 		if (row.artist.toLowerCase() === this.lastArtist.toLowerCase() && row.set.toLowerCase() === this.lastSet.toLowerCase()) {
 			this.accumulatedRows.push(row);
+			this.rowIndex++;
 		} else {
 			const fileName = this._saveFile(this.lastArtist, this.lastSet, {data: this.accumulatedRows});
 			this._indexFile(this.lastArtist, this.lastSet, fileName, this.accumulatedRows);
@@ -187,7 +193,29 @@ class ArtGrab {
 			this.lastArtist = row.artist;
 			this.lastSet = row.set;
 			this.accumulatedRows = [row];
+			this.rowIndex = 0;
 		}
+		this._doSaveThumbnail(row.uri);
+	}
+
+	_doSaveThumbnail (uri) {
+		const fileName = `${this.fileIndex}-thumb-${this.rowIndex}.jpg`;
+		const path = `./ExternalArt/dist/${fileName}`;
+		rp({
+			url: uri,
+			encoding: null
+		}).then(res => {
+			const img = sharp(res)
+				.resize(180, 180, {
+					fit: "contain",
+					background: ArtGrab.WHITE
+				})
+				.flatten(ArtGrab.WHITE)
+				.jpeg();
+
+			if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping image write: "${fileName}"...`);
+			else img.toFile(path);
+		});
 	}
 
 	_parseRow (row) {
@@ -239,7 +267,7 @@ class ArtGrab {
 		this.schemaByIndexCache = {};
 		Object.values(this.schema).filter(v => !v.ignore).forEach(v => {
 			this.schemaByIndexCache[v.rowIndex] = v;
-		})
+		});
 	}
 
 	_getNextFilename () {
