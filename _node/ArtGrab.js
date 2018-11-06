@@ -202,12 +202,12 @@ class ArtGrab {
 			this.accumulatedRows = [row];
 			this.rowIndex = 0;
 		}
-		if (!row._isLastRow && !this.skipThumbnailGeneration) this.requestQueue.add(this._doSaveThumbnail.bind(this, row.artist, row.set, row.uri));
+		if (!row._isLastRow && !this.skipThumbnailGeneration) this.requestQueue.add(this._doSaveThumbnail.bind(this, row.artist, row.set, row.uri, this.rowIndex));
 	}
 
-	async _doSaveThumbnail (artist, set, uri) {
+	async _doSaveThumbnail (artist, set, uri, rowIndex) {
 		const slugName = ArtGrab.__getSlug(artist, set);
-		const fileName = `${slugName}--thumb-${this.rowIndex}.jpg`;
+		const fileName = `${slugName}--thumb-${rowIndex}.jpg`;
 		const path = `./ExternalArt/dist/${fileName}`;
 
 		let imageData;
