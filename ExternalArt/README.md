@@ -11,6 +11,6 @@ The files in the `dist` directory are automatically generated from the spreadshe
 To run the script, follow the setup guide in the project's README.md, and then `$ npm run art` from the project root.
 
 #### Options
-To skip thumbnail generation: `$ npm run art -- nothumbs`
+To skip thumbnail generation: `$ npm run art -- --nothumbs`
 
-To do a "dry run" (no files will be saved): `$ npm run art -- dry`
+To do a "dry run" (no files will be saved): `$ npm run art -- --dry`
