@@ -5,6 +5,8 @@ const login = require("./GoogleAuth");
 const rq = require("./RequestQueue");
 const kg = require("./Kludge");
 
+process.on("unhandledRejection", (e) => console.error(`${kg.logPad("PROCESS")}Unhandled rejection caught by process handler!`, e.message));
+
 global.args = require('minimist')(process.argv.slice(2));
 
 if (args.h || args.help) {
@@ -237,7 +239,7 @@ class ArtGrab {
 			try {
 				await img.toFile(path);
 			} catch (e) {
-				return console.log(`${kg.logPad("THUMBNAIL")}Failed to save thumbnail image for "${uri}":`, e.message);
+				return console.error(`${kg.logPad("THUMBNAIL")}Failed to save thumbnail image for "${uri}":`, e.message);
 			}
 			const thumbnailCount = ++this.thumbnailCount;
 			if (!(thumbnailCount % 50)) console.log(`${kg.logPad("THUMBNAIL")}${thumbnailCount} thumbnails created...`);
