@@ -185,7 +185,7 @@ class ArtGrab {
 				Object.values(this.index).forEach(fileIndex => Object.keys(fileIndex).filter(k => !k.startsWith("_")).forEach(k => fileIndex[k].sort(kg.ascSortLower)));
 				this._saveMetaFile(`index`, this.index);
 
-				console.log(`${kg.logPad("PROCESS")}Output ${this.fileCount} data files.`);
+				console.log(`${kg.logPad("PROCESS")}Sheet processing complete. Output ${this.fileCount} data files.${this.requestQueue.length ? ` Thumbnail creation is active, with ${this.requestQueue.length} requests queued.` : ""}`);
 			});
 	}
 

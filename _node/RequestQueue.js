@@ -41,6 +41,10 @@ class RequestQueue {
 			});
 		} else if (this.active <= 0) console.log(`${kg.logPad("QUEUE")}All tasks complete.`);
 	}
+
+	get length () {
+		return this.queue.length;
+	}
 }
 
 module.exports = {
