@@ -31,6 +31,8 @@ Bridge over the Lava  |||
 Camp in the Woods |||
 Cellar        |||
 Dark Portal   |||
+|Blue Portal||https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/BLUEPORTALHD.webm
+|Demonic Portal||https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/DEMONICPORTALHD.webm
 Desert        |||
 Dungeon of Skulls |||
 Fiery         |||
@@ -40,8 +42,34 @@ Goblin Ambush |||
 Goblin Caves  |||
 Grasslands    |||
 Maelstrom     |||
+|||https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/darklake_vortex-gridded.webm
+|||https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/darklake_vortex-gridless.webm
 Modular Cave/Mine |||
-
+Modular Dungeon (pack 1) |||
+Modular Dungeon (pack 2) |||
+Mountain Ruins |||
+Plain Dungeon Floor |||
+|Dugeon Floor Purple ||https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40_purple.webm
+|||https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40_blue.webm
+|||https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40.webm
+Rainy Encounter |||
+Red Rocks Encounter |||
+Ritual Circle and Astral Encounter |||
+Tavern - Inn Pack |||
+|Kitchen Cellar||https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/kitchen%2Bcellar-gridless.webm
+|Kitchen Cellar (Grid)||https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/The_Roaring_Pony_Rooms_level%20HD_GRID.webm
+|Roaring Pony Room||https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/The_Roaring_Pony_Rooms_level%20HD_GRIDLESS.webm
+|Roaring Pony Room (Grid)||https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/The_Roaring_Pony_Rooms_level%20HD_GRID.webm
+The City |||
+|City Walls| night |https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/CITY_WALLS_night_gridless.webm
+|City Walls (Grid) | night |https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/CITY_WALLS_night_gridded.webm
+|City Walls| |https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/CITY_WALLS_day_gridless.webm
+|City Walls (Grid) |  |https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/CITY_WALLS_day_gridded.webm
+The Drunken Goat Inn |||
+The Fortress |||
+The Village |||
+Underdark Fissure |||
+Waterfall Fed Pool |||
 
 ### Tabletop Things
 
