@@ -33,27 +33,26 @@ Patreon: https://www.patreon.com/dynamicdungeons
 
 ### Inns & Taverns; 
 
-**1st Floor Inn; Hall** (Grid) The_Roaring_Pony_full.webm
+**1st Floor Inn; Hall** The Roaring Pony & Drunken Goat Sets
 
  - [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_full.webm)  • [Gridless](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_full_HD_GRIDLESS.webm)  • [Main Hall w/ Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_Main_HallHD_GRIDD.webm)  •
 [Main Hall](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_Main_HallHD_GRIDLESS.webm)
  
- **1st Floor Inn; Kitchen and stairs to cellar** (Grid) Cellars_kitchen_cellar_chapel_grid.webm
+ **1st Floor Inn; Kitchen and stairs to cellar** Cellars_kitchen_cellar_chapel_grid.webm
  
  - [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_kitchen_cellar_chapel_grid.webm) •
 [URL](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_kitchen_cellar_chapel_gridless.webm) • [URL](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_unfurnishedHD_GRIDLESS.webm) • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_unfurnishedHD_GRID.webm)
   
-**2nd Floor; Bed (Grid)** _The_Roaring_Pony_Rooms_level HD_GRID.webm
+**2nd Floor; Bed (Grid)** The Roaring Pony Rooms 
 
- - [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level HD_GRID.webm) • [URL](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level HD_GRIDLESS.webm) • 
+ - [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level HD_GRID.webm) • [URL](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level HD_GRIDLESS.webm) 
 
 
 ### Town
 
 **Village** Village Outskirts-Daytime 01.webm
 
-- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village Outskirts-Daytime 01.webm)
- • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_grid.webm)
+- [Outskirt](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village Outskirts-Daytime 01.webm) • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_grid.webm)
  • [URL](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridless.webm)
  • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridLN.webm)
  • [Grid, Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_night_grid.webm)
@@ -96,8 +95,8 @@ Market_Square_gridded_.webm
 - [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bridge_over_the_canal_HD_night_gridded.webm)
 - [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bridge_over_the_canal_HD_night_griddless.webm)
 
-- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle Courtyard East.webm)
-- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle Courtyard West.webm)
+- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle%20Courtyard%20East.webm)
+- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/le)
 - [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle Courtyard.webm)
 
 
@@ -201,10 +200,6 @@ Patreon:
 Filename | Features | URL 
 ---|----|----
 ||
-||
-||
-||
-||
 
 
 
@@ -216,45 +211,12 @@ youTube: https://www.youtube.com/channel/UCrsCjHT8tJ1vpSkvLoYji3g/videos
 
 Patreon:
 
+#### Bridge
+https://i.imgur.com/JrZZAqH.mp4
 
 Note: many of these maps are relative small and do not lend themselves easily to battlemaps as their visual elements often suggest a scale of the image is ~30ft across. For outdoor landscape, this is problematic for many battlemaps.
 
-Name | URL 
----|----
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
-|https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/
+
 
 
 Antennae tower.webm
