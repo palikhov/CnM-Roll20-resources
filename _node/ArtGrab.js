@@ -132,7 +132,7 @@ class ArtGrab {
 						if (target) target[1].rowIndex = i;
 					});
 
-					const notFound = Object.entries(this.schema).filter(([k, v]) => v.rowIndex == null);
+					const notFound = Object.entries(this.schema).filter(([k, v]) => v.rowIndex == null && !v.ignore);
 					if (notFound.length) throw new Error(`Schema mismatch; the following headers were not found in the spreadsheet: ${notFound.map(nf => `"${nf[0]}"`).join("; ")}\nNote that headers are CaSe-SeNsItIvE!`);
 
 					this._generateSchemaByIndexCache();
