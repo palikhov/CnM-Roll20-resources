@@ -1,19 +1,29 @@
 const fs = require("fs");
+const sharp = require("sharp");
+const rp = require("request-promise-native");
 const login = require("./GoogleAuth");
 const kg = require("./Kludge");
+const rq = require("./RequestQueue");
 
 global.args = require('minimist')(process.argv.slice(2));
 
 if (args.h || args.help) {
-	console.log(`Usage: npm run art [-- [--dry]]`);
+	console.log(`Usage: npm run art [-- [dry] [nothumbs]]`);
 	return;
 }
 
 class ArtGrab {
+	static get WHITE () {return {r: 255, g: 255, b: 255, alpha: 1}}
+
 	constructor (opt= {}) {
 		this.dryRun = opt.dryRun;
+		this.skipThumbnailGeneration = opt.skipThumbnailGeneration;
+
+		this.requestQueue = new rq.RequestQueue(16);
 
 		this.fileIndex = 0;
+		this.rowIndex = 0;
+		this.thumbnailCount = 0;
 		this.enums = {}; // fill this with values for each field
 		this.index = []; // fill this with metadata for each file
 		this.schema = {
@@ -173,13 +183,14 @@ class ArtGrab {
 				Object.values(this.index).forEach(fileIndex => Object.keys(fileIndex).filter(k => !k.startsWith("_")).forEach(k => fileIndex[k].sort(kg.ascSortLower)));
 				this._saveMetaFile(`index`, this.index);
 
-				console.log(`${ArtGrab._logPad("PROCESS")}Run complete. Output ${this.fileIndex} data files.`);
+				console.log(`${ArtGrab._logPad("PROCESS")}Output ${this.fileIndex} data files.`);
 			});
 	}
 
 	_doAccumulateAndOutput (row) {
 		if (row.artist.toLowerCase() === this.lastArtist.toLowerCase() && row.set.toLowerCase() === this.lastSet.toLowerCase()) {
 			this.accumulatedRows.push(row);
+			this.rowIndex++;
 		} else {
 			const fileName = this._saveFile(this.lastArtist, this.lastSet, {data: this.accumulatedRows});
 			this._indexFile(this.lastArtist, this.lastSet, fileName, this.accumulatedRows);
@@ -187,6 +198,43 @@ class ArtGrab {
 			this.lastArtist = row.artist;
 			this.lastSet = row.set;
 			this.accumulatedRows = [row];
+			this.rowIndex = 0;
+		}
+		if (!this.skipThumbnailGeneration) this.requestQueue.add(this._doSaveThumbnail.bind(this, row.uri));
+	}
+
+	async _doSaveThumbnail (uri) {
+		const fileName = `${this.fileIndex}-thumb-${this.rowIndex}.jpg`;
+		const path = `./ExternalArt/dist/${fileName}`;
+
+		let imageData;
+		try {
+			imageData = await rp({
+				url: uri,
+				encoding: null
+			});
+		} catch (e) {
+			return console.error(`${ArtGrab._logPad("THUMBNAIL")}Failed to retrieve image data from ${uri}: `, e.message);
+		}
+
+		let img;
+		try {
+			img = sharp(imageData)
+				.resize(180, 180, {
+					fit: "contain",
+					background: ArtGrab.WHITE
+				})
+				.flatten(ArtGrab.WHITE)
+				.jpeg();
+		} catch (e) {
+			return console.error(`${ArtGrab._logPad("THUMBNAIL")}Failed to create thumbnail image for ${uri}: `, e.message);
+		}
+
+		if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping image write: "${fileName}"...`);
+		else {
+			img.toFile(path);
+			const thumbnailCount = ++this.thumbnailCount;
+			if (!(thumbnailCount % 50)) console.log(`${ArtGrab._logPad("THUMBNAIL")}${thumbnailCount} thumbnails created...`);
 		}
 	}
 
@@ -239,7 +287,7 @@ class ArtGrab {
 		this.schemaByIndexCache = {};
 		Object.values(this.schema).filter(v => !v.ignore).forEach(v => {
 			this.schemaByIndexCache[v.rowIndex] = v;
-		})
+		});
 	}
 
 	_getNextFilename () {
@@ -308,5 +356,5 @@ class ArtGrab {
 	}
 }
 
-const grabber = new ArtGrab({dryRun: !!args.dry});
+const grabber = new ArtGrab({dryRun: !!args.dry, skipThumbnailGeneration: !!args.nothumbs});
 grabber.run();
