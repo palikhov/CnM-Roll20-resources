@@ -2,9 +2,21 @@ These files are for use with Roll20 Enhancement Suite's new animated background 
 
 As time allows there will a composite list of various animated background files, their 'theme' and content. While there are a couple key places to find animated battlemaps; the animated backgrounds should be of `.webm` video type, and stored somewhere both you and your players (who must also be running the addon) can access. So saving the youtube video on your local machine or behind a paywall/password wont' work.
 
-# How to generate a usable link from an existing site. 
+# How to enable an Animated Backgroud
 
-### Usable links from Online sources
+Look for the ![Player Configuration](https://image.ibb.co/mP0yeq/Icon.png) animation configutation icon. *(located near the top left corner by the Roll20 Toolbar)*
+
+Which when chicked opened will show... 
+
+![Player Configuration](https://image.ibb.co/heMFQV/Background-Setup.png)
+
+You will need to insert a valid media URL...
+
+
+
+# How to generate a usable media URL link from an existing site. 
+
+### Usable Media URLs from Online sources
 
 *This requires VLC player*
 
