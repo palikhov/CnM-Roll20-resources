@@ -55,11 +55,8 @@ So for that file name example:  base `URL` + `File name`=
 
 - [Listing by Filename](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/By%20filename.MD)
 
-the following list are functional animated maps you can use. right click on the URL and choose `Copy Link Address`
-
 
 - [Listing by Artist & Set](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/Listing%20by%20Artist%20n%20Set.MD)
-
 
 
 # Animated Background/Maps by Thematic content
@@ -71,6 +68,10 @@ artist:
 youTube: https://www.youtube.com/channel/UCaiH6M0BgtupcNcDisrJySw/videos
 
 Patreon: https://www.patreon.com/dynamicdungeons
+
+
+
+the following list are functional animated maps you can use. right click on the URL and choose `Copy Link Address`
 
 
 ### City & Settlements
