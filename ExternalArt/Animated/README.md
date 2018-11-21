@@ -1,8 +1,8 @@
 These files are for use with Roll20 Enhancement Suite's new animated background feature.
 
-As time allows there will a composite list of various animated background files, their 'theme' and content. While there are a couple key places to find animated battlemaps; the animated backgrounds should be of `.webm` video type, and stored somewhere both you and your players (who must also be running the addon) can access. So saving the youtube video on your local machine or behind a paywall/password wont' work.
+As time allows there will a composite list of various animated background files, their 'theme' and content. While there are a couple key places to find animated battlemaps; the animated backgrounds should be of `.webm` or `.mp4` video type, and stored somewhere both you and your players (who must also be running the addon) can access. So saving the youtube video on your local machine or behind a paywall/password wont' work.
 
-# How to enable an Animated Backgroud
+# How to enable an Animated Background
 
 Look for the ![Player Configuration](https://image.ibb.co/mP0yeq/Icon.png) animation configutation icon. *(located near the top left corner by the Roll20 Toolbar)*
 
@@ -71,17 +71,7 @@ So for that file name example:  base `URL` + `File name`=
 - [Listing by Artist & Set](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/Listing%20by%20Artist%20n%20Set.MD)
 
 
-# Animated Background/Maps by Thematic content
-
-## Dynamic Dungeons 
-
-artist:
-
-youTube: https://www.youtube.com/channel/UCaiH6M0BgtupcNcDisrJySw/videos
-
-Patreon: https://www.patreon.com/dynamicdungeons
-
-
+# Animated Background Resources by Thematic content
 
 the following list are functional animated maps you can use. right click on the URL and choose `Copy Link Address`
 
@@ -170,6 +160,21 @@ Acid Dungeon ; acid-basin-chamber.webm ; Dungeon w/ Acid
 #### Plain Dungeon Door
 
 [Purple Plain Dungeon Floor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40_purple.webm) • [Blue Plain Dungeon Floor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40_blue.webm) • [Plain Dungeon Floor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40.webm)
+
+
+
+# Artists
+
+
+## Dynamic Dungeons 
+
+artist:
+
+youTube: https://www.youtube.com/channel/UCaiH6M0BgtupcNcDisrJySw/videos
+
+Patreon: https://www.patreon.com/dynamicdungeons
+
+
 
 
 
