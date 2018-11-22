@@ -331,7 +331,7 @@ the following list are functional animated maps you can use. right click on the 
 
 [8x8_room_N_torch.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_N_torch.webm)
 
-[8x8_room_S.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/)8x8_room_S.webm
+[8x8_room_S.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_S.webm)
 
 [8x8_room_S_torch.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_S_torch.webm)
 
