@@ -22,7 +22,7 @@ the following list are functional animated maps you can use. right click on the 
 
 [acidic-dungeon-LN.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/acidic-dungeon-LN.webm)
 
-[Antennae tower.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Antennae tower.webm)
+[Antennae tower.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Antennae%20tower.webm)
 
 [BLUEPORTALHD.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/BLUEPORTALHD.webm)
 
@@ -34,13 +34,13 @@ the following list are functional animated maps you can use. right click on the 
 
 [bravil-4.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bravil-4.webm)
 
-[Bridge over the lava collapsed GRID.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Bridge over the lava collapsed GRID.webm)
+[Bridge over the lava collapsed GRID.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Bridge%20over%20the%20lava%20collapsed%20GRID.webm)
 
-[Bridge over the lava collapsed GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Bridge over the lava collapsed GRIDLESS.webm)
+[Bridge over the lava collapsed GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Bridge%20over%20the%20lava%20collapsed%20GRIDLESS.webm)
 
-[Bridge over the lava GRID.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Bridge over the lava GRID.webm)
+[Bridge over the lava GRID.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Bridge%20over%20the%20lava%20GRID.webm)
 
-[Bridge over the lava GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Bridge over the lava GRIDLESS.webm)
+[Bridge over the lava GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Bridge%20over%20the%20lava%20GRIDLESS.webm)
 
 [bridge_over_the_canal_HD_night_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bridge_over_the_canal_HD_night_gridded.webm)
 
@@ -271,7 +271,6 @@ the following list are functional animated maps you can use. right click on the 
 [_The_Roaring_Pony_Rooms_level HD_GRID.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level%20HD_GRID.webm)
 
 [_The_Roaring_Pony_Rooms_level HD_GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level%20HD_GRIDLESS.webm)
-
 
 
 ### Dungeons of Skulls
