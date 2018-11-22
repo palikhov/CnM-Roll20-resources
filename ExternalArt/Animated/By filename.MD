@@ -409,3 +409,167 @@ the following list are functional animated maps you can use. right click on the 
 [WSE_corridor.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/WSE_corridor.webm)
 
 [WS_corridor.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/WS_corridor.webm)
+
+
+## New CONTENT
+
+-a----        7/11/2018   5:35 PM         935779 Bridge Nightime with Lights-E732CHbbI5g.webm
+-a----        7/11/2018   5:28 PM        3862340 Broken Bridge 00 Daytime-lo7-cAuGFVI.webm
+-a----        7/11/2018   5:27 PM        2910665 Broken Bridge 01 Daytime-a1hA9RoMhKU.webm
+-a----        7/11/2018   5:29 PM        2569268 Broken Bridge Daytime 02-BwVTRcBA7b4.webm
+-a----        7/11/2018   5:31 PM        4135625 Broken Bridge Daytime 03-To9XgSd7iYI.webm
+-a----        7/11/2018   5:30 PM         766607 campfire1-GF9nP2W_45I.webm
+-a----        7/11/2018   5:35 PM        1454086 City Gate Bridge Nightime with lights-fvjNR2BHQMs.webm
+-a----        7/11/2018   5:39 PM        1285716 City Gate Nightime with lights-2LWZwAcVWT0.webm
+-a----        7/11/2018   5:39 PM        2944646 City Gates Bridge Daytime-MguO-LJ3Zn4.webm
+-a----        7/11/2018   5:36 PM        1459727 City Market Daytime 01-GAnwyMVeCTU.webm
+-a----        7/11/2018   5:40 PM         940317 City Street Nightime with lights-Xlh6dWAgmvY.webm
+-a----        7/11/2018   5:37 PM        1023704 City Streets 01 Nightime-NPArKMtOpPo.webm
+-a----        7/11/2018   5:38 PM        1167446 City Streets 02 Nightime-Zjhu1tg7CN8.webm
+-a----        7/11/2018   5:39 PM        1958276 City Streets 03 Nightime-C2X-puD4eM0.webm
+-a----        7/11/2018   5:40 PM        2558956 City Streets 04 Nightime-Fcb52TwABIw.webm
+-a----        7/11/2018   5:41 PM        2043049 City Streets 05 Bridge Nightime-93QSeCIJAAA.webm
+-a----        7/11/2018   5:42 PM        1543370 City Streets 06 Nightime-JZFZith9fTg.webm
+-a----        7/11/2018   5:41 PM         214029 City Streets 07 Nightime-HjqhpDMLmYE.webm
+-a----        7/11/2018   5:43 PM         453517 City Streets 08 Nightime-4XfhXnGmLUA.webm
+-a----        7/11/2018   5:42 PM         443442 City Streets 09 Nightime-z8_nwMf4Ryc.webm
+-a----        7/11/2018   5:46 PM         643359 City Streets 10 Nightime-RiVl_cTSU9g.webm
+-a----        7/11/2018   5:42 PM         389420 City Streets 11 Market Nightime-N3j_zcrllUA.webm
+-a----        7/11/2018   5:42 PM         319707 City Streets 12 Nightime-7eCs4nKcC-Y.webm
+-a----        7/11/2018   5:43 PM         320721 City Streets 13 Nightime-ohjLmLJ9zUk.webm
+-a----        7/11/2018   5:45 PM         978650 City Streets 14 Docks Bridge Nightime-mL8Mm_h4wI4.webm
+-a----        7/11/2018   5:47 PM        2538486 City Streets 15 Docks Bridge Daytime-n4izvNgIDtI.webm
+-a----        7/11/2018   5:46 PM        1560253 City Streets 16 Docks Bridge Daytime-pEsk0_v8RV0.webm
+-a----        7/11/2018   5:50 PM        1058531 City Streets 17 Docks Nighttime-7qH98ZY1-JU.webm
+-a----        7/11/2018   5:51 PM        1788206 City Streets 18 Daytime-8NFvO3sjRDQ.webm
+-a----        7/11/2018   5:53 PM        1675109 City Streets 19 Daytime-FW5TDl7pJzA.webm
+-a----        7/11/2018   5:50 PM        1180359 City Streets 20 Daytime-MIZNlImgfeo.webm
+-a----        7/11/2018   5:58 PM        2593344 City Streets 21 Walled Garden Daytime-UbTZWb2IXlQ.webm
+-a----        7/11/2018   5:58 PM        5397022 City Streets 22 Docks Ship Daytime-Oxl4y3LJ0h4.webm
+-a----        7/11/2018   5:56 PM        1095879 City Streets 23 Tavern Forecourt Daytime-kZp7Zfq1iqg.webm
+-a----        7/11/2018   6:00 PM        2570730 City Streets 24 Outside of Building Nightime-58dqSbV5nQg.webm
+-a----        7/11/2018   6:07 PM        6789532 Coastal Beach 01 Daytime-C60NYVYx8Zc.webm
+-a----        7/11/2018   6:06 PM        1278005 Coastal Beach 02 Nightime-GYfYDdPYZcs.webm
+-a----        7/11/2018   6:12 PM        5792570 Coastal Beach 03 Desert Daytime-XyhXNkmwUA0.webm
+-a----        7/11/2018   6:04 PM        1482991 Coastal Path 01 Nightime-uDmjwLRxpLo.webm
+-a----        7/11/2018   6:01 PM        1942404 Coastal Path 02 Pier Daytime-F7JON54Brus.webm
+-a----        7/11/2018   6:05 PM        2272517 Coastal Path 03 Pier Daytime-ny_XrjC3F9Q.webm
+-a----        7/11/2018   6:06 PM        5810237 Coastal Path 04 Nightime-L_K3TFgJtAo.webm
+-a----        7/20/2018   6:47 PM        4134652 Coastal Path 05 Cliff Daytime-PvCceyzceHw.webm
+-a----        7/20/2018   6:49 PM        4290193 Coastal Path 06 Cliff  Daytime-ZYsFNhVeJYk.webm
+-a----        7/20/2018   6:57 PM        3775183 Coastal Path 07 Daytime-QLgqb8fQu-U.webm
+-a----        7/20/2018   6:50 PM        3557837 Coastal Path 08 Hut Daytime-GxV0hS0VkAw.webm
+-a----        7/17/2018   5:29 PM        2321075 Coastal Village Nightime-MU1BY0ftEMo.webm
+-a----        7/11/2018   6:11 PM        1767817 Country Road 01 Daytime-3fgHRVTBbUc.webm
+-a----        7/11/2018   6:12 PM        2014988 Country Road 02 Daytime-OIzx9KRBwiY.webm
+-a----        7/11/2018   6:12 PM        2401751 Country Road 03 Daytime-zJaG2QEnTD0.webm
+-a----        7/11/2018   6:16 PM        3684118 Country Road 04 Daytime-eRDT3jq8pGg.webm
+-a----        7/11/2018   6:18 PM        2757833 Country Road 05 Daytime-1xGV2PSO8LE.webm
+-a----        7/11/2018   6:15 PM        1504076 Country Road 06 Daytime-ae_r50RmY7E.webm
+-a----        7/11/2018   6:20 PM        1977667 Country Road 07 Bridge Daytime-JuMAzL0W5_U.webm
+-a----        7/11/2018   6:18 PM        1488308 Country Road 08 Bridge Daytime crazyriver-H00EvOWJkmA.webm
+-a----        7/11/2018   6:19 PM        1080554 Country Road 09 Vendors Tents Daytime-2m7ifK8xw_E.webm
+-a----        7/11/2018   6:20 PM        2769800 Country Road 10 Vendors Tents Daytime-OcL5bsE8cLg.webm
+-a----        7/11/2018   6:18 PM         653901 Country Road 11 Small House Daytime-zjp35fvTDp4.webm
+-a----        7/11/2018   6:20 PM        1300237 Country Road 12 Ambush Site-uFgqqDRyuPc.webm
+-a----        7/11/2018   6:24 PM        1022275 Country Road 13 Ambush Site-mhtNCN_oySc.webm
+-a----        7/11/2018   6:25 PM        3893259 Country Road 14 Broken Bridge Daytime-xq1f35UYd9k.webm
+-a----        7/11/2018   6:24 PM        2099558 Country Road 15 Bridge River Crossing Daytime-feWrrxSemIs.webm
+-a----        7/11/2018   6:25 PM        3586548 Country Road 16 Ruined Huts Daytime-G_Z6fySrIvM.webm
+-a----        7/11/2018   6:28 PM        2940758 Country Road 17  Rest Stop Nightime-s4_PaTJ9WVU.webm
+-a----        7/11/2018   6:29 PM        4442086 Country Road 18 Under the Bridge Daytime-Nz--j7VxW3g.webm
+-a----        7/11/2018   6:32 PM        2192884 Countryside 01 Daytime-2cbEqVlzhSM.webm
+-a----        7/11/2018   6:29 PM        1857989 Countryside 02 Daytime-qd8zdjemr6E.webm
+-a----        7/11/2018   6:32 PM        2789120 Countryside 03 Daytime-5XcYm4Vqxkg.webm
+-a----        7/11/2018   6:31 PM        1995538 Countryside 04 Small House Daytime-6aKT2S-F-Bo.webm
+-a----        7/11/2018   6:33 PM        2584656 Countryside 05 River Crossing Daytime-_9PHhi5EQlc.webm
+-a----        7/11/2018   6:36 PM        2526316 Countryside 06 River Crossing Daytime-fqpp1zgnjrQ.webm
+-a----        7/11/2018   6:35 PM        2526702 Countryside 07 River Crossing Daytime-lzQCMn9twCM.webm
+-a----        7/11/2018   6:39 PM        3417268 Countryside 08 River Crossing Daytime-Q9ZpXEXGXbA.webm
+-a----        7/11/2018   6:35 PM        1130036 Countryside 09 Ambush Site Daytime-vZkzMm6dABU.webm
+-a----        7/11/2018   6:35 PM        1156369 Countryside 10 Walled House Nightime-YLPTPEKltxY.webm
+-a----        7/11/2018   6:39 PM        2668537 Countryside 11 Walled Garden Daytime--V-zHTrh7Ks.webm
+-a----        7/11/2018   6:55 PM       20014901 Countryside 12 Small House and Grounds Daytime-AFCAicfpMJQ.webm
+-a----        7/11/2018   6:55 PM        2589080 Fighting Pit 01 Daytime-r4fLDt6XhpM.webm
+-a----        7/11/2018   6:46 PM        1962433 Fighting Pit 02 Daytime-oeXdizGzCqw.webm
+-a----        7/20/2018   6:51 PM        5021878 Forest Camp Nightime-1FuqW53Lmmw.webm
+-a----        7/17/2018   5:33 PM        2391324 Forest Campsite Daytime-5T7po_Nw9qc.webm
+-a----        7/20/2018   6:57 PM        5790028 Forest Clearing 04 Daytime-X8el8C_OtPY.webm
+-a----        7/11/2018   6:59 PM       12929682 forest clearing day1-N_BDQi2EZlM.webm
+-a----        7/11/2018   6:53 PM        4042331 forest clearing day2-Kf5wGmEmfgA.webm
+-a----        7/11/2018   6:53 PM        2878900 forest clearing day3-_XngvrIbElU.webm
+-a----        7/11/2018   7:00 PM        3560446 Forest Clearing Daytime-OJE9_Xwf6mw.webm
+-a----        7/11/2018   7:01 PM        5801971 forest day1-yIcGWi1HYK8.webm
+-a----        7/11/2018   7:04 PM        4467209 forest day2-EA9kaq-smI8.webm
+-a----        7/11/2018   7:10 PM        5423604 forest day4-CZGxl2UNmKM.webm
+-a----        7/11/2018   7:03 PM        4905594 forest day5-1p2hpEezZ6s.webm
+-a----        7/11/2018   7:02 PM        4079877 forest day6-L8pKPMqNK1s.webm
+-a----        7/11/2018   7:03 PM        2550142 forest night bonfire1-7Hyc5BdSx4o.webm
+-a----        7/11/2018   7:05 PM        4547075 forest night1-363F7Io-HQ4.webm
+-a----        7/11/2018   7:10 PM        5084009 forest path day1-oxGnlVFV0b0.webm
+-a----        7/11/2018   7:08 PM        1895641 forest path day2-4JEy6kTrnDo.webm
+-a----        7/11/2018   7:11 PM        3943052 forest path past hut day-T-iMkmiBKwI.webm
+-a----        7/11/2018   7:19 PM        5130208 forest path2-9yWzOxS1Yn4.webm
+-a----        7/20/2018   6:56 PM        3415247 Forest Road 06 Bridge Daytime-n6GvxPcZZsc.webm
+-a----        7/20/2018   6:57 PM        3525474 Forest Road 07 Nightime-4qXq-_xVmsM.webm
+-a----        7/20/2018   7:04 PM       10038327 Forest Road 08 Nightime-vC1JzSAutRU.webm
+-a----        7/20/2018   7:08 PM       11474243 Forest Road 09 River Crossing Nightime-9e7drzYrAQU.webm
+-a----        7/11/2018   7:14 PM        3703926 forest road 4-S5DOvgtDN18.webm
+-a----        7/11/2018   7:15 PM        2881704 forest road 5-J7LFc-fci0c.webm
+-a----        7/11/2018   7:20 PM        5247183 forest road day2-buwUtI-Gqdg.webm
+-a----        7/11/2018   7:19 PM        1816270 forest road day3-kyOmY9582iQ.webm
+-a----        7/11/2018   7:22 PM        3094957 forest road day4-C2-CaYLyeF4.webm
+-a----        7/13/2018   2:19 PM        3001857 forest road day5-7meu9Val5SI.webm
+-a----        7/13/2018   2:23 PM        4587826 forest road night-FKFQ2Qqj1uk.webm
+-a----        7/13/2018   2:22 PM        2271828 forest road-yHXCm84E7BU.webm
+-a----        7/17/2018   5:33 PM        3127938 Forest Ruined Tower Daytime-7ycdDD_pWgs.webm
+-a----        7/17/2018   5:38 PM        3287194 Forest Trails Daytime-b3-348Yriso.webm
+-a----        7/17/2018   6:25 PM        2400679 Forest Trails Nightime-qDjcwPwlP88.webm
+-a----        7/13/2018   2:45 PM       14983570 forestclearing-po-Q7a_cVgU.webm
+-a----        7/13/2018   2:38 PM        9966036 forestclearing2-04kFssLjK-o.webm
+-a----        7/13/2018   2:38 PM        8589682 forestclearing3-9OVCUm_Vtrc.webm
+-a----        7/13/2018   2:34 PM        2140842 forestrural path-T11PXRLAW6A.webm
+-a----        7/13/2018   2:39 PM        3867056 Grassland 01 Daytime-RpUE3GNW3b4.webm
+-a----        7/13/2018   2:38 PM        1173477 Grassland 02 Daytime-k5mtCrNUeL4.webm
+-a----        7/13/2018   2:44 PM        5623944 Icelands 01 Ice Dragon Lair-aFwzDK9wyH8.webm
+-a----        7/17/2018   6:24 PM         553335 Icelands 02 Tundra Daytime-EmVnkqFhgaA.webm
+-a----        7/17/2018   6:23 PM        1327601 Icelands 03 Tundra Daytime-Web3KxYPC8M.webm
+-a----        7/17/2018   6:38 PM         693425 Icelands 04 Tundra Daytime--Qg5FL9_Yrc.webm
+-a----        7/17/2018   6:41 PM        1476725 Icelands 05 Tundra Daytime-cVXJg90wtTM.webm
+-a----        7/20/2018   7:10 PM        9717736 Icelands 06 Tundra Nightime-WzySwJy2qtQ.webm
+-a----        7/20/2018   7:09 PM        2991878 Icelands 07 Tundra Daytime-qSU9sbTCRao.webm
+-a----        7/11/2018   6:15 PM        5962939 Just Cruisin-M2FTZpfvSTU.webm
+-a----        7/13/2018   2:42 PM         409670 Misc 01 Arena-9I0NGlGNu3Y.webm
+-a----        7/13/2018   2:42 PM        1492634 Misc 04 Sea-EnAXNHGlsuE.webm
+-a----        7/17/2018   6:41 PM        1770290 Misc 06 Seascape-BZe1r65-Tio.webm
+-a----        7/17/2018   6:42 PM        2013512 Misc 08 seascape-mwNeMz2ogmE.webm
+-a----        7/13/2018   2:47 PM        2828069 Pretty Village 01 Daytime-fCQAdkfD6bo.webm
+-a----        7/13/2018   2:47 PM        2871045 Pretty Village 02 Bridge Daytime-Qo9qobii6Wc.webm
+-a----        7/13/2018   2:48 PM        3121138 Pretty Village 03 Daytime-xL4hKCPoNnw.webm
+-a----        7/13/2018   2:49 PM        3221507 Pretty Village 04 Daytime-pS-o69YFQpE.webm
+-a----        7/13/2018   2:52 PM        2848270 Pretty Village 05 Daytime-jqdQ-BTdRDs.webm
+-a----        7/13/2018   2:51 PM        1594286 Pretty Village 06 Nightime-WIX3HlNVH3k.webm
+-a----        7/13/2018   3:02 PM        1117943 Pretty Village 07 Nightime-j3uj6iRhT18.webm
+-a----        7/13/2018   2:59 PM         461390 Pretty Village 08 Nightime-axL-70Ns7Vs.webm
+-a----        7/13/2018   3:01 PM        1436751 Pretty Village 09 Nightime-JeUfEeqVHuc.webm
+-a----        7/13/2018   2:59 PM         248572 Pretty Village 10 Nightime-CwN42n8E-Z8.webm
+-a----        7/13/2018   3:02 PM         966121 Pretty Village 11 Nightime-3lOVLhsowrE.webm
+-a----        7/13/2018   3:13 PM        2691587 Rural 01 Fields Daytime-h5d0G5PT8l0.webm
+-a----        7/13/2018   3:18 PM       12529814 Rural 02 River Crossing Daytime-JAGxl6sqWc0.webm
+-a----        7/13/2018   3:18 PM        1394217 Rural 03 Path Daytime-9FnfQYLSICA.webm
+-a----        7/13/2018   3:16 PM        3117703 Rural 04 Village Nightime-PkNmh_zUV7Q.webm
+-a----        7/13/2018   3:18 PM        4815437 Rural 05 Village  Outskirts Daytime-Xcd5Rw5y9BM.webm
+-a----        7/17/2018   6:43 PM        3054332 Rural 06 Ruined Circle Daytime-GyFMVOpqZyc.webm
+-a----        7/13/2018   3:21 PM        2449152 Swamp Marsh 01 Daytime-U-PeYDw7L0Q.webm
+-a----        7/13/2018   3:23 PM        6594711 Swamp Marsh 02 Daytime-QWHsfD2gUcQ.webm
+-a----        7/13/2018   3:19 PM         872963 Temple Ward 01 Nightime-TpsEWAETnZ8.webm
+-a----        7/13/2018   3:27 PM         948648 The Red Road 01 Night-QLsF9ql3gSI.webm
+-a----        7/13/2018   3:33 PM        5642019 The Red Road 02 Night-zC9qpXRqIGk.webm
+-a----        7/13/2018   3:32 PM        4246257 The Red Road 03 Night-Boelfqg9BcY.webm
+-a----        7/13/2018   3:34 PM        3984225 The Red Road 04 Night-h4vwNrNpxMI.webm
+-a----        7/13/2018   3:36 PM        2268680 The Red Road 05 Night-rP64XcqLB_Y.webm
+-a----        7/13/2018   3:36 PM        2172125 The Red Road 06 Night-NIK6gW01vBc.webm
+-a----        7/13/2018   3:42 PM        1410976 The Red Road 07 Night-5yX7WpeKz7U.webm
+-a----        7/13/2018   3:40 PM        2582750 The Red Road 08 Night-9QyxYmAklko.webm
+-a----        7/13/2018   3:41 PM        3261389 Village 01 Gate Nightime-c8fQ-G9IrzQ.webm
+-a----        7/13/2018   3:42 PM        2948397 Village 02 Gatehouse Daytime-GGPkV3rhkrY.webm
