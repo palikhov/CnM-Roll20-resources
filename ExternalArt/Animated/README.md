@@ -55,7 +55,9 @@ The issue being the link must lead to the Video - directly, not be interpreted f
 
 # Local File Repository
 
-In this directory you will find a few examples of working files and links to other files collected and currated to other files provided by people like yourself who wanted to share.
+You can test the features by using a '''Media URL''' for a location local to you, or that you have access to, but in general the Media URL needs to an address that ''anyone'' can use without passwords.
+
+In this directory several files have been provided for you to test or use.
 
 In general to get use the files in this Git to work within the tool, append the `file name` <example : `darklake_vortex-gridless.webm` >
 
@@ -78,16 +80,56 @@ the following list are functional animated maps you can use. right click on the 
 
 ### City & Settlements
 
+#### Castle
+
+[Castle Courtyard East.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle%20Courtyard%20East.webm)
+
+[Castle Courtyard West.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle%20Courtyard%20West.webm)
+
+[Castle Courtyard.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle%20Courtyard.webm)
+
+
 #### Inns & Taverns; 
 
 **1st Floor Inn; Hall** The Roaring Pony & Drunken Goat Sets ;  
 
-- [Pony Ground floor w/ Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_full.webm)  • [Pony Ground floor w/o Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_full_HD_GRIDLESS.webm)  • [Main Hall w/ Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_Main_HallHD_GRIDD.webm)  • [Main Hall w/o Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_Main_HallHD_GRIDLESS.webm)   
+- [Roaring_Pony_Rooms_level GRID](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level%20HD_GRID.webm) • [Roaring Pony Rooms_level GRIDLESS](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level%20HD_GRIDLESS.webm)  • 
+
+[The_Roaring_Pony_full.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_full.webm)
+
+[The_Roaring_Pony_full_HD_GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_full_HD_GRIDLESS.webm)
+
+[The_Roaring_Pony_Main_HallHD_GRIDD.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_Main_HallHD_GRIDD.webm)
+
+[The_Roaring_Pony_Main_HallHD_GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_Main_HallHD_GRIDLESS.webm)
+
 
 - [Cellar w/ Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_kitchen_cellar_chapel_grid.webm) • [Cellar w/o Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_kitchen_cellar_chapel_gridless.webm) • [Unfurnished Cellar w/o Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_unfurnishedHD_GRIDLESS.webm) • [Unfurnished Cellar w/ Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_unfurnishedHD_GRID.webm) 
   
  - [2nd Floor; Bed w/ Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level HD_GRID.webm) • [2nd Floor; Bed](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level HD_GRIDLESS.webm) 
 
+
+[Village Outskirts-Daytime 01.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village%20Outskirts-Daytime%2001.webm)
+
+[Village-Walls-day_Gridless_smls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_Gridless_smls.webm)
+
+[Village-Walls-day_GridLN_smls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_GridLN_smls.webm)
+
+[Village-Walls-day_Grid_sls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_Grid_sls.webm)
+
+[Village-Walls-night_Grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-night_Grid.webm)
+
+[village-Walls-night_Gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-night_Gridless.webm)
+
+[village_day_grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_grid.webm)
+
+[village_day_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridless.webm)
+
+[village_day_gridLN.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridLN.webm)
+
+[village_night_grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_night_grid.webm)
+
+[village_night_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_night_gridless.webm)
 
 #### Town
 
@@ -121,46 +163,135 @@ Tavern - Inn Pack|City Walls (Grid) |  |https://raw.githubusercontent.com/DMsGui
 
 
 
+[Cellars_kitchen_cellar_chapel_grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_kitchen_cellar_chapel_grid.webm)
+
+[Cellars_kitchen_cellar_chapel_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_kitchen_cellar_chapel_gridless.webm)
+
+[Cellars_unfurnishedHD_GRID.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_unfurnishedHD_GRID.webm)
+
+[Cellars_unfurnishedHD_GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_unfurnishedHD_GRIDLESS.webm)
+
+[City_streets_encounter2_HD_day_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City_streets_encounter2_HD_day_gridded.webm)
+
+[City_streets_encounter2_HD_day_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City_streets_encounter2_HD_day_gridless.webm)
+
+[City_streets_encounter2_HD_night_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City_streets_encounter2_HD_night_gridded.webm)
+
+[City_streets_encounter2_HD_night_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City_streets_encounter2_HD_night_gridless.webm)
+
+[city_streets_encounter2_night.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_streets_encounter2_night.webm)
+
+[city_streets_encounter3.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_streets_encounter3.webm)
+
+[city_streets_encounter3_night.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_streets_encounter3_night.webm)
+
+[city_walls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_walls.webm)
+
+[CITY_WALLS_day_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_day_gridded.webm)
+
+[CITY_WALLS_day_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_day_gridless.webm)
+
+[city_walls_night.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_walls_night.webm)
+
+[CITY_WALLS_night_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_night_gridded.webm)
+
+[CITY_WALLS_night_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_night_gridless.webm)#### Market Square
+
+[kitchen+cellar-grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/kitchen+cellar-grid.webm)
+
+[kitchen+cellar-gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/kitchen+cellar-gridless.webm)
 
 
 
-- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_walls.webm)  • [URL](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_day_gridded.webm) •
-[Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_day_gridless.webm)
-city_walls_night.webm • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_walls_night.webm)
- • [Night, Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_night_gridded.webm) •
-[Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_night_gridless.webm)
+[bridge_over_the_canal_HD_night_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bridge_over_the_canal_HD_night_gridded.webm)
 
-#### Market Square
+[bridge_over_the_canal_HD_night_griddless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bridge_over_the_canal_HD_night_griddless.webm)
 
-Market_Square_gridded_.webm
+:**Market**
 
-- [Market w/grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Market_Square_gridded_.webm) • [Market](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Market_Square_gridless_.webm) • [Bridge w/grid Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bridge_over_the_canal_HD_night_gridded.webm)  • [Bridge Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bridge_over_the_canal_HD_night_griddless.webm)  • [Castle Courtyard East](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle%20Courtyard%20East.webm)  • [Castle Courtyard](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle Courtyard.webm) • [Kitchen Cellar](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/kitchen+cellar-grid.webm) • [Kitchen Cellar](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/kitchen+cellar-gridless.webm)
-
-**Las Vegas (modern)**
-
-- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_day.webm) • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_night.webm) •  [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_rotated_day.webm)  • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_rotated_night.webm)
-
-**Highway (modern)**
-
-- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Highway Birdseye Reverse.webm) • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Highway Birdseye.webm) • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Highway Overpass.webm
+::[Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Market_Square_gridded_.webm) • [Gridless](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Market_Square_gridless_.webm)
 
 
+### Modern
 
-### Dungeon
+:**Las Vegas**
 
-Acid Dungeon ; acid-basin-chamber.webm ; Dungeon w/ Acid 
+::**DAY** [Day: Top left](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_day.webm) • [Day: Top_Left_(rotated)](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_rotated_day.webm)
 
-- [URL](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/acid-basin-chamber.webm)
+::**NIGHT** [Night: Top left](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_night.webm) • [Night: Top Left (rotated)](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_rotated_night.webm)
+
+
+:**Highway**
+
+::[Highway Birdseye Reverse.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Highway%20Birdseye%20Reverse.webm)
+
+[Highway Birdseye.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Highway%20Birdseye.webm)
+
+[Highway Overpass.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Highway%20Overpass.webm)
+
+:**Dystopian Playground**
+
+::[playground-1.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/playground-1.webm)
+
+[playground-2.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/playground-2.webm)
+
+
+:**Prison**
+
+::[prison-camp-birdseye.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/prison-camp-birdseye.webm)
+
+[prison-camp-bl.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/prison-camp-bl.webm)
+
+[prison-camp-br.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/prison-camp-br.webm)
+
+[prison-camp-tl.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/prison-camp-tl.webm)
+
+[prison-camp-tr.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/prison-camp-tr.webm)
+
+:[Radar Station](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Radar%20Station.webm)
+
+:[Antennae Tower in the Woods](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Antennae%20tower.webm)
 
 ### Portals
 
+[Blue](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/BLUEPORTALHD.webm) • [Red/Demonic.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/DEMONICPORTALHD.webm)
 [Dark Portal](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/BLUEPORTALHD.webm) • 
 [Demonic Portal](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/DEMONICPORTALHD.webm) • [Darklake Vortex (Grid)](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/darklake_vortex-gridded.webm) • [Darklake Vortex](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/darklake_vortex-gridless.webm)
 
 #### Plain Dungeon Door
 
-[Purple Plain Dungeon Floor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40_purple.webm) • [Blue Plain Dungeon Floor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40_blue.webm) • [Plain Dungeon Floor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40.webm)
+[Plain](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/plaindungeonfloorHD40.webm) • 
+[Blue](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/plaindungeonfloorHD40_blue.webm) • 
+[Purple](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/plaindungeonfloorHD40_purple.webm)
 
+
+### Dungeon
+
+[acid-basin](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/acid-basin-chamber.webm) • [acidic-dungeon](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/acidic-dungeon-LN.webm) • 
+
+
+:#### Dungeon of Skulls
+
+::[0_corridor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/0_corridor.webm) • [0_corridor_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/0_corridor_torch.webm) • [1_corridor_trap](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/1_corridor_trap.webm) • [1_corridor_trap_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/1_corridor_trap_torch.webm) • [2_room1](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/2_room1.webm) • [2_room1_doorway](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/2_room1_doorway.webm) • [2_room1_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/2_room1_torch.webm) • [2_room1_torch_doorway](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/2_room1_torch_doorway.webm) • [3_room2](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/3_room2.webm) • [3_room2_doorway](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/3_room2_doorway.webm) • [3_room2_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/3_room2_torch_.webm) • [3_room2_torch_doorway](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/3_room2_torch_doorway.webm) • [4_crypt](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/4_crypt.webm) • [4_crypt_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/4_crypt_torch.webm) • [5_finalchamber](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/5_finalchamber.webm) • [5_finalchamber_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Dungeon%20of%20Skulls/5_finalchamber_torch.webm)
+
+:#### Modular Dungeon
+
+::[8x8room_NSEW_collapsed](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8room_NSEW_collapsed.webm) • [8x8room_NSEW_collapsed_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8room_NSEW_collapsed_torch.webm) • [8x8_room_E](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_E.webm) • [8x8_room_E_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_E_torch.webm) • [8x8_room_N](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_N.webm) • [8x8_room_NSEW](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_NSEW.webm) • [8x8_room_NSEW_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_NSEW_torch.webm) • [8x8_room_N_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_N_torch.webm) • [8x8_room_S](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_S.webm) • [8x8_room_S_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_S_torch.webm) • [8x8_room_W.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_W.webm) • [8x8_room_W_torch.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/8x8_room_W.webm) • [cave_a_HD_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_a_HD_gridded.webm) • [cave_a_HD_gridded_LN.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_a_HD_gridded_LN.webm) • [cave_a_HD_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_a_HD_gridless.webm) • [cave_c_HD_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_c_HD_gridded.webm) • [cave_c_HD_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_c_HD_gridless.webm) • [cave_d_HD_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_d_HD_gridded.webm) • [cave_d_HD_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_d_HD_gridless.webm) • [cave_e_HD_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_e_HD_gridded.webm) • [cave_e_HD_gridded_LN.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_e_HD_gridded_LN.webm) • [cave_e_HD_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_e_HD_gridless.webm) • [cave_g_HD_grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_g_HD_grid.webm) • [cave_g_HD_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_g_HD_gridless.webm) • [cave_h-HD_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_h-HD_gridless.webm) • [cave_h_HD_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_h_HD_gridded.webm) • [cave_i_HD_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_i_HD_gridded.webm) • [cave_i_HD_gridded_LN.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_i_HD_gridded_LN.webm) • [cave_i_HD_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_i_HD_gridless.webm) • [cave_j-HD_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_j-HD_gridded.webm) • [cave_j_HD_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/cave_j_HD_gridless.webm) • [EW_corridor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/EW_corridor.webm) • [EW_corridor_alcoves](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/EW_corridor_alcoves.webm) • [EW_corridor_alcoves_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/EW_corridor_alcoves_torch.webm) • [mine_j-HD_gridless](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/mine_j-HD_gridless.webm) • [mine_j_HD_gridded](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/mine_j_HD_gridded.webm) • [mine_j_UHD_gridless](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/mine_j_UHD_gridless.webm) • [NES_corridor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/NES_corridor.webm) • [NE_corridor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/NE_corridor.webm) • [NS_corridor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/NS_corridor.webm) • [NS_corridor_alcoves](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/NS_corridor_alcoves.webm) • [NS_corridor_alcoves_torch](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/NS_corridor_alcoves_torch.webm) • [NW_corridor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/NW_corridor.webm) • [SE_corridor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/SE_corridor.webm) • [WNE_corridor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/WNE_corridor.webm) • [WNS_corridor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/WNS_corridor.webm) • [WSE_corridor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/WSE_corridor.webm) • [WS_corridor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Modular%20Dungeon/WS_corridor.webm)
+
+
+## Underdark
+
+::[Fissures Alternate brighter GRID](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures%20alternate%20version%20brighter%20GRID.webm) • [Fissures Alternate brighter](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures%20alternate%20version%20brighter%20GRIDLESS.webm) • [Fissures brighter GRID](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures%20brighter%20GRID.webm) • [Fissures brighter](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures%20brighter%20GRIDLESS.webm) • [Fissures Gridless](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures%20gridless.webm) • [Fissuresm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures.webm) • [Fissures Alternate](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark_fissures_alternate.webm) • [Fissures Alternate](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark_fissures_alternate_gridless.webm) • [Fissures grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark_fissures_grid_LN.webm)
+
+
+## Ocean/Sea
+
+
+[Whirlpool w/grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/WhirlpoolHD-gridded.webm) • [Whirlpool](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Whirlpool_HD_gridless.webm)
+
+[Storm King's Thunder](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/StormGiant7_0.webm)
+
+[Maelstrom w/grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Maelstrom_gridded.webm) • [Darklake w/grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Darklake_maelstrom-gridded.webm) • [Darklake vortex /wgrid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/darklake_vortex-gridded.webm) • [Darklake Vortex](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/darklake_vortex-gridless.webm)
 
 
 # Artists
@@ -170,7 +301,7 @@ Acid Dungeon ; acid-basin-chamber.webm ; Dungeon w/ Acid
 
 artist:
 
-youTube: https://www.youtube.com/channel/UCaiH6M0BgtupcNcDisrJySw/videos
+youTube Playlist: https://www.youtube.com/channel/UCaiH6M0BgtupcNcDisrJySw/videos
 
 Patreon: https://www.patreon.com/dynamicdungeons
 
@@ -186,7 +317,6 @@ Site: https://www.tabletopthings.com/
 
 youTube: https://www.youtube.com/c/TomSwogger
 
-Patreon:
 
 
 
@@ -196,9 +326,9 @@ Patreon:
 
 artist: Manny Sykes
 
-youTube: https://www.youtube.com/channel/UCrsCjHT8tJ1vpSkvLoYji3g/videos
+youTube Playlist: https://www.youtube.com/channel/UCrsCjHT8tJ1vpSkvLoYji3g/videos
 
-Patreon:
+
 
 #### Bridge
 https://i.imgur.com/JrZZAqH.mp4
