@@ -74,8 +74,10 @@ So for that file name example:  base `URL` + `File name`=
 
 - [By seachable theme/features etc](https://docs.google.com/spreadsheets/d/1CmYvfdu4lUNXEKWUoCqgTMlUd_UXYb-0N-GSqLsZF-M/edit#gid=0)
 
-- [Dooley's Map and Game Emporium](https://dmge.net/library)
-##### I honestly don't like this, but it has potenetial if they ever update it.
+
+##### Also...
+
+- [Dooley's Map and Game Emporium](https://dmge.net/library) *I honestly don't like this, but it has potenetial if they ever update it.*
 
 
 
