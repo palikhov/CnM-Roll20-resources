@@ -110,11 +110,11 @@ the following list are functional animated maps you can use. right click on the 
 
 [Broken Bridge 01 Daytime-a1hA9RoMhKU.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Broken%20Bridge%2001%20Daytime-a1hA9RoMhKU.webm)
 
-[Broken Bridge Daytime 02-BwVTRcBA7b4.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Broken Bridge Daytime 02-BwVTRcBA7b4.webm.webm)
+[Broken Bridge Daytime 02-BwVTRcBA7b4.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Broken%20Bridge%20Daytime%2002-BwVTRcBA7b4.webm)
 
-[Broken Bridge Daytime 03-To9XgSd7iYI.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Broken Bridge Daytime 03-To9XgSd7iYI.webm.webm)
+[Broken Bridge Daytime 03-To9XgSd7iYI.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Broken%20Bridge%20Daytime%2003-To9XgSd7iYI.webm)
 
-[campfire1-GF9nP2W_45I.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/campfire1-GF9nP2W_45I.webm.webm)
+[campfire1-GF9nP2W_45I.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/campfire1-GF9nP2W_45I.webm)
 
 [Castle Courtyard East.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle%20Courtyard%20East.webm)
 
@@ -138,19 +138,19 @@ the following list are functional animated maps you can use. right click on the 
 
 [Center_Gate](http://webm.land/media/B47M.webm)
 
-[City Gate Bridge Nightime with lights-fvjNR2BHQMs.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City Gate Bridge Nightime with lights-fvjNR2BHQMs.webm.webm)
+[City Gate Bridge Nightime with lights-fvjNR2BHQMs.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City%20Gate%20Bridge%20Nightime%20with%20lights-fvjNR2BHQMs.webm)
 
-[City Gate Nightime with lights-2LWZwAcVWT0.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City Gate Nightime with lights-2LWZwAcVWT0.webm.webm)
+[City Gate Nightime with lights-2LWZwAcVWT0.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City%20Gate%20Nightime%20with%20lights-2LWZwAcVWT0.webm)
 
-[City Gates Bridge Daytime-MguO-LJ3Zn4.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City Gates Bridge Daytime-MguO-LJ3Zn4.webm.webm)
+[City Gates Bridge Daytime-MguO-LJ3Zn4.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City%20Gates%20Bridge%20Daytime-MguO-LJ3Zn4.webm)
 
-[City Market Daytime 01-GAnwyMVeCTU.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City Market Daytime 01-GAnwyMVeCTU.webm.webm)
+[City Market Daytime 01-GAnwyMVeCTU.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City%20Market%20Daytime%2001-GAnwyMVeCTU.webm)
 
-[City Street Nightime with lights-Xlh6dWAgmvY.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City Street Nightime with lights-Xlh6dWAgmvY.webm.webm)
+[City Street Nightime with lights-Xlh6dWAgmvY.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City%20Street%20Nightime%20with%20lights-Xlh6dWAgmvY.webm)
 
-[City Streets 01 Nightime-NPArKMtOpPo.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City Streets 01 Nightime-NPArKMtOpPo.webm.webm)
+[City Streets 01 Nightime-NPArKMtOpPo.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City%20Streets%2001%20Nightime-NPArKMtOpPo.webm)
 
-[City Streets 02 Nightime-Zjhu1tg7CN8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City Streets 02 Nightime-Zjhu1tg7CN8.webm.webm)
+[City Streets 02 Nightime-Zjhu1tg7CN8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City%20Streets%2002%20Nightime-Zjhu1tg7CN8.webm)
 
 [City Streets 03 Nightime-C2X-puD4eM0.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City Streets 03 Nightime-C2X-puD4eM0.webm.webm)
 
@@ -527,19 +527,19 @@ the following list are functional animated maps you can use. right click on the 
 
 [Hut.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Hut.webm)
 
-[Icelands 01 Ice Dragon Lair-aFwzDK9wyH8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 01 Ice Dragon Lair-aFwzDK9wyH8.webm.webm)
+[Icelands 01 Ice Dragon Lair-aFwzDK9wyH8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 01 Ice Dragon Lair-aFwzDK9wyH8.webm)
 
-[Icelands 02 Tundra Daytime-EmVnkqFhgaA.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 02 Tundra Daytime-EmVnkqFhgaA.webm.webm)
+[Icelands 02 Tundra Daytime-EmVnkqFhgaA.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 02 Tundra Daytime-EmVnkqFhgaA.webm)
 
-[Icelands 03 Tundra Daytime-Web3KxYPC8M.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 03 Tundra Daytime-Web3KxYPC8M.webm.webm)
+[Icelands 03 Tundra Daytime-Web3KxYPC8M.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 03 Tundra Daytime-Web3KxYPC8M.webm)
 
-[Icelands 04 Tundra Daytime--Qg5FL9_Yrc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 04 Tundra Daytime--Qg5FL9_Yrc.webm.webm)
+[Icelands 04 Tundra Daytime--Qg5FL9_Yrc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 04 Tundra Daytime--Qg5FL9_Yrc.webm)
 
 [Icelands 05 Tundra Daytime-cVXJg90wtTM.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 05 Tundra Daytime-cVXJg90wtTM.webm.webm)
 
-[Icelands 06 Tundra Nightime-WzySwJy2qtQ.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 06 Tundra Nightime-WzySwJy2qtQ.webm.webm)
+[Icelands 06 Tundra Nightime-WzySwJy2qtQ.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 06 Tundra Nightime-WzySwJy2qtQ.webm)
 
-[Icelands 07 Tundra Daytime-qSU9sbTCRao.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands 07 Tundra Daytime-qSU9sbTCRao.webm.webm)
+[Icelands 07 Tundra Daytime-qSU9sbTCRao.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Icelands%2007%20Tundra%20Daytime-qSU9sbTCRao.webm)
 
 [Jungle Fort Reverse.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Jungle%20Fort%20Reverse.webm)
 
@@ -577,13 +577,13 @@ the following list are functional animated maps you can use. right click on the 
 
 [Market_Square_gridless_.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Market_Square_gridless_.webm)
 
-[Misc 01 Arena-9I0NGlGNu3Y.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Misc 01 Arena-9I0NGlGNu3Y.webm.webm)
+[Misc 01 Arena-9I0NGlGNu3Y.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Misc 01 Arena-9I0NGlGNu3Y.webm)
 
-[Misc 04 Sea-EnAXNHGlsuE.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Misc 04 Sea-EnAXNHGlsuE.webm.webm)
+[Misc 04 Sea-EnAXNHGlsuE.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Misc%2004%20Sea-EnAXNHGlsuE.webm)
 
-[Misc 06 Seascape-BZe1r65-Tio.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Misc 06 Seascape-BZe1r65-Tio.webm.webm)
+[Misc 06 Seascape-BZe1r65-Tio.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Misc%2006%20Seascape-BZe1r65-Tio.webm)
 
-[Misc 08 seascape-mwNeMz2ogmE.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Misc 08 seascape-mwNeMz2ogmE.webm.webm)
+[Misc 08 seascape-mwNeMz2ogmE.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Misc%2008%20seascape-mwNeMz2ogmE.webm)
 
 [mountain-night-grdiless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/mountain-night-grdiless.webm)
 
@@ -623,27 +623,27 @@ the following list are functional animated maps you can use. right click on the 
 
 [playground-2.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/playground-2.webm)
 
-[Pretty Village 01 Daytime-fCQAdkfD6bo.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village 01 Daytime-fCQAdkfD6bo.webm.webm)
+[Pretty Village 01 Daytime-fCQAdkfD6bo.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty%20Village%2001%20Daytime-fCQAdkfD6bo.webm)
 
-[Pretty Village 02 Bridge Daytime-Qo9qobii6Wc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village 02 Bridge Daytime-Qo9qobii6Wc.webm.webm)
+[Pretty Village 02 Bridge Daytime-Qo9qobii6Wc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village%2002%20Bridge%20Daytime-Qo9qobii6Wc.webm)
 
-[Pretty Village 03 Daytime-xL4hKCPoNnw.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village 03 Daytime-xL4hKCPoNnw.webm.webm)
+[Pretty Village 03 Daytime-xL4hKCPoNnw.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty%20Village%2003%20Daytime-xL4hKCPoNnw.webm)
 
-[Pretty Village 04 Daytime-pS-o69YFQpE.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village 04 Daytime-pS-o69YFQpE.webm.webm)
+[Pretty Village 04 Daytime-pS-o69YFQpE.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty%20Village%2004%20Daytime-pS-o69YFQpE.webm)
 
-[Pretty Village 05 Daytime-jqdQ-BTdRDs.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village 05 Daytime-jqdQ-BTdRDs.webm.webm)
+[Pretty Village 05 Daytime-jqdQ-BTdRDs.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty%20Village%2005%20Daytime-jqdQ-BTdRDs.webm)
 
-[Pretty Village 06 Nightime-WIX3HlNVH3k.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village 06 Nightime-WIX3HlNVH3k.webm.webm)
+[Pretty Village 06 Nightime-WIX3HlNVH3k.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty%20Village%2006%20Nightime-WIX3HlNVH3k.webm)
 
-[Pretty Village 07 Nightime-j3uj6iRhT18.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village 07 Nightime-j3uj6iRhT18.webm.webm)
+[Pretty Village 07 Nightime-j3uj6iRhT18.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty%20Village%2007%20Nightime-j3uj6iRhT18.webm)
 
-[Pretty Village 08 Nightime-axL-70Ns7Vs.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village 08 Nightime-axL-70Ns7Vs.webm.webm)
+[Pretty Village 08 Nightime-axL-70Ns7Vs.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty%20Village%2008%20Nightime-axL-70Ns7Vs.webm)
 
-[Pretty Village 09 Nightime-JeUfEeqVHuc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village 09 Nightime-JeUfEeqVHuc.webm.webm)
+[Pretty Village 09 Nightime-JeUfEeqVHuc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty%20Village%2009%20Nightime-JeUfEeqVHuc.webm)
 
-[Pretty Village 10 Nightime-CwN42n8E-Z8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village 10 Nightime-CwN42n8E-Z8.webm.webm)
+[Pretty Village 10 Nightime-CwN42n8E-Z8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty%20Village%2010%20Nightime-CwN42n8E-Z8.webm)
 
-[Pretty Village 11 Nightime-3lOVLhsowrE.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty Village 11 Nightime-3lOVLhsowrE.webm.webm)
+[Pretty Village 11 Nightime-3lOVLhsowrE.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Pretty%20Village%2011%20Nightime-3lOVLhsowrE.webm)
 
 [prison-camp-birdseye.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/prison-camp-birdseye.webm)
 
@@ -685,25 +685,25 @@ the following list are functional animated maps you can use. right click on the 
 
 [runic_circle](http://webm.land/media/Pb8i.webm)
 
-[Rural 01 Fields Daytime-h5d0G5PT8l0.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural 01 Fields Daytime-h5d0G5PT8l0.webm.webm)
+[Rural 01 Fields Daytime-h5d0G5PT8l0.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural%2001%20Fields%20Daytime-h5d0G5PT8l0.webm)
 
-[Rural 02 River Crossing Daytime-JAGxl6sqWc0.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural 02 River Crossing Daytime-JAGxl6sqWc0.webm.webm)
+[Rural 02 River Crossing Daytime-JAGxl6sqWc0.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural%2002%20River%20Crossing%20Daytime-JAGxl6sqWc0.webm)
 
-[Rural 03 Path Daytime-9FnfQYLSICA.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural 03 Path Daytime-9FnfQYLSICA.webm.webm)
+[Rural 03 Path Daytime-9FnfQYLSICA.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural%2003%20Path%20Daytime-9FnfQYLSICA.webm)
 
-[Rural 04 Village Nightime-PkNmh_zUV7Q.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural 04 Village Nightime-PkNmh_zUV7Q.webm.webm)
+[Rural 04 Village Nightime-PkNmh_zUV7Q.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural%2004%20Village%20Nightime-PkNmh_zUV7Q.webm)
 
-[Rural 05 Village  Outskirts Daytime-Xcd5Rw5y9BM.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural 05 Village  Outskirts Daytime-Xcd5Rw5y9BM.webm.webm)
+[Rural 05 Village  Outskirts Daytime-Xcd5Rw5y9BM.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural%2005%20Village%20%20Outskirts%20Daytime-Xcd5Rw5y9BM.webm)
 
-[Rural 06 Ruined Circle Daytime-GyFMVOpqZyc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural 06 Ruined Circle Daytime-GyFMVOpqZyc.webm.webm)
+[Rural 06 Ruined Circle Daytime-GyFMVOpqZyc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural%2006%20Ruined%20Circle%20Daytime-GyFMVOpqZyc.webm)
 
 [StormGiant7_0.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/StormGiant7_0.webm)
 
-[Swamp Marsh 01 Daytime-U-PeYDw7L0Q.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Swamp Marsh 01 Daytime-U-PeYDw7L0Q.webm.webm)
+[Swamp Marsh 01 Daytime-U-PeYDw7L0Q.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Swamp Marsh%2001%20Daytime-U-PeYDw7L0Q.webm.webm)
 
-[Swamp Marsh 02 Daytime-QWHsfD2gUcQ.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Swamp Marsh 02 Daytime-QWHsfD2gUcQ.webm.webm)
+[Swamp Marsh 02 Daytime-QWHsfD2gUcQ.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Swamp Marsh%2002%20Daytime-QWHsfD2gUcQ.webm.webm)
 
-[Temple Ward 01 Nightime-TpsEWAETnZ8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Temple Ward 01 Nightime-TpsEWAETnZ8.webm.webm)
+[Temple Ward 01 Nightime-TpsEWAETnZ8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Temple Ward%2001%20Nightime-TpsEWAETnZ8.webm.webm)
 
 [Temple_Ruins_at_Night](https://r5---sn-q4fl6nss.googlevideo.com/videoplayback?dur=10800.065&c=WEB&mime=video%2Fmp4&source=youtube&id=o-AGgTPI4N6uwFl4_fW639LE74l6pglED-c2--BWG9mnvi&ipbits=0&requiressl=yes&initcwndbps=947500&lmt=1526995435821126&itag=22&ip=2600%3A1700%3A19a1%3A7b0%3Ab008%3A6502%3Aa511%3A408c&expire=1543032976&signature=8A042DAB2B333BFAB504ECD93744AD5240D82865.92235D5D7CE27C8FA3ADF457618A1BD68A44984C&ratebypass=yes&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&ms=au%2Conr&mt=1543011212&pl=48&mv=m&ei=MHz4W9bmLv6Bir4PnvWayAs&fvip=5&mm=31%2C26&mn=sn-q4fl6nss%2Csn-vgqskn76&key=yt6)
 
@@ -752,35 +752,48 @@ the following list are functional animated maps you can use. right click on the 
 [Underdark fissures alternate version brighter GRID.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures%20alternate%20version%20brighter%20GRID.webm)
 
 [Underdark fissures alternate version brighter GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures%20alternate%20version%20brighter%20GRIDLESS.webm)
+
 [Underdark fissures brighter GRID.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures%20brighter%20GRID.webm)
+
 [Underdark fissures brighter GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures%20brighter%20GRIDLESS.webm)
+
 [Underdark fissures gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures%20gridless.webm)
+
 [Underdark fissures.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures.webm)
+
 [Underdark_fissures_alternate_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark_fissures_alternate_gridless.webm)
+
 [Underdark_fissures_alternate.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark_fissures_alternate.webm)
+
 [Underdark_fissures_grid_LN.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark_fissures_grid_LN.webm)
+
 [UNDERDARK-rocks-Grid](http://webm.land/media/HWOE.webm)
+
 [UNDERDARK-rocks-Gridless](http://webm.land/media/ymzR.webm)
-[Village 01 Gate Nightime-c8fQ-G9IrzQ.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village 01 Gate Nightime-c8fQ-G9IrzQ.webm.webm)
-[Village 02 Gatehouse Daytime-GGPkV3rhkrY.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village 02 Gatehouse Daytime-GGPkV3rhkrY.webm.webm)
+
+[Village 01 Gate Nightime-c8fQ-G9IrzQ.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village%2001%20Gate%20Nightime-c8fQ-G9IrzQ.webm)
+
+[Village 02 Gatehouse Daytime-GGPkV3rhkrY.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village%2002%20Gatehouse%20Daytime-GGPkV3rhkrY.webm)
+
 [Village Outskirts-Daytime 01.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village%20Outskirts-Daytime%2001.webm)
-[village_day_grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_grid.webm.webm)
 
 [village_day_grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_grid.webm)
 
-[village_day_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridless.webm.webm)
+[village_day_grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_grid.webm)
 
 [village_day_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridless.webm)
 
-[village_day_gridLN.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridLN.webm.webm)
+[village_day_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridless.webm)
 
 [village_day_gridLN.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridLN.webm)
 
-[village_night_grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_night_grid.webm.webm)
+[village_day_gridLN.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridLN.webm)
 
 [village_night_grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_night_grid.webm)
 
-[village_night_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_night_gridless.webm.webm)
+[village_night_grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_night_grid.webm)
+
+[village_night_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_night_gridless.webm)
 
 [village_night_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_night_gridless.webm)
 
@@ -788,23 +801,23 @@ the following list are functional animated maps you can use. right click on the 
 
 [Village_plain_midday](https://r4---sn-q4fl6nsl.googlevideo.com/videoplayback?lmt=1542274202320425&expire=1543033796&signature=4ACF546DFF94A9247B9E84DA10C6462982FE5D02.1BDC90FCF36703818E01E8B2AE47685AD7C55B8A&itag=22&c=WEB&id=o-AGsP_IuX1M59v-STpNYCBkJSGPosAVLOcyxIlatykEBJ&ms=au%2Crdu&mt=1543012065&mv=m&pl=48&txp=1211222&mm=31%2C29&mn=sn-q4fl6nsl%2Csn-q4flrn7s&initcwndbps=1003750&ip=2600%3A1700%3A19a1%3A7b0%3Ab008%3A6502%3Aa511%3A408c&key=yt6&dur=10800.065&source=youtube&ei=ZH_4W-75LKnEjATLwYfoDQ&fvip=4&mime=video%2Fmp4&ipbits=0&requiressl=yes&ratebypass=yes&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire)
 
-[Village-Walls-day_Grid_sls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_Grid_sls.webm.webm)
+[Village-Walls-day_Grid_sls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_Grid_sls.webm)
 
 [Village-Walls-day_Grid_sls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_Grid_sls.webm)
 
-[Village-Walls-day_Gridless_smls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_Gridless_smls.webm.webm)
+[Village-Walls-day_Gridless_smls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_Gridless_smls.webm)
 
 [Village-Walls-day_Gridless_smls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_Gridless_smls.webm)
 
-[Village-Walls-day_GridLN_smls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_GridLN_smls.webm.webm)
+[Village-Walls-day_GridLN_smls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_GridLN_smls.webm)
 
 [Village-Walls-day_GridLN_smls.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_GridLN_smls.webm)
 
-[Village-Walls-night_Grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-night_Grid.webm.webm)
+[Village-Walls-night_Grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-night_Grid.webm)
 
 [Village-Walls-night_Grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-night_Grid.webm)
 
-[village-Walls-night_Gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village-Walls-night_Gridless.webm.webm)
+[village-Walls-night_Gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village-Walls-night_Gridless.webm)
 
 [village-Walls-night_Gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-night_Gridless.webm)
 
@@ -812,9 +825,12 @@ the following list are functional animated maps you can use. right click on the 
 
 [Waterfall_Ruins_middday](https://r1---sn-q4fl6n7y.googlevideo.com/videoplayback?mn=sn-q4fl6n7y%2Csn-q4flrn7d&mm=31%2C29&c=WEB&pl=48&initcwndbps=953750&dur=10800.065&ms=au%2Crdu&signature=888778E0F858500CAD0BB42AB1B5CE64E7CB20D5.92C3A3F6E1E56FFE97E0A7D00D471DD2F9806267&mv=m&ratebypass=yes&requiressl=yes&lmt=1520346116438741&mt=1543012378&ipbits=0&itag=22&ei=qoD4W_PsAYK8iwTi-IL4Cw&ip=2600%3A1700%3A19a1%3A7b0%3Ab008%3A6502%3Aa511%3A408c&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&id=o-ACMlGD93FJAVFSIbXSCegOWXFC7VzjDur7JGmSk3ffeP&fvip=1&key=yt6&mime=video%2Fmp4&source=youtube&expire=1543034122)
 
-[Whirlpool_HD_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Whirlpool_HD_gridless.webm.webm)
+[Whirlpool_HD_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Whirlpool_HD_gridless.webm)
 
 [WhirlpoolHD-gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/WhirlpoolHD-gridded.webm)
+
+
+
 
 ### Dungeons of Skulls
 
