@@ -67,8 +67,9 @@ So for that file name example:  base `URL` + `File name`=
 
 `https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/darklake_vortex-gridless.webm`
 
-- [Listing by Filename](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/By%20filename.MD)
+Sources for animated backgrounds
 
+- [Listing by Filename](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/By%20filename.MD)
 
 - [Listing by Artist & Set](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/Listing%20by%20Artist%20n%20Set.MD)
 
