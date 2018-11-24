@@ -262,7 +262,7 @@ the following list are functional animated maps you can use. right click on the 
 
 [Country Road 08 Bridge Daytime crazyriver-H00EvOWJkmA.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Country%20Road%2008%20Bridge%20Daytime%20crazyriver-H00EvOWJkmA.webm)
 
-[Country Road 09 Vendors Tents Daytime-2m7ifK8xw_E.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Country%20Road%2009%20Vendors%20Tents Daytime-2m7ifK8xw_E.webm)
+[Country Road 09 Vendors Tents Daytime-2m7ifK8xw_E.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Country%20Road%2009%20Vendors%20Tents%20Daytime-2m7ifK8xw_E.webm)
 
 [Country Road 10 Vendors Tents Daytime-OcL5bsE8cLg.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Country%20Road%2010%20Vendors%20Tents%20Daytime-OcL5bsE8cLg.webm)
 
@@ -270,7 +270,7 @@ the following list are functional animated maps you can use. right click on the 
 
 [Country Road 12 Ambush Site-uFgqqDRyuPc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Country%20Road%2012%20Ambush%20Site-uFgqqDRyuPc.webm)
 
-[Country Road 13 Ambush Site-mhtNCN_oySc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Country%20Road%2013%20Ambush Site-mhtNCN_oySc.webm))
+[Country Road 13 Ambush Site-mhtNCN_oySc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Country%20Road%2013%20Ambush%20Site-mhtNCN_oySc.webm))
 
 [Country Road 14 Broken Bridge Daytime-xq1f35UYd9k.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Country%20Road%2014%20Broken%20Bridge%20Daytime-xq1f35UYd9k.webm)
 
@@ -368,7 +368,7 @@ the following list are functional animated maps you can use. right click on the 
 
 [FLOATINGPORTAL_HD](http://webm.land/media/dHkp.webm)
 
-[Forest Camp Nightime-1FuqW53Lmmw.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest Camp Nightime-1FuqW53Lmmw.webm)
+[Forest Camp Nightime-1FuqW53Lmmw.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20Camp%20Nightime-1FuqW53Lmmw.webm)
 
 [Forest Campsite Daytime-5T7po_Nw9qc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20Campsite%20Daytime-5T7po_Nw9qc.webm)
 
@@ -390,58 +390,58 @@ the following list are functional animated maps you can use. right click on the 
 
 [Forest creek night GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20creek%20night%20GRIDLESS.webm)
 
-[forest day1-yIcGWi1HYK8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest day1-yIcGWi1HYK8.webm)
+[forest day1-yIcGWi1HYK8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20day1-yIcGWi1HYK8.webm)
 
-[forest day2-EA9kaq-smI8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest day2-EA9kaq-smI8.webm)
+[forest day2-EA9kaq-smI8.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20day2-EA9kaq-smI8.webm)
 
-[forest day4-CZGxl2UNmKM.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest day4-CZGxl2UNmKM.webm)
+[forest day4-CZGxl2UNmKM.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20day4-CZGxl2UNmKM.webm)
 
-[forest day5-1p2hpEezZ6s.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest day5-1p2hpEezZ6s.webm)
+[forest day5-1p2hpEezZ6s.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20day5-1p2hpEezZ6s.webm)
 
-[forest day6-L8pKPMqNK1s.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest day6-L8pKPMqNK1s.webm)
+[forest day6-L8pKPMqNK1s.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20day6-L8pKPMqNK1s.webm)
 
-[forest night bonfire1-7Hyc5BdSx4o.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest night bonfire1-7Hyc5BdSx4o.webm)
+[forest night bonfire1-7Hyc5BdSx4o.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20night%20bonfire1-7Hyc5BdSx4o.webm)
 
-[forest night1-363F7Io-HQ4.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest night1-363F7Io-HQ4.webm)
+[forest night1-363F7Io-HQ4.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20night1-363F7Io-HQ4.webm)
 
 
-[forest path day1-oxGnlVFV0b0.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest path day1-oxGnlVFV0b0.webm)
+[forest path day1-oxGnlVFV0b0.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20path%20day1-oxGnlVFV0b0.webm)
 
-[forest path day2-4JEy6kTrnDo.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest path day2-4JEy6kTrnDo.webm)
+[forest path day2-4JEy6kTrnDo.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest path%20day2-4JEy6kTrnDo.webm)
 
-[forest path past hut day-T-iMkmiBKwI.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest path past hut day-T-iMkmiBKwI.webm)
+[forest path past hut day-T-iMkmiBKwI.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20path%20past%20hut%20day-T-iMkmiBKwI.webm)
 
 [forest path2-9yWzOxS1Yn4.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest path2-9yWzOxS1Yn4.webm)
 
-[Forest Road 06 Bridge Daytime-n6GvxPcZZsc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest Road 06 Bridge Daytime-n6GvxPcZZsc.webm)
+[Forest Road 06 Bridge Daytime-n6GvxPcZZsc.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20Road%2006%20Bridge%20Daytime-n6GvxPcZZsc.webm)
 
-[Forest Road 07 Nightime-4qXq-_xVmsM.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest Road 07 Nightime-4qXq-_xVmsM.webm)
+[Forest Road 07 Nightime-4qXq-_xVmsM.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20Road%2007%20Nightime-4qXq-_xVmsM.webm)
 
-[Forest Road 08 Nightime-vC1JzSAutRU.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest Road 08 Nightime-vC1JzSAutRU.webm)
+[Forest Road 08 Nightime-vC1JzSAutRU.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20Road%2008%20Nightime-vC1JzSAutRU.webm)
 
-[Forest Road 09 River Crossing Nightime-9e7drzYrAQU.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest Road 09 River Crossing Nightime-9e7drzYrAQU.webm)
+[Forest Road 09 River Crossing Nightime-9e7drzYrAQU.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20Road%2009%20River%20Crossing%20Nightime-9e7drzYrAQU.webm)
 
-[forest road 4-S5DOvgtDN18.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest road 4-S5DOvgtDN18.webm)
+[forest road 4-S5DOvgtDN18.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20road%204-S5DOvgtDN18.webm)
 
-[forest road 5-J7LFc-fci0c.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest road 5-J7LFc-fci0c.webm)
+[forest road 5-J7LFc-fci0c.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20road%205-J7LFc-fci0c.webm)
 
-[forest road day2-buwUtI-Gqdg.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest road day2-buwUtI-Gqdg.webm)
+[forest road day2-buwUtI-Gqdg.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20road%20day2-buwUtI-Gqdg.webm)
 
-[forest road day3-kyOmY9582iQ.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest road day3-kyOmY9582iQ.webm)
+[forest road day3-kyOmY9582iQ.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20road%20day3-kyOmY9582iQ.webm)
 
-[forest road day4-C2-CaYLyeF4.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest road day4-C2-CaYLyeF4.webm)
+[forest road day4-C2-CaYLyeF4.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20road%20day4-C2-CaYLyeF4.webm)
 
-[forest road day5-7meu9Val5SI.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest road day5-7meu9Val5SI.webm)
+[forest road day5-7meu9Val5SI.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20road%20day5-7meu9Val5SI.webm)
 
-[forest road night-FKFQ2Qqj1uk.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest road night-FKFQ2Qqj1uk.webm)
+[forest road night-FKFQ2Qqj1uk.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20road%20night-FKFQ2Qqj1uk.webm)
 
-[forest road-yHXCm84E7BU.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest road-yHXCm84E7BU.webm)
+[forest road-yHXCm84E7BU.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forest%20road-yHXCm84E7BU.webm)
 
-[Forest Ruined Tower Daytime-7ycdDD_pWgs.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest Ruined Tower Daytime-7ycdDD_pWgs.webm)
+[Forest Ruined Tower Daytime-7ycdDD_pWgs.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20Ruined%20Tower%20Daytime-7ycdDD_pWgs.webm)
 
-[Forest Trails Daytime-b3-348Yriso.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest Trails Daytime-b3-348Yriso.webm)
+[Forest Trails Daytime-b3-348Yriso.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20Trails%20Daytime-b3-348Yriso.webm)
 
-[Forest Trails Nightime-qDjcwPwlP88.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest Trails Nightime-qDjcwPwlP88.webm)
+[Forest Trails Nightime-qDjcwPwlP88.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20Trails%20Nightime-qDjcwPwlP88.webm)
 
 [Forest_midday](https://r5---sn-q4flrnee.googlevideo.com/videoplayback?mime=video%2Fmp4&key=yt6&source=youtube&initcwndbps=953750&requiressl=yes&ei=zID4W5PqMsXWwQGk1auoDw&signature=DDE09A56B561C017964E4174909C51E93B8446D8.CEDBF016A6F469E1FA47F189CDB5578A5C2FC1B9&ratebypass=yes&pl=48&fvip=5&ms=au%2Conr&mt=1543012378&mv=m&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&lmt=1520422310868781&ip=2600%3A1700%3A19a1%3A7b0%3Ab008%3A6502%3Aa511%3A408c&itag=22&expire=1543034157&c=WEB&id=o-AHeJY0kJGKvj3JDoQ0zRNhPFewT58X3PY2DYrqrhzg-O&ipbits=0&mm=31%2C26&mn=sn-q4flrnee%2Csn-vgqsknek&dur=10800.274)
 
