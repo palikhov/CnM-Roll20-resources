@@ -53,9 +53,11 @@ The issue being the link must lead to the Video - directly, not be interpreted f
 
 
 
-# Local File Repository
+### Github File Repository
 
-In this directory you will find a few examples of working files and links to other files collected and currated to other files provided by people like yourself who wanted to share.
+You can test the features by using a **Media URL** for a location local to you, or that you have access to, but in general the Media URL needs to an address that *anyone* can use without passwords.
+
+In this directory several files have been provided for you to test or use.
 
 In general to get use the files in this Git to work within the tool, append the `file name` <example : `darklake_vortex-gridless.webm` >
 
@@ -65,112 +67,29 @@ So for that file name example:  base `URL` + `File name`=
 
 `https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/darklake_vortex-gridless.webm`
 
-- [Listing by Filename](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/By%20filename.MD)
+Sources for animated backgrounds
 
+- [Listing by Filename](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/By%20filename.MD)
 
 - [Listing by Artist & Set](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/Listing%20by%20Artist%20n%20Set.MD)
 
-
-# Animated Background Resources by Thematic content
-
-the following list are functional animated maps you can use. right click on the URL and choose `Copy Link Address`
+- [By seachable theme/features etc](https://docs.google.com/spreadsheets/d/1CmYvfdu4lUNXEKWUoCqgTMlUd_UXYb-0N-GSqLsZF-M/edit#gid=0)
 
 
-### City & Settlements
+##### Also...
 
-#### Inns & Taverns; 
-
-**1st Floor Inn; Hall** The Roaring Pony & Drunken Goat Sets ;  
-
-- [Pony Ground floor w/ Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_full.webm)  • [Pony Ground floor w/o Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_full_HD_GRIDLESS.webm)  • [Main Hall w/ Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_Main_HallHD_GRIDD.webm)  • [Main Hall w/o Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_Main_HallHD_GRIDLESS.webm)   
-
-- [Cellar w/ Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_kitchen_cellar_chapel_grid.webm) • [Cellar w/o Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_kitchen_cellar_chapel_gridless.webm) • [Unfurnished Cellar w/o Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_unfurnishedHD_GRIDLESS.webm) • [Unfurnished Cellar w/ Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_unfurnishedHD_GRID.webm) 
-  
- - [2nd Floor; Bed w/ Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level HD_GRID.webm) • [2nd Floor; Bed](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level HD_GRIDLESS.webm) 
-
-
-#### Town
-
-**Village** Village Outskirts-Daytime 01.webm
-
-- [Outskirt](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village Outskirts-Daytime 01.webm) • [Village w/Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_grid.webm) • [Village](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridless.webm) • [Village](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_day_gridLN.webm) • [Village w/Grid, Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_night_grid.webm) • [Village Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/village_night_gridless.webm)
-
-**Village, Wall** Village-Walls-day_Gridless_smls.webm
-
-- [Gridless](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_Gridless_smls.webm) • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_GridLN_smls.webm) • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-day_Grid_sls.webm) • [Night, Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-night_Grid.webm) • [Gridless, Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village-Walls-night_Gridless.webm)
-
-
-**Bravil** by ...
-
-[Section1](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bravil-1.webm) • [Section2](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bravil-2.webm) • [Section 3](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bravil-3.webm) • [Section4](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bravil-4.webm)
-
-
-**City Streets** (Grid) City_streets_encounter2_HD_day_gridded.webm
-
-- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City_streets_encounter2_HD_day_gridded.webm)
- • [URL](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City_streets_encounter2_HD_day_gridless.webm) • [Grid, Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City_streets_encounter2_HD_night_gridded.webm) • [Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City_streets_encounter2_HD_night_gridless.webm) • [Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_streets_encounter2_night.webm
-city_streets_encounter3.webm) • [Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_streets_encounter3.webm
-city_streets_encounter3_night.webm) • [Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_streets_encounter3_night.webm
-city_walls.webm)
-
-
-Tavern - Inn Pack|City Walls| night |https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/CITY_WALLS_night_gridless.webm
-Tavern - Inn Pack|City Walls (Grid) | night |https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/CITY_WALLS_night_gridded.webm
-Tavern - Inn Pack|City Walls| |https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/CITY_WALLS_day_gridless.webm
-Tavern - Inn Pack|City Walls (Grid) |  |https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/CITY_WALLS_day_gridded.webm
+- [Dooley's Map and Game Emporium](https://dmge.net/library) *I honestly don't like this, but it has potenetial if they ever update it.*
 
 
 
-
-
-
-- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_walls.webm)  • [URL](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_day_gridded.webm) •
-[Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_day_gridless.webm)
-city_walls_night.webm • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/city_walls_night.webm)
- • [Night, Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_night_gridded.webm) •
-[Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/CITY_WALLS_night_gridless.webm)
-
-#### Market Square
-
-Market_Square_gridded_.webm
-
-- [Market w/grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Market_Square_gridded_.webm) • [Market](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Market_Square_gridless_.webm) • [Bridge w/grid Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bridge_over_the_canal_HD_night_gridded.webm)  • [Bridge Night](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bridge_over_the_canal_HD_night_griddless.webm)  • [Castle Courtyard East](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle%20Courtyard%20East.webm)  • [Castle Courtyard](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Castle Courtyard.webm) • [Kitchen Cellar](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/kitchen+cellar-grid.webm) • [Kitchen Cellar](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/kitchen+cellar-gridless.webm)
-
-**Las Vegas (modern)**
-
-- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_day.webm) • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_night.webm) •  [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_rotated_day.webm)  • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/las_vegas_top_left_rotated_night.webm)
-
-**Highway (modern)**
-
-- [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Highway Birdseye Reverse.webm) • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Highway Birdseye.webm) • [Grid](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Highway Overpass.webm
-
-
-
-### Dungeon
-
-Acid Dungeon ; acid-basin-chamber.webm ; Dungeon w/ Acid 
-
-- [URL](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/acid-basin-chamber.webm)
-
-### Portals
-
-[Dark Portal](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/BLUEPORTALHD.webm) • 
-[Demonic Portal](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/DEMONICPORTALHD.webm) • [Darklake Vortex (Grid)](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/darklake_vortex-gridded.webm) • [Darklake Vortex](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/darklake_vortex-gridless.webm)
-
-#### Plain Dungeon Door
-
-[Purple Plain Dungeon Floor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40_purple.webm) • [Blue Plain Dungeon Floor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40_blue.webm) • [Plain Dungeon Floor](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/plaindungeonfloorHD40.webm)
-
-
-
-# Artists
+# Artists Attribution (where you can go to support )
 
 
 ## Dynamic Dungeons 
 
 artist:
 
-youTube: https://www.youtube.com/channel/UCaiH6M0BgtupcNcDisrJySw/videos
+youTube Playlist: https://www.youtube.com/channel/UCaiH6M0BgtupcNcDisrJySw/videos
 
 Patreon: https://www.patreon.com/dynamicdungeons
 
@@ -186,7 +105,6 @@ Site: https://www.tabletopthings.com/
 
 youTube: https://www.youtube.com/c/TomSwogger
 
-Patreon:
 
 
 
@@ -196,16 +114,21 @@ Patreon:
 
 artist: Manny Sykes
 
-youTube: https://www.youtube.com/channel/UCrsCjHT8tJ1vpSkvLoYji3g/videos
+youTube Playlist: https://www.youtube.com/channel/UCrsCjHT8tJ1vpSkvLoYji3g/videos
 
-Patreon:
-
-#### Bridge
-https://i.imgur.com/JrZZAqH.mp4
-
-Note: many of these maps are relative small and do not lend themselves easily to battlemaps as their visual elements often suggest a scale of the image is ~30ft across. For outdoor landscape, this is problematic for many battlemaps.
+###### Note: many of these maps are relative small and do not lend themselves easily to battlemaps as their visual elements often suggest a scale of the image is ~30ft across. For outdoor landscape, this is problematic for many battlemaps.
 
 
-https://dmge.net/library
+# How to make your own Animated Backgrounds:
 
-https://www.youtube.com/channel/UCrsCjHT8tJ1vpSkvLoYji3g/videos
+Manny Sykes uses this tool to create many of his animated backgrounds, and you can too.  DMGE is tool offered by /u/mcdoolz through his [Patreon site](https://www.patreon.com/dmge).
+
+- You find a game with a virtual enviroment you enjoy
+- confirm there is a 'no clipping' sort of crack or feature.
+- use a software for recording the screen.
+- then... post the video onto Imgur; YouTube; etc etc.
+- use the same practices as above to generate a usable link.
+
+
+[Watch this](https://www.youtube.com/watch?v=Uu10ZamLWHo) to help walk you through the process
+
