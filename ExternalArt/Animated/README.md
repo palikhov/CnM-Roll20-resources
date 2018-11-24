@@ -119,4 +119,16 @@ youTube Playlist: https://www.youtube.com/channel/UCrsCjHT8tJ1vpSkvLoYji3g/video
 ###### Note: many of these maps are relative small and do not lend themselves easily to battlemaps as their visual elements often suggest a scale of the image is ~30ft across. For outdoor landscape, this is problematic for many battlemaps.
 
 
+# How to make your own Animated Backgrounds:
+
+Manny Sykes uses this tool to create many of his animated backgrounds, and you can too.  DMGE is tool offered by /u/mcdoolz through his [Patreon site](https://www.patreon.com/dmge).
+
+- You find a game with a virtual enviroment you enjoy
+- confirm there is a 'no clipping' sort of crack or feature.
+- use a software for recording the screen.
+- then... post the video onto Imgur; YouTube; etc etc.
+- use the same practices as above to generate a usable link.
+
+
+[Watch this](https://www.youtube.com/watch?v=Uu10ZamLWHo) to help walk you through the process
 
