@@ -3,17 +3,7 @@
 
 In this directory you will find a few examples of working files and links to other files collected and currated to other files provided by people like yourself who wanted to share.
 
-In general to get use the files in this Git to work within the tool, append the `file name` <example : `darklake_vortex-gridless.webm` >
-
-~~to the base `URL`: which should be `https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/`
-
-~~So for that file name example:  base `URL` + `File name`=
-
-~~`https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/darklake_vortex-gridless.webm`~~
-
-
-
-the following list are functional animated maps you can use. right click on the URL and choose `Copy Link Address`
+The following list are functional animated maps you can use. right click on the URL and choose `Copy Link Address` then paste (`ctrl + v`) in the MEDIA URL field to use that 
 
 ## File List
 
