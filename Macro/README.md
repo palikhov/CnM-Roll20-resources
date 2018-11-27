@@ -1,4 +1,4 @@
-This copied from https://github.com/poltergeisha/Roll20-Like-A-Boss/blob/master/Macros.md as its probably the best content and I'm not clever enough to know how to fork the file and mirror to copy it locally.
+This is copied from https://github.com/poltergeisha/Roll20-Like-A-Boss/blob/master/Macros.md as its probably the best content and I'm not clever enough to know how to fork the file and mirror to copy it locally.
 
 I need to go through and give attribution to the various sites and authors for these macros. I will, but want to get them all entered first.
 
