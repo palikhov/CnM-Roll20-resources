@@ -18,10 +18,11 @@ You will need to insert a valid media URL...
 
 ### Usable Media URLs from Online sources
 
-*This requires VLC player*
+*This requires VLC player* 
+*Get it* [here](https://www.videolan.org/vlc/index.html)
 
 
-Open **VLC**
+Open **VLC** 
 Choose `Media`
 Choose `Open Network Stream`
 Choose `Network`
