@@ -1,4 +1,5 @@
 const fs = require("fs");
+const crypto = require("crypto");
 const sharp = require("sharp");
 const rp = require("request-promise-native");
 const login = require("./GoogleAuth");
@@ -25,7 +26,6 @@ class ArtGrab {
 
 		this.filesToRemove = {};
 		this.fileCount = 0;
-		this.rowIndex = 0;
 		this.thumbnailCount = 0;
 		this.enums = {}; // fill this with values for each field
 		this.index = {}; // fill this with metadata for each file
@@ -190,6 +190,7 @@ class ArtGrab {
 
 				if (!this.dryRun) {
 					console.log(`${kg.logPad("PROCESS")}Cleaning output directory...`);
+					Object.keys(this.filesToRemove).forEach(f => fs.unlinkSync(`./ExternalArt/dist/${f}`));
 					console.log(`${kg.logPad("PROCESS")}${Object.keys(this.filesToRemove).length} files deleted.`);
 				}
 			});
@@ -198,7 +199,6 @@ class ArtGrab {
 	_doAccumulateAndOutput (row) {
 		if (row.artist.toLowerCase() === this.lastArtist.toLowerCase() && row.set.toLowerCase() === this.lastSet.toLowerCase()) {
 			this.accumulatedRows.push(row);
-			this.rowIndex++;
 		} else {
 			const fileName = this._saveFile(this.lastArtist, this.lastSet, {data: this.accumulatedRows});
 			this._indexFile(this.lastArtist, this.lastSet, fileName, this.accumulatedRows);
@@ -206,33 +206,29 @@ class ArtGrab {
 			this.lastSet = row.set;
 			this.lastArtist = row.artist;
 			this.accumulatedRows = [row];
-			this.rowIndex = 0;
 		}
 
-		const thumbName = ArtGrab.__getThumbnailFilename(row.artist, row.set, this.rowIndex);
+		const thumbName = ArtGrab.__getThumbnailFilename(row.artist, row.set, row.hash);
 		delete this.filesToRemove[thumbName];
 		if (!row._isLastRow && !this.skipThumbnailGeneration) {
-			this.requestQueue.add(this._doSaveThumbnail.bind(this, row.artist, row.set, row.uri, this.rowIndex));
+			this.requestQueue.add(this._doSaveThumbnail.bind(this, row.artist, row.set, row.uri, row.hash));
 		}
 	}
 
-	static __getThumbnailFilename (artist, set, rowIndex) {
+	static __getThumbnailFilename (artist, set, uriHash) {
 		const slugName = ArtGrab.__getSlug(artist, set);
-		return `${slugName}--thumb-${rowIndex}.jpg`;
+		return `${slugName}--thumb-${uriHash}.jpg`;
 	}
 
-	async _doSaveThumbnail (artist, set, uri, rowIndex) {
-		const fileName = ArtGrab.__getThumbnailFilename(artist, set, rowIndex);
+	async _doSaveThumbnail (artist, set, uri, uriHash) {
+		const fileName = ArtGrab.__getThumbnailFilename(artist, set, uriHash);
 		const path = `./ExternalArt/dist/${fileName}`;
 
 		if (fs.existsSync(path)) return this.__doThumbnailLog();
 
 		let imageData;
-		try {
-			imageData = await rp({url: uri, encoding: null});
-		} catch (e) {
-			return console.error(`${kg.logPad("THUMBNAIL")}Failed to retrieve image data from "${uri}": `, e.message);
-		}
+		try { imageData = await rp({url: uri, encoding: null}); }
+		catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to retrieve image data from "${uri}": `, e.message); }
 
 		let img;
 		try {
@@ -241,17 +237,12 @@ class ArtGrab {
 				.resize(180, 180, {fit: "contain", background: ArtGrab.WHITE})
 				.flatten(ArtGrab.WHITE)
 				.jpeg();
-		} catch (e) {
-			return console.error(`${kg.logPad("THUMBNAIL")}Failed to create thumbnail image for "${uri}": `, e.message);
-		}
+		} catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to create thumbnail image for "${uri}": `, e.message); }
 
 		if (this.dryRun) console.log(`${kg.logPad("DRY_RUN")}Skipping image write: "${fileName}"...`);
 		else {
-			try {
-				await img.toFile(path);
-			} catch (e) {
-				return console.error(`${kg.logPad("THUMBNAIL")}Failed to save thumbnail image for "${uri}":`, e.message);
-			}
+			try { await img.toFile(path); }
+			catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to save thumbnail image for "${uri}":`, e.message); }
 			this.__doThumbnailLog();
 		}
 	}
@@ -303,6 +294,7 @@ class ArtGrab {
 		}
 
 		if (!hasAny) return null;
+		out.hash = crypto.createHash("md5").update(out.uri).digest("hex");
 		return out;
 	}
 
@@ -349,7 +341,7 @@ class ArtGrab {
 		});
 		target._artist = artist;
 		target._set = set;
-		target._sample = contents[0].uri;
+		target._sample = contents[0].hash;
 	}
 
 	_saveFile (artist, set, contents) {
