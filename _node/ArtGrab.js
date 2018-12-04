@@ -23,6 +23,7 @@ class ArtGrab {
 
 		this.requestQueue = new rq.RequestQueue(16);
 
+		this.filesToRemove = {};
 		this.fileCount = 0;
 		this.rowIndex = 0;
 		this.thumbnailCount = 0;
@@ -162,8 +163,8 @@ class ArtGrab {
 				})
 			}))
 			.then(res => {
-				console.log(`${kg.logPad("PROCESS")}Shredding output directory...`);
-				kg.rmDir("ExternalArt/dist", true);
+				// track all current files, so we can later delete those which should not exist
+				fs.readdirSync("ExternalArt/dist").forEach(file => this.filesToRemove[file] = true);
 
 				const rows = res.data.values;
 				rows.map(r => this._parseRow(r)).filter(it => it).sort(ArtGrab._sortRows).forEach(r => {
@@ -186,6 +187,11 @@ class ArtGrab {
 				this._saveMetaFile(`index`, this.index);
 
 				console.log(`${kg.logPad("PROCESS")}Sheet processing complete. Output ${this.fileCount} data files.${this.requestQueue.length ? ` Thumbnail creation is active, with ${this.requestQueue.length} requests queued.` : ""}`);
+
+				if (!this.dryRun) {
+					console.log(`${kg.logPad("PROCESS")}Cleaning output directory...`);
+					console.log(`${kg.logPad("PROCESS")}${Object.keys(this.filesToRemove).length} files deleted.`);
+				}
 			});
 	}
 
@@ -202,20 +208,28 @@ class ArtGrab {
 			this.accumulatedRows = [row];
 			this.rowIndex = 0;
 		}
-		if (!row._isLastRow && !this.skipThumbnailGeneration) this.requestQueue.add(this._doSaveThumbnail.bind(this, row.artist, row.set, row.uri, this.rowIndex));
+
+		const thumbName = ArtGrab.__getThumbnailFilename(row.artist, row.set, this.rowIndex);
+		delete this.filesToRemove[thumbName];
+		if (!row._isLastRow && !this.skipThumbnailGeneration) {
+			this.requestQueue.add(this._doSaveThumbnail.bind(this, row.artist, row.set, row.uri, this.rowIndex));
+		}
+	}
+
+	static __getThumbnailFilename (artist, set, rowIndex) {
+		const slugName = ArtGrab.__getSlug(artist, set);
+		return `${slugName}--thumb-${rowIndex}.jpg`;
 	}
 
 	async _doSaveThumbnail (artist, set, uri, rowIndex) {
-		const slugName = ArtGrab.__getSlug(artist, set);
-		const fileName = `${slugName}--thumb-${rowIndex}.jpg`;
+		const fileName = ArtGrab.__getThumbnailFilename(artist, set, rowIndex);
 		const path = `./ExternalArt/dist/${fileName}`;
+
+		if (fs.existsSync(path)) return;
 
 		let imageData;
 		try {
-			imageData = await rp({
-				url: uri,
-				encoding: null
-			});
+			imageData = await rp({url: uri, encoding: null});
 		} catch (e) {
 			return console.error(`${kg.logPad("THUMBNAIL")}Failed to retrieve image data from "${uri}": `, e.message);
 		}
@@ -224,10 +238,7 @@ class ArtGrab {
 		try {
 			img = sharp(imageData)
 				.limitInputPixels(false)
-				.resize(180, 180, {
-					fit: "contain",
-					background: ArtGrab.WHITE
-				})
+				.resize(180, 180, {fit: "contain", background: ArtGrab.WHITE})
 				.flatten(ArtGrab.WHITE)
 				.jpeg();
 		} catch (e) {
@@ -340,6 +351,7 @@ class ArtGrab {
 	_saveFile (artist, set, contents) {
 	 	const fileName = this._getNextFilename(artist, set);
 		const filePath = `./ExternalArt/dist/${fileName}`;
+		delete this.filesToRemove[fileName];
 
 		// add headers
 		contents.artist = artist;
@@ -356,9 +368,12 @@ class ArtGrab {
 	}
 
 	_saveMetaFile (metaName, data) {
-		const fileName = `./ExternalArt/dist/_meta_${metaName}.json`;
-		if (this.dryRun) console.log(`${kg.logPad("DRY_RUN")}Skipping meta write: "${fileName}"...`);
-		else fs.writeFileSync(fileName, JSON.stringify(data), "utf-8");
+		const fileName = `_meta_${metaName}.json`;
+		const filePath = `./ExternalArt/dist/${fileName}`;
+		delete this.filesToRemove[fileName];
+
+		if (this.dryRun) console.log(`${kg.logPad("DRY_RUN")}Skipping meta write: "${filePath}"...`);
+		else fs.writeFileSync(filePath, JSON.stringify(data), "utf-8");
 	}
 
 	static _sortRows (a, b) {
