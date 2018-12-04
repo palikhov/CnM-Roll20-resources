@@ -186,7 +186,7 @@ class ArtGrab {
 				Object.values(this.index).forEach(fileIndex => Object.keys(fileIndex).filter(k => !k.startsWith("_")).forEach(k => fileIndex[k].sort(kg.ascSortLower)));
 				this._saveMetaFile(`index`, this.index);
 
-				console.log(`${kg.logPad("PROCESS")}Sheet processing complete. Output ${this.fileCount} data files.${this.requestQueue.length ? ` Thumbnail creation is active, with ${this.requestQueue.length} requests queued.` : ""}`);
+				console.log(`${kg.logPad("PROCESS")}Sheet processing complete. Output ${this.fileCount} data files.${this.requestQueue.length ? ` Thumbnail creation is active, with ${this.requestQueue.length.toLocaleString()} requests queued.` : ""}`);
 
 				if (!this.dryRun) {
 					console.log(`${kg.logPad("PROCESS")}Cleaning output directory...`);
@@ -225,7 +225,7 @@ class ArtGrab {
 		const fileName = ArtGrab.__getThumbnailFilename(artist, set, rowIndex);
 		const path = `./ExternalArt/dist/${fileName}`;
 
-		if (fs.existsSync(path)) return;
+		if (fs.existsSync(path)) return this.__doThumbnailLog();
 
 		let imageData;
 		try {
@@ -252,9 +252,13 @@ class ArtGrab {
 			} catch (e) {
 				return console.error(`${kg.logPad("THUMBNAIL")}Failed to save thumbnail image for "${uri}":`, e.message);
 			}
-			const thumbnailCount = ++this.thumbnailCount;
-			if (!(thumbnailCount % 50)) console.log(`${kg.logPad("THUMBNAIL")}${thumbnailCount} thumbnails created...`);
+			this.__doThumbnailLog();
 		}
+	}
+
+	__doThumbnailLog () {
+		const thumbnailCount = ++this.thumbnailCount;
+		if (!(thumbnailCount % 50)) console.log(`${kg.logPad("THUMBNAIL")}${thumbnailCount} thumbnails processed...`);
 	}
 
 	_parseRow (row) {
