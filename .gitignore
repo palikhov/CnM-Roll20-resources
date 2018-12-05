@@ -7,32 +7,34 @@ node_modules
 # Auth
 credentials.json
 token.json
-ExternalArt/Gabriel Pickard;Slap-Down Town 
-ExternalArt/Gabriel Pickard;Quick Encounter 
-ExternalArt/Gabriel Pickard;Quick Encounter 
-ExternalArt/Gabriel Pickard;Quick Encounters 
-ExternalArt/Paul Weber;Decks 
-ExternalArt/Gabriel Pickard;Slap-Down Town 
+
+# Content
+ExternalArt/Gabriel Pickard;Slap-Down Town
+ExternalArt/Gabriel Pickard;Quick Encounter
+ExternalArt/Gabriel Pickard;Quick Encounter
+ExternalArt/Gabriel Pickard;Quick Encounters
+ExternalArt/Paul Weber;Decks
+ExternalArt/Gabriel Pickard;Slap-Down Town
 Module/Default_Game__shaped_.json
-ExternalArt/Gabriel Pickard;Quick Encounters 
-ExternalArt/Gabriel Pickard;Quick Encounter 
-ExternalArt/Gabriel Pickard;Vile Tiles 
-ExternalArt/Gabriel Pickard;Vile Tiles 
-ExternalArt/Gabriel Pickard;Village to Pillage 
-ExternalArt/Gabriel Pickard;Tile 
-ExternalArt/Gabriel Pickard;Slap-Down Town 
-ExternalArt/Gabriel Pickard;Save vs Cave 
-ExternalArt/Gabriel Pickard;Quick Encounter 
-ExternalArt/Gabriel Pickard;Hassle-Free Castles 
-ExternalArt/Gabriel Pickard;Game Glam 
-ExternalArt/Gabriel Pickard;Critical Trails 
-ExternalArt/Gabriel Pickard;Vile Tiles 
-ExternalArt/Zeshio;Pixel Hex Extras 
-ExternalArt/Paul Weber;Decks 
-ExternalArt/Paul Weber;Deck 
-ExternalArt/Zeshio;Pixel Hex Extras 
-ExternalArt/Gabriel Pickard;Critical Trails 
-ExternalArt/Gabriel Pickard;Game Glam 
+ExternalArt/Gabriel Pickard;Quick Encounters
+ExternalArt/Gabriel Pickard;Quick Encounter
+ExternalArt/Gabriel Pickard;Vile Tiles
+ExternalArt/Gabriel Pickard;Vile Tiles
+ExternalArt/Gabriel Pickard;Village to Pillage
+ExternalArt/Gabriel Pickard;Tile
+ExternalArt/Gabriel Pickard;Slap-Down Town
+ExternalArt/Gabriel Pickard;Save vs Cave
+ExternalArt/Gabriel Pickard;Quick Encounter
+ExternalArt/Gabriel Pickard;Hassle-Free Castles
+ExternalArt/Gabriel Pickard;Game Glam
+ExternalArt/Gabriel Pickard;Critical Trails
+ExternalArt/Gabriel Pickard;Vile Tiles
+ExternalArt/Zeshio;Pixel Hex Extras
+ExternalArt/Paul Weber;Decks
+ExternalArt/Paul Weber;Deck
+ExternalArt/Zeshio;Pixel Hex Extras
+ExternalArt/Gabriel Pickard;Critical Trails
+ExternalArt/Gabriel Pickard;Game Glam
 ExternalArt/Animated/Bridge Nightime with Lights-E732CHbbI5g.webm
 ExternalArt/Animated/Broken Bridge 00 Daytime-lo7-cAuGFVI.webm
 ExternalArt/Animated/Broken Bridge 01 Daytime-a1hA9RoMhKU.webm
@@ -384,6 +386,4 @@ ExternalArt/Animated/village_night_grid.webm
 ExternalArt/Animated/village_night_gridless.webm
 ExternalArt/Animated/Whirlpool_HD_gridless.webm
 ExternalArt/Animated/WhirlpoolHD-gridded.webm
-*.webm
-*.webm
 *.webm
