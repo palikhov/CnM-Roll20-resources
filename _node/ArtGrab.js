@@ -21,6 +21,7 @@ class ArtGrab {
 	constructor (opt= {}) {
 		this.dryRun = opt.dryRun;
 		this.skipThumbnailGeneration = opt.skipThumbnailGeneration;
+		this.overwriteFiles = opt.force;
 
 		this.requestQueue = new rq.RequestQueue(16);
 
@@ -224,7 +225,7 @@ class ArtGrab {
 		const fileName = ArtGrab.__getThumbnailFilename(artist, set, uriHash);
 		const path = `./ExternalArt/dist/${fileName}`;
 
-		if (fs.existsSync(path)) return this.__doThumbnailLog();
+		if (!this.overwriteFiles && fs.existsSync(path)) return this.__doThumbnailLog();
 
 		let imageData;
 		try { imageData = await rp({url: uri, encoding: null}); }
@@ -341,9 +342,10 @@ class ArtGrab {
 		});
 		target._artist = artist;
 		target._set = set;
-		target._sample = contents[0].hash;
+		target._sample = contents.slice(0, 3).map(it => it.hash);
 	}
 
+	// TODO auto-skip writes + allow force
 	_saveFile (artist, set, contents) {
 	 	const fileName = this._getNextFilename(artist, set);
 		const filePath = `./ExternalArt/dist/${fileName}`;
@@ -363,6 +365,7 @@ class ArtGrab {
 		return fileName;
 	}
 
+	// TODO auto-skip writes + allow force
 	_saveMetaFile (metaName, data) {
 		const fileName = `_meta_${metaName}.json`;
 		const filePath = `./ExternalArt/dist/${fileName}`;
@@ -381,5 +384,5 @@ class ArtGrab {
 	}
 }
 
-const grabber = new ArtGrab({dryRun: !!args.dry, skipThumbnailGeneration: !!args.nothumbs});
+const grabber = new ArtGrab({dryRun: !!args.dry, skipThumbnailGeneration: !!args.nothumbs, force: !!args.force});
 grabber.run();
