@@ -16,8 +16,6 @@ if (args.h || args.help) {
 }
 
 class ArtGrab {
-	static get WHITE () {return {r: 255, g: 255, b: 255, alpha: 1}}
-
 	constructor (opt= {}) {
 		this.dryRun = opt.dryRun;
 		this.skipThumbnailGeneration = opt.skipThumbnailGeneration;
@@ -235,8 +233,9 @@ class ArtGrab {
 		try {
 			img = sharp(imageData)
 				.limitInputPixels(false)
-				.resize(180, 180, {fit: "contain", background: ArtGrab.WHITE})
+				.background(ArtGrab.WHITE)
 				.flatten(ArtGrab.WHITE)
+				.resize(180, 180, {fit: "contain", background: ArtGrab.WHITE})
 				.jpeg();
 		} catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to create thumbnail image for "${uri}": `, e.message); }
 
@@ -244,13 +243,16 @@ class ArtGrab {
 		else {
 			try { await img.toFile(path); }
 			catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to save thumbnail image for "${uri}":`, e.message); }
-			this.__doThumbnailLog();
+			this.__doThumbnailLog(`Sample: ${path}`);
 		}
 	}
 
-	__doThumbnailLog () {
+	__doThumbnailLog (optMessage) {
 		const thumbnailCount = ++this.thumbnailCount;
-		if (!(thumbnailCount % 50)) console.log(`${kg.logPad("THUMBNAIL")}${thumbnailCount} thumbnails processed...`);
+		if (!(thumbnailCount % 50)) {
+			console.log(`${kg.logPad("THUMBNAIL")}${thumbnailCount} thumbnails processed...`);
+			if (optMessage) console.log(optMessage);
+		}
 	}
 
 	_parseRow (row) {
@@ -383,6 +385,7 @@ class ArtGrab {
 		return cell.split(/;/g).map(it => (it || "").trim()).filter(Boolean);
 	}
 }
+ArtGrab.WHITE = {r: 255, g: 255, b: 255, alpha: 1};
 
 const grabber = new ArtGrab({dryRun: !!args.dry, skipThumbnailGeneration: !!args.nothumbs, force: !!args.force});
 grabber.run();
