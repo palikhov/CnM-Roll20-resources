@@ -345,6 +345,7 @@ class ArtGrab {
 		target._artist = artist;
 		target._set = set;
 		target._sample = contents.slice(0, 4).map(it => it.hash);
+		target._size = contents.length;
 	}
 
 	// TODO auto-skip writes + allow force
