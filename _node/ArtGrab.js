@@ -342,7 +342,7 @@ class ArtGrab {
 		});
 		target._artist = artist;
 		target._set = set;
-		target._sample = contents.slice(0, 3).map(it => it.hash);
+		target._sample = contents.slice(0, 4).map(it => it.hash);
 	}
 
 	// TODO auto-skip writes + allow force
