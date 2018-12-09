@@ -1,9 +1,12 @@
 const fs = require("fs");
+const crypto = require("crypto");
 const sharp = require("sharp");
 const rp = require("request-promise-native");
 const login = require("./GoogleAuth");
-const kg = require("./Kludge");
 const rq = require("./RequestQueue");
+const kg = require("./Kludge");
+
+process.on("unhandledRejection", (e) => console.error(`${kg.logPad("PROCESS")}Unhandled rejection caught by process handler!`, e.message));
 
 global.args = require('minimist')(process.argv.slice(2));
 
@@ -13,19 +16,18 @@ if (args.h || args.help) {
 }
 
 class ArtGrab {
-	static get WHITE () {return {r: 255, g: 255, b: 255, alpha: 1}}
-
 	constructor (opt= {}) {
 		this.dryRun = opt.dryRun;
 		this.skipThumbnailGeneration = opt.skipThumbnailGeneration;
+		this.overwriteFiles = opt.force;
 
 		this.requestQueue = new rq.RequestQueue(16);
 
-		this.fileIndex = 0;
-		this.rowIndex = 0;
+		this.filesToRemove = {};
+		this.fileCount = 0;
 		this.thumbnailCount = 0;
 		this.enums = {}; // fill this with values for each field
-		this.index = []; // fill this with metadata for each file
+		this.index = {}; // fill this with metadata for each file
 		this.schema = {
 			Artist: {
 				prop: "artist",
@@ -118,7 +120,7 @@ class ArtGrab {
 	}
 
 	run () {
-		console.log(`${ArtGrab._logPad("SHEETS")}Authenticating...`);
+		console.log(`${kg.logPad("SHEETS")}Authenticating...`);
 		let sheets;
 		login
 			.getSheets()
@@ -130,7 +132,7 @@ class ArtGrab {
 					range: 'Images Vault!A1:T1',
 				}, (err, res) => {
 					if (err) reject(err);
-					console.log(`${ArtGrab._logPad("SHEETS")}Retrieved headers...`);
+					console.log(`${kg.logPad("SHEETS")}Retrieved headers...`);
 					resolve(res);
 				})
 			}))
@@ -155,13 +157,13 @@ class ArtGrab {
 					range: 'Images Vault!A2:T',
 				}, (err, res) => {
 					if (err) reject(err);
-					console.log(`${ArtGrab._logPad("SHEETS")}Retrieved rows...`);
+					console.log(`${kg.logPad("SHEETS")}Retrieved rows...`);
 					resolve(res);
 				})
 			}))
 			.then(res => {
-				console.log(`${ArtGrab._logPad("PROCESS")}Shredding output directory...`);
-				kg.rmDir("ExternalArt/dist", true);
+				// track all current files, so we can later delete those which should not exist
+				fs.readdirSync("ExternalArt/dist").forEach(file => this.filesToRemove[file] = true);
 
 				const rows = res.data.values;
 				rows.map(r => this._parseRow(r)).filter(it => it).sort(ArtGrab._sortRows).forEach(r => {
@@ -173,7 +175,7 @@ class ArtGrab {
 						this._doAccumulateAndOutput(r);
 					}
 				});
-				this._doAccumulateAndOutput({artist: "", set: ""}); // pass an empty row to trigger output
+				this._doAccumulateAndOutput({artist: "", set: "", _isLastRow: true}); // pass an empty row to trigger output
 
 				// output enum metadata
 				Object.values(this.enums).forEach(enumList => enumList.sort((a, b) => kg.ascSortLower(a.v, b.v)));
@@ -183,58 +185,73 @@ class ArtGrab {
 				Object.values(this.index).forEach(fileIndex => Object.keys(fileIndex).filter(k => !k.startsWith("_")).forEach(k => fileIndex[k].sort(kg.ascSortLower)));
 				this._saveMetaFile(`index`, this.index);
 
-				console.log(`${ArtGrab._logPad("PROCESS")}Output ${this.fileIndex} data files.`);
+				console.log(`${kg.logPad("PROCESS")}Sheet processing complete. Output ${this.fileCount} data files.${this.requestQueue.length ? ` Thumbnail creation is active, with ${this.requestQueue.length.toLocaleString()} requests queued.` : ""}`);
+
+				if (!this.dryRun) {
+					console.log(`${kg.logPad("PROCESS")}Cleaning output directory...`);
+					Object.keys(this.filesToRemove).forEach(f => fs.unlinkSync(`./ExternalArt/dist/${f}`));
+					console.log(`${kg.logPad("PROCESS")}${Object.keys(this.filesToRemove).length} files deleted.`);
+				}
 			});
 	}
 
 	_doAccumulateAndOutput (row) {
 		if (row.artist.toLowerCase() === this.lastArtist.toLowerCase() && row.set.toLowerCase() === this.lastSet.toLowerCase()) {
 			this.accumulatedRows.push(row);
-			this.rowIndex++;
 		} else {
 			const fileName = this._saveFile(this.lastArtist, this.lastSet, {data: this.accumulatedRows});
 			this._indexFile(this.lastArtist, this.lastSet, fileName, this.accumulatedRows);
-			if (this.accumulatedRows.length === 1) console.warn(`${ArtGrab._logPad("ACCUMULATOR")}Artist: "${this.lastArtist}"; set: "${this.lastSet}" had only one item!`);
-			this.lastArtist = row.artist;
+			if (this.accumulatedRows.length === 1) console.warn(`${kg.logPad("ACCUMULATOR")}Artist: "${this.lastArtist}"; set: "${this.lastSet}" had only one item!`);
 			this.lastSet = row.set;
+			this.lastArtist = row.artist;
 			this.accumulatedRows = [row];
-			this.rowIndex = 0;
 		}
-		if (!this.skipThumbnailGeneration) this.requestQueue.add(this._doSaveThumbnail.bind(this, row.uri));
+
+		const thumbName = ArtGrab.__getThumbnailFilename(row.artist, row.set, row.hash);
+		delete this.filesToRemove[thumbName];
+		if (!row._isLastRow && !this.skipThumbnailGeneration) {
+			this.requestQueue.add(this._doSaveThumbnail.bind(this, row.artist, row.set, row.uri, row.hash));
+		}
 	}
 
-	async _doSaveThumbnail (uri) {
-		const fileName = `${this.fileIndex}-thumb-${this.rowIndex}.jpg`;
+	static __getThumbnailFilename (artist, set, uriHash) {
+		const slugName = ArtGrab.__getSlug(artist, set);
+		return `${slugName}--thumb-${uriHash}.jpg`;
+	}
+
+	async _doSaveThumbnail (artist, set, uri, uriHash) {
+		const fileName = ArtGrab.__getThumbnailFilename(artist, set, uriHash);
 		const path = `./ExternalArt/dist/${fileName}`;
 
+		if (!this.overwriteFiles && fs.existsSync(path)) return this.__doThumbnailLog();
+
 		let imageData;
-		try {
-			imageData = await rp({
-				url: uri,
-				encoding: null
-			});
-		} catch (e) {
-			return console.error(`${ArtGrab._logPad("THUMBNAIL")}Failed to retrieve image data from ${uri}: `, e.message);
-		}
+		try { imageData = await rp({url: uri, encoding: null}); }
+		catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to retrieve image data from "${uri}": `, e.message); }
 
 		let img;
 		try {
 			img = sharp(imageData)
-				.resize(180, 180, {
-					fit: "contain",
-					background: ArtGrab.WHITE
-				})
+				.limitInputPixels(false)
+				.background(ArtGrab.WHITE)
 				.flatten(ArtGrab.WHITE)
+				.resize(180, 180, {fit: "contain", background: ArtGrab.WHITE})
 				.jpeg();
-		} catch (e) {
-			return console.error(`${ArtGrab._logPad("THUMBNAIL")}Failed to create thumbnail image for ${uri}: `, e.message);
-		}
+		} catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to create thumbnail image for "${uri}": `, e.message); }
 
-		if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping image write: "${fileName}"...`);
+		if (this.dryRun) console.log(`${kg.logPad("DRY_RUN")}Skipping image write: "${fileName}"...`);
 		else {
-			img.toFile(path);
-			const thumbnailCount = ++this.thumbnailCount;
-			if (!(thumbnailCount % 50)) console.log(`${ArtGrab._logPad("THUMBNAIL")}${thumbnailCount} thumbnails created...`);
+			try { await img.toFile(path); }
+			catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to save thumbnail image for "${uri}":`, e.message); }
+			this.__doThumbnailLog(`Sample: ${path}`);
+		}
+	}
+
+	__doThumbnailLog (optMessage) {
+		const thumbnailCount = ++this.thumbnailCount;
+		if (!(thumbnailCount % 50)) {
+			console.log(`${kg.logPad("THUMBNAIL")}${thumbnailCount} thumbnails processed...`);
+			if (optMessage) console.log(optMessage);
 		}
 	}
 
@@ -280,6 +297,7 @@ class ArtGrab {
 		}
 
 		if (!hasAny) return null;
+		out.hash = crypto.createHash("md5").update(out.uri).digest("hex");
 		return out;
 	}
 
@@ -290,8 +308,18 @@ class ArtGrab {
 		});
 	}
 
-	_getNextFilename () {
-		return `${this.fileIndex++}.json`;
+	static __getSlug (artist, set) {
+		function getSlugged (string) {
+			return string.toLowerCase().replace(/ /g, "-").replace(/[^-_a-z0-9]/g, "");
+		}
+
+		return `${getSlugged(artist)}--${getSlugged(set)}`;
+	}
+
+	_getNextFilename (artist, set) {
+		this.fileCount++;
+		const slugName = ArtGrab.__getSlug(artist, set);
+		return `${slugName}.json`;
 	}
 
 	_indexFile (artist, set, fileName, contents) {
@@ -316,12 +344,15 @@ class ArtGrab {
 		});
 		target._artist = artist;
 		target._set = set;
-		target._sample = contents[0].uri;
+		target._sample = contents.slice(0, 4).map(it => it.hash);
+		target._size = contents.length;
 	}
 
+	// TODO auto-skip writes + allow force
 	_saveFile (artist, set, contents) {
-	 	const fileName = this._getNextFilename();
+	 	const fileName = this._getNextFilename(artist, set);
 		const filePath = `./ExternalArt/dist/${fileName}`;
+		delete this.filesToRemove[fileName];
 
 		// add headers
 		contents.artist = artist;
@@ -332,29 +363,30 @@ class ArtGrab {
 			delete d.set;
 		});
 
-		if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping data write: "${filePath}" (${contents.data.length} entries)...`);
+		if (this.dryRun) console.log(`${kg.logPad("DRY_RUN")}Skipping data write: "${filePath}" (${contents.data.length} entries)...`);
 		else fs.writeFileSync(filePath, JSON.stringify(contents), "utf-8");
 		return fileName;
 	}
 
+	// TODO auto-skip writes + allow force
 	_saveMetaFile (metaName, data) {
-		const fileName = `./ExternalArt/dist/_meta_${metaName}.json`;
-		if (this.dryRun) console.log(`${ArtGrab._logPad("DRY_RUN")}Skipping meta write: "${fileName}"...`);
-		else fs.writeFileSync(fileName, JSON.stringify(data), "utf-8");
+		const fileName = `_meta_${metaName}.json`;
+		const filePath = `./ExternalArt/dist/${fileName}`;
+		delete this.filesToRemove[fileName];
+
+		if (this.dryRun) console.log(`${kg.logPad("DRY_RUN")}Skipping meta write: "${filePath}"...`);
+		else fs.writeFileSync(filePath, JSON.stringify(data), "utf-8");
 	}
 
 	static _sortRows (a, b) {
 		return kg.ascSortLower(a.artist, b.artist) || kg.ascSortLower(a.set, b.set);
 	}
 
-	static _logPad (pre) {
-		return `[${pre}] `.padEnd(18);
-	}
-
 	static semicolonMapper (cell) {
 		return cell.split(/;/g).map(it => (it || "").trim()).filter(Boolean);
 	}
 }
+ArtGrab.WHITE = {r: 255, g: 255, b: 255, alpha: 1};
 
-const grabber = new ArtGrab({dryRun: !!args.dry, skipThumbnailGeneration: !!args.nothumbs});
+const grabber = new ArtGrab({dryRun: !!args.dry, skipThumbnailGeneration: !!args.nothumbs, force: !!args.force});
 grabber.run();

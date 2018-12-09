@@ -33,8 +33,13 @@ function rmDir (dirPath, initial) {
 	}
 }
 
+function logPad (pre) {
+	return `[${pre}] `.padEnd(18);
+}
+
 module.exports = {
 	copy,
 	ascSortLower,
-	rmDir
+	rmDir,
+	logPad
 };

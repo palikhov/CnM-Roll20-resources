@@ -1,3 +1,5 @@
+const kg = require("./Kludge");
+
 class RequestQueue {
 	constructor (parallelism) {
 		this.parallelism = parallelism;
@@ -15,6 +17,10 @@ class RequestQueue {
 			task().then(() => {
 				this.active--;
 				this._doRunNextTask();
+			}).catch(e => {
+				console.log(`${kg.logPad("QUEUE")}Uncaught exception in task:`, e.message);
+				this.active--;
+				this._doRunNextTask();
 			});
 		} else {
 			this.queue.push(task);
@@ -28,8 +34,16 @@ class RequestQueue {
 			task().then(() => {
 				this.active--;
 				this._doRunNextTask();
+			}).catch(e => {
+				console.log(`${kg.logPad("QUEUE")}Uncaught exception in task:`, e.message);
+				this.active--;
+				this._doRunNextTask();
 			});
-		}
+		} else if (this.active <= 0) console.log(`${kg.logPad("QUEUE")}All tasks complete.`);
+	}
+
+	get length () {
+		return this.queue.length;
 	}
 }
 
