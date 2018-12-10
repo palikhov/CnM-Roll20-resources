@@ -243,16 +243,13 @@ class ArtGrab {
 		else {
 			try { await img.toFile(path); }
 			catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to save thumbnail image for "${uri}":`, e.message); }
-			this.__doThumbnailLog(`Sample: ${path}`);
+			this.__doThumbnailLog();
 		}
 	}
 
-	__doThumbnailLog (optMessage) {
+	__doThumbnailLog () {
 		const thumbnailCount = ++this.thumbnailCount;
-		if (!(thumbnailCount % 50)) {
-			console.log(`${kg.logPad("THUMBNAIL")}${thumbnailCount} thumbnails processed...`);
-			if (optMessage) console.log(optMessage);
-		}
+		if (!(thumbnailCount % 50)) console.log(`${kg.logPad("THUMBNAIL")}${thumbnailCount} thumbnails processed...`);
 	}
 
 	_parseRow (row) {
@@ -348,7 +345,6 @@ class ArtGrab {
 		target._size = contents.length;
 	}
 
-	// TODO auto-skip writes + allow force
 	_saveFile (artist, set, contents) {
 	 	const fileName = this._getNextFilename(artist, set);
 		const filePath = `./ExternalArt/dist/${fileName}`;
@@ -363,17 +359,19 @@ class ArtGrab {
 			delete d.set;
 		});
 
+		if (!this.overwriteFiles && fs.existsSync(filePath)) return fileName;
+
 		if (this.dryRun) console.log(`${kg.logPad("DRY_RUN")}Skipping data write: "${filePath}" (${contents.data.length} entries)...`);
 		else fs.writeFileSync(filePath, JSON.stringify(contents), "utf-8");
 		return fileName;
 	}
 
-	// TODO auto-skip writes + allow force
 	_saveMetaFile (metaName, data) {
 		const fileName = `_meta_${metaName}.json`;
 		const filePath = `./ExternalArt/dist/${fileName}`;
 		delete this.filesToRemove[fileName];
 
+		// Always --force write here, as the meta files should probably always be changed
 		if (this.dryRun) console.log(`${kg.logPad("DRY_RUN")}Skipping meta write: "${filePath}"...`);
 		else fs.writeFileSync(filePath, JSON.stringify(data), "utf-8");
 	}
