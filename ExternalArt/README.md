@@ -14,3 +14,7 @@ To run the script, follow the setup guide in the project's README.md, and then `
 To skip thumbnail generation: `$ npm run art -- --nothumbs`
 
 To do a "dry run" (no files will be saved): `$ npm run art -- --dry`
+
+To force files to be re-generated: `$ npm run art -- --force`
+
+(Any of the above can be combined to various effect, e.g. to forcibly regenerate all index files, but not thumbnails, use the following: `$ npm run art -- --nothumbs --force`)
