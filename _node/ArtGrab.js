@@ -20,6 +20,8 @@ class ArtGrab {
 		this.dryRun = opt.dryRun;
 		this.skipThumbnailGeneration = opt.skipThumbnailGeneration;
 		this.overwriteFiles = opt.force;
+		this.retryTimeout = opt.timeout || ArtGrab.RETRY_TIMEOUT;
+		this.retryCount = opt.retry || ArtGrab.RETRY_COUNT;
 
 		this.requestQueue = new rq.RequestQueue(16);
 
@@ -225,9 +227,17 @@ class ArtGrab {
 
 		if (!this.overwriteFiles && fs.existsSync(path)) return this.__doThumbnailLog();
 
-		let imageData;
-		try { imageData = await rp({url: uri, encoding: null}); }
-		catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to retrieve image data from "${uri}": `, e.message); }
+		let imageData = null;
+		let retries = this.retryCount;
+		let lastE = null;
+		while (retries-- > 0 && imageData == null) {
+			try { imageData = await rp({url: uri, encoding: null}); }
+			catch (e) {
+				lastE = e;
+				await new Promise(resolve => setTimeout(() => resolve(), this.retryTimeout));
+			}
+		}
+		if (imageData == null) return console.error(`${kg.logPad("THUMBNAIL")}Failed to retrieve image data from "${uri}": `, lastE.message);
 
 		let img;
 		try {
@@ -385,6 +395,14 @@ class ArtGrab {
 	}
 }
 ArtGrab.WHITE = {r: 255, g: 255, b: 255, alpha: 1};
+ArtGrab.RETRY_TIMEOUT = 100;
+ArtGrab.RETRY_COUNT = 3;
 
-const grabber = new ArtGrab({dryRun: !!args.dry, skipThumbnailGeneration: !!args.nothumbs, force: !!args.force});
+const grabber = new ArtGrab({
+	dryRun: !!args.dry,
+	skipThumbnailGeneration: !!args.nothumbs,
+	force: !!args.force,
+	timeout: args.timeout,
+	retry: args.retry
+});
 grabber.run();
