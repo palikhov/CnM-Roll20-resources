@@ -1,8 +1,8 @@
 # Roll20Content
 
-Welcome to the Roll20 Resource Respository.
+Welcome to the Roll20 Resource Repository.
 
-A location for resources to help you make fun in your games
+A location for resources to help you make (more) fun in your games, in less time.
 
 This repository holds resources to use within Roll20, follow these links organized by subject.
 
