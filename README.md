@@ -6,12 +6,12 @@ A location for resources to help you make (more) fun in your games, in less time
 
 This repository holds resources to use within Roll20, follow these links organized by subject.
 
+ ⁍ [Animated Backgrounds](https://github.com/DMsGuild201/Roll20_resources/blob/master/Animated/README.md)
+
  ⁍ [Bestiary](https://github.com/DMsGuild201/Roll20_resources/blob/master/Bestiary/README.md) 
  
  ⁍ [External Art](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/README.md)
- 
- ⁍ ⁍ [Animated Backgrounds](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/README.md)
- 
+  
  ⁍ [Macro](https://github.com/DMsGuild201/Roll20_resources/blob/master/Macro/README.md)
  
  ⁍ [Module](https://github.com/DMsGuild201/Roll20_resources/blob/master/Module/README.md)
