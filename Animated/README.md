@@ -62,7 +62,7 @@ In this directory several files have been provided for you to test or use.
 
 In general to get use the files in this Git to work within the tool, append the `file name` <example : `darklake_vortex-gridless.webm` >
 
-to the base `URL`: which should be `https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/`
+to the base `URL`: which should be `https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/Animated/`
 
 So for that file name example:  base `URL` + `File name`=
 
