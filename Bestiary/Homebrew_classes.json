@@ -1,0 +1,206 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "CoL",
+				"abbreviation": "CoL",
+				"full": "College of Laughter",
+				"authors": [
+					"/u/RavagedMuffin"
+				],
+				"convertedBy": [
+					"ACOG_Muffin"
+				],
+				"version": "1.2",
+				"url": "https://drive.google.com/file/d/1d3gpFLmtlvHXysyrvO03395ZINBXLP9g/view",
+				"targetSchema": "1.0.0"
+			},
+			{
+				"json": "Armiger",
+				"abbreviation": "Armiger",
+				"full": "Armiger",
+				"authors": [
+					"/u/Cometdance"
+				],
+				"convertedBy": [
+					"ACOG_Muffin"
+				],
+				"version": "0.5",
+				"url": "https://drive.google.com/file/d/1c41UDB642V0GBdP76yJW8LhozpUI29Yd/view?usp=sharing",
+				"targetSchema": "1.0.0"
+			}			
+		]
+	},
+	"subclassTitle": "College",
+	"subclass": [
+		{
+			"class": "Bard",
+			"version": "1.2",
+			"name": "College of Laughter",
+			"subclassFeatures": [
+				[
+					{
+						"name": "College of Laughter",
+						"entries": [
+							"The College of Laughter often has people sign up for it under false pretenses. Well, mostly false. For some reason, no matter how many times they put it back up, the 'S' goes missing from the beginning of the College of Slaughter. Even on documents, it simply can't be found, like some joker takes it off to watch people sign up and learn a masochistic life through their teachings. After the 15th time they simply gave up and left it as it was, becoming the College of Laughter, renowned for the maniacal laughs heard from the dorms and the classrooms in the midst of thuds and slices.",
+							"The students, whether they knowingly or unknowingly signed up, begin to show their true talents in their dancing technique, their juggling prowess, and even learning to improvise on the fly when someone doesn't follow the script, usually by way of punishing them. Constant pain builds up tolerance, and eventually they used their techniques in order to dull the pain and even inflict it upon others.", 
+							"Graduates from the college more often than not go onto show their talents as part of a circus troupe, revealing their tolerance for pain in their acts by asking the audience to impale them with real blades - no trickery, they simply get stabbed through the stomach - for one example. But these clowns are sometimes also employed to perform distractions for bandits, taking the attacks from guards at the front of a stronghold and leading them away so that the thieves can make their way in without worry for being caught.",
+							"But in particular, people that work with them learn that graduates of the College of Laughter tend to prefer its old name. There would be no better word than 'sociopath' to describe them.",
+							{
+								"type": "entries",
+								"name": "Cohesive Juggling",
+								"entries": [
+									"Starting at 3rd level, your expertise with juggling doesn't just have to be used for entertainment; interrupting someone throwing weapons around isn't a very clever idea.",
+									"As an action, you may begin juggling a number of weapons up to your Charisma modifier with the thrown property. Until the beginning of your next turn, every time you receive damage you 'drop' a weapon. If the attacker is within 5 feet, they take damage equal to the weapon's damage die.",
+									"If there are different weapons, you decide which one falls upon the attacker."
+								]
+							},
+							{
+								"type": "entries",
+								"name": "Clown's Laughter",
+								"entries": [
+									"Also starting at 3rd level, your view on the world as a whole is that of a circus. Your foes on the battlefield do love to put on an amusing show, though they may not know it, agree with it, or find it very funny themselves.", 
+									"When you take damage from an attack, you may use a reaction and expend a bardic inspiration to reduce the damage dealt by the attack. When you do so, the creature that hit you must make a Wisdom saving throw. On a failure, they have disadvantage on attacks against creatures other than you until the end of their next turn."
+								]
+							}
+						]
+					}
+				],
+				[
+					{
+						"entries": [
+							{
+								"type": "entries",
+								"name": "Dancing Mad",
+								"entries": [
+									"At 6th level, you can prance, you can dance, and it will only make it harder for your foes to truly make a dent in your skin.",
+									"As a bonus action, you can designate one creature you can see within 60 feet of you. Make a Charisma (Performance) check contested by their Wisdom (Insight). If you succeed, reduce all damage dealt to you by that creature by an amount equal to your Charisma modifier until the end of your next turn."
+								]
+							}
+						]
+					}
+				],
+				[
+					{
+						"entries": [
+							{
+								"type": "entries",
+								"name": "A Performer's Greatest Skill",
+								"entries": [
+									"Ah, but of course, there has to be just one member of the cast who cannot follow your script, forcing you to improvise.",
+									"At 14th level, as a reaction after a creature ends their turn, you can take an additional turn.",
+									"Once you use this feature, you cannot use it again until you complete a long rest."
+								]
+							}
+						]
+					}
+				]
+			],
+			"source": "CoL",
+			"shortName": "Laughter"
+		},
+		{
+			"class": "Fighter",
+			"version": "1.0",
+			"name": "Armiger",
+			"subclassFeatures": [
+				[
+					{
+						"name": "Armiger",
+						"entries": [
+							"Those who earn the right to call themselves an Armiger are few and far between. Within their hands is a magic passed down from person to person, rumored to have been created by a lost line of royalty. Compared to an Eldritch Knight and their spellcasting, an Armiger uses their magic for the sole purpose of wielding their vast and varied array of weaponry.",
+							{
+								"type": "entries",
+								"name": "Arcane Armory",
+								"entries": [
+									"Starting at 3rd level, your weaponry lies at your beck and call. As an action, you can add a melee weapon that you're holding to your Arcane Armory. You can have a number of weapons in your Arcane Armory up to twice your Intelligence modifier (minimum of 2). Your Arcane Armory can't contain two of the same type of weapon, such as two rapiers. You can remove a weapon from your Arcane Armory at any time. While in your Arcane Armory, a weapon gains the following benefits.",
+									{
+										"type": "list",
+										"items": [
+											"As a bonus action, you can cause any number of weapons in your Arcane Armory to vanish.",
+											"As a bonus action, you can cause any number of weapons you caused to vanish to appear and float around you. You can draw a floating weapon without an object interaction, and if you drop it within 5 feet of you, it floats once more. A creature can't take a floating weapon unless you allow it.",
+											"You can make a ranged weapon attack as if the weapon had the Thrown (range 20/60) property. If the weapon already has the Thrown property, attacking at long range with it doesn't impose disadvantage on your attack roll."
+										]
+									}
+								]
+							},
+							{
+								"type": "entries",
+								"name": "Warp Strike",
+								"entries": [
+									"At 3rd level, you call your weaponry to yourself and yourself to your weaponry. When you hit a creature with a ranged weapon attack using a weapon in your Arcane Armory, you can teleport to an unoccupied space within 5 feet of the creature as a reaction. If you do so, you can retrieve the weapon and immediately make a melee weapon attack  with it against the creature that you hit.", 
+									"You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest."
+								]
+							}
+						]
+					}
+				],
+				[
+					{
+						"entries": [
+							{
+								"type": "entries",
+								"name": "Heraldic Weaponry",
+								"entries": [
+									"Starting at 7th level, weaponry you make can't be mistaken. You gain proficiency in smith's tools. Your proficiency bonus is doubled for any ability check you make that uses them.",
+									"You can craft a non-magical melee weapon within one day, regardless of the weapon's market value, and you can leave a signature on the weapon which can't be perfectly forged.",
+									"Additionally, the weapons in your Arcane Armory count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage."
+								]
+							}
+						]
+					}
+				],
+				[
+					{
+						"entries": [
+							{
+								"type": "entries",
+								"name": "Flexible Fighting Style",
+								"entries": [
+									"Starting at 10th level, you aren't held back by a single style. Once on each of your turns, you can replace the option you chose for your Fighting Style feature with another option."
+								]
+							}
+						]
+					}
+				],
+				[
+					{
+						"entries": [
+							{
+								"type": "entries",
+								"name": "Army of One",
+								"entries": [
+									"Starting at 15th level, when you hit a creature with three weapon attacks using three different types of weapon on your turn, you deal extra force damage equal to your Intelligence modifier x 3 (minimum 3). For example, you gain this benefit if you hit a creature with a rapier, a shortsword, and a dagger."
+								]
+							}
+						]
+					}
+				],
+				[
+					{
+						"entries": [
+							{
+								"type": "entries",
+								"name": "Royal Armory",
+								"entries": [
+									"Starting at 18th level, you access the power of every Armiger before you, back to the time when it was wielded by royalty. As an action, you can call forth the power of kings. For 1 minute, you gain the following benefits:",
+									{
+										"type": "list",
+										"items": [
+											"Your movement speed is doubled, and your movement doesn't provoke opportunity attacks.",
+											"When you hit with a weapon attack using a weapon in your Arcane Armory, you deal maximum damage with the weapon's damage die instead of rolling.",
+											"You can use your Warp Strike without expending a use."
+										]
+									},
+									"Once you use this feature, you can't use it again until you finish a long rest."
+								]
+							}
+						]
+					}
+				]
+			],
+			"source": "Armiger",
+			"shortName": "Armiger"		
+		}					
+	]
+}
