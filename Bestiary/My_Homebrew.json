@@ -1,0 +1,1164 @@
+{
+	"_meta": {
+		"sources": [{
+			"json": "SaF 3pp",
+			"abbreviation": "SaF (3pp)",
+			"full": "Strongholds and Followers (3pp)",
+			"authors": ["Matt Colville"],
+			"version": "1.0",
+			"url": "https://thetrove.net/Books/Dungeons%20&%20Dragons/3rd%20Party/5th%20Edition/Strongholds%20and%20Followers.pdf",
+			"targetSchema": "1.6.3"
+		}],
+		"dependencies": {
+			"items": [
+				"MM"
+			]
+		},
+		"dateAdded": 0
+	},
+	"monster": [{
+			"_copy": {
+				"name": "Unicorn",
+				"source": "MM",
+				"replacers": [{
+					"replace": "unicorn",
+					"with": "alicorn"
+				}]
+			},
+			"source": "SaF 3pp",
+			"name": "Alicorn",
+			"page": 55,
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 76,
+				"formula": "9d10 + 27"
+			},
+			"speed": {
+				"walk": 60,
+				"fly": 90
+			},
+			"str": 19,
+			"dex": 16,
+			"con": 16,
+			"save": {
+				"dex": "+5",
+				"wis": "+4",
+				"cha": "+3"
+			},
+			"skill": {
+				"perception": "+6"
+			},
+			"passive": 16,
+			"senses": "truesight 60 ft.",
+			"senseTags": [
+				"U"
+			],
+			"legendary": [{
+					"name": "Hooves",
+					"entries": [
+						"The alicorn makes one attack with its hooves."
+					]
+				},
+				{
+					"name": "Prismatic Barrier (Costs 2 Actions)",
+					"entries": [
+						"The alicorn creates a prismatic, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the alicorn's next turn."
+					]
+				},
+				{
+					"name": "Heal Self (Costs 3 Actions)",
+					"entries": [
+						"The alicorn magically restores 11 ({@dice 2d8 + 2}) hit points."
+					]
+				}
+			],
+			"legendaryGroup": "",
+			"environment": "",
+			"soundClip": "",
+			"fluff": {
+				"entries": [
+					"Natives of Arcadia, the winged {@creature unicorn} (not to be confused with the horned {@creature pegasus}) can be summoned by a particularly devout paladin to serve as their mount. They do not particularly like the Mundane World, but they enjoy and find satisfaction in hunting evil and chaos. They will serve as mount and companion to a holy knight only so long as it brings the opportunity to smash evil, a sport they are denied on their home plane."
+				]
+			}
+		},
+		{
+			"source": "SaF 3pp",
+			"page": 135,
+			"name": "White Tusk Orc",
+			"size": "M",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"orc"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [{
+				"ac": 14,
+				"from": [
+					"{@item studded leather armor|phb}"
+				]
+			}],
+			"hp": {
+				"average": 30,
+				"formula": "4d8 + 12"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 16,
+			"dex": 12,
+			"con": 16,
+			"int": 9,
+			"wis": 11,
+			"cha": 10,
+			"save": {
+				"dex": "+2"
+			},
+			"skill": {
+				"intimidation": "+2"
+			},
+			"passive": 10,
+			"senses": "darkvision 60 ft.",
+			"languages": "Orc",
+			"cr": "1",
+			"trait": [{
+					"name": "Aggressive",
+					"entries": [
+						"As a bonus action, the orc can move up to its speed toward a hostile creature it can see."
+					]
+				},
+				{
+					"name": "Minion: Savage Horde",
+					"entries": [
+						"After moving at least 20 feet in a straight line toward a creature, the next attack the orc makes against that creature scores a critical hit on a roll of 18-20."
+					]
+				}
+			],
+			"action": [{
+					"name": "Battleaxe",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d8 + 3}) slashing damage, or 14 ({@damage 2d10 + 3}) slashing damage if used with two hands."
+					]
+				},
+				{
+					"name": "Javelin",
+					"entries": [
+						"{@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 30/120 ft., one target. {@h}10 ({@damage 2d6 + 3}) piercing damage."
+					]
+				}
+			],
+			"traitTags": [
+				"Aggressive"
+			],
+			"languageTags": [
+				"O"
+			],
+			"senseTags": [
+				"D"
+			],
+			"fluff": {
+				"entries": [
+					"The rank and file of the White Tusk clan pride themselves on being larger and, thanks to Bonebreaker Dorokor’s leadership since the investiture of Castle Rend, more devastating in combat than normal orcs.",
+					"They are a chaotic evil tribe who care only for strength and the subjugation of their enemies. They delight in cruelty. But Bonebreaker Dorokor is lawful, and has led them to triumph over the humanoids of the forest. So they obey her…for now."
+				]
+			}
+		},
+		{
+			"source": "SaF 3pp",
+			"page": 136,
+			"name": "White Tusk Juggernaut",
+			"size": "L",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"orc"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [{
+				"ac": 20,
+				"from": [
+					"{@item plate armor|phb}",
+					"{@item shield|phb}"
+				]
+			}],
+			"hp": {
+				"average": 95,
+				"formula": "10d10 + 40"
+			},
+			"speed": {
+				"walk": 25
+			},
+			"str": 19,
+			"dex": 8,
+			"con": 19,
+			"int": 7,
+			"wis": 12,
+			"cha": 8,
+			"save": {
+				"str": "+6",
+				"wis": "+3"
+			},
+			"skill": {
+				"athletics": "+7",
+				"intimidation": "+3"
+			},
+			"passive": 11,
+			"senses": "darkvision 60 ft.",
+			"languages": "Orc",
+			"cr": "4",
+			"trait": [{
+					"name": "Aggressive",
+					"entries": [
+						"As a bonus action, the orc can move up to its speed toward a hostile creature it can see."
+					]
+				},
+				{
+					"name": "Minion: Savage Horde",
+					"entries": [
+						"After moving at least 20 feet in a straight line toward a creature, the next attack the orc makes against that creature scores a critical hit on a roll of 18-20."
+					]
+				}
+			],
+			"action": [{
+					"name": "Multiattack",
+					"entries": [
+						"The White Tusk juggernaut makes one tusk attack and one longsword attack."
+					]
+				},
+				{
+					"name": "Tusk",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 10 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone."
+					]
+				},
+				{
+					"name": "Longsword",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 10 ft., one target. {@h}13 ({@damage 2d8 + 4}) slashing damage."
+					]
+				}
+			],
+			"reaction": [{
+				"name": "Horde Protector",
+				"entries": [
+					"When a creature within 5 feet of the orc is attacked by a creature the orc can see and the orc is wielding a shield, the orc can impose disadvantage on that attack roll."
+				]
+			}],
+			"traitTags": [
+				"Aggressive"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"O"
+			],
+			"senseTags": [
+				"D"
+			],
+			"fluff": {
+				"entries": [
+					"The White Tusk orc clan named itself after its hulking warriors who, in addition to their massive bodies, possessed enormous white tusks. White Tusk juggernauts pride themselves not just in their battle prowess but also in the size and sharpness of their monstrous lower canines. Some juggernauts have their tusks pierced and display fearsome jewelry from their teeth, others decorate them with ink or paint, and those who can withstand the pain even have symbols or runes inscribed upon them.",
+					"A juggernaut’s immense muscles allow them to wield oversized weapons worthy of their bloodlust, and they wear thick metal armor forged together in piecemeal from bits of plate armor scavenged from the corpses of their more knightly victims."
+				]
+			}
+		},
+		{
+			"source": "SaF 3pp",
+			"page": 137,
+			"name": "White Tusk Bloodrager",
+			"size": "M",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"orc"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [{
+				"ac": 16,
+				"from": [
+					"{@item breastplate|phb}"
+				]
+			}],
+			"hp": {
+				"average": 60,
+				"formula": "8d8 + 24"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 18,
+			"dex": 15,
+			"con": 16,
+			"int": 11,
+			"wis": 12,
+			"cha": 9,
+			"save": {
+				"dex": "+4"
+			},
+			"skill": {
+				"athletics": "+5",
+				"perception": "+3"
+			},
+			"passive": 13,
+			"senses": "darkvision 60 ft.",
+			"languages": "Orc",
+			"cr": "4",
+			"trait": [{
+					"name": "Cold Fury (Recharges after a Short or Long Rest)",
+					"entries": [
+						"As a bonus action, the orc can enter a cold fury for 1 minute. While in a fury, its melee weapon attacks deal an extra 3 ({@dice 1d6}) damage.",
+						"Also, if the orc is reduced to 0 hit points while in a cold fury, unless it was dealt with a critical hit, the orc makes a Constitution saving throw with a DC of 5 plus the damage taken. On a success, the orc instead drops to 1 hit point and its fury ends."
+					]
+				},
+				{
+					"name": "Aggressive",
+					"entries": [
+						"As a bonus action, the orc can move up to its speed toward a hostile creature it can see."
+					]
+				},
+				{
+					"name": "Minion: Savage Horde",
+					"entries": [
+						"After moving at least 20 feet in a straight line toward a creature, the next attack the orc makes against that creature scores a critical hit on a roll of 18-20."
+					]
+				}
+			],
+			"action": [{
+					"name": "Multiattack",
+					"entries": [
+						"The White Tusk Bloodrager makes three falchion attacks."
+					]
+				},
+				{
+					"name": "Falchion",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 2d4 + 3}) slashing damage."
+					]
+				}
+			],
+			"traitTags": [
+				"Aggressive"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"O"
+			],
+			"senseTags": [
+				"D"
+			],
+			"fluff": {
+				"entries": [
+					"Bloodragers of the White Tusk clan practice the art of death and express their mastery with precise strokes of their dual falchions. They are the most disciplined orcs in the White Tusk clan, and train daily with Bonebreaker Dorokor to hone their Skills.",
+					"Through constant training, orcish bloodragers have developed a state of pure focus. In this cold fury, their sword strokes rend flesh with preternatural ease and their powerful bodies simply refuse to die."
+				]
+			}
+		},
+		{
+			"source": "SaF 3pp",
+			"page": 138,
+			"name": "White Tusk Warspeaker",
+			"size": "M",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"orc"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [{
+				"ac": 14,
+				"from": [
+					"{@item chain mail|phb} scraps"
+				]
+			}],
+			"hp": {
+				"average": 65,
+				"formula": "10d8 + 20"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 16,
+			"dex": 8,
+			"con": 15,
+			"int": 10,
+			"wis": 16,
+			"cha": 12,
+			"save": {
+				"wis": "+5"
+			},
+			"skill": {
+				"persuasion": "+3",
+				"religion": "+4"
+			},
+			"passive": 13,
+			"senses": "darkvision 60 ft.",
+			"languages": "Orc",
+			"cr": "3",
+			"trait": [{
+					"name": "Aggressive",
+					"entries": [
+						"As a bonus action, the orc can move up to its speed toward a hostile creature it can see."
+					]
+				},
+				{
+					"name": "Minion: Savage Horde",
+					"entries": [
+						"After moving at least 20 feet in a straight line toward a creature, the next attack the orc makes against that creature scores a critical hit on a roll of 18-20."
+					]
+				}
+			],
+			"action": [{
+					"name": "Multiattack",
+					"entries": [
+						"The White Tusk warspeaker makes a goading lash attack and two spiked club attacks."
+					]
+				},
+				{
+					"name": "Goading Lash",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one allied target. {@h}5 ({@damage 1d4 + 3}) slashing damage. The next melee weapon attack the target makes before the end of its next turn has advantage and deals an extra 10 ({@dice 3d6}) damage."
+					]
+				},
+				{
+					"name": "Spiked Club",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) piercing damage."
+					]
+				}
+			],
+			"spellcasting": [{
+				"name": "Spellcasting",
+				"headerEntries": [
+					"The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, {@hit 5} to hit with spell attacks). The orc has the following cleric spells prepared:"
+				],
+				"spells": {
+					"0": {
+						"spells": [
+							"{@spell resistance}",
+							"{@spell sacred flame}",
+							"{@spell thaumaturgy}"
+						]
+					},
+					"1": {
+						"slots": 4,
+						"spells": [
+							"{@spell cure wounds}",
+							"{@spell guiding bolt}",
+							"{@spell inflict wounds}"
+						]
+					},
+					"2": {
+						"slots": 3,
+						"spells": [
+							"{@spell blindness/deafness}",
+							"{@spell spiritual weapon} (greataxe)"
+						]
+					},
+					"3": {
+						"slots": 2,
+						"spells": [
+							"{@spell bestow curse}",
+							"{@spell spirit guardians}"
+						]
+					}
+				},
+				"ability": "wis"
+			}],
+			"traitTags": [
+				"Aggressive"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"O"
+			],
+			"senseTags": [
+				"D"
+			],
+			"fluff": {
+				"entries": [
+					"Priests of Grole, orcish god of war and slaughter, live for the chance to kill in the name of their bloodstained god. Dressed in war-robes of scavenged leather and mail, these priests bestow the blessing of pain upon their allies, goading them to die gloriously in combat in the name of Grole.",
+					"Warspeakers seek conflict constantly, flying into a frothing rage at the slightest provocation. When their clan is at peace, they scheme and search for ways to trick or coerce their chieftain into attacking—and if they cannot, they scheme against their chieftain and convince a more aggressive orc into supplanting their “soft, peace-loving” leader."
+				]
+			}
+		},
+		{
+			"source": "SaF 3pp",
+			"page": 139,
+			"name": "White Tusk Shaman",
+			"size": "M",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"orc",
+					"shapechanger"
+				]
+			},
+			"alignment": [
+				"C",
+				"N"
+			],
+			"ac": [{
+				"ac": 14,
+				"from": [
+					"{@item hide armor|phb}"
+				]
+			}],
+			"hp": {
+				"average": 52,
+				"formula": "8d8 + 16"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 17,
+			"dex": 15,
+			"con": 14,
+			"int": 9,
+			"wis": 16,
+			"cha": 8,
+			"save": {
+				"dex": "+4",
+				"wis": "+5"
+			},
+			"skill": {
+				"perception": "+5",
+				"survival": "+5"
+			},
+			"passive": 18,
+			"senses": "darkvision 60 ft.",
+			"languages": "Orc, Primordial",
+			"cr": "3",
+			"trait": [{
+					"name": "Aggressive",
+					"entries": [
+						"As a bonus action, the orc can move up to its speed toward a hostile creature it can see."
+					]
+				},
+				{
+					"name": "Minion: Savage Horde",
+					"entries": [
+						"After moving at least 20 feet in a straight line toward a creature, the next attack the orc makes against that creature scores a critical hit on a roll of 18-20."
+					]
+				},
+				{
+					"name": "Spirit-Bonded Body (Recharges after a Short or Long Rest)",
+					"entries": [
+						"As a bonus action, the orc can transform into a dire wolf for up to 4 hours. The orc can choose whether its equipment falls to the ground, melds with its new form, or is worn by the new form. The orc reverts to its true form when its dire wolf form is reduced to 0 hit points. If this damage would cause its dire wolf form to drop below 0 hit points, the excess damage is done to its true form.",
+						"The orc also reverts to its true form if it dies or falls unconscious. The orc can revert to its true form as a bonus action on its turn. When it reverts in this way, it returns to the number of hit points it had before it transformed."
+					]
+				},
+				{
+					"name": "Spirit-Bonded Mind",
+					"entries": [
+						"The orc can cast speak with animals at will, but can only communicate with wolves."
+					]
+				}
+			],
+			"action": [{
+					"name": "Multiattack",
+					"entries": [
+						"The White Tusk Shaman makes two blood-searing spear attacks."
+					]
+				},
+				{
+					"name": "Blood-Searing Spear",
+					"entries": [
+						"{@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 30/60 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage plus 7 ({@damage 2d6}) poison damage. This magical poison only functions when the spear is wielded by an orc shaman."
+					]
+				}
+			],
+			"traitTags": [
+				"Aggressive"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"O",
+				"P"
+			],
+			"senseTags": [
+				"D"
+			]
+		},
+		{
+			"source": "SaF 3pp",
+			"page": 140,
+			"name": "Oregg Steeltwister",
+			"size": "M",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"orc"
+				]
+			},
+			"alignment": [
+				"L",
+				"E"
+			],
+			"ac": [{
+				"ac": 16,
+				"from": [
+					"{@item chain mail|phb}"
+				]
+			}],
+			"hp": {
+				"average": 82,
+				"formula": "11d8 + 33"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 15,
+			"dex": 12,
+			"con": 16,
+			"int": 9,
+			"wis": 11,
+			"cha": 18,
+			"save": {
+				"str": "+5",
+				"wis": "+3"
+			},
+			"skill": {
+				"arcana": "+5",
+				"athletics": "+5"
+			},
+			"passive": 10,
+			"senses": "darkvision 60 ft.",
+			"languages": "Orc, Common",
+			"cr": "5",
+			"trait": [{
+					"name": "Aggressive",
+					"entries": [
+						"As a bonus action, the orc can move up to its speed toward a hostile creature it can see."
+					]
+				},
+				{
+					"name": "Rune-Tattooed",
+					"entries": [
+						"Whenever Oregg casts a spell of 1st level or higher, he gains a number of temporary hit points equal to X{@dice d10}, where X is the level of the spell."
+					]
+				}
+			],
+			"action": [{
+					"name": "Multiattack",
+					"entries": [
+						"Oregg makes two longsword attacks and can cast a cantrip as a bonus action."
+					]
+				},
+				{
+					"name": "Longsword",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d10 + 2}) slashing damage."
+					]
+				},
+				{
+					"name": "Firebolt",
+					"entries": [
+						"{@atk rs} {@hit 7} to hit, range 120 ft., one target. {@h}11 ({@damage 2d10}) fire damage."
+					]
+				},
+				{
+					"name": "Poison Spray",
+					"entries": [
+						"One creature within 10 feet of Oregg must make a successful DC 15 Constitution saving throw or take 13 ({@damage 2d12}) poison damage."
+					]
+				}
+			],
+			"spellcasting": [{
+				"name": "Spellcasting",
+				"headerEntries": [
+					"Oregg Steeltwister is a 5th-level",
+					"spellcaster. His spellcasting ability modifier is",
+					"Charisma (spell save DC 15, {@hit 7} to hit with spell",
+					"attacks). He has the following sorcerer spells prepared:"
+				],
+				"spells": {
+					"0": {
+						"spells": [
+							"{@spell firebolt}",
+							"{@spell message}",
+							"{@spell poison spray}",
+							"{@spell true strike}"
+						]
+					},
+					"1": {
+						"slots": 4,
+						"spells": [
+							"{@spell magic missile}",
+							"{@spell shield}"
+						]
+					},
+					"2": {
+						"slots": 3,
+						"spells": [
+							"{@spell heat metal}"
+						]
+					},
+					"3": {
+						"slots": 2,
+						"spells": [
+							"{@spell fly}",
+							"{@spell fireball}"
+						]
+					}
+				},
+				"ability": "cha"
+			}],
+			"isNamedCreature": true,
+			"isNPC": true,
+			"traitTags": [
+				"Aggressive"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"O",
+				"C"
+			],
+			"senseTags": [
+				"D"
+			]
+		},
+		{
+			"source": "SaF 3pp",
+			"page": 141,
+			"name": "Bonebreaker Dorokor",
+			"size": "M",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"orc"
+				]
+			},
+			"alignment": [
+				"L",
+				"E"
+			],
+			"ac": [{
+				"ac": 19,
+				"from": [
+					"{@item half plate armor of fire resistance}",
+					"{@item shield|phb}"
+				]
+			}],
+			"hp": {
+				"average": 102,
+				"formula": "12d8 + 48"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 19,
+			"dex": 15,
+			"con": 18,
+			"int": 12,
+			"wis": 17,
+			"cha": 17,
+			"save": {
+				"str": "+7",
+				"dex": "+5",
+				"wis": "+6"
+			},
+			"skill": {
+				"athletics": "+7",
+				"intimidation": "+6",
+				"persuasion": "+6"
+			},
+			"resist": [
+				"fire"
+			],
+			"passive": 13,
+			"senses": "darkvision 60 ft.",
+			"languages": "Common, Orc",
+			"cr": "6",
+			"trait": [{
+					"name": "Aggressive",
+					"entries": [
+						"As a bonus action, the orc can move up to its speed toward a hostile creature it can see."
+					]
+				},
+				{
+					"name": "Wielder of Wound",
+					"entries": [
+						"Bonebreaker Dorokor wields the magical greataxe Wound (page 144)."
+					]
+				}
+			],
+			"action": [{
+					"name": "Multiattack",
+					"entries": [
+						"Bonebreaker Dorokor makes three weapon attacks, or she makes two attacks and issues a War Cry if it is available."
+					]
+				},
+				{
+					"name": "Wound",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}11({@dice 1d12 + 5}) slashing damage plus 7 ({@damage 2d6}) necrotic damage. The target's maximum hit points are decreased in equal amount to the necrotic damage dealt. The target's hit point maximum does not return to normal until it finishes a long rest or its grievous wounds are soothed by a greater restoration spell."
+					]
+				},
+				{
+					"name": "Longbow",
+					"entries": [
+						"{@atk rw} {@hit 5} to hit, range 150/600 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing damage."
+					]
+				},
+				{
+					"name": "War Cry (Recharge 4-6)",
+					"entries": [
+						"Dorokor screams an orcish war phrase, spurring her warriors on toward victory. Choose one of the following effects:",
+						"Rally: All of Dorokor's minions within 30 feet that can hear her gain 22 ({@dice 4d10}) temporary hit points.",
+						"Focus: All of Dorokor's minions within 30 feet that can hear her will have advantage on the next attack roll they make before the end of their next turn.",
+						"Charge: All of Dorokor's minions within 30 feet that can hear her can move up to their speed as a reaction."
+					]
+				}
+			],
+			"reaction": [{
+				"name": "Villain Ability: Warlord",
+				"entries": [
+					"As a reaction, when a minion dies, issue a command to your other minions. Those who can hear you gain a reaction they can use to immediately take another movement."
+				]
+			}],
+			"isNamedCreature": true,
+			"isNPC": true,
+			"traitTags": [
+				"Aggressive"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C",
+				"O"
+			],
+			"senseTags": [
+				"D"
+			]
+		},
+		{
+			"source": "SaF 3pp",
+			"page": 142,
+			"name": "Sir Pelliton",
+			"size": "M",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"human"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [{
+				"ac": 20,
+				"from": [
+					"{@item plate armor|phb}",
+					"{@item shield|phb}"
+				]
+			}],
+			"hp": {
+				"average": 76,
+				"formula": "9d10 + 27"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 18,
+			"dex": 8,
+			"con": 17,
+			"int": 13,
+			"wis": 15,
+			"cha": 18,
+			"save": {
+				"dex": "+3",
+				"int": "+5"
+			},
+			"skill": {
+				"animal handling": "+6",
+				"arcana": "+5",
+				"intimidation": "+8"
+			},
+			"resist": [
+				"cold",
+				"fire",
+				"lightning",
+				"psychic"
+			],
+			"conditionImmune": [
+				"blinded",
+				"deafened"
+			],
+			"passive": 12,
+			"languages": "Common",
+			"cr": "5",
+			"trait": [{
+					"name": "Mounted Combatant",
+					"entries": [
+						"While mounted, Sir Pelliton has advantage on melee attack rolls against unmounted creatures that are smaller than his mount."
+					]
+				},
+				{
+					"name": "The Star Knight",
+					"entries": [
+						"Sir Pelliton has resistance to cold, fire, lightning, and psychic damage as a sign of his pact, and cannot be blinded or deafened. His hellish rebuke does 20 damage (no roll) to enemies who fail their save."
+					]
+				}
+			],
+			"action": [{
+					"name": "Multiattack",
+					"entries": [
+						"Sir Pelliton makes three melee attacks or makes two melee attacks and casts eldritch blast."
+					]
+				},
+				{
+					"name": "Frost Brand Longsword",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage plus 3 ({@damage 1d6}) cold damage."
+					]
+				},
+				{
+					"name": "Lance",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 10 ft., one target. {@h}10 ({@damage 1d12 + 4}) piercing damage."
+					]
+				}
+			],
+			"reaction": [{
+				"name": "Villain Ability: Warlord",
+				"entries": [
+					"As a reaction, when a minion dies, issue a command to your other minions. Those who can hear you gain a reaction they can use to immediately take another movement."
+				]
+			}],
+			"spellcasting": [{
+				"name": "Innate Spellcasting",
+				"headerEntries": [
+					"Sir Pelliton has gained the power to cast dark magic. All spells he casts with this feature are cast as if using a 5th-level spell slot, and he casts cantrips as if he were an 11th-level warlock. His spellcasting ability is Wisdom (DC 16, {@hit 8} to hit with spell attacks)."
+				],
+				"will": [
+					"{@spell acid splash}",
+					"{@spell eldritch blast} (3 beams)",
+					"{@spell minor illusion}",
+					"{@spell hellish rebuke}"
+				],
+				"daily": {
+					"5": [
+						"{@spell branding smite}",
+						"{@spell black tentacles}",
+						"{@spell counterspell}",
+						"{@spell dimension door}",
+						"{@spell hold person}"
+					],
+					"1e": [
+						"{@spell cone of cold}",
+						"{@spell eyebite}",
+						"{@spell mass suggestion}"
+					]
+				},
+				"ability": "wis"
+			}],
+			"isNamedCreature": true,
+			"isNPC": true,
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C"
+			]
+		},
+		{
+			"source": "SaF 3pp",
+			"page": 143,
+			"name": "Faldric the Archer",
+			"size": "M",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"human"
+				]
+			},
+			"alignment": [
+				"L",
+				"E"
+			],
+			"ac": [{
+				"ac": 15,
+				"from": [
+					"{@item studded leather armor|phb}"
+				]
+			}],
+			"hp": {
+				"average": 44,
+				"formula": "8d8 + 8"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 11,
+			"dex": 16,
+			"con": 13,
+			"int": 11,
+			"wis": 14,
+			"cha": 13,
+			"save": {
+				"dex": "+4"
+			},
+			"skill": {
+				"acrobatics": "+5",
+				"perception": "+3"
+			},
+			"passive": 13,
+			"languages": "Common",
+			"cr": "3",
+			"trait": [{
+				"name": "Acute Sight",
+				"entries": [
+					"Faldric has advantage on Perception checks that rely on sight."
+				]
+			}],
+			"action": [{
+					"name": "Multiattack",
+					"entries": [
+						"Faldric makes two attacks."
+					]
+				},
+				{
+					"name": "Longbow",
+					"entries": [
+						"{@atk rw} {@hit 5} to hit, range 150/600 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage."
+					]
+				},
+				{
+					"name": "Shortsword",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."
+					]
+				}
+			],
+			"reaction": [{
+				"name": "Pelliton's Archer",
+				"entries": [
+					"When a creature Faldric can see enters a space adjacent to Sir Pelliton, Faldric may use his reaction to make a longbow attack against that creature. If this attack is successful, the target is also knocked prone."
+				]
+			}],
+			"isNamedCreature": true,
+			"isNPC": true,
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C"
+			]
+		},
+		{
+			"source": "SaF 3pp",
+			"page": 143,
+			"name": "Pinna",
+			"size": "M",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"human"
+				]
+			},
+			"alignment": [
+				"N",
+				"G"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"average": 13,
+				"formula": "3d6 + 0"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 6,
+			"dex": 8,
+			"con": 11,
+			"int": 16,
+			"wis": 12,
+			"cha": 15,
+			"save": {
+				"int": "+6",
+				"wis": "+2"
+			},
+			"skill": {
+				"arcana": "+6"
+			},
+			"passive": 11,
+			"languages": "Common",
+			"cr": "1",
+			"action": [{
+				"name": "Dagger",
+				"entries": [
+					"{@atk mw,rw} {@hit 2} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}2 ({@damage 1d4 + 0}) piercing damage."
+				]
+			}],
+			"spellcasting": [{
+				"name": "Spellcasting",
+				"headerEntries": [
+					"Pinna is a 3rd-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, {@hit 5} to hit with spell attacks). Pinna has the following wizard spells prepared:"
+				],
+				"spells": {
+					"0": {
+						"spells": [
+							"{@spell minor illusion}",
+							"{@spell mage hand}",
+							"{@spell dancing lights}",
+							"{@spell fire bolt}"
+						]
+					},
+					"1": {
+						"slots": 4,
+						"spells": [
+							"{@spell color spray}",
+							"{@spell silent image}",
+							"{@spell identify}",
+							"{@spell magic missile}"
+						]
+					},
+					"2": {
+						"slots": 2,
+						"spells": [
+							"{@spell blur}",
+							"{@spell web}"
+						]
+					}
+				},
+				"ability": "int"
+			}],
+			"isNamedCreature": true,
+			"isNPC": true,
+			"languageTags": [
+				"C"
+			]
+		}
+	]
+}
