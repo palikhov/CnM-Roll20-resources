@@ -1,0 +1,1144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Art Browser</title>
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="icon" href="https://dnd.wizards.com/sites/default/files/media/favicon_0.ico">
+
+	<style>
+		html {
+			height: 100%;
+		}
+
+		body {
+			min-height: 100%;
+			height: 100%;
+			display: flex;
+			flex-direction: column;
+		}
+
+		body > * {
+			flex-shrink: 0;
+			flex-grow: 0;
+		}
+
+		.split {
+			display: flex;
+			justify-content: space-between;
+		 }
+
+		.view-col-wrapper {
+			display: flex;
+			flex-direction: row;
+			max-height: 100%;
+			height: 100%;
+		}
+
+		.form-control--minimal {
+			border-radius: 0;
+			padding: 0 1px;
+		}
+
+		.p-2 {
+			padding: 0.5rem !important;
+		}
+
+		.copied-tip {
+			pointer-events: none;
+			position: fixed;
+			background: transparent;
+			user-select: none;
+			z-index: 100000;
+			width: 80px;
+			height: 24px;
+			line-height: 24px;
+		}
+
+		.copied-tip > span {
+			display: inline-block;
+			width: 100%;
+			text-align: center;
+		}
+
+		#main_content {
+			flex-shrink: initial;
+		}
+
+		.artr__win {
+			display: flex;
+			align-items: stretch;
+			width: 100%;
+			height: 100%;
+			padding: 0;
+		}
+
+		.artr__win * {
+			box-sizing: border-box;
+		}
+
+		.artr__win *::-webkit-scrollbar {
+			width: 9px;
+			height: 9px;
+		}
+
+		.artr__win *::-webkit-scrollbar-track {
+			background: transparent;
+		}
+
+		.artr__win *::-webkit-scrollbar-thumb {
+			background: #cbcbcb;
+		}
+
+		.artr__side {
+			width: 300px;
+			height: 100%;
+			border-right: 1px solid #ccc;
+			background: #f8f8f8;
+			position: relative;
+			flex-shrink: 0;
+			display: flex;
+			flex-direction: column;
+		}
+
+		.artr__side__head {
+			flex-shrink: 0;
+			font-weight: bold;
+			margin-bottom: 7px;
+			border-bottom: 1px solid #ccc;
+			background: white;
+			padding: 1.3rem 0.5rem 0 0.5rem;
+		}
+
+		.artr__side__head__title {
+			font-size: 16px;
+			font-weight: bold;
+		}
+
+		.artr__side__body {
+			flex-shrink: 0;
+			overflow-y: auto;
+			transform: translateZ(0);
+		}
+
+		.artr__side__tag_header {
+			width: 100%;
+			border-bottom: 1px solid #ccc;
+			display: flex;
+			justify-content: space-between;
+			padding: 0 6px;
+			cursor: pointer;
+			margin-bottom: 10px;
+		}
+
+		.artr__side__tag_grid {
+			display: flex;
+			width: 100%;
+			flex-wrap: wrap;
+			margin-bottom: 15px;
+			background: #f0f0f0;
+			border-radius: 5px;
+		}
+
+		.artr__side__tag {
+			padding: 2px 4px;
+			margin: 2px 4px;
+			font-size: 11px;
+		}
+
+		.artr__side__tag[data-state="1"] {
+			background: #337ab7;
+			color: white;
+		}
+
+		.artr__side__tag[data-state="2"] {
+			background: #8a1a1b;
+			color: white;
+		}
+
+		.artr__main {
+			width: 100%;
+			height: 100%;
+			display: flex;
+			overflow-y: auto;
+			flex-direction: column;
+			position: relative;
+		}
+
+		.artr__side__loading, .artr__main__loading {
+			width: 100%;
+			height: 100%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			font-style: italic;
+		}
+
+		.artr__bread {
+			width: 100%;
+			margin-bottom: 2px;
+			display: flex;
+		}
+
+		.artr__crumb {
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			padding: 0 5px;
+			display: inline-block;
+			cursor: pointer;
+			user-select: none;
+		}
+
+		.artr__crumb--sep {
+			border: 0;
+			cursor: default;
+			font-size: 17px;
+			line-height: 17px;
+			padding-top: 3px;
+		}
+
+		.artr__search {
+			flex-shrink: 0;
+			width: 100%;
+			border-bottom: 1px solid #ccc;
+			display: flex;
+			flex-direction: column;
+		}
+
+		.artr__search__field {
+			width: 100%;
+			height: 26px;
+		}
+
+		.artr__view {
+			position: absolute;
+			top: 61px;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			overflow-y: auto;
+			transform: translateZ(0);
+			background-color: whitesmoke;
+		}
+
+		.artr__view_inner {
+			display: flex;
+			width: 100%;
+			height: 100%;
+			flex-wrap: wrap;
+			align-content: flex-start;
+		}
+
+		.artr__no_results_wrp {
+			width: 100%;
+			height: 100%;
+			display: flex;
+			justify-content: center;
+		}
+
+		.artr__no_results {
+			width: 100%;
+			height: 100%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.artr__no_results_headline {
+			font-size: 125%;
+			font-weight: bold;
+		}
+
+		.artr__item {
+			width: 180px;
+			margin: 5px;
+			box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.75);
+			display: block;
+			background: white;
+			position: relative;
+		}
+
+		.artr__item__stats {
+			position: absolute;
+			left: 0;
+			top: 0;
+			display: none;
+		}
+
+		.artr__item:hover .artr__item__stats {
+			display: block;
+		}
+
+		.artr__item__stats_item {
+			color: grey;
+			background: white;
+			border-radius: 5px;
+			margin: 4px 2px;
+			padding: 0 2px;
+			text-align: center;
+			border: 1px solid #e0e0e0
+		}
+
+		.artr__item__menu {
+			position: absolute;
+			right: 0;
+			top: 0;
+			display: none;
+		}
+
+		.artr__item:hover .artr__item__menu {
+			display: block;
+		}
+
+		.artr__item__menu_item {
+			cursor: pointer;
+			color: grey;
+			font-size: 22px;
+			line-height: 22px;
+			margin: 3px 2px;
+			padding: 2px 4px;
+			text-align: center;
+			display: block;
+		}
+
+		.artr__item--index {
+			height: 240px;
+		}
+
+		.artr__item--item {
+			height: 180px;
+		}
+
+		.artr__item:hover {
+			box-shadow: 0 0 8px 0 rgba(38, 167, 242, 1);
+			opacity: 0.95;
+		}
+
+		.artr__item--back {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			font-size: 24px;
+			color: #888;
+		}
+
+		.artr__item__top {
+			width: 100%;
+			height: 180px;
+			flex-shrink: 0;
+			margin: 0 auto;
+			display: flex;
+			align-items: center;
+		}
+
+		.artr__item__top--quart {
+			display: flex;
+			flex-wrap: wrap;
+		}
+
+		.artr__item__bottom {
+			width: 100%;
+			height: 60px;
+			flex-shrink: 0;
+			border-top: 1px solid #ccc;
+			background: #f8f8f8;
+			display: flex;
+			flex-direction: column;
+			font-size: 12px;
+			justify-content: space-evenly;
+		}
+
+		.artr__item__bottom__row {
+			width: 100%
+			height: 20px;
+			flex-shrink: 0;
+			padding: 4px;
+			text-align: center;
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+		}
+
+		.artr__item__thumbnail {
+			max-width: 100%;
+			max-height: 100%;
+			display: block;
+			margin: 0 auto;
+		}
+
+		.atr__item__quart {
+			width: 50%;
+			height: 50%;
+			display: block;
+			margin: 0;
+		}
+
+		.atr__item__quart--more {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.artr__item__full {
+			width: 100%;
+			height: 180px;
+			margin: 0 auto;
+			display: flex;
+			align-items: center;
+			padding: 3px;
+		}
+
+		.artr__wrp_big_img {
+			position: fixed;
+			top: 0;
+			bottom: 0;
+			right: 0;
+			left: 0;
+			background: #30303080;
+			padding: 30px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			z-index: 99999;
+		}
+
+		.artr__big_img {
+			display: block;
+			max-width: 100%;
+			max-height: 100%;
+		}
+
+		.artr__dl_bar {
+			position: fixed;
+			z-index: 2000;
+			bottom: 15px;
+			height: 40px;
+			min-width: 600px;
+			max-width: 850px;
+			display: none;
+			width: 90vw;
+			right: 0;
+			left: 0;
+			margin: 0 auto;
+			justify-content: space-between;
+			align-items: center;
+			padding: 5px 15px;
+			border-radius: 4px;
+			box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+		}
+
+		.artr__dl_bar-wrp-control {
+			flex: 0;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			align-self: stretch;
+			margin: -5px -15px -5px 0;
+		}
+
+		.artr__dl_bar-btn-close {
+			height: 100%;
+			margin: 0;
+			border-top-left-radius: 0;
+			border-bottom-left-radius: 0;
+			border-top: 0;
+			border-right: 0;
+			border-bottom: 0;
+			border-left: 1px solid #80808040;
+			background: transparent;
+		}
+
+		.artr__dl_bar-btn-close:hover,
+		.artr__dl_bar-btn-close:focus {
+			background: #80808020;
+		}
+	</style>
+</head>
+
+<body>
+<div class="view-col-wrapper" id="main_content"></div>
+
+<div class="artr__dl_bar" id="dl_bar"></div>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Stuk/jszip/dist/jszip.min.js"></script>
+<script>
+	String.prototype.uppercaseFirst = String.prototype.uppercaseFirst ||
+		function () {
+			const str = this.toString();
+			if (str.length === 0) return str;
+			if (str.length === 1) return str.charAt(0).toUpperCase();
+			return str.charAt(0).toUpperCase() + str.slice(1);
+		};
+
+	Array.prototype.last = Array.prototype.last ||
+		function () {
+			return this[this.length - 1];
+		};
+
+	class SortUtil {
+		static ascSort (a, b) {
+			if (b === a) return 0;
+			return b < a ? 1 : -1;
+		}
+	}
+
+	class MiscUtil {
+		static copy (obj) {
+			return JSON.parse(JSON.stringify(obj));
+		}
+
+		static pCopyTextToClipboard (text) {
+			const $temp = $(`<textarea id="copy-temp" style="position: fixed; top: -1000px; left: -1000px; width: 1px; height: 1px;">${text}</textarea>`)
+				.appendTo($(`body`)).select();
+			document.execCommand("Copy");
+			$temp.remove();
+		}
+
+		static showCopiedEffect ($ele, text = "Copied!") {
+			const $temp = $(`<div class="copied-tip"><span>${text}</span></div>`);
+			const top = $(window).scrollTop();
+			const pos = $ele.offset();
+			$temp
+				.css({
+					top: (pos.top - 17) - top,
+					left: pos.left - 36 + ($ele.width() / 2)
+				})
+				.appendTo($(`body`)).animate(
+				{
+					top: "-=8",
+					opacity: 0
+				}, 250, () => {
+					$temp.remove();
+				}
+			);
+		}
+
+	}
+
+	class ArtBrowser {
+		init () {
+
+			const TIME = (new Date()).getTime();
+			const STATES = ["0", "1", "2"]; // off, blue, red
+
+			function pGetJson (url) { // avoid using the main site method's caching
+				return new Promise(resolve => $.getJSON(url, data => resolve(data)));
+			}
+
+			const $win = $(`<div class="artr__win"/>`)
+				.appendTo($(`#main_content`));
+
+			async function doInit () {
+				const $sidebar = $(`<div class="artr__side"/>`).appendTo($win);
+				const $mainPane = $(`<div class="artr__main"/>`).appendTo($win);
+				const $loadings = [
+					$(`<div class="artr__side__loading" title="Caching repository data, this may take some time">Loading...</div>`).appendTo($sidebar),
+					$(`<div class="artr__main__loading" title="Caching repository data, this may take some time">Loading...</div>`).appendTo($mainPane)
+				];
+
+				const start = (new Date()).getTime();
+				const GH_PATH = `https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/dist/`;
+				const [enums, index] = await Promise.all([pGetJson(`${GH_PATH}_meta_enums.json`), pGetJson(`${GH_PATH}_meta_index.json`)]);
+
+				Object.keys(index).forEach(k => index[k]._key = k);
+
+				let filters = {};
+				let search = "";
+				let currentItem = null;
+				let currentIndexKey = null;
+
+				function _searchFeatures (item, doLowercase) {
+					// features are lowercase in index
+					return !!(item.features || []).find(x => (doLowercase ? x.toLowerCase() : x).includes(search));
+				}
+
+				function _filterProps (item) {
+					if (Object.keys(filters).length) {
+						const missingOrUnwanted = Object.keys(filters).find(prop => {
+							if (!item[prop]) return true;
+							const requiredVals = Object.keys(filters[prop]).filter(k => filters[prop][k]);
+							const missingEnum = !!requiredVals.find(x => !item[prop].includes(x));
+							const excludedVals = Object.keys(filters[prop]).filter(k => !filters[prop][k]);
+							const unwantedEnum = !!excludedVals.find(x => item[prop].includes(x));
+							return missingEnum || unwantedEnum;
+						});
+						if (missingOrUnwanted) return false;
+					}
+					return true;
+				}
+
+				function applyFilterAndSearchToIndex () {
+					search = search.toLowerCase();
+
+					// require the user to search or apply a filter before displaying any results
+					if (Object.keys(filters).length === 0 && search.length < 2) return [];
+
+					return Object.values(index).filter(it => {
+						if (search) {
+							const searchVisible = it._set.toLowerCase().includes(search)
+								|| it._artist.toLowerCase().includes(search)
+								|| _searchFeatures(it);
+							if (!searchVisible) return false;
+						}
+						return _filterProps(it, 1);
+					});
+				}
+
+				function applyFilterAndSearchToItem () {
+					const cpy = MiscUtil.copy(currentItem);
+					const filterItem = $cbMirrorFilters.prop("checked");
+					cpy.data = cpy.data.filter(it => {
+						if (search) if (!_searchFeatures(it, true)) return false;
+						if (filterItem) return _filterProps(it);
+						return true;
+					});
+					return cpy;
+				}
+
+				$loadings.forEach($l => $l.remove());
+
+				// SIDEBAR /////////////////////////////////////////////////////////////////////////////////////////
+				const $sideHead = $(`<div class="artr__side__head"><div class="artr__side__head__title">Filters</div></div>`).appendTo($sidebar);
+				// This functionality is contained in the filter buttons, but might need to be done here to improve performance in the future
+				// $(`<button class="btn">Apply</button>`).click(() => {
+				// 	if (currentItem) doRenderItem(applyFilterAndSearchToItem());
+				// 	else doRenderIndex(applyFilterAndSearchToIndex())
+				// }).appendTo($sideHead);
+				const $lbMirrorFilters = $(`<label class="split text-muted" title="Apply filters to results inside folders (as well as the index)"><span>Filter within folders</span></label>`).appendTo($sideHead);
+				const $cbMirrorFilters = $(`<input type="checkbox" checked>`).appendTo($lbMirrorFilters).change(() => {
+					if (currentItem) {
+						doRenderItem(applyFilterAndSearchToItem());
+					}
+				});
+
+				const $sideBody = $(`<div class="artr__side__body"/>`).appendTo($sidebar);
+				const addSidebarSection = (prop, ix) => {
+					const fullName = (() => {
+						switch (prop) {
+							case "imageType": return "Image Type";
+							case "grid": return "Grid Type";
+							case "monster": return "Monster Type";
+							case "audience": return "Intended Audience";
+							default:
+								return prop.uppercaseFirst();
+						}
+					})();
+
+					const $tagHead = $(`<div class="artr__side__tag_header"><div>${fullName}</div><div>[\u2013]</div></div>`).appendTo($sideBody).click(() => {
+						$tagGrid.toggle();
+						$tagHead.html($tagHead.html().replace(/\[.]/, (...m) => m[0] === "[+]" ? "[\u2013]" : "[+]"));
+					});
+
+					const $tagGrid = $(`<div class="artr__side__tag_grid"/>`).appendTo($sideBody);
+					const getNextState = (state, dir) => {
+						const ix = STATES.indexOf(state) + dir;
+						if (ix > STATES.length - 1) return STATES[0];
+						if (ix < 0) return STATES.last();
+						return STATES[ix];
+					};
+
+					if (ix) $tagHead.click(); // hide by default
+
+					enums[prop].sort((a, b) => SortUtil.ascSort(b.c, a.c)).forEach(enm => {
+						const cycleState = dir => {
+							const nxtState = getNextState($btn.attr("data-state"), dir);
+							$btn.attr("data-state", nxtState);
+
+							if (nxtState === "0") {
+								delete filters[prop][enm.v];
+								if (!Object.keys(filters[prop]).length) delete filters[prop];
+							} else (filters[prop] = filters[prop] || {})[enm.v] = nxtState === "1";
+
+							if (currentItem) doRenderItem(applyFilterAndSearchToItem());
+							else doRenderIndex(applyFilterAndSearchToIndex());
+						};
+
+						const $btn = $(`<button class="btn btn-default artr__side__tag" data-state="0">${enm.v} (${enm.c})</button>`)
+							.click(() => cycleState(1))
+							.contextmenu((evt) => {
+								if (!evt.ctrlKey) {
+									evt.preventDefault();
+									cycleState(-1);
+								}
+							})
+							.appendTo($tagGrid);
+					});
+				};
+				Object.keys(enums).forEach((k, i) => addSidebarSection(k, i));
+
+				// MAIN PAGE ///////////////////////////////////////////////////////////////////////////////////////
+				const $mainHead = $(`<div class="p-2 artr__search"/>`).appendTo($mainPane);
+
+				const $wrpBread = $(`<div class="artr__bread"/>`).appendTo($mainHead);
+				const updateCrumbs = () => {
+					$wrpBread.empty();
+					const $txtIndex = $(`<span class="artr__crumb btn btn-default">Index</span>`)
+						.appendTo($wrpBread)
+						.click(() => doRenderIndex(applyFilterAndSearchToIndex()));
+
+					if (currentItem) {
+						const $txtSlash = $(`<span class="artr__crumb artr__crumb--sep">/</span>`).appendTo($wrpBread);
+						const $txtItem = $(`<span class="artr__crumb btn btn-default">${currentItem.set} \u2013 ${currentItem.artist}</span>`)
+							.appendTo($wrpBread)
+							.click(() => {
+								$iptSearch.val("");
+								search = "";
+								doRenderItem(applyFilterAndSearchToItem(), true);
+							});
+					}
+				};
+				updateCrumbs();
+
+				let searchTimeout;
+				const doSearch = () => {
+					search = ($iptSearch.val() || "").trim();
+					if (currentItem) doRenderItem(applyFilterAndSearchToItem());
+					else doRenderIndex(applyFilterAndSearchToIndex())
+				};
+				const $iptSearch = $(`<input placeholder="Search..." class="form-control form-control--minimal artr__search__field">`).on("keydown", (e) => {
+					clearTimeout(searchTimeout);
+					if (e.which === 13) {
+						doSearch();
+					} else {
+						searchTimeout = setTimeout(() => {
+							doSearch();
+						}, 100);
+					}
+				}).appendTo($mainHead);
+
+				const $mainBody = $(`<div class="artr__view"/>`).appendTo($mainPane);
+				const $mainBodyInner = $(`<div class="artr__view_inner"/>`).appendTo($mainBody);
+
+				const $itemBody = $(`<div class="artr__view"/>`).hide().appendTo($mainPane);
+				const $itemBodyInner = $(`<div class="artr__view_inner"/>`).appendTo($itemBody);
+
+				function doRenderIndex (indexSlice) {
+					currentItem = false;
+					currentIndexKey = false;
+					$mainBody.show();
+					$itemBody.hide();
+					$mainBodyInner.empty();
+					updateCrumbs();
+
+					if (!indexSlice.length) {
+						$(`<div class="artr__no_results_wrp"><div class="artr__no_results"><div class="text-center"><span class="artr__no_results_headline">No results found</span><br>Please adjust the filters (on the left) or refine your search (above).</div></div></div>`).appendTo($mainBodyInner)
+					} else {
+						indexSlice.forEach(it => {
+							const $item = $(`<div class="artr__item artr__item--index"/>`).appendTo($mainBodyInner).click(() => doLoadAndRenderItem(it));
+
+							const $itemTop = $(`
+							<div class="artr__item__top artr__item__top--quart">
+								${[...new Array(4)].map((_, i) => `<div class="atr__item__quart">${it._sample[i] ? `<img class="artr__item__thumbnail" src="${GH_PATH}${it._key}--thumb-${it._sample[i]}.jpg">` : ""}</div>`).join("")}
+							</div>
+						`).appendTo($item);
+
+							const $itemStats = $(`<div class="artr__item__stats"/>`).appendTo($itemTop);
+							const $statsImages = $(`<div class="artr__item__stats_item help--subtle" title="Number of images">×${it._size.toLocaleString()}</div>`).appendTo($itemStats);
+
+							const $itemMenu = $(`<div class="artr__item__menu"/>`).appendTo($itemTop);
+							const $btnDownload = $(`<div class="artr__item__menu_item btn btn-default" title="Download ZIP (SHIFT to download a text file of URLs)"><span class="glyphicon glyphicon-download-alt"/></div>`)
+								.appendTo($itemMenu)
+								.click(async (evt) => {
+									evt.stopPropagation();
+									const file = await pGetJson(`${GH_PATH}${it._key}.json`);
+									if (evt.shiftKey) {
+										DownloadHelper.downloadUrls(file);
+									} else {
+										DownloadHelper.downloadZip(file);
+									}
+								});
+
+							const $itemBottom = $(`
+							<div class="artr__item__bottom">
+								<div class="artr__item__bottom__row" style="padding-bottom: 2px;" title="${it._set}">${it._set}</div>
+								<div class="artr__item__bottom__row" style="padding-top: 2px;" title="${it._artist}"><i>By</i> ${it._artist}</div>
+							</div>
+						`).appendTo($item);
+						});
+					}
+				}
+
+				function doLoadAndRenderItem (indexItem) {
+					pGetJson(`${GH_PATH}${indexItem._key}.json`).then(file => {
+						currentItem = file;
+						currentIndexKey = indexItem._key;
+						doRenderItem(applyFilterAndSearchToItem(), true);
+					});
+				}
+
+				function doRenderItem (file, resetScroll) {
+					$mainBody.hide();
+					$itemBody.show();
+					$itemBodyInner.empty();
+					updateCrumbs();
+					if (resetScroll) $itemBodyInner.scrollTop(0);
+					const $itmUp = $(`<div class="artr__item artr__item--item artr__item--back"><span class="glyphicon glyphicon-arrow-left"/></div>`)
+						.click(() => doRenderIndex(applyFilterAndSearchToIndex()))
+						.appendTo($itemBodyInner);
+
+					file.data.sort((a, b) => SortUtil.ascSort(a.hash, b.hash)).forEach((it, i) => {
+						const $item = $(`<div class="artr__item artr__item--item" data-fullsizeurl="${it.uri}"/>`)
+							.appendTo($itemBodyInner)
+							.click(() => {
+								const $wrpBigImg = $(`<div class="artr__wrp_big_img"><img class="artr__big_img" src="${it.uri}"></div>`)
+									.click(() => $wrpBigImg.remove()).appendTo($(`body`));
+							});
+						const $wrpImg = $(`<div class="artr__item__full"/>`).appendTo($item);
+						const $img = $(`<img class="artr__item__thumbnail" src="${GH_PATH}${currentIndexKey}--thumb-${it.hash}.jpg">`).appendTo($wrpImg);
+
+						const $itemMenu = $(`<div class="artr__item__menu"/>`).appendTo($item);
+						const $btnDownload = $(`<div class="artr__item__menu_item btn btn-default" title="Download"><span class="glyphicon glyphicon-download-alt"/></div>`)
+							.appendTo($itemMenu)
+							.click((evt) => {
+								evt.stopPropagation();
+								window.open(it.uri, "_blank");
+							});
+						const $btnCopyUrl = $(`<div class="artr__item__menu_item btn btn-default" title="Copy URL"><span class="glyphicon glyphicon-link"/></div>`)
+							.appendTo($itemMenu)
+							.click(async (evt) => {
+								evt.stopPropagation();
+								await MiscUtil.pCopyTextToClipboard(it.uri);
+								MiscUtil.showCopiedEffect($btnDownload, "Copied URL!");
+							});
+						if (it.support) {
+							const $btnSupport = $(`<div class="artr__item__menu_item btn btn-default" title="Support Artist"><span class="glyphicon glyphicon-shopping-cart"/></div>`)
+								.appendTo($itemMenu)
+								.click((evt) => {
+									evt.stopPropagation();
+									window.open(it.support, "_blank");
+								});
+						}
+					});
+				}
+
+				doRenderIndex(applyFilterAndSearchToIndex());
+			}
+
+			doInit();
+		}
+	}
+
+	class DownloadHelper {
+		static async _doNextDownload () {
+			const item = DownloadHelper.queue[0];
+
+			function doDisplayDownloadBar ($content, isError, cbCancel) {
+				const $bar = $(`#dl_bar`).css({display: "flex"}).removeClass("alert-danger").removeClass("alert-info").empty();
+				const $wrpContent = $(`<div class="artr__dl_bar-wrp-content"></div>`).append($content).appendTo($bar);
+				const $wrpBtn = $(`<div class="artr__dl_bar-wrp-control"></div>`).appendTo($bar);
+
+				const $btnCancelClose = $(`<button class="btn artr__dl_bar-btn-close"><span class="glyphicon glyphicon-remove"/></button>`)
+					.click(() => {
+						$bar.hide();
+						cbCancel();
+					})
+					.appendTo($wrpBtn);
+
+				if (isError) {
+					$bar.addClass("alert-danger");
+				} else {
+					$bar.addClass("alert-info");
+				}
+
+				return $wrpContent;
+			}
+
+			function doUpdateStatus (str, isError = false, isComplete = false) {
+				if (isError) $wrpContent.parent().removeClass("alert-info").addClass("alert-danger");
+				$wrpContent.html(str);
+				if (isComplete) {
+					doUpdateQueueAndTriggerNext();
+				}
+			}
+
+			function doUpdateQueueAndTriggerNext () {
+				DownloadHelper.queue.shift();
+				if (DownloadHelper.queue.length) DownloadHelper._doNextDownload();
+			}
+
+			function pAjaxLoad (url) {
+				const oReq = new XMLHttpRequest();
+				const p = new Promise((resolve, reject) => {
+					// FIXME cors-anywhere has a usage limit, which is pretty easy to hit when downloading many files
+					oReq.open("GET", `${"https://cors-anywhere.herokuapp.com/"}${url}`, true);
+					oReq.responseType = "arraybuffer";
+					let lastContentType = null;
+					oReq.onreadystatechange = () => {
+						const h = oReq.getResponseHeader("content-type");
+						if (h) {
+							lastContentType = h;
+						}
+					};
+					oReq.onload = function() {
+						const arrayBuffer = oReq.response;
+						resolve({buff: arrayBuffer, contentType: lastContentType});
+					};
+					oReq.onerror = (e) => reject(new Error(`Error during request: ${e}`));
+					oReq.send();
+				});
+				p.abort = () => oReq.abort();
+				return p;
+			}
+
+			let isCancelled = false;
+			let downloadTasks = [];
+
+			const $wrpContent = doDisplayDownloadBar(
+				`Download starting...`,
+				false,
+				() => {
+					isCancelled = true;
+					downloadTasks.forEach(p => {
+						try { p.abort() } catch (ignored) {}
+					});
+					DownloadHelper.queue.shift();
+					if (DownloadHelper.queue.length) DownloadHelper._doNextDownload();
+				});
+
+			try {
+				if (isCancelled) return;
+
+				try {
+					const toSave = [];
+					let downloaded = 0;
+					let errorCount = 0;
+
+					const getWrappedPromise = dataItem => {
+						const pAjax = pAjaxLoad(dataItem.uri);
+						const p = new Promise(async resolve => {
+							try {
+								const data = await pAjax;
+								toSave.push(data);
+							} catch (e) {
+								console.error(`Error downloading "${dataItem.uri}":`, e);
+								++errorCount;
+							}
+							++downloaded;
+							doUpdateStatus(`Downloading ${downloaded}/${item.data.length}... (${Math.floor(100 * downloaded / item.data.length)}%)${errorCount ? ` (${errorCount} error${errorCount === 1 ? "" : "s"})` : ""}`);
+							resolve();
+						});
+						p.abort = () => pAjax.abort();
+						return p;
+					};
+
+					downloadTasks = item.data.map(dataItem => getWrappedPromise(dataItem));
+					await Promise.all(downloadTasks);
+
+					if (isCancelled) return;
+
+					doUpdateStatus(`Building ZIP...`);
+
+					const zip = new JSZip();
+					toSave.forEach((data, i) => {
+						const extension = (data.contentType || "unknown").split("/").last();
+						zip.file(`${`${i}`.padStart(3, "0")}.${extension}`, data.buff, {binary: true});
+					});
+
+					if (isCancelled) return;
+
+					zip.generateAsync({type:"blob"})
+						.then((content) => {
+							if (isCancelled) return;
+
+							doUpdateStatus(`Downloading ZIP...`);
+							DownloadHelper.saveAs(content, DownloadHelper.sanitizeFilename(`${item.set}__${item.artist}`));
+							doUpdateStatus(`Download complete.`, false, true);
+						});
+				} catch (e) {
+					doUpdateStatus(`Download failed! Error was: ${e.message} (check the log for more information).`, true);
+					console.error(e);
+					doUpdateQueueAndTriggerNext();
+				}
+			} catch (e) {
+				doUpdateQueueAndTriggerNext();
+			}
+		}
+
+		static async downloadZip (item) {
+			DownloadHelper.queue.push(item);
+			if (DownloadHelper.queue.length === 1) {
+				await DownloadHelper._doNextDownload();
+			}
+		}
+
+		static async downloadUrls (item) {
+			const contents = item.data.map(it => it.uri).join("\n");
+			const blob = new Blob([contents], {type: "text/plain"});
+			DownloadHelper.saveAs(blob, DownloadHelper.sanitizeFilename(`${item.set}__${item.artist}`));
+		}
+
+		static sanitizeFilename (str) {
+			return str.trim().replace(/[^\w\-]/g, "_");
+		}
+	}
+	DownloadHelper.queue = [];
+
+	// based on:
+	/*! @source http://purl.eligrey.com/github/FileSaver.js/blob/master/src/FileSaver.js */
+	DownloadHelper.saveAs = function() {
+		const view = window;
+		var
+			doc = view.document
+			// only get URL when necessary in case Blob.js hasn't overridden it yet
+			, get_URL = function() {
+				return view.URL || view.webkitURL || view;
+			}
+			, save_link = doc.createElementNS("http://www.w3.org/1999/xhtml", "a")
+			, can_use_save_link = "download" in save_link
+			, click = function(node) {
+				var event = new MouseEvent("click");
+				node.dispatchEvent(event);
+			}
+			, is_safari = /constructor/i.test(view.HTMLElement) || view.safari
+			, is_chrome_ios =/CriOS\/[\d]+/.test(navigator.userAgent)
+			, setImmediate = view.setImmediate || view.setTimeout
+			, throw_outside = function(ex) {
+				setImmediate(function() {
+					throw ex;
+				}, 0);
+			}
+			, force_saveable_type = "application/octet-stream"
+			// the Blob API is fundamentally broken as there is no "downloadfinished" event to subscribe to
+			, arbitrary_revoke_timeout = 1000 * 40 // in ms
+			, revoke = function(file) {
+				var revoker = function() {
+					if (typeof file === "string") { // file is an object URL
+						get_URL().revokeObjectURL(file);
+					} else { // file is a File
+						file.remove();
+					}
+				};
+				setTimeout(revoker, arbitrary_revoke_timeout);
+			}
+			, dispatch = function(filesaver, event_types, event) {
+				event_types = [].concat(event_types);
+				var i = event_types.length;
+				while (i--) {
+					var listener = filesaver["on" + event_types[i]];
+					if (typeof listener === "function") {
+						try {
+							listener.call(filesaver, event || filesaver);
+						} catch (ex) {
+							throw_outside(ex);
+						}
+					}
+				}
+			}
+			, auto_bom = function(blob) {
+				// prepend BOM for UTF-8 XML and text/* types (including HTML)
+				// note: your browser will automatically convert UTF-16 U+FEFF to EF BB BF
+				if (/^\s*(?:text\/\S*|application\/xml|\S*\/\S*\+xml)\s*;.*charset\s*=\s*utf-8/i.test(blob.type)) {
+					return new Blob([String.fromCharCode(0xFEFF), blob], {type: blob.type});
+				}
+				return blob;
+			}
+			, FileSaver = function(blob, name, no_auto_bom) {
+				if (!no_auto_bom) {
+					blob = auto_bom(blob);
+				}
+				// First try a.download, then web filesystem, then object URLs
+				var
+					filesaver = this
+					, type = blob.type
+					, force = type === force_saveable_type
+					, object_url
+					, dispatch_all = function() {
+						dispatch(filesaver, "writestart progress write writeend".split(" "));
+					}
+					// on any filesys errors revert to saving with object URLs
+					, fs_error = function() {
+						if ((is_chrome_ios || (force && is_safari)) && view.FileReader) {
+							// Safari doesn't allow downloading of blob urls
+							var reader = new FileReader();
+							reader.onloadend = function() {
+								var url = is_chrome_ios ? reader.result : reader.result.replace(/^data:[^;]*;/, 'data:attachment/file;');
+								var popup = view.open(url, '_blank');
+								if(!popup) view.location.href = url;
+								url=undefined; // release reference before dispatching
+								filesaver.readyState = filesaver.DONE;
+								dispatch_all();
+							};
+							reader.readAsDataURL(blob);
+							filesaver.readyState = filesaver.INIT;
+							return;
+						}
+						// don't create more object URLs than needed
+						if (!object_url) {
+							object_url = get_URL().createObjectURL(blob);
+						}
+						if (force) {
+							view.location.href = object_url;
+						} else {
+							var opened = view.open(object_url, "_blank");
+							if (!opened) {
+								// Apple does not allow window.open, see https://developer.apple.com/library/safari/documentation/Tools/Conceptual/SafariExtensionGuide/WorkingwithWindowsandTabs/WorkingwithWindowsandTabs.html
+								view.location.href = object_url;
+							}
+						}
+						filesaver.readyState = filesaver.DONE;
+						dispatch_all();
+						revoke(object_url);
+					};
+				filesaver.readyState = filesaver.INIT;
+
+				if (can_use_save_link) {
+					object_url = get_URL().createObjectURL(blob);
+					setImmediate(function() {
+						save_link.href = object_url;
+						save_link.download = name;
+						click(save_link);
+						dispatch_all();
+						revoke(object_url);
+						filesaver.readyState = filesaver.DONE;
+					}, 0);
+					return;
+				}
+
+				fs_error();
+			}
+			, FS_proto = FileSaver.prototype
+			, saveAs = function(blob, name, no_auto_bom) {
+				return new FileSaver(blob, name || blob.name || "download", no_auto_bom);
+			};
+		// IE 10+ (native saveAs)
+		if (typeof navigator !== "undefined" && navigator.msSaveOrOpenBlob) {
+			return function(blob, name, no_auto_bom) {
+				name = name || blob.name || "download";
+
+				if (!no_auto_bom) {
+					blob = auto_bom(blob);
+				}
+				return navigator.msSaveOrOpenBlob(blob, name);
+			};
+		}
+		FS_proto.abort = function(){};
+		FS_proto.readyState = FS_proto.INIT = 0;
+		FS_proto.WRITING = 1;
+		FS_proto.DONE = 2;
+		FS_proto.error =
+			FS_proto.onwritestart =
+				FS_proto.onprogress =
+					FS_proto.onwrite =
+						FS_proto.onabort =
+							FS_proto.onerror =
+								FS_proto.onwriteend =
+									null;
+
+		return saveAs;
+	}();
+
+	window.addEventListener("load", () => {
+		const ab = new ArtBrowser();
+		ab.init();
+	});
+</script>
+</body>
+
+</html>
