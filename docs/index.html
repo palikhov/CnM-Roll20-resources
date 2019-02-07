@@ -612,7 +612,7 @@
 				// 	else doRenderIndex(applyFilterAndSearchToIndex())
 				// }).appendTo($sideHead);
 				const $lbMirrorFilters = $(`<label class="split text-muted" title="Apply filters to results inside folders (as well as the index)"><span>Filter within folders</span></label>`).appendTo($sideHead);
-				const $cbMirrorFilters = $(`<input type="checkbox" checked>`).appendTo($lbMirrorFilters).change(() => {
+				const $cbMirrorFilters = $(`<input type="checkbox">`).appendTo($lbMirrorFilters).change(() => {
 					if (currentItem) {
 						doRenderItem(applyFilterAndSearchToItem());
 					}
