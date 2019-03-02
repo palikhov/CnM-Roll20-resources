@@ -71,4 +71,8 @@ These are playlists which can be imported by the Jukebook Playlist importer.
 
 # Playlists for Roll20 games.
 
-This 
+[Dalenacio.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/Dalenacio.json)
+[TipMcVenus.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/TipMcVenus.json)
+[playlists(1).json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/playlists(1).json)
+[playlists(2).json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/playlists(2).json)
+[playlists.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/playlists.json)
