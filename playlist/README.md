@@ -1,5 +1,7 @@
 # Roll20 Playlists #
 This site showcases list that have been provided and now tracks for the R20ES extension's Libre Audio feature.
+see here: for file listings (files ending with .json are playlists, all otherfiles (excluding .mds are audio tracks)
+https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/
 
 
 # MP3 Direct Link Hosting #
@@ -10,6 +12,10 @@ A list of tutorials on how to upload & get direct mp3 link on some websites.
 * [Kiwi6](#kiwi6 "Kiwi6")
 * [OpenDrive](#opendrive "OpenDrive")
 * [Googledrive](#googledrive "Google Drive")
+* [Mediafire]()
+* [Dropbox]()
+
+see also [Animated Backgrounds](https://github.com/DMsGuild201/Roll20_resources/blob/master/Animated/README.md)
 
 ## JukeHost ##
 1. [Create an account](https://jukehost.co.uk/register "Register Page") & [Login](https://jukehost.co.uk/login "Login Page")
