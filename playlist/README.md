@@ -6,14 +6,14 @@ https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/
 
 # MP3 Direct Link Hosting #
 
-A list of tutorials on how to upload & get direct mp3 link on some websites.
+A list of tutorials on how to upload & get direct mp3 link on some websites. (stolen in large part from [here](https://gist.github.com/Moutard3/b925b090ab1d6d20a5d20f054bae7bca))
 
 * [JukeHost](#jukehost "JukeHost")
 * [Kiwi6](#kiwi6 "Kiwi6")
 * [OpenDrive](#opendrive "OpenDrive")
 * [Googledrive](#googledrive "Google Drive")
 * [Mediafire]()
-* [Dropbox]()
+* [Dropbox](#dropbox "DropBox")
 
 see also [Animated Backgrounds](https://github.com/DMsGuild201/Roll20_resources/blob/master/Animated/README.md)
 
@@ -57,9 +57,6 @@ NB: Kiwi6 has some limits but you shouldn't be annoyed by these as they are real
 
 NB: OpenDrive gives you 5GB of storage but you can [get free space here](https://www.opendrive.com/free "Get Free Space")
 
-*A REQUEST* 
-where possible, please break the playlist into thematic segments.
-
 These are playlists which can be imported by the Jukebook Playlist importer.
 
 ## Googledrive ##
@@ -68,6 +65,16 @@ These are playlists which can be imported by the Jukebook Playlist importer.
 2.
 3. Install [this extension on chrome](https://chrome.google.com/webstore/detail/tab-save/lkngoeaeclaebmpkgapchgjdbaekacki).
 
+## DropBox ##
+
+1. Upload the file to dropbox
+2. Create a link
+3. The link will end in <code>dl=0</code>, change the <code>dl=0</code> to <code>dl=1</code>
+3. Paste that modified URL into the Media URL field.
+
+
+*A REQUEST* 
+where possible, please break the playlist into thematic segments.
 
 # Playlists for Roll20 games.
 
