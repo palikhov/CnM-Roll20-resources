@@ -1,0 +1,2510 @@
+{
+    "schema_version": 1,
+    "playlists": [
+        {
+            "name": "🙎 PEOPLE",
+            "mode": "b",
+            "songs": []
+        },
+        {
+            "name": "Town/Village",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Village (Standard, Goats)",
+                    "track_id": "glr674",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Village (Blacksmith, River)",
+                    "track_id": "qy2dyj",
+                    "volume": 60.84
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Village (Quiet, Snow)",
+                    "track_id": "oy6nyy",
+                    "volume": 12.959999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Village (Waterfall)",
+                    "track_id": "mg76g7",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Village (Forest)",
+                    "track_id": "4516j7",
+                    "volume": 70.55999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Town (Big, Many People)",
+                    "track_id": "1r7ezk",
+                    "volume": 51.839999999999996
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Town (Small, Many People)",
+                    "track_id": "deq68g",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Tavern",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Standard, Fire",
+                    "track_id": "45174r",
+                    "volume": 79.21000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "WoW, Fire",
+                    "track_id": "8zyk8q",
+                    "volume": 56.25
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Quiet Corner, Fire",
+                    "track_id": "2yjz4r",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Modern",
+                    "track_id": "mg76vz",
+                    "volume": 65.61000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Cellar, Quiet Music",
+                    "track_id": "vovrj2",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Mountains, Stormy, Fire",
+                    "track_id": "6ogl6d",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Brawl",
+                    "track_id": "83n1z7",
+                    "volume": 57.76
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "+ Music, Modern",
+                    "track_id": "y8ve62",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "+Music, Full",
+                    "track_id": "30np2l",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Library",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Small",
+                    "track_id": "deq6op",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Medium, Fire",
+                    "track_id": "1r7e1l",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Big",
+                    "track_id": "8zykm6",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Small, Rain Outside",
+                    "track_id": "glr657",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Forbidden Area",
+                    "track_id": "nyj652",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "name": "Sewers",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Watery",
+                    "track_id": "mg7648",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Eerie Noise",
+                    "track_id": "k1z6nm",
+                    "volume": 2.56
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Scary  1",
+                    "track_id": "vovr4r",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Scary 2",
+                    "track_id": "k1z62m",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Scary, Stream",
+                    "track_id": "vovr5r",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Docks",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Standard",
+                    "track_id": "vo3r8k",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Standard with Bell",
+                    "track_id": "deq6kp",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Quiet, Distant Thunder",
+                    "track_id": "qy2dgy",
+                    "volume": 68.89
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Loud Sea",
+                    "track_id": "qy2doj",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Loud Gulls",
+                    "track_id": "k1z61o",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Rain",
+                    "track_id": "1r7ejl",
+                    "volume": 79.21000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Market Medium",
+                    "track_id": "ny6rr0",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Market Full",
+                    "track_id": "y8ve15",
+                    "volume": 22.09
+                }
+            ]
+        },
+        {
+            "name": "Ship",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Outside, Windy",
+                    "track_id": "1r7k6k",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Outside, Sailing",
+                    "track_id": "deqy2g",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Outside, No Gulls, Combine w/ Storm",
+                    "track_id": "gl46dr",
+                    "volume": 43.56
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Inside",
+                    "track_id": "nyjl1k",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Captain's Cabin",
+                    "track_id": "6og4pv",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Shanties",
+                    "track_id": "oy6j1y",
+                    "volume": 7.840000000000001
+                }
+            ]
+        },
+        {
+            "name": "Cart",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Cart (Birds)",
+                    "track_id": "6og2p2",
+                    "volume": 1.44
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Cart Inside (Birds)",
+                    "track_id": "6ogkko",
+                    "volume": 56.25
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Cart Inside (Rain)",
+                    "track_id": "8zyvv7",
+                    "volume": 59.29
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Cart (Distance, Forest)",
+                    "track_id": "mg75d8",
+                    "volume": 19.36
+                }
+            ]
+        },
+        {
+            "name": "Fireplace",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": true,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Standard",
+                    "track_id": "k1zp7o",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Small House, Calm",
+                    "track_id": "qy2n1g",
+                    "volume": 64.00000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "House, Calm Wind",
+                    "track_id": "8zy4m6",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "House, Rain Outside",
+                    "track_id": "mgz6en",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Ruin, Windy, Rain Outside",
+                    "track_id": "6og40v",
+                    "volume": 84.64
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Tavern, No Music",
+                    "track_id": "y8vo02",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Heavy Wind",
+                    "track_id": "r4gzz5",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "River, Horses",
+                    "track_id": "glrep7",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Wolves",
+                    "track_id": "y8vv60",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Stream (Very Calm)",
+                    "track_id": "1r7yql",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Swamp",
+                    "track_id": "2yj64n",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Wild, Sick People",
+                    "track_id": "5zd8mv",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Exterior",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Market",
+                    "track_id": "jne6k3",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Camp",
+                    "track_id": "ld66jp",
+                    "volume": 28.090000000000003
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Lonely Worker",
+                    "track_id": "glr6k7",
+                    "volume": 79.21000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Stables",
+                    "track_id": "jn6g6j",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Horseback Travelling",
+                    "track_id": "vovd0q",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Wild, Sick People, Fireplace",
+                    "track_id": "5zd8mv",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Peasants",
+                    "track_id": "ldp61p",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Training Area (Inside)",
+                    "track_id": "deq110",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Battlefield/Training Area (Big)",
+                    "track_id": "6ogl82",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Interior",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Blacksmith",
+                    "track_id": "30p44p",
+                    "volume": 19.36
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Blacksmith (Special)",
+                    "track_id": "8zk11o",
+                    "volume": 25
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Potionshop (Normal)",
+                    "track_id": "k1z65p",
+                    "volume": 7.840000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Potionshop (Crazy)",
+                    "track_id": "5zd8y2",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Stables",
+                    "track_id": "jn6g6j",
+                    "volume": 15.21
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Windmill",
+                    "track_id": "voymzk",
+                    "volume": 6.25
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Prison (Scary)",
+                    "track_id": "oylnev",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Catacombs (Scary)",
+                    "track_id": "2yjzpv",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Hideout/Mine (Scary)",
+                    "track_id": "4517l2",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Mine (Scary)",
+                    "track_id": "2yjvlg",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Talking Crowd (Inside)",
+                    "track_id": "vovroq",
+                    "volume": 4.000000000000001
+                }
+            ]
+        },
+        {
+            "name": "⛅ WEATHER",
+            "mode": "b",
+            "songs": []
+        },
+        {
+            "name": "Rain/Thunder",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Only Thunder + Birds",
+                    "track_id": "jneeq6",
+                    "volume": 88.36
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Forest (Combine w/ Thunder)",
+                    "track_id": "ezyyn6",
+                    "volume": 30.250000000000004
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Forest, Calm (Com w/ Thunder)",
+                    "track_id": "ogdpg0",
+                    "volume": 2.8900000000000006
+                },
+                {
+                    "loop": true,
+                    "playing": true,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Rain Outside (C. w/ Thunder)",
+                    "track_id": "k1r6od",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "+ Thunder, Gentle",
+                    "track_id": "0epyo5",
+                    "volume": 70.55999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": true,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "+ Thunder, Town",
+                    "track_id": "6oggpd",
+                    "volume": 9
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "+Thunder, On Stone",
+                    "track_id": "k1zzyp",
+                    "volume": 37.21
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "+ Thunder, On Stone (Heavy)",
+                    "track_id": "glrrq5",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "+Thunder, Windy",
+                    "track_id": "r4vv6v",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Only Thunder (Crows, Abandoned Town)",
+                    "track_id": "6ogk6o",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Night",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Forest, Windy",
+                    "track_id": "8zydzq",
+                    "volume": 28.090000000000003
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Fireplace, Wolves",
+                    "track_id": "y8vv60",
+                    "volume": 47.60999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Loud",
+                    "track_id": "1r77jq",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Swamp, Fireplace",
+                    "track_id": "2yj64n",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Swamp",
+                    "track_id": "1r72mj",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Stream",
+                    "track_id": "0ep8ej",
+                    "volume": 28.090000000000003
+                }
+            ]
+        },
+        {
+            "name": "Wind/Snow",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Forest, Standard",
+                    "track_id": "oy5rne",
+                    "volume": 10.89
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Forest, Standard [Leaves]",
+                    "track_id": "vodopk",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Subtle, Forest, Crows",
+                    "track_id": "ldp3ne",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Medium, Forest, Night",
+                    "track_id": "8zydzq",
+                    "volume": 12.959999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Mountains, Forest",
+                    "track_id": "k1zy1p",
+                    "volume": 6.760000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Calm, Snow",
+                    "track_id": "r4vyky",
+                    "volume": 16.81
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Arctic",
+                    "track_id": "oy6e2o",
+                    "volume": 31.360000000000003
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Howling, Clear",
+                    "track_id": "ezyn06",
+                    "volume": 20.25
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Howling, Heavy",
+                    "track_id": "77q6r4",
+                    "volume": 28.090000000000003
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Snow, Heavy (+Howling)",
+                    "track_id": "znv68y",
+                    "volume": 25
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Blizzard",
+                    "track_id": "y8v660",
+                    "volume": 37.21
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Heavy, Ruin",
+                    "track_id": "5zd661",
+                    "volume": 68.89
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Heavy, Forest (Abandoned Town)",
+                    "track_id": "jneql6",
+                    "volume": 28.090000000000003
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Thunder, Crows (Abandoned Town)",
+                    "track_id": "6ogk6o",
+                    "volume": 22.09
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Cave, Windy Outside (Higher)",
+                    "track_id": "jne4op",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Cave, Windy Outside (Deeper)",
+                    "track_id": "8zy887",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "name": "🌿 NATURE",
+            "mode": "b",
+            "songs": []
+        },
+        {
+            "name": "Forest",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Calm, Birds",
+                    "track_id": "ezy2qp",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Crows, Windy",
+                    "track_id": "ldp3ne",
+                    "volume": 34.809999999999995
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Heavy Wind, Mountains",
+                    "track_id": "k1zy1p",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Snow, Windy",
+                    "track_id": "r4vyky",
+                    "volume": 23.04
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Night, Windy",
+                    "track_id": "8zydzq",
+                    "volume": 23.04
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Silent, Crows",
+                    "track_id": "mg7eo1",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dense",
+                    "track_id": "vovno2",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Abandoned Town, Heavy Wind",
+                    "track_id": "jneql6",
+                    "volume": 25
+                }
+            ]
+        },
+        {
+            "name": "Cave",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Windy, Crumbling",
+                    "track_id": "r4v0y5",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Generic Dungeon",
+                    "track_id": "oy6rdv",
+                    "volume": 25
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Quiet, Deep Echo",
+                    "track_id": "ezy42q",
+                    "volume": 27.040000000000003
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Quiet, Drops",
+                    "track_id": "lkl2re",
+                    "volume": 26.009999999999998
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Scary, Drops, Sewers",
+                    "track_id": "znv7pj",
+                    "volume": 27.040000000000003
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sea",
+                    "track_id": "glrz1r",
+                    "volume": 31.360000000000003
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Stream, Noise",
+                    "track_id": "qy2rge",
+                    "volume": 12.959999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Stream, Bats",
+                    "track_id": "94g8y7",
+                    "volume": 25
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Noise",
+                    "track_id": "y8v7q5",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Windy Outside (Deeper)",
+                    "track_id": "8zy887",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Windy Outside (Higher)",
+                    "track_id": "jne4op",
+                    "volume": 30.250000000000004
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Noise, Distant Screams",
+                    "track_id": "4510z7",
+                    "volume": 27.040000000000003
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Mine (Scary)",
+                    "track_id": "2yjvlg",
+                    "volume": 64.00000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Spiders",
+                    "track_id": "mg7jd7",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "name": "Mountains",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Heavy Wind, Forest",
+                    "track_id": "k1zy1p",
+                    "volume": 82.81
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Arctic, Windy",
+                    "track_id": "oy6e2o",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Howling Wind, Clear",
+                    "track_id": "ezyn06",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Howling, Heavy Wind",
+                    "track_id": "77q6r4",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Snow Storm",
+                    "track_id": "znv68y",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Blizzard",
+                    "track_id": "y8v660",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Meadow",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal",
+                    "track_id": "qy2646",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal, Cows",
+                    "track_id": "r4v6jv",
+                    "volume": 75.69
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal, Stream, Birds",
+                    "track_id": "77qz7k",
+                    "volume": 47.60999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Tundra",
+                    "track_id": "glrd55",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Tundra, Fucking weird",
+                    "track_id": "30p4rp",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "name": "Swamp",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal, Quiet",
+                    "track_id": "y8v060",
+                    "volume": 94.08999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal, Loud",
+                    "track_id": "451k4g",
+                    "volume": 47.60999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Crows",
+                    "track_id": "mg7eo1",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Swamp, Special",
+                    "track_id": "r4gzn5",
+                    "volume": 84.64
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Rain",
+                    "track_id": "jner80",
+                    "volume": 43.56
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Fireplace, Night",
+                    "track_id": "2yj64n",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Night",
+                    "track_id": "1r72mj",
+                    "volume": 31.360000000000003
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Scary",
+                    "track_id": "ldp8r0",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Water",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Stream (Calm), Forest",
+                    "track_id": "y8vr81",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Stream (Normal), Meadow",
+                    "track_id": "77qz7k",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Stream (Calm), Night",
+                    "track_id": "0ep8ej",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Stream (Very Calm), Birds",
+                    "track_id": "vovqor",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Stream (Very Calm), Fireplace",
+                    "track_id": "1r7yql",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Heavy Stream, Waterfall",
+                    "track_id": "77qz3k",
+                    "volume": 33.64
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Lake (Calm)",
+                    "track_id": "kdg0vp",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Lake (Calm), Crows",
+                    "track_id": "ldp850",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sea (Normal), Gulls",
+                    "track_id": "p2vpez",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sea (Rocky), Gulls",
+                    "track_id": "8ezogo",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Sea (Normal), Gulls, Docks",
+                    "track_id": "qy27zy",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Underwater",
+                    "track_id": "xk6kpg",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "♪ SOUND EFFECTS",
+            "mode": "b",
+            "songs": []
+        },
+        {
+            "name": "Door (Opening)",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal 1",
+                    "track_id": "jny6m2",
+                    "volume": 82.81
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal 2 (Modern)",
+                    "track_id": "6o57j2",
+                    "volume": 96.03999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal 3",
+                    "track_id": "vo3ryq",
+                    "volume": 70.55999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal, Slight Echo",
+                    "track_id": "znjz0p",
+                    "volume": 22.09
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal, Squeaking",
+                    "track_id": "mgz828",
+                    "volume": 56.25
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal, Shabby",
+                    "track_id": "1r3ekk",
+                    "volume": 68.89
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Calm, Squeaking",
+                    "track_id": "2yozkg",
+                    "volume": 51.839999999999996
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Squeaking, Pushing Long",
+                    "track_id": "ezv6me",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Squeaking, Pushing Medium 1",
+                    "track_id": "77v5o3",
+                    "volume": 64.00000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Squeaking, Pushing Medium 2",
+                    "track_id": "oylnm0",
+                    "volume": 60.84
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Echo",
+                    "track_id": "vo31zr",
+                    "volume": 65.61000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Echo, Very Heavy, Gate",
+                    "track_id": "mgz6mv",
+                    "volume": 51.839999999999996
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Farm",
+                    "track_id": "77v52p",
+                    "volume": 82.81
+                }
+            ]
+        },
+        {
+            "name": "Door (Closing)",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal 1",
+                    "track_id": "mgz6j7",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal 2 (Modern)",
+                    "track_id": "r425ey",
+                    "volume": 65.61000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal 3",
+                    "track_id": "ld06l5",
+                    "volume": 73.96
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal, Slight Squeaking",
+                    "track_id": "de56dg",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Squeaking",
+                    "track_id": "gl46o4",
+                    "volume": 70.55999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Squeaking long",
+                    "track_id": "oyl731",
+                    "volume": 44.89000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Echo",
+                    "track_id": "30e83d",
+                    "volume": 59.29
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Echo, Distant",
+                    "track_id": "y8pq51",
+                    "volume": 27.040000000000003
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Echo, Metal",
+                    "track_id": "ld06z5",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Door (Locked)",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal 1 (Modern)",
+                    "track_id": "ld0ekp",
+                    "volume": 51.839999999999996
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal 2",
+                    "track_id": "45p7yo",
+                    "volume": 47.60999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal 3",
+                    "track_id": "r42g13",
+                    "volume": 33.64
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal 4 (Inside)",
+                    "track_id": "k1r0gm",
+                    "volume": 84.64
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Normal 5 (Inside)",
+                    "track_id": "gl466y",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Calm",
+                    "track_id": "5zjp7v",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Echo, Heavy",
+                    "track_id": "znjzzm",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Aggressive (Modern)",
+                    "track_id": "5zj826",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Door (Unlocking)",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Key, Short",
+                    "track_id": "ny76kk",
+                    "volume": 68.89
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Key, Medium",
+                    "track_id": "vo3r15",
+                    "volume": 70.55999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Key, Long",
+                    "track_id": "ezvg8p",
+                    "volume": 70.55999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Picked/Unlocked, Squeaking",
+                    "track_id": "znjzrm",
+                    "volume": 64.00000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Picked/Unlocked, Silent Pick, Squeaking",
+                    "track_id": "p2k162",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "name": "Door (Knocking)",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Calm 3",
+                    "track_id": "oylnvy",
+                    "volume": 70.55999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Calm 6",
+                    "track_id": "77vjmk",
+                    "volume": 68.89
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Calm 3, Wooden",
+                    "track_id": "znjyl8",
+                    "volume": 34.809999999999995
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Calm 5, Wooden",
+                    "track_id": "p2kj7z",
+                    "volume": 37.21
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Medium 3",
+                    "track_id": "vo3r2q",
+                    "volume": 39.690000000000005
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Medium 7",
+                    "track_id": "45p767",
+                    "volume": 37.21
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Hard 4",
+                    "track_id": "jnyov3",
+                    "volume": 43.56
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Hard 9",
+                    "track_id": "0eq05g",
+                    "volume": 40.96
+                }
+            ]
+        },
+        {
+            "name": "Sleeping",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Man, Calm",
+                    "track_id": "y8pe4y",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Man, Disgusting",
+                    "track_id": "qymden",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Couple",
+                    "track_id": "gl46ny",
+                    "volume": 2.8900000000000006
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "People (too strong sides)",
+                    "track_id": "de5676",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Creature",
+                    "track_id": "30ep46",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "name": "Environment",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Earthquake (Long)",
+                    "track_id": "wy1jq3",
+                    "volume": 43.56
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Earthquake (Short)",
+                    "track_id": "djldrg",
+                    "volume": 22.09
+                }
+            ]
+        },
+        {
+            "name": "Screeches",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "All screeches",
+                    "track_id": "3178mz",
+                    "volume": 37.21
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Screech 1",
+                    "track_id": "83rl2l",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Screech 2",
+                    "track_id": "no2pkk",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Screech 3+4",
+                    "track_id": "ro75m3",
+                    "volume": 12.959999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Screech 3",
+                    "track_id": "y1mqy5",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Screech 4",
+                    "track_id": "1q0o5k",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Animals/Creatures",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Flies",
+                    "track_id": "5zdkk1",
+                    "volume": 68.89
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Crows",
+                    "track_id": "mg7ee1",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Crows + Forest",
+                    "track_id": "mg7eo1",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Crow (Single)",
+                    "track_id": "9n4okk",
+                    "volume": 20.25
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Crow (Few)",
+                    "track_id": "xk0ryp",
+                    "volume": 23.04
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Dragons",
+                    "track_id": "nyjzzn",
+                    "volume": 96.03999999999999
+                }
+            ]
+        },
+        {
+            "name": "People",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "On the March",
+                    "track_id": "ld068n",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Brawl",
+                    "track_id": "83n1z7",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Battle",
+                    "track_id": "6ogl82",
+                    "volume": 5.29
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Battle with Horns",
+                    "track_id": "jny6rj",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Training (Swords)",
+                    "track_id": "deq110",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Horseback Travelling",
+                    "track_id": "vovd0q",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "★ INDIVIDUAL PLACES",
+            "mode": "b",
+            "songs": []
+        },
+        {
+            "name": "Misc",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Fanburst",
+                    "tags": "",
+                    "title": "Schattengasse",
+                    "track_id": "77q4pp",
+                    "volume": 94.08999999999999
+                }
+            ]
+        }
+    ]
+}
