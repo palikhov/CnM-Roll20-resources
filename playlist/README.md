@@ -79,7 +79,13 @@ where possible, please break the playlist into thematic segments.
 # Playlists for Roll20 games.
 
 [Dalenacio.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/Dalenacio.json)
+
 [TipMcVenus.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/TipMcVenus.json)
+
 [playlists(1).json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/playlists(1).json)
+
 [playlists(2).json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/playlists(2).json)
+
 [playlists.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/playlists.json)
+
+[Libre Playlist.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/libre%20playlist.json)
