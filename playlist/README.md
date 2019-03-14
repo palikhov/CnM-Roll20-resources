@@ -88,4 +88,4 @@ where possible, please break the playlist into thematic segments.
 
 [playlists.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/playlists.json)
 
-[Libre Playlist.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/libre%20playlist.json)
+[Libre Dungeon.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/libre%20dungeon.json)
