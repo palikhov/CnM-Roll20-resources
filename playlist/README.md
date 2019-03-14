@@ -78,8 +78,20 @@ where possible, please break the playlist into thematic segments.
 
 # Playlists for Roll20 games.
 
+(look [here](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/) for the total listing (this document might be out of date )
+
+[Libre_Dungeon.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/libre_dungeon.json) by Rich (rihards99)
+
+[Libre_Combat](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/libre_combat.json) by Rich (rihards99)
+
 [Dalenacio.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/Dalenacio.json)
+
 [TipMcVenus.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/TipMcVenus.json)
+
 [playlists(1).json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/playlists(1).json)
+
 [playlists(2).json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/playlists(2).json)
+
 [playlists.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/playlists.json)
+
+

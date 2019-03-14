@@ -1,0 +1,251 @@
+{
+    "schema_version": 1,
+    "playlists": [
+        {
+            "name": "Ambient Spooky",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - CREEPY In The Shadows by Tabletop Audio",
+                    "track_id": "10_In_The_Shadows.mp3-1444359873146",
+                    "volume": 19.36
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Spooky - Alchemists Lab",
+                    "track_id": "76_Alchemists_Lab.mp3-1444359873203",
+                    "volume": 50.41
+                }
+            ]
+        },
+        {
+            "name": "BCKGRN MUSIC",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Suspense Clash of Kings by Tabletop Audio",
+                    "track_id": "34_Clash_of_Kings.mp3-1444359873166",
+                    "volume": 19.36
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Campsite",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Woodland Campsite",
+                    "track_id": "51_Woodland_Campsite.mp3-1444359873180",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Cave",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Cave Into the Deep",
+                    "track_id": "38_Into_the_Deep.mp3-1444359873170",
+                    "volume": 34.809999999999995
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Cavern Wet Goblin's Cave by Tabletop Audio",
+                    "track_id": "49_Goblin's_Cave.mp3-1444359873178",
+                    "volume": 18.49
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Forest (Night)",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Forest Night",
+                    "track_id": "69_Forest_Night.mp3-1444359873196",
+                    "volume": 32.489999999999995
+                }
+            ]
+        },
+        {
+            "name": "LOCALE - Mountain Pas",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Mountain Pass by Tabletop Audio",
+                    "track_id": "64_Mountain_Pass.mp3-1444359873192",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Tavern",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Tavern",
+                    "track_id": "54_Mountain_Tavern.mp3-1444359873182",
+                    "volume": 23.04
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Town",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Blacksmith Shoppe",
+                    "track_id": "80_Blacksmith_Shoppe.mp3-1444359873206",
+                    "volume": 17.639999999999997
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Ambient - City Medieval Town",
+                    "track_id": "56_Medieval_Town.mp3-1444359873184",
+                    "volume": 18.49
+                }
+            ]
+        },
+        {
+            "name": "LOCALE -Warf-Waterfront",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Docks District",
+                    "track_id": "75_Docks_District.mp3-1444359873202",
+                    "volume": 12.249999999999998
+                }
+            ]
+        },
+        {
+            "name": "STORM",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Raining",
+                    "track_id": "60_Dark_and_Stormy.mp3-1444359873189",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Shelter from the Storm by Tabletop Audio",
+                    "track_id": "11_Shelter_from_the_Storm.mp3-1444359873147",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "STUFF",
+            "mode": "b",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Medieval Battle by Tabletop Audio",
+                    "track_id": "79_Medieval_Battle.mp3-1444359873206",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Middle Earth Dawn by Tabletop Audio",
+                    "track_id": "62_Middle_Earth_Dawn.mp3-1444359873191",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Temple of the Eye by Tabletop Audio",
+                    "track_id": "39_Temple_of_the_Eye.mp3-1444359873171",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Terror by Tabletop Audio",
+                    "track_id": "58_Terror.mp3-1444359873186",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Uncommon Valor a by Tabletop Audio",
+                    "track_id": "26_Uncommon_Valor_a.mp3-1444359873160",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "x Dungeon I by Tabletop Audio",
+                    "track_id": "65_Dungeon_I.mp3-1444359873193",
+                    "volume": 100
+                }
+            ]
+        }
+    ]
+}

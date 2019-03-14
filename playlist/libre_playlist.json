@@ -1,0 +1,1136 @@
+{
+    "schema_version": 1,
+    "playlists": [
+        {
+            "name": "Battle Music",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Medieval Battle by Tabletop Audio",
+                    "track_id": "79_Medieval_Battle.mp3-1444359873206",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Infernal - Highborn Devil Calls to Battle - AIFR Productions",
+                    "track_id": "Infernal - Highborn Devil Calls to Battle - AIFR Productions.mp3-1476253118445",
+                    "volume": 33.64
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Goblins - Combat - When Goblins Attack - Olivier Girardot",
+                    "track_id": "Goblins - Combat - When Goblins Attack - Olivier Girardot.mp3-1476250223265",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Cave",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Cave Into the Deep",
+                    "track_id": "38_Into_the_Deep.mp3-1444359873170",
+                    "volume": 34.809999999999995
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Cavern Wet Goblin's Cave by Tabletop Audio",
+                    "track_id": "49_Goblin's_Cave.mp3-1444359873178",
+                    "volume": 18.49
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "x Dungeon I by Tabletop Audio",
+                    "track_id": "65_Dungeon_I.mp3-1444359873193",
+                    "volume": 44.89000000000001
+                }
+            ]
+        },
+        {
+            "name": "Sound Effects",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dwarf - Adult Dwarf Converses - M Lewis Sauerwein",
+                    "track_id": "Dwarf - Adult Dwarf Converses - M Lewis Sauerwein.mp3-1476250138469",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dwarf - Adult Dwarf Curses - M Lewis Sauerwein",
+                    "track_id": "Dwarf - Adult Dwarf Curses - M Lewis Sauerwein.mp3-1476250138469",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dwarf - Adult Dwarf Mourns - M Lewis Sauerwein",
+                    "track_id": "Dwarf - Adult Dwarf Mourns - M Lewis Sauerwein.mp3-1476250138469",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dwarf - Adult Dwarf Rallies - M Lewis Sauerwein",
+                    "track_id": "Dwarf - Adult Dwarf Rallies - M Lewis Sauerwein.mp3-1476250138469",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dwarf - Adult Dwarf Rejoices - M Lewis Sauerwein",
+                    "track_id": "Dwarf - Adult Dwarf Rejoices - M Lewis Sauerwein.mp3-1476250138470",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dwarf - Adult Dwarf Speaks - M Lewis Sauerwein",
+                    "track_id": "Dwarf - Adult Dwarf Speaks - M Lewis Sauerwein.mp3-1476250138470",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Arrow Trap - SidnSound",
+                    "track_id": "Arrow Trap - SidnSound.mp3-1476250475805",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "One-Ton Brick Trap - SidnSound",
+                    "track_id": "One-Ton Brick Trap - SidnSound.mp3-1476250475805",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Several Swinging Scythes Trap - SidnSound",
+                    "track_id": "Several Swinging Scythes Trap - SidnSound.mp3-1476250475805",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Time Manipulation Psi - Daniele Galante",
+                    "track_id": "Time Manipulation Psi - Daniele Galante.mp3-1476250475800",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Raise Dead Spell - Pablo Betancourt",
+                    "track_id": "Raise Dead Spell - Pablo Betancourt.mp3-1476250475796",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Inferno demon combat",
+                    "track_id": "Fire Elemental - Combat - Fighting Fire Elemental with - WildDog Productions.mp3-1476248482121",
+                    "volume": 17.639999999999997
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Restorative Spell - Pablo Betancourt",
+                    "track_id": "Restorative Spell - Pablo Betancourt.mp3-1476250475797",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Enviroment - Docks",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Docks District",
+                    "track_id": "75_Docks_District.mp3-1444359873202",
+                    "volume": 12.249999999999998
+                }
+            ]
+        },
+        {
+            "name": "Enviroment-Forest",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Forest Night",
+                    "track_id": "69_Forest_Night.mp3-1444359873196",
+                    "volume": 32.489999999999995
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Woodland Campsite",
+                    "track_id": "51_Woodland_Campsite.mp3-1444359873180",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Forest - The Emerald Glades at Night - Pablo Betancourt",
+                    "track_id": "Forest - The Emerald Glades at Night - Pablo Betancourt.mp3-1476249006688",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Forest Night by Tabletop Audio",
+                    "track_id": "69_Forest_Night.mp3-1466240392827",
+                    "volume": 50.41
+                }
+            ]
+        },
+        {
+            "name": "Moutain",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Mountain Pass by Tabletop Audio",
+                    "track_id": "64_Mountain_Pass.mp3-1444359873192",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "name": "Swamp",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Swamp - Marsh of Madness at Night (Some Spirits) - WildDog Productions",
+                    "track_id": "Swamp - Marsh of Madness at Night (Some Spirits) - WildDog Productions.mp3-1476249006690",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Swamp - Marsh of Madness in Day (Heavy Spirits) - WildDog Productions",
+                    "track_id": "Swamp - Marsh of Madness in Day (Heavy Spirits) - WildDog Productions.mp3-1476249006690",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Desert",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Desert - Shifting Sands at Night - Olivier Girardot",
+                    "track_id": "Desert - Shifting Sands at Night - Olivier Girardot.mp3-1476249243759",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Desert - Shifting Sands in Day (With Animals) - Olivier Girardot",
+                    "track_id": "Desert - Shifting Sands in Day (With Animals) - Olivier Girardot.mp3-1476249243760",
+                    "volume": 17.639999999999997
+                }
+            ]
+        },
+        {
+            "name": "Town",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Abandoned Fair",
+                    "track_id": "77_Abandoned_Fair.mp3-1444359873204",
+                    "volume": 25
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Blacksmith Shoppe",
+                    "track_id": "80_Blacksmith_Shoppe.mp3-1444359873206",
+                    "volume": 44.89000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "tags": "",
+                    "title": "Ambient - City Medieval Town",
+                    "track_id": "56_Medieval_Town.mp3-1444359873184",
+                    "volume": 18.49
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Spooky - Alchemists Lab",
+                    "track_id": "76_Alchemists_Lab.mp3-1444359873203",
+                    "volume": 50.41
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Eating Hall - Acquired Tastes - Niki Kernow",
+                    "track_id": "Eating Hall - Acquired Tastes - Niki Kernow.mp3-1476250269362",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Eating Hall - Fairweather - Niki Kernow",
+                    "track_id": "Eating Hall - Fairweather - Niki Kernow.mp3-1476250269362",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Eating Hall - Planar Bistro - Niki Kernow",
+                    "track_id": "Eating Hall - Planar Bistro - Niki Kernow.mp3-1476250269362",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Eating Hall - Rural - Niki Kernow",
+                    "track_id": "Eating Hall - Rural - Niki Kernow.mp3-1476250269362",
+                    "volume": 68.89
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Innkeeper - Adventurer's Standby Inn - Kyle McCarley",
+                    "track_id": "Innkeeper - Adventurer's Standby Inn - Kyle McCarley.mp3-1476250269362",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Innkeeper - Bed and Breakfast Inn - Kyle McCarley",
+                    "track_id": "Innkeeper - Bed and Breakfast Inn - Kyle McCarley.mp3-1476250269363",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Innkeeper - Epic Inn - Kyle McCarley",
+                    "track_id": "Innkeeper - Epic Inn - Kyle McCarley.mp3-1476250269363",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Innkeeper - Three Walls Inn - Kyle McCarley",
+                    "track_id": "Innkeeper - Three Walls Inn - Kyle McCarley.mp3-1476250269363",
+                    "volume": 68.89
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Large City - City of Trade at Night - Olivier Girardot",
+                    "track_id": "Large City - City of Trade at Night - Olivier Girardot.mp3-1476249006688",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Large City - City of Trade in Day - Olivier Girardot",
+                    "track_id": "Large City - City of Trade in Day - Olivier Girardot.mp3-1476249006688",
+                    "volume": 16.81
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Medieval Town by Tabletop Audio",
+                    "track_id": "56_Medieval_Town.mp3-1466238979309",
+                    "volume": 12.249999999999998
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Merchant - Backally Fence - Joe_J_Thomas",
+                    "track_id": "Merchant - Backally Fence - Joe_J_Thomas.mp3-1476250269363",
+                    "volume": 12.959999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Merchant - Everything Emporium - Joe_J_Thomas",
+                    "track_id": "Merchant - Everything Emporium - Joe_J_Thomas.mp3-1476250269363",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Middle Earth Dawn by Tabletop Audio",
+                    "track_id": "62_Middle_Earth_Dawn.mp3-1444359873191",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Tavern Owner - Chipped Glass Tavern - Edwyn Tiong",
+                    "track_id": "Tavern Owner - Chipped Glass Tavern - Edwyn Tiong.mp3-1476250269363",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Tavern Owner - Cornerstreet Tarven - Edwyn Tiong",
+                    "track_id": "Tavern Owner - Cornerstreet Tarven - Edwyn Tiong.mp3-1476250269363",
+                    "volume": 0.8099999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Tavern Owner - Epic Tavern - Edwyn Tiong",
+                    "track_id": "Tavern Owner - Epic Tavern - Edwyn Tiong.mp3-1476250269363",
+                    "volume": 0.01
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Tavern Owner - Goblin's Woe Gambling Hall - Edwyn Tiong",
+                    "track_id": "Tavern Owner - Goblin's Woe Gambling Hall - Edwyn Tiong.mp3-1476250269363",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Weather",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Raining",
+                    "track_id": "60_Dark_and_Stormy.mp3-1444359873189",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Heavy Rain - WildDog Productions",
+                    "track_id": "Weather - Heavy Rain - WildDog Productions.mp3-1476250475808",
+                    "volume": 22.09
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Light Rain - WildDog Productions",
+                    "track_id": "Weather - Light Rain - WildDog Productions.mp3-1476250475808",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Light Wind - WildDog Productions",
+                    "track_id": "Weather - Light Wind - WildDog Productions.mp3-1476250475809",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Lightning Tempest - WildDog Productions",
+                    "track_id": "Weather - Lightning Tempest - WildDog Productions.mp3-1476250475809",
+                    "volume": 9
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Moderate Rain - WildDog Productions",
+                    "track_id": "Weather - Moderate Rain - WildDog Productions.mp3-1476250475809",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Thunder Crash 2 - WildDog Productions",
+                    "track_id": "Weather - Thunder Crash 2 - WildDog Productions.mp3-1476250475809",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Moderate Wind - WildDog Productions",
+                    "track_id": "Weather - Moderate Wind - WildDog Productions.mp3-1476250475809",
+                    "volume": 100
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Thunder Crash 1 - WildDog Productions",
+                    "track_id": "Weather - Thunder Crash 1 - WildDog Productions.mp3-1476250475809",
+                    "volume": 27.040000000000003
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Powerful Wind - WildDog Productions",
+                    "track_id": "Weather - Powerful Wind - WildDog Productions.mp3-1476250475809",
+                    "volume": 33.64
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Thunder Crash 3 - WildDog Productions",
+                    "track_id": "Weather - Thunder Crash 3 - WildDog Productions.mp3-1476250475810",
+                    "volume": 79.21000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Shelter from the Storm by Tabletop Audio",
+                    "track_id": "11_Shelter_from_the_Storm.mp3-1444359873147",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Thunder Series - WildDog Productions",
+                    "track_id": "Weather - Thunder Series - WildDog Productions.mp3-1476250475810",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Enviroment-Tavern",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - Tavern",
+                    "track_id": "54_Mountain_Tavern.mp3-1444359873182",
+                    "volume": 23.04
+                }
+            ]
+        },
+        {
+            "name": "Ambient",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Amazing Grace 2011 by Kevin MacLeod",
+                    "track_id": "Amazing%20Grace%202011.mp3-1475122784127",
+                    "volume": 2.8900000000000006
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Ambient - CREEPY In The Shadows by Tabletop Audio",
+                    "track_id": "10_In_The_Shadows.mp3-1444359873146",
+                    "volume": 19.36
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Anguish by Kevin MacLeod",
+                    "track_id": "Anguish.mp3-1475112294670",
+                    "volume": 88.36
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Armorsmith - Steel and Silk - Joe_J_Thomas",
+                    "track_id": "Armorsmith - Steel and Silk - Joe_J_Thomas.mp3-1476250269362",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "BKGrnd - Suspense Clash of Kings by Tabletop Audio",
+                    "track_id": "34_Clash_of_Kings.mp3-1444359873166",
+                    "volume": 19.36
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Beachfront Celebration by Kevin MacLeod",
+                    "track_id": "Beachfront%20Celebration.mp3-1475122784136",
+                    "volume": 7.290000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Castle Ruins - Ruins of The Black Castle at Night - Kole Audio Solutions",
+                    "track_id": "Castle Ruins - Ruins of The Black Castle at Night - Kole Audio Solutions.mp3-1476249384731",
+                    "volume": 82.81
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Castle Ruins - Ruins of The Black Castle at Storm's Edge - Kole Audio Solutions",
+                    "track_id": "Castle Ruins - Ruins of The Black Castle at Storm's Edge - Kole Audio Solutions.mp3-1476249384731",
+                    "volume": 100
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Celtic Impulse by Kevin MacLeod",
+                    "track_id": "Celtic%20Impulse.mp3-1475455894678",
+                    "volume": 1.21
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Crusade by Kevin MacLeod",
+                    "track_id": "Crusade.mp3-1475118675362",
+                    "volume": 14.44
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dark Elf Temple - A Prayer to Lloth - Source Music - Mike Bridge",
+                    "track_id": "Dark Elf Temple - A Prayer to Lloth - Source Music - Mike Bridge.mp3-1476249475966",
+                    "volume": 54.76
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Demon - Combat - Confronting a Demon - Daniele Galante",
+                    "track_id": "Demon - Combat - Confronting a Demon - Daniele Galante.mp3-1476248482120",
+                    "volume": 19.36
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Dinotopia by Tabletop Audio",
+                    "track_id": "59_Dinotopia.mp3-1466238979309",
+                    "volume": 98.00999999999999
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Disembodied Spirits by Tabletop Audio",
+                    "track_id": "12_Disembodied_Spirits.mp3-1468549696862",
+                    "volume": 94.08999999999999
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Druids Grove - Life Answers - Score Music - Richard Daskas",
+                    "track_id": "Druids Grove - Life Answers - Score Music - Richard Daskas.mp3-1476249888521",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dungeon - Dungeon of Loss - Inhabited - Olivier Girardot",
+                    "track_id": "Dungeon - Dungeon of Loss - Inhabited - Olivier Girardot.mp3-1476249384732",
+                    "volume": 39.690000000000005
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dwarf Temple - Prayer Eternal - Source Music - GoofParade",
+                    "track_id": "Dwarf Temple - Prayer Eternal - Source Music - GoofParade.mp3-1476249888521",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dwarf Temple - Stone Father Hymn - Score Music - Richard Daskas",
+                    "track_id": "Dwarf Temple - Stone Father Hymn - Score Music - Richard Daskas.mp3-1476249888521",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dwarf Temple - The Soul Forging - Score Music - Otto Orion",
+                    "track_id": "Dwarf Temple - The Soul Forging - Score Music - Otto Orion.mp3-1476249888521",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Elven Singing",
+                    "track_id": "Elven Dirge - Mennai Um Vela Ata - Source Music - GoofParade.mp3-1476249475966",
+                    "volume": 26.009999999999998
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Gnome Celebration - Barlen - Source Music - Richard Daskas",
+                    "track_id": "Gnome Celebration - Barlen - Source Music - Richard Daskas.mp3-1475714386873",
+                    "volume": 4.84
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Goblins - Warrens - Goblins and the Warrens of Filth - Olivier Girardot",
+                    "track_id": "Goblins - Warrens - Goblins and the Warrens of Filth - Olivier Girardot.mp3-1476250223265",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Halfling Camp - Hear ye All You Rascals - Source Music - Mike Bridge",
+                    "track_id": "Halfling Camp - Hear ye All You Rascals - Source Music - Mike Bridge.mp3-1476249475967",
+                    "volume": 15.21
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Infernal - Highborn Devil Converses - AIFR Productions",
+                    "track_id": "Infernal - Highborn Devil Converses - AIFR Productions.mp3-1476248940182",
+                    "volume": 7.290000000000001
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Infernal - Highborn Devil Disgusts - AIFR Productions",
+                    "track_id": "Infernal - Highborn Devil Disgusts - AIFR Productions.mp3-1476248940183",
+                    "volume": 22.09
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Infernal - Highborn Devil Snickers - AIFR Productions",
+                    "track_id": "Infernal - Highborn Devil Snickers - AIFR Productions.mp3-1476248940183",
+                    "volume": 21.16
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Infernal - Highborn Devil Speaks - AIFR Productions",
+                    "track_id": "Infernal - Highborn Devil Speaks - AIFR Productions.mp3-1476248940183",
+                    "volume": 37.21
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Mountain - Realm of the Grey Elves at Night - Anxo Martinez Calvo",
+                    "track_id": "Mountain - Realm of the Grey Elves at Night - Anxo Martinez Calvo.mp3-1476249243762",
+                    "volume": 28.090000000000003
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Mountain - Realm of the Grey Elves in Day - Anxo Martinez Calvo",
+                    "track_id": "Mountain - Realm of the Grey Elves in Day - Anxo Martinez Calvo.mp3-1476249243762",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Orc War March - The Horde Marches - Source Music - Pablo Betancourt",
+                    "track_id": "Orc War March - The Horde Marches - Source Music - Pablo Betancourt.mp3-1476249888522",
+                    "volume": 7.840000000000001
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Organ Music",
+                    "track_id": "Tiny%20Fugue.mp3-1475453984465",
+                    "volume": 14.44
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Red Dragon - In Air - Strafing - Marcos Abrom",
+                    "track_id": "Red Dragon - In Air - Strafing - Marcos Abrom.mp3-1476250223265",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Red Dragon - On Ground - Down and Dirty - Marcos Abrom",
+                    "track_id": "Red Dragon - On Ground - Down and Dirty - Marcos Abrom.mp3-1476250223266",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Sugar Plum Dark Mix by Kevin MacLeod",
+                    "track_id": "Sugar%20Plum%20Dark%20Mix.mp3-1475453984457",
+                    "volume": 73.96
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Supernatural by Kevin MacLeod",
+                    "track_id": "Supernatural.mp3-1475453984458",
+                    "volume": 31.360000000000003
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Temple of the Eye by Tabletop Audio",
+                    "track_id": "39_Temple_of_the_Eye.mp3-1444359873171",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Terror by Tabletop Audio",
+                    "track_id": "58_Terror.mp3-1444359873186",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "The Voices by Kevin MacLeod",
+                    "track_id": "The%20Voices.mp3-1475453984464",
+                    "volume": 30
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "There be Dragons by Tabletop Audio",
+                    "track_id": "47_There_be_Dragons.mp3-1466235184751",
+                    "volume": 19.36
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Time Passes by Kevin MacLeod",
+                    "track_id": "Time%20Passes.mp3-1475453984465",
+                    "volume": 24.009999999999998
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "tags": "",
+                    "title": "Uncommon Valor a by Tabletop Audio",
+                    "track_id": "26_Uncommon_Valor_a.mp3-1444359873160",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Underground Lake City - Lightness Shores - Score Music - Richard Daskas",
+                    "track_id": "Underground Lake City - Lightness Shores - Score Music - Richard Daskas.mp3-1476249888522",
+                    "volume": 30
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weaponsmith - Violence Masterworks - Joe_J_Thomas",
+                    "track_id": "Weaponsmith - Violence Masterworks - Joe_J_Thomas.mp3-1476250269364",
+                    "volume": 30
+                }
+            ]
+        },
+        {
+            "name": "Ambient Bright",
+            "mode": "s",
+            "songs": []
+        }
+    ]
+}
