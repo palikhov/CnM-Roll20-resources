@@ -82,12 +82,31 @@ where possible, please break the playlist into thematic segments.
 
 (look [here](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/) for the total listing (this document might be out of date )
 
-[Libre_Dungeon.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/libre_dungeon.json) by Rich (rihards99)
+[Libre_Dungeon.json](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/playlist/libre_dungeon.json) by Rich (rihards99)
 
-[Libre_Combat](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/libre_combat.json) by Rich (rihards99)
+[Libre_Combat](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/playlist/libre_combat.json) by Rich (rihards99)
 
 [libre_TipMcVenus.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/libre_tipmcvenus.json)
 
 [libre_playlists.json](https://github.com/DMsGuild201/Roll20_resources/blob/master/playlist/libre_playlists.json)
 
+## To use these....##
+
+But you'll need to download the file, whieh means. 1) the readme/wiki will include the url directly to raw (that's on me) but in the interim
+
+2) Follow one of those those links. 
+
+3) Right click and choose save as from the RAW file (if you save while the Github interface is up, you'll get an error later on.
+
+4) Save it locally (and remember where you did)
+
+5) Go to roll20, and load into your game(s)
+
+6) Go to Playlist
+
+7) Choose to browse to the place where the file(s) are located, choose it/one.
+
+8) Click import.
+
+9) repeat as needed
 
