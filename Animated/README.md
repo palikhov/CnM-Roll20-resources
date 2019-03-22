@@ -72,8 +72,6 @@ Sources for animated backgrounds
 
 - [Listing by Filename](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/By%20filename.MD)
 
-- [Listing by Artist & Set](https://github.com/DMsGuild201/Roll20_resources/blob/master/ExternalArt/Animated/Listing%20by%20Artist%20n%20Set.MD)
-
 - [By seachable theme/features etc](https://docs.google.com/spreadsheets/d/1CmYvfdu4lUNXEKWUoCqgTMlUd_UXYb-0N-GSqLsZF-M/edit#gid=0)
 
 
