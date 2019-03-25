@@ -12,49 +12,48 @@ The following list are functional animated maps you can use. right click on the 
 
 [_The_Roaring_Pony_Rooms_level HD_GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/_The_Roaring_Pony_Rooms_level%20HD_GRIDLESS.webm)
 
-[acid-basin-chamber-LN](http://webm.land/media/JKbO.webm)
+[acid-basin-chamber-LN]
 
-[acid-basin-chamber-secret](http://webm.land/media/pgca.webm)
+[acid-basin-chamber-secret]
 
-[acid-basin-chamber-secret-empty](http://webm.land/media/h98p.webm)
+[acid-basin-chamber-secret-empty]
 
 [acid-basin-chamber.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/acid-basin-chamber.webm)
 
-[acidic-dungeon](http://webm.land/media/CHZ2.webm)
-
+[acidic-dungeon]
 [acidic-dungeon-LN.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/acidic-dungeon-LN.webm)
 
-[Airship_day_grid_sound](http://webm.land/media/NExy.webm)
+[Airship_day_grid_sound]
 
-[Airship_day_gridless_sound](http://webm.land/media/NExy.webm)
+[Airship_day_gridless_sound]
 
-[Airship_fullygridded](http://webm.land/media/heBO.webm)
+[Airship_fullygridded]
 
-[Airship_gridLN](http://webm.land/media/2yGe.webm)
+[Airship_gridLN]
 
-[Airship_night_fullygridded](http://webm.land/media/bVF7.webm)
+[Airship_night_fullygridded]
 
-[Airship_night_gridless](http://webm.land/media/Vztk.webm)
+[Airship_night_gridless]
 
-[Ancient_ruins_Broadleaf_day_grid](http://webm.land/media/8vIK.webm)
+[Ancient_ruins_Broadleaf_day_grid]
 
-[Ancient_ruins_Broadleaf_day_gridless](http://webm.land/media/cnTX.webm)
+[Ancient_ruins_Broadleaf_day_gridless]
 
-[Ancient_ruins_Broadleaf_night_gridless](http://webm.land/media/aup7.webm)
+[Ancient_ruins_Broadleaf_night_gridless]
 
-[Ancient_ruins_jungle-day-gridded](http://webm.land/media/VqeG.webm)
+[Ancient_ruins_jungle-day-gridded]
 
-[Ancient_ruins_jungle-day-gridless](http://webm.land/media/yUX7.webm)
+[Ancient_ruins_jungle-day-gridless]
 
-[Ancient_ruins_jungle-night-gridded](http://webm.land/media/6LxR.webm)
+[Ancient_ruins_jungle-night-gridded]
 
-[Ancient_ruins_jungle-night-gridless](http://webm.land/media/7gaN.webm)
+[Ancient_ruins_jungle-night-gridless]
 
 [Antennae tower.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Antennae%20tower.webm)
 
-[Astral_gridded](http://webm.land/media/1FeJ.webm)
+[Astral_gridded]
 
-[Astral_gridless](http://webm.land/media/hEr2.webm)
+[Astral_gridless]
 
 [BLUEPORTALHD.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/BLUEPORTALHD.webm)
 
@@ -76,25 +75,25 @@ The following list are functional animated maps you can use. right click on the 
 
 [Bridge over the lava GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Bridge%20over%20the%20lava%20GRIDLESS.webm)
 
-[bridge_over_the_canal_HD_day_gridded](http://webm.land/media/Bhmo.webm)
+[bridge_over_the_canal_HD_day_gridded]
 
-[bridge_over_the_canal_HD_day_gridless](http://webm.land/media/PWyQ.webm)
+[bridge_over_the_canal_HD_day_gridless]
 
 [bridge_over_the_canal_HD_night_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bridge_over_the_canal_HD_night_gridded.webm)
 
 [bridge_over_the_canal_HD_night_griddless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/bridge_over_the_canal_HD_night_griddless.webm)
 
-[bridge_over_the_canal_UHD_night_gridded](http://webm.land/media/CzVj.webm)
+[bridge_over_the_canal_UHD_night_gridded]
 
-[bridge_over_the_canal_UHD_night_gridless](http://webm.land/media/JVBO.webm)
+[bridge_over_the_canal_UHD_night_gridless]
 
-[broadleaf_waterfall_night-HD_gridded](http://webm.land/media/lsKk.webm)
+[broadleaf_waterfall_night-HD_gridded]
 
-[broadleaf_waterfall_night-HD_gridless](http://webm.land/media/pzpE.webm)
+[broadleaf_waterfall_night-HD_gridless]
 
-[broadleaf-pool-HD_night_grid](http://webm.land/media/Y75p.webm)
+[broadleaf-pool-HD_night_grid]
 
-[broadleaf-pool-HD_night_gridless](http://webm.land/media/ViTB.webm)
+[broadleaf-pool-HD_night_gridless]
 
 [Broken Bridge 00 Daytime-lo7-cAuGFVI.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Broken%20Bridge%2000%20Daytime-lo7-cAuGFVI.webm)
 
@@ -126,7 +125,7 @@ The following list are functional animated maps you can use. right click on the 
 
 [Cellars_unfurnishedHD_GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Cellars_unfurnishedHD_GRIDLESS.webm)
 
-[Center_Gate](http://webm.land/media/B47M.webm)
+[Center_Gate]
 
 [City Gate Bridge Nightime with lights-fvjNR2BHQMs.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/City%20Gate%20Bridge%20Nightime%20with%20lights-fvjNR2BHQMs.webm)
 
@@ -306,57 +305,57 @@ The following list are functional animated maps you can use. right click on the 
 
 [DEMONICPORTALHD.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/DEMONICPORTALHD.webm)
 
-[desert_oasis_night-HD_gridded](http://webm.land/media/4EJN.webm)
+[desert_oasis_night-HD_gridded]
 
-[desert_oasis_night-HD_gridless](http://webm.land/media/uZ1q.webm)
+[desert_oasis_night-HD_gridless]
 
-[desert_oasis_night-UHD_gridded](http://webm.land/media/fbB8.webm)
+[desert_oasis_night-UHD_gridded]
 
-[desert_oasis_night-UHD_gridless](http://webm.land/media/Kdl2.webm)
+[desert_oasis_night-UHD_gridless]
 
-[Desert_oasis-HD_day_gridded](http://webm.land/media/qGqA.webm)
+[Desert_oasis-HD_day_gridded]
 
-[Desert_oasis-HD_day_gridded-LN](http://webm.land/media/0Zju.webm)
+[Desert_oasis-HD_day_gridded-LN]
 
-[Desert_oasis-HD_day_gridless](http://webm.land/media/mqII.webm)
+[Desert_oasis-HD_day_gridless]
 
-[Desert_Ruins_day_HD_gridded](http://webm.land/media/s0eD.webm)
+[Desert_Ruins_day_HD_gridded]
 
-[Desert_Ruins_day_HD_gridded-LN](http://webm.land/media/lozz.webm)
+[Desert_Ruins_day_HD_gridded-LN]
 
-[Desert_ruins_night-HD_gridded](http://webm.land/media/uVOc.webm)
+[Desert_ruins_night-HD_gridded]
 
-[Desert_ruins_night-HD_gridless](http://webm.land/media/HqF6.webm)
+[Desert_ruins_night-HD_gridless]
 
-[Desert_ruins_night-UHD_grid](http://webm.land/media/O8kH.webm)
+[Desert_ruins_night-UHD_grid]
 
-[Desert_ruins_night-UHD_gridless](http://webm.land/media/1k2D.webm)
+[Desert_ruins_night-UHD_gridless]
 
-[Desert_Ruins-day_HD_gridless](http://webm.land/media/NMKO.webm)
+[Desert_Ruins-day_HD_gridless]
 
-[Desert_Ruins-day_UHD_gridded](http://webm.land/media/WFss.webm)
+[Desert_Ruins-day_UHD_gridded]
 
-[Desert_Ruins-day_UHD_gridless](http://webm.land/media/41NJ.webm)
+[Desert_Ruins-day_UHD_gridless]
 
 [docks.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/docks.webm)
 
-[Drunken_Goat_Inn _4K_UHD](http://webm.land/media/vr5E.webm)
+[Drunken_Goat_Inn _4K_UHD]
 
-[Drunken_Goat_Inn_4k_UHD_GRIDLESS](http://webm.land/media/Ax4C.webm)
+[Drunken_Goat_Inn_4k_UHD_GRIDLESS]
 
-[Drunken_Goat_Inn-HD_GRIDLESS](http://webm.land/media/vK8K.webm)
+[Drunken_Goat_Inn-HD_GRIDLESS]
 
-[Drunken_Goat_Inn-HD_GRIDLESS](http://webm.land/media/J0Dg.webm)
+[Drunken_Goat_Inn-HD_GRIDLESS]
 
-[Fiery_Seamless_fullgrid](http://webm.land/media/DhCM.webm)
+[Fiery_Seamless_fullgrid]
 
-[Fiery_Seamless_gridless](http://webm.land/media/7kb5.webm)
+[Fiery_Seamless_gridless]
 
 [Fighting Pit 01 Daytime-r4fLDt6XhpM.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Fighting%20Pit%2001%20Daytime-r4fLDt6XhpM.webm)
 
 [Fighting Pit 02 Daytime-oeXdizGzCqw.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Fighting%20Pit%2002%20Daytime-oeXdizGzCqw.webm)
 
-[FLOATINGPORTAL_HD](http://webm.land/media/dHkp.webm)
+[FLOATINGPORTAL_HD]
 
 [Forest Camp Nightime-1FuqW53Lmmw.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20Camp%20Nightime-1FuqW53Lmmw.webm)
 
@@ -372,9 +371,9 @@ The following list are functional animated maps you can use. right click on the 
 
 [Forest Clearing Daytime-OJE9_Xwf6mw.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20Clearing%20Daytime-OJE9_Xwf6mw.webm)
 
-[Forest creek day GRID](http://webm.land/media/z91X.webm)
+[Forest creek day GRID]
 
-[Forest creek day GRIDLESS](http://webm.land/media/X6IP.webm)
+[Forest creek day GRIDLESS]
 
 [Forest creek night GRID.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Forest%20creek%20night%20GRID.webm)
 
@@ -445,33 +444,33 @@ The following list are functional animated maps you can use. right click on the 
 
 [forestrural path-T11PXRLAW6A.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/forestrural path-T11PXRLAW6A.webm)
 
-[FORTRESS bailey-day-gridless](http://webm.land/media/XEoH.webm)
+[FORTRESS bailey-day-gridless]
 
-[FORTRESS-bailey-day-grid](http://webm.land/media/AhdP.webm)
+[FORTRESS-bailey-day-grid]
 
-[FORTRESS-bailey-day-grid-LN](http://webm.land/media/ZSn5.webm)
+[FORTRESS-bailey-day-grid-LN]
 
-[FORTRESS-gate-day-grid](http://webm.land/media/zO2v.webm)
+[FORTRESS-gate-day-grid]
 
-[FORTRESS-gate-day-grid-best-LN](http://webm.land/media/ghkZ.webm)
+[FORTRESS-gate-day-grid-best-LN]
 
-[FORTRESS-gate-day-gridless](http://webm.land/media/RL6o.webm)
+[FORTRESS-gate-day-gridless]
 
-[galleon_decks-HD_gridded_-LN](http://webm.land/media/55gx.webm)
+[galleon_decks-HD_gridded_-LN]
 
-[Galleon_reloaded_HD_grid-LN](http://webm.land/media/AX4v.webm)
+[Galleon_reloaded_HD_grid-LN]
 
-[Galleon_reloaded_UHD_grid](http://webm.land/media/67GJ.webm)
+[Galleon_reloaded_UHD_grid]
 
-[galleon0514 full-sailsandmasts](http://webm.land/media/ALPK.webm)
+[galleon0514 full-sailsandmasts]
 
-[galleon0514-grid-nosound-LN](http://webm.land/media/NDw0.webm)
+[galleon0514-grid-nosound-LN]
 
-[galleon0514-maindeck-day-gridless](http://webm.land/media/49nx.webm)
+[galleon0514-maindeck-day-gridless]
 
-[galleon0514-maindeck-grid](http://webm.land/media/dmfH.webm)
+[galleon0514-maindeck-grid]
 
-[galleon0514night-maindeck-grid-night](http://webm.land/media/DwxD.webm)
+[galleon0514night-maindeck-grid-night]
 
 [Ghomorrah_Road.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Ghomorrah_Road.webm)
 
@@ -485,29 +484,29 @@ The following list are functional animated maps you can use. right click on the 
 
 [Grassland 02 Daytime-k5mtCrNUeL4.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Grassland%2002%20Daytime-k5mtCrNUeL4.webm)
 
-[grasslands-day-field-grid](http://webm.land/media/zV96.webm)
+[grasslands-day-field-grid]
 
-[grasslands-day-field-gridless](http://webm.land/media/NOUK.webm)
+[grasslands-day-field-gridless]
 
-[grasslands-field-night-grid](http://webm.land/media/Jv3k.webm)
+[grasslands-field-night-grid]
 
-[grasslands-field-night-gridless](http://webm.land/media/jee3.webm)
+[grasslands-field-night-gridless]
 
-[grasslands-path-night-grid](http://webm.land/media/FNIg.webm)
+[grasslands-path-night-grid]
 
-[grasslands-path-night-gridless](http://webm.land/media/3LHj.webm)
+[grasslands-path-night-gridless]
 
 [Graveyard.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Graveyard.webm)
 
-[haunted_graveyard_beneath_1_corridor](http://webm.land/media/F7Bi.webm)
+[haunted_graveyard_beneath_1_corridor]
 
-[haunted_graveyard_beneath_2_chamber](http://webm.land/media/9cBr.webm)
+[haunted_graveyard_beneath_2_chamber]
 
-[haunted_graveyard_beneath_3_subpassage](http://webm.land/media/H1pm.webm)
+[haunted_graveyard_beneath_3_subpassage]
 
-[haunted_graveyard_beneath_4_subpassage](http://webm.land/media/fpml.webm)
+[haunted_graveyard_beneath_4_subpassage]
 
-[haunted_graveyard_beneath_full](http://webm.land/media/iOXJ.webm)
+[haunted_graveyard_beneath_full]
 
 [Highway Birdseye Reverse.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Highway%20Birdseye%20Reverse.webm)
 
@@ -553,15 +552,15 @@ The following list are functional animated maps you can use. right click on the 
 
 [Maelstrom_gridded.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Maelstrom_gridded.webm)
 
-[Maelstrom_gridless](http://webm.land/media/ZqJq.webm)
+[Maelstrom_gridless]
 
 [magicalp-day-grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/magicalp-day-grid.webm)
 
 [magicalpr-day-gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/magicalpr-day-gridless.webm)
 
-[magicalpr-night-grid](http://webm.land/media/PuSH.webm)
+[magicalpr-night-grid]
 
-[magicalpr-night-gridless](http://webm.land/media/82yn.webm)
+[magicalpr-night-gridless]
 
 [Market_Square_gridded_.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Market_Square_gridded_.webm)
 
@@ -577,15 +576,15 @@ The following list are functional animated maps you can use. right click on the 
 
 [mountain-night-grdiless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/mountain-night-grdiless.webm)
 
-[mountainriuns-day-grid-updated](http://webm.land/media/8l2e.webm)
+[mountainriuns-day-grid-updated]
 
 [mountainruins_night_grid.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/mountainruins_night_grid.webm)
 
 [mountainruins_night_torch_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/mountainruins_night_torch_gridless.webm)
 
-[mountainruins-night-torch-grid-updated](http://webm.land/media/vzlU.webm)
+[mountainruins-night-torch-grid-updated]
 
-[mountainruinsgridless](http://webm.land/media/Co27.webm)
+[mountainruinsgridless]
 
 [NEW_stormy_plain_sea_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/NEW_stormy_plain_sea_gridless.webm)
 
@@ -597,11 +596,11 @@ The following list are functional animated maps you can use. right click on the 
 
 [plain_darklake_gridless.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/plain_darklake_gridless.webm)
 
-[plain_dungeon_floor](http://webm.land/media/8SvF.webm)
+[plain_dungeon_floor]
 
-[plain_sea_grid](http://webm.land/media/MH9h.webm)
+[plain_sea_grid]
 
-[plain-sea-gridless](http://webm.land/media/9JdG.webm)
+[plain-sea-gridless]
 
 [plaindungeonfloorHD40_blue.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/plaindungeonfloorHD40_blue.webm)
 
@@ -659,9 +658,9 @@ The following list are functional animated maps you can use. right click on the 
 
 [Red rocks Conifer, Desert and Underdark versions (youtubemp4.to).webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Red%20rocks%20Conifer,%20Desert%20and%20Underdark%20versions%20(youtubemp4.to).webm)
 
-[Red_rocks_encounter_night_grid](http://webm.land/media/TCF2.webm)
+[Red_rocks_encounter_night_grid]
 
-[Red_rocks_encounter_night_gridless](http://webm.land/media/TyMr.webm)
+[Red_rocks_encounter_night_gridless]
 
 [River Bridge.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/River%20Bridge.webm)
 
@@ -673,7 +672,7 @@ The following list are functional animated maps you can use. right click on the 
 
 [Rubble.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rubble.webm)
 
-[runic_circle](http://webm.land/media/Pb8i.webm)
+[runic_circle]
 
 [Rural 01 Fields Daytime-h5d0G5PT8l0.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Rural%2001%20Fields%20Daytime-h5d0G5PT8l0.webm)
 
@@ -721,23 +720,23 @@ The following list are functional animated maps you can use. right click on the 
 
 [The_Roaring_Pony_full.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_full.webm)
 
-[The_Roaring_Pony_full4K_UHD_full_grid](http://webm.land/media/nUXh.webm)
+[The_Roaring_Pony_full4K_UHD_full_grid]
 
-[The_Roaring_Pony_Main_Hall4K_UHD_GRIDLESS](http://webm.land/media/Ax4C.webm)
+[The_Roaring_Pony_Main_Hall4K_UHD_GRIDLESS]
 
 [The_Roaring_Pony_Main_HallHD_GRIDD.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_Main_HallHD_GRIDD.webm)
 
 [The_Roaring_Pony_Main_HallHD_GRIDLESS.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/The_Roaring_Pony_Main_HallHD_GRIDLESS.webm)
 
-[Tropical_pool_night-HD_gridded](http://webm.land/media/DUGo.webm)
+[Tropical_pool_night-HD_gridded]
 
-[Tropical_pool_night-HD_gridless](http://webm.land/media/eknf.webm)
+[Tropical_pool_night-HD_gridless]
 
-[tropical_waterfall_night-HD_gridded](http://webm.land/media/1AEV.webm)
+[tropical_waterfall_night-HD_gridded]
 
-[tropical_waterfall_night-HD_gridless](http://webm.land/media/4Uwb.webm)
+[tropical_waterfall_night-HD_gridless]
 
-[tropical_waterfall-fed-pool_HD_day_grid_nosound](http://webm.land/media/YyMb.webm)
+[tropical_waterfall-fed-pool_HD_day_grid_nosound]
 
 [Underdark fissures alternate version brighter GRID.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark%20fissures%20alternate%20version%20brighter%20GRID.webm)
 
@@ -757,9 +756,9 @@ The following list are functional animated maps you can use. right click on the 
 
 [Underdark_fissures_grid_LN.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Underdark_fissures_grid_LN.webm)
 
-[UNDERDARK-rocks-Grid](http://webm.land/media/HWOE.webm)
+[UNDERDARK-rocks-Grid]
 
-[UNDERDARK-rocks-Gridless](http://webm.land/media/ymzR.webm)
+[UNDERDARK-rocks-Gridless]
 
 [Village 01 Gate Nightime-c8fQ-G9IrzQ.webm](https://raw.githubusercontent.com/DMsGuild201/Roll20_resources/master/ExternalArt/Animated/Village%2001%20Gate%20Nightime-c8fQ-G9IrzQ.webm)
 
