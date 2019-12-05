@@ -1,0 +1,231 @@
+{
+    "schema_version": 1,
+    "playlists": [
+        {
+            "name": "TOA",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Death God's Nursery - D&D Ambience",
+                    "track_id": "https://doc-0c-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/14hfb7bkb1puilj0nv0i82v6eivhm0pv/1574870400000/04458750580224405716/05346565080247409027/1KiB1Mel3tujCM0EIONDIymab19kO2cID?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Camp Vengeance - D&D Ambience",
+                    "track_id": "https://doc-0o-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/ivsuc2rosoopicu7p7q7b2fb4b9ecp42/1574870400000/04458750580224405716/05346565080247409027/1-qV4ViDnnQpGk2RK4qUabpxYX7u6fdZF?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Ataaz Muhahah - D&D Ambience",
+                    "track_id": "https://doc-0c-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/ooc7em865fmf9o9rn8n3s1ci5dakvgre/1574870400000/04458750580224405716/05346565080247409027/1W4iwYtFv3xt-u-Wco5dBHP5LqpCe8ZvO?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Fort Beluarian - D&D Ambience",
+                    "track_id": "https://doc-00-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/e274q5vohc1uqtjcr7vn8847bbngg1sb/1574870400000/04458750580224405716/05346565080247409027/1lR-TMtpOPnm36Lz8AnuJFCo14iIHN8m7?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Wyrmheart Mine - D&D Ambience",
+                    "track_id": "https://doc-08-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/cg1qjcsdhn2baaj5pv65501arh6q308u/1574870400000/04458750580224405716/05346565080247409027/10dX6d1xYeBTkq55Ftcc1NYFavZwms3sj?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Tomb of the Nine Gods - D&D Ambience",
+                    "track_id": "https://doc-04-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/j1eqn79k00kb004fnkh1l8com1nc4k61/1574870400000/04458750580224405716/05346565080247409027/1wrcAoggcVV4UY9Pg3O57UCDIrckwg_XB?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - The Great Rift - D&D Ambience",
+                    "track_id": "https://doc-0s-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/1fmbgu0ju8j8cqkal2nhlqio02i9tj8d/1574870400000/04458750580224405716/05346565080247409027/1FsKwtymahY8MBzgAymdmDVVAyeNq1jKM?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Port Nyanzaru - D&D Ambience",
+                    "track_id": "https://doc-0s-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/dd4g4njjivrl1hr6loakna5bas3sag10/1574870400000/04458750580224405716/05346565080247409027/1uEiflZTmRD5lgsNVY0NPzt_IQGzXo4sf?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Nangalore - D&D Ambience",
+                    "track_id": "https://doc-00-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/9fq3flcbtf5d0lrbrkdq2h875csdm0sk/1574870400000/04458750580224405716/05346565080247409027/1_MEKOnl1dVKePmcpkYk43DE7vPDmFeYj?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Merchant Prince's Villa - D&D Ambience",
+                    "track_id": "https://doc-0o-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/i8op6gk13gmpnjvmb0ekf2lmluef4eao/1574870400000/04458750580224405716/05346565080247409027/1Y3lzA4T_f2nSrBxL8NhSMVEpHE8k_Bja?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Mbala - D&D Ambience",
+                    "track_id": "https://doc-00-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/02g1qt1iggrp888d4up76sh9r872vn1j/1574870400000/04458750580224405716/05346565080247409027/1OjIF66qFdPfRlmdizuYqqV_7JK7zNbPE?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Lost City of Omu - D&D Ambience",
+                    "track_id": "https://doc-0g-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/nj8ncdboitpul9dfg5ofqn5r72l7oslq/1574870400000/04458750580224405716/05346565080247409027/1GqPY8gOYYDh8z2wMd8ipwfDLNgoCGRhp?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Kir Sabal - D&D Ambience",
+                    "track_id": "https://doc-14-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/gi17kal102pvtf00kol55dplmrdh3ikh/1574870400000/04458750580224405716/05346565080247409027/1mCtPj6eM5k5Q9dkmlnUCezgzzL2I4a45?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Jungles of Chult - D&D Ambience",
+                    "track_id": "https://doc-0k-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/1o4goeogbjd119ugl9is80t04oi0k6pu/1574870400000/04458750580224405716/05346565080247409027/1-r6LH63qhereepBzwIoUDn4QG8YmU1c0?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Jahaka Anchorage - D&D Ambience",
+                    "track_id": "https://doc-04-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/6660njc9k1gqb8mra2ua3ilnrrpi8su4/1574870400000/04458750580224405716/05346565080247409027/1D_wX1JkjHl1Kg6MvyYtRMYL5ADxk_9w3?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Hrakhamar - D&D Ambience",
+                    "track_id": "https://doc-04-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/n2gh2j0bbdedjpn39p68g2gsrvfnheg0/1574870400000/04458750580224405716/05346565080247409027/13CXYQPzRKVUhaRoFFrjydn7Da2VOYVzE?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Gears of Hate - D&D Ambience",
+                    "track_id": "https://doc-0k-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/lp6bp0745eagkfpr0llocalf1k0f5k2s/1574863200000/04458750580224405716/05346565080247409027/1JjBoQXxFdNDAmi6h3EaZrSp75-Q2Qw8S?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Fane Of The Night Serpent - D&D Ambience",
+                    "track_id": "https://doc-08-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/laa54sijb1dpl0p2895bgm9sevqb91d1/1574863200000/04458750580224405716/05346565080247409027/1f53k4JRLRHuIhKC4wYFh_GaQydYqovNS?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "[ToA] - Dungrunglung - D&D Ambience",
+                    "track_id": "https://doc-04-bc-docs.googleusercontent.com/docs/securesc/h6jbmn0shb7o82f89jrhsicbibvtprgo/qb50oabmv18afj78p1ulec19kqfc3ok9/1574863200000/04458750580224405716/05346565080247409027/1ztYwH06_yQVkK6kxO2YBJczx78A6hM-3?e=download&authuser=0",
+                    "volume": 100,
+                    "libreaudio": true
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "My Audio",
+                    "tags": "",
+                    "title": "D&D Ambience - [ToA] - Aldani Basin",
+                    "track_id": "https://doc-14-04-docs.googleusercontent.com/docs/securesc/2pi8jp8k0d5rglif9m71nb20u04slmoa/8m0400csj0oln8fjuq89mc55cufbdoe7/1574863200000/04458750580224405716/15929126379717765730/1unE6eyroi7JRuHVygFB-er1q91-QBrJm?e=download&authuser=0&nonce=j8aak2nvkvpge&user=15929126379717765730&hash=av180sr2oqaff78ddf0fbe5c18jjoeti",
+                    "volume": 100,
+                    "libreaudio": true
+                }
+            ]
+        }
+    ]
+}
