@@ -2,12 +2,12 @@
     "schema_version": 2,
     "oldId": "-LwjiW1vC9kW02hQ1uZ5",
     "name": "BARBARIAN01_Male_Orc",
-    "avatar": "https://s3.amazonaws.com/files.d20.io/images/99938792/-kfTh5eRb4lCMdJvB3balA/max.png?1577052612",
+    "avatar": "https://i.imgur.com/gmh5t0i.png",
     "bio": "%3Cp%3E%3Cb%3E%3Ca%20href%3D%22https%3A//www.dandwiki.com/wiki/Barbarian_%285e_Creature%29%22%3EBarbarian%3C/a%3E%3Cbr%3E%3C/b%3E%3C/p%3E%3Cp%3E%3Cb%3EDesign%20Note%3A%3C/b%3E%20If%20you%20are%20using%20the%20%3Ca%20href%3D%22https%3A//www.dandwiki.com/wiki/Damage_Reduction_%285e_Variant_Rule%29%22%20title%3D%22Damage%20Reduction%20%285e%20Variant%20Rule%29%22%3Edamage%20reduction%3C/a%3E%20variant%20rule%2C%20the%20barbarian%20instead%20has%20an%20AC%20of%2011%2C%20and%20a%20damage%20reduction%20value%20of%201.%0A%3C/p%3E%0A%0A%3Cp%3EAlso%20known%20as%20brigands%2C%20barbarians%20are%20men%20who%20rely%20on%20pure%20strength%20%0Aand%20savagery%20in%20combat.%20Barbarians%20tend%20to%20make%20their%20homes%20in%20%0Amountainous%20regions%20that%20organized%20armies%20have%20difficulty%20invading.%20%0ABarbarians%20commonly%20make%20up%20thief%20groups%2C%20but%20it%20is%20common%20for%20them%20to%20%0Ahire%20themselves%20to%20others%20for%20money.%0A%3C/p%3E",
     "gmnotes": "",
-    "defaulttoken": "{\"left\":875,\"top\":525,\"width\":70,\"height\":70,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/99938792/-kfTh5eRb4lCMdJvB3balA/max.png?1577052612\",\"page_id\":\"-LwPsVbTGOQEh8ukJfvd\",\"layer\":\"objects\",\"name\":\"BARBARIAN01_Male_Orc\",\"represents\":\"-LwjiW1vC9kW02hQ1uZ5\",\"bar1_value\":26,\"bar1_max\":26,\"bar1_link\":\"-LwjiW492VOfrjdYR_B5\",\"bar2_value\":12,\"bar2_link\":\"-LwjiW47TmvKYRdQ4lNf\",\"bar3_value\":0,\"bar3_link\":\"-LwjiW56-oMzkgjtfTC-\",\"showname\":true,\"light_radius\":\"60\",\"light_dimradius\":\"20\",\"light_hassight\":true,\"adv_fow_view_distance\":\"60\",\"lastmove\":\"1155,805\"}",
-    "tags": "[\"Barbarian\",\"Male\",\"Orc\"]",
-    "controlledby": "-Lqz8-wQIHFyGdecC7WO",
+    "defaulttoken": "{\"left\":823,\"top\":1271,\"width\":70,\"height\":70,\"imgsrc\":\"https://i.imgur.com/gmh5t0i.png\",\"page_id\":\"-LwPsVbTGOQEh8ukJfvd\",\"layer\":\"objects\",\"name\":\"BARBARIAN01_Male_Orc\",\"represents\":\"-LwjiW1vC9kW02hQ1uZ5\",\"bar1_value\":26,\"bar1_max\":26,\"bar1_link\":\"-LwjiW492VOfrjdYR_B5\",\"bar2_value\":12,\"bar2_max\":12,\"bar2_link\":\"-LwjiW47TmvKYRdQ4lNf\",\"bar3_value\":\"10\",\"bar3_max\":\"10\",\"showname\":true,\"light_radius\":\"60\",\"light_dimradius\":\"20\",\"light_hassight\":true,\"adv_fow_view_distance\":\"60\"}",
+    "tags": "[\"Barbarian\",\"Male\",\"Orc\",\"Humano\"]",
+    "controlledby": "",
     "inplayerjournals": "",
     "attribs": [
         {
@@ -24,7 +24,7 @@
         },
         {
             "name": "wtype",
-            "current": "/w gm ",
+            "current": "@{whispertoggle}",
             "max": "",
             "id": "-LwjiW3fLlOQ2gnwpgk6"
         },
@@ -126,13 +126,13 @@
         },
         {
             "name": "npc_options-flag",
-            "current": "on",
+            "current": "0",
             "max": "",
             "id": "-LwjiW3sy568GM1MVNTW"
         },
         {
             "name": "npc_name",
-            "current": "Barbarian",
+            "current": "Barbarian Orc",
             "max": "",
             "id": "-LwjiW3t4ev8_eY6m0Lg"
         },
@@ -235,7 +235,7 @@
         {
             "name": "npc_ac",
             "current": "12",
-            "max": "",
+            "max": "12",
             "id": "-LwjiW47TmvKYRdQ4lNf"
         },
         {
@@ -1401,6 +1401,42 @@
             "current": "Strength of your orc character is increased by 2",
             "max": "",
             "id": "-LwljjBEWnYNm9R_Hss7"
+        },
+        {
+            "name": "rtype",
+            "current": "@{advantagetoggle}",
+            "max": "",
+            "id": "-M-ZsCJfe0g3F3G0AF88"
+        },
+        {
+            "name": "whispertoggle",
+            "current": "/w gm ",
+            "max": "",
+            "id": "-M-ZsDnt_io-Weuvnoqj"
+        },
+        {
+            "name": "advantagetoggle",
+            "current": "{{query=1}} {{advantage=1}} {{r2=[[@{d20}",
+            "max": "",
+            "id": "-M-ZsDxda7ZDAED8-i9o"
+        },
+        {
+            "name": "repeating_npctrait_-Lwjgkd1kTHLSCqjf8ss_npc_options-flag",
+            "current": "0",
+            "max": "",
+            "id": "-M-ZsvGnTqK5kZp5tlIf"
+        },
+        {
+            "name": "repeating_npctrait_-Lwlj515v2iyIpTMbKZH_npc_options-flag",
+            "current": "0",
+            "max": "",
+            "id": "-M-ZsvvfUrvqcL7eY0Yd"
+        },
+        {
+            "name": "repeating_npctrait_-LwljZjrvBVKz-C5RfD6_npc_options-flag",
+            "current": "0",
+            "max": "",
+            "id": "-M-ZswQY4v3AsgwakzYv"
         }
     ],
     "abilities": []
