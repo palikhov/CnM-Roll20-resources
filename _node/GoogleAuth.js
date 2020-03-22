@@ -80,6 +80,19 @@ function getSheets () {
 	});
 }
 
+async function pGetSheetValues (sheets, spreadsheetId, range) {
+	return new Promise((resolve, reject) => {
+		sheets.spreadsheets.values.get({
+			spreadsheetId,
+			range,
+		}, (err, res) => {
+			if (err) reject(err);
+			resolve(res);
+		});
+	});
+}
+
 module.exports = {
-	getSheets
+	getSheets,
+	pGetSheetValues
 };

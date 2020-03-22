@@ -2,7 +2,7 @@ const fs = require("fs");
 const crypto = require("crypto");
 const sharp = require("sharp");
 const rp = require("request-promise-native");
-const login = require("./GoogleAuth");
+const google = require("./GoogleAuth");
 const rq = require("./RequestQueue");
 const kg = require("./Kludge");
 
@@ -121,80 +121,74 @@ class ArtGrab {
 		this.accumulatedRows = null;
 	}
 
-	run () {
+	async pMain () {
+		const targetSheets = kg.readJson(`./_node/target-sheets.json`);
+
 		console.log(`${kg.logPad("SHEETS")}Authenticating...`);
-		let sheets;
-		login
-			.getSheets()
-			.then(_sheets => new Promise((resolve, reject) => {
-				sheets = _sheets;
-				// get headers
-				_sheets.spreadsheets.values.get({
-					spreadsheetId: '14NJeO5HJhUwVkBVzN3Mg7-W7adJ9FE9C9f_oT93n4M8',
-					range: 'Images Vault!A1:T1',
-				}, (err, res) => {
-					if (err) reject(err);
-					console.log(`${kg.logPad("SHEETS")}Retrieved headers...`);
-					resolve(res);
-				})
-			}))
-			.then(res => {
-				const rows = res.data.values;
-				if (rows.length) {
-					rows[0].map(it => (it || "").trim()).forEach((h, i) => {
-						const target = Object.entries(this.schema).find(([k, v]) => k === h);
-						if (target) target[1].rowIndex = i;
-					});
+		const sheets = await google.getSheets();
 
-					const notFound = Object.entries(this.schema).filter(([k, v]) => v.rowIndex == null && !v.ignore);
-					if (notFound.length) throw new Error(`Schema mismatch; the following headers were not found in the spreadsheet: ${notFound.map(nf => `"${nf[0]}"`).join("; ")}\nNote that headers are CaSe-SeNsItIvE!`);
+		// region headers
+		const allHeaders = await Promise.all(targetSheets.map(it => google.pGetSheetValues(sheets, it.docsId, `${it.sheetName}!A1:T1`)));
+		console.log(`${kg.logPad("SHEETS")}Retrieved headers...`);
 
-					this._generateSchemaByIndexCache();
-				} else throw new Error(`No data found!`);
-			})
-			.then(() => new Promise((resolve, reject) => {
-				// get values
-				sheets.spreadsheets.values.get({
-					spreadsheetId: '14NJeO5HJhUwVkBVzN3Mg7-W7adJ9FE9C9f_oT93n4M8',
-					range: 'Images Vault!A2:T',
-				}, (err, res) => {
-					if (err) reject(err);
-					console.log(`${kg.logPad("SHEETS")}Retrieved rows...`);
-					resolve(res);
-				})
-			}))
-			.then(res => {
-				// track all current files, so we can later delete those which should not exist
-				fs.readdirSync("ExternalArt/dist").forEach(file => this.filesToRemove[file] = true);
+		// Ensure all header values are the same
+		const headerSet = new Set();
+		allHeaders
+			.map(it => (it.data.values || [[]])[0].map(it => (it || "").trim()).join(", "))
+			.forEach(it => headerSet.add(it));
+		if (headerSet.size > 1) throw new Error(`Multiple header sets found! All sheets must have the same exact headers (case sensitive).\nHeader sets were:\n${[...allHeaders].map(it => `\t${it}`).join("\n")}`);
 
-				const rows = res.data.values;
-				rows.map(r => this._parseRow(r)).filter(it => it).sort(ArtGrab._sortRows).forEach(r => {
-					if (this.lastArtist == null && this.lastSet == null) {
-						this.accumulatedRows = [r];
-						this.lastArtist = r.artist;
-						this.lastSet = r.set;
-					} else {
-						this._doAccumulateAndOutput(r);
-					}
-				});
-				this._doAccumulateAndOutput({artist: "", set: "", _isLastRow: true}); // pass an empty row to trigger output
+		const headerRows = allHeaders[0].data.values;
+		if (headerRows.length) {
+			headerRows[0].map(it => (it || "").trim()).forEach((h, i) => {
+				const target = Object.entries(this.schema).find(([k, v]) => k === h);
+				if (target) target[1].rowIndex = i;
+			});
 
-				// output enum metadata
-				Object.values(this.enums).forEach(enumList => enumList.sort((a, b) => kg.ascSortLower(a.v, b.v)));
-				this._saveMetaFile("enums", this.enums);
+			const notFound = Object.entries(this.schema).filter(([k, v]) => v.rowIndex == null && !v.ignore);
+			if (notFound.length) throw new Error(`Schema mismatch; the following headers were not found in the spreadsheet: ${notFound.map(nf => `"${nf[0]}"`).join("; ")}\nNote that headers are CaSe-SeNsItIvE!`);
 
-				// output index metadata
-				Object.values(this.index).forEach(fileIndex => Object.keys(fileIndex).filter(k => !k.startsWith("_")).forEach(k => fileIndex[k].sort(kg.ascSortLower)));
-				this._saveMetaFile(`index`, this.index);
+			this._generateSchemaByIndexCache();
+		} else throw new Error(`No headers found!`);
+		// endregion
 
-				console.log(`${kg.logPad("PROCESS")}Sheet processing complete. Output ${this.fileCount} data files.${this.requestQueue.length ? ` Thumbnail creation is active, with ${this.requestQueue.length.toLocaleString()} requests queued.` : ""}`);
+		// region bodies
+		for (const targetSheet of targetSheets) {
+			const resBody = await google.pGetSheetValues(sheets, targetSheet.docsId, `${targetSheet.sheetName}!A2:T`);
+			console.log(`${kg.logPad("SHEETS")}Retrieved rows for ${targetSheet.docsId} -> ${targetSheet.sheetName}...`);
 
-				if (!this.dryRun) {
-					console.log(`${kg.logPad("PROCESS")}Cleaning output directory...`);
-					Object.keys(this.filesToRemove).forEach(f => fs.unlinkSync(`./ExternalArt/dist/${f}`));
-					console.log(`${kg.logPad("PROCESS")}${Object.keys(this.filesToRemove).length} files deleted.`);
+			// track all current files, so we can later delete those which should not exist
+			fs.readdirSync("ExternalArt/dist").forEach(file => this.filesToRemove[file] = true);
+
+			const rowsBody = resBody.data.values;
+			rowsBody.map(r => this._parseRow(r)).filter(it => it).sort(ArtGrab._sortRows).forEach(r => {
+				if (this.lastArtist == null && this.lastSet == null) {
+					this.accumulatedRows = [r];
+					this.lastArtist = r.artist;
+					this.lastSet = r.set;
+				} else {
+					this._doAccumulateAndOutput(r);
 				}
 			});
+		}
+		this._doAccumulateAndOutput({artist: "", set: "", _isLastRow: true}); // pass an empty row to trigger output
+
+		// output enum metadata
+		Object.values(this.enums).forEach(enumList => enumList.sort((a, b) => kg.ascSortLower(a.v, b.v)));
+		this._saveMetaFile("enums", this.enums);
+
+		// output index metadata
+		Object.values(this.index).forEach(fileIndex => Object.keys(fileIndex).filter(k => !k.startsWith("_")).forEach(k => fileIndex[k].sort(kg.ascSortLower)));
+		this._saveMetaFile(`index`, this.index);
+
+		console.log(`${kg.logPad("PROCESS")}Sheet processing complete. Output ${this.fileCount} data files.${this.requestQueue.length ? ` Thumbnail creation is active, with ${this.requestQueue.length.toLocaleString()} requests queued.` : ""}`);
+
+		if (!this.dryRun) {
+			console.log(`${kg.logPad("PROCESS")}Cleaning output directory...`);
+			Object.keys(this.filesToRemove).forEach(f => fs.unlinkSync(`./ExternalArt/dist/${f}`));
+			console.log(`${kg.logPad("PROCESS")}${Object.keys(this.filesToRemove).length} files deleted.`);
+		}
+		// endregion
 	}
 
 	_doAccumulateAndOutput (row) {
@@ -241,10 +235,8 @@ class ArtGrab {
 
 		let img;
 		try {
-			img = sharp(imageData)
-				.limitInputPixels(false)
-				.background(ArtGrab.WHITE)
-				.flatten(ArtGrab.WHITE)
+			img = sharp(imageData, {limitInputPixels: false})
+				.flatten({background: ArtGrab.WHITE}) // remove alpha channel
 				.resize(180, 180, {fit: "contain", background: ArtGrab.WHITE})
 				.jpeg();
 		} catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to create thumbnail image for "${uri}": `, e.message); }
@@ -405,4 +397,4 @@ const grabber = new ArtGrab({
 	timeout: args.timeout,
 	retry: args.retry
 });
-grabber.run();
+grabber.pMain().catch(e => { console.error(e.stack); });
