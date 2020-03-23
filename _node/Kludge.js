@@ -37,9 +37,19 @@ function logPad (pre) {
 	return `[${pre}] `.padEnd(18);
 }
 
+function readJson (path) {
+	try {
+		return JSON.parse(fs.readFileSync(path, "utf8"));
+	} catch (e) {
+		e.message += ` (Path: ${path})`;
+		throw e;
+	}
+}
+
 module.exports = {
 	copy,
 	ascSortLower,
 	rmDir,
-	logPad
+	logPad,
+	readJson
 };
