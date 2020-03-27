@@ -16,7 +16,8 @@ File structure <Gamesystem_Structure>
 ### Game Systems
 * 5e (5th Edition D&D)
 * PF (Pathfinder 1st edition)
-* etc.
+* not labled will likely be system independent (ie platform agnostic)
+
 
 ...Otherwise the files will be the name of the game
 
