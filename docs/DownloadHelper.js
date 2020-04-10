@@ -1,8 +1,6 @@
 class DownloadHelper {
-	static queue = [];
-
 	static async _doNextDownload () {
-		const item = DownloadHelper.queue[0];
+		const item = DownloadHelper._queue[0];
 
 		function doDisplayDownloadBar ($content, isError, cbCancel) {
 			const $bar = $(`#dl_bar`).css({display: "flex"}).removeClass("alert-danger").removeClass("alert-info").empty();
@@ -34,8 +32,8 @@ class DownloadHelper {
 		}
 
 		function doUpdateQueueAndTriggerNext () {
-			DownloadHelper.queue.shift();
-			if (DownloadHelper.queue.length) DownloadHelper._doNextDownload();
+			DownloadHelper._queue.shift();
+			if (DownloadHelper._queue.length) DownloadHelper._doNextDownload();
 		}
 
 		function pAjaxLoad (url) {
@@ -73,8 +71,8 @@ class DownloadHelper {
 				downloadTasks.forEach(p => {
 					try { p.abort(); } catch (ignored) {}
 				});
-				DownloadHelper.queue.shift();
-				if (DownloadHelper.queue.length) DownloadHelper._doNextDownload();
+				DownloadHelper._queue.shift();
+				if (DownloadHelper._queue.length) DownloadHelper._doNextDownload();
 			});
 
 		try {
@@ -140,13 +138,13 @@ class DownloadHelper {
 	}
 
 	static async downloadZip (...items) {
-		if (items.length === 1) DownloadHelper.queue.push(items[0]);
+		if (items.length === 1) DownloadHelper._queue.push(items[0]);
 		else {
 			const fakeItem = {data: items.map(it => it.data).flat()};
-			DownloadHelper.queue.push(fakeItem);
+			DownloadHelper._queue.push(fakeItem);
 		}
 
-		if (DownloadHelper.queue.length === 1) await DownloadHelper._doNextDownload();
+		if (DownloadHelper._queue.length === 1) await DownloadHelper._doNextDownload();
 	}
 
 	static async downloadUrls (...items) {
@@ -179,8 +177,7 @@ class DownloadHelper {
 		return str.trim().replace(/[^\w\-]/g, "_");
 	}
 }
-
-DownloadHelper.queue = [];
+DownloadHelper._queue = [];
 
 // based on:
 /*! @source http://purl.eligrey.com/github/FileSaver.js/blob/master/src/FileSaver.js */
