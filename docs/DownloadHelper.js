@@ -1,163 +1,189 @@
 class DownloadHelper {
-	static async _doNextDownload () {
-		const item = DownloadHelper._queue[0];
+	constructor ($parent) {
+		this._$parent = $parent;
+		this._queue = [];
+		this._$wrpDlBar = null;
+	}
 
-		function doDisplayDownloadBar ($content, isError, cbCancel) {
-			const $bar = $(`#dl_bar`).css({display: "flex"}).removeClass("alert-danger").removeClass("alert-info").empty();
-			const $wrpContent = $(`<div class="artr__dl_bar-wrp-content"></div>`).append($content).appendTo($bar);
-			const $wrpBtn = $(`<div class="artr__dl_bar-wrp-control"></div>`).appendTo($bar);
+	_doDisplayProgressBar ($content, cbCancel) {
+		if (this._$wrpDlBar) this._$wrpDlBar.remove();
 
-			const $btnCancelClose = $(`<button class="btn artr__dl_bar-btn-close"><span class="fas fa-times"/></button>`)
-				.click(() => {
-					$bar.hide();
-					cbCancel();
-				})
-				.appendTo($wrpBtn);
+		const $wrpContent = $$`<div class="artr__dl_bar-wrp-content">${$content}</div>`;
 
-			if (isError) {
-				$bar.addClass("alert-danger");
-			} else {
-				$bar.addClass("alert-info");
-			}
-
-			return $wrpContent;
-		}
-
-		function doUpdateStatus (str, isError = false, isComplete = false) {
-			if (isError) $wrpContent.parent().removeClass("alert-info").addClass("alert-danger");
-			$wrpContent.html(str);
-			if (isComplete) {
-				doUpdateQueueAndTriggerNext();
-			}
-		}
-
-		function doUpdateQueueAndTriggerNext () {
-			DownloadHelper._queue.shift();
-			if (DownloadHelper._queue.length) DownloadHelper._doNextDownload();
-		}
-
-		function pAjaxLoad (url) {
-			const oReq = new XMLHttpRequest();
-			const p = new Promise((resolve, reject) => {
-				// FIXME cors-anywhere has a usage limit, which is pretty easy to hit when downloading many files
-				oReq.open("GET", `https://cors-anywhere.herokuapp.com/${url}`, true);
-				oReq.responseType = "arraybuffer";
-				let lastContentType = null;
-				oReq.onreadystatechange = () => {
-					const h = oReq.getResponseHeader("content-type");
-					if (h) {
-						lastContentType = h;
-					}
-				};
-				oReq.onload = function () {
-					const arrayBuffer = oReq.response;
-					resolve({buff: arrayBuffer, contentType: lastContentType});
-				};
-				oReq.onerror = (e) => reject(new Error(`Error during request: ${e}`));
-				oReq.send();
+		const $btnCancelClose = $(`<button class="artr__dl_bar-btn-close px-2"><span class="fas fa-times"/></button>`)
+			.click(() => {
+				this._$wrpDlBar.remove();
+				cbCancel();
 			});
-			p.abort = () => oReq.abort();
-			return p;
-		}
+
+		this._$wrpDlBar = $$`<div class="artr__dl_bar flex">
+			${$wrpContent}
+			<div class="artr__dl_bar-wrp-control">
+				${$btnCancelClose}
+			</div>
+		</div>`
+			.appendTo(this._$parent);
+
+		return $wrpContent;
+	}
+
+	/**
+	 * @param $wrpBarContent
+	 * @param str
+	 * @param [opts]
+	 * @param [opts.isError]
+	 * @param [opts.isComplete]
+	 */
+	async _pDoUpdateProgressBar ($wrpBarContent, str, opts) {
+		opts = opts || {};
+		if (opts.isError) $wrpBarContent.parent().addClass("artr__dl_bar--error");
+		$wrpBarContent.html(str);
+		if (opts.isComplete) return this._pDoUpdateQueueAndTriggerNext();
+	}
+
+	_doAjaxGet (url) {
+		const xhr = new XMLHttpRequest();
+		const p = new Promise((resolve, reject) => {
+			// FIXME cors-anywhere has a usage limit, which is pretty easy to hit when downloading many files
+			xhr.open("GET", `https://cors-anywhere.herokuapp.com/${url}`, true);
+			xhr.responseType = "arraybuffer";
+
+			let lastContentType = null;
+
+			xhr.onreadystatechange = () => {
+				const contentType = xhr.getResponseHeader("content-type");
+				if (contentType) lastContentType = contentType;
+			};
+
+			xhr.onload = function () {
+				const arrayBuffer = xhr.response;
+				resolve({buff: arrayBuffer, contentType: lastContentType});
+			};
+
+			xhr.onerror = (e) => reject(new Error(`Error during request: ${e}`));
+
+			xhr.send();
+		});
+
+		p.abort = () => xhr.abort();
+
+		return p;
+	}
+
+	async _pDoUpdateQueueAndTriggerNext () {
+		this._queue.shift();
+		if (this._queue.length) return this._pDoNextDownload();
+	}
+
+	async _pDoNextDownload () {
+		const item = this._queue[0];
 
 		let isCancelled = false;
 		let downloadTasks = [];
 
-		const $wrpContent = doDisplayDownloadBar(
+		const $wrpProgressBar = this._doDisplayProgressBar(
 			`Download starting...`,
-			false,
 			() => {
 				isCancelled = true;
 				downloadTasks.forEach(p => {
-					try { p.abort(); } catch (ignored) {}
+					try { p.abort(); } catch (ignored) { /* Do nothing */ }
 				});
-				DownloadHelper._queue.shift();
-				if (DownloadHelper._queue.length) DownloadHelper._doNextDownload();
+				this._queue.shift();
+				if (this._queue.length) this._pDoNextDownload();
 			});
 
+		if (isCancelled) return;
+
 		try {
+			const toSave = [];
+			let downloaded = 0;
+			let errorCount = 0;
+
+			const getWrappedPromise = dataItem => {
+				const pAjax = this._doAjaxGet(dataItem.uri);
+
+				const p = (async () => {
+					try {
+						const data = await pAjax;
+						toSave.push(data);
+					} catch (e) {
+						setTimeout(() => { throw e; });
+						++errorCount;
+					}
+					++downloaded;
+					this._pDoUpdateProgressBar(
+						$wrpProgressBar,
+						`Downloading ${downloaded}/${item.data.length}... (${Math.floor(100 * downloaded / item.data.length)}%)${errorCount ? ` (${errorCount} error${errorCount === 1 ? "" : "s"})` : ""}`
+					);
+				})();
+
+				p.abort = () => pAjax.abort();
+
+				return p;
+			};
+
+			downloadTasks = item.data.map(dataItem => getWrappedPromise(dataItem));
+			await Promise.all(downloadTasks);
+
 			if (isCancelled) return;
 
-			try {
-				const toSave = [];
-				let downloaded = 0;
-				let errorCount = 0;
+			this._pDoUpdateProgressBar($wrpProgressBar, `Building ZIP...`);
 
-				const getWrappedPromise = dataItem => {
-					const pAjax = pAjaxLoad(dataItem.uri);
-					const p = new Promise(async resolve => {
-						try {
-							const data = await pAjax;
-							toSave.push(data);
-						} catch (e) {
-							console.error(`Error downloading "${dataItem.uri}":`, e);
-							++errorCount;
-						}
-						++downloaded;
-						doUpdateStatus(`Downloading ${downloaded}/${item.data.length}... (${Math.floor(100 * downloaded / item.data.length)}%)${errorCount ? ` (${errorCount} error${errorCount === 1 ? "" : "s"})` : ""}`);
-						resolve();
-					});
-					p.abort = () => pAjax.abort();
-					return p;
-				};
+			const zip = new JSZip();
+			toSave.forEach((data, i) => {
+				const extension = (data.contentType || "unknown").split("/").last();
+				zip.file(`${`${i}`.padStart(3, "0")}.${extension}`, data.buff, {binary: true});
+			});
 
-				downloadTasks = item.data.map(dataItem => getWrappedPromise(dataItem));
-				await Promise.all(downloadTasks);
+			if (isCancelled) return;
 
-				if (isCancelled) return;
+			zip.generateAsync({type: "blob"})
+				.then((content) => {
+					if (isCancelled) return;
 
-				doUpdateStatus(`Building ZIP...`);
-
-				const zip = new JSZip();
-				toSave.forEach((data, i) => {
-					const extension = (data.contentType || "unknown").split("/").last();
-					zip.file(`${`${i}`.padStart(3, "0")}.${extension}`, data.buff, {binary: true});
+					this._pDoUpdateProgressBar($wrpProgressBar, `Downloading ZIP...`);
+					const filename = item.set && item.artist
+						? `${item.set}__${item.artist}`
+						: "bulk-images";
+					DownloadHelper.saveAs(content, DownloadHelper._sanitizeFilename(filename));
+					this._pDoUpdateProgressBar(
+						$wrpProgressBar,
+						`Download complete.`,
+						{isComplete: true}
+					);
 				});
-
-				if (isCancelled) return;
-
-				zip.generateAsync({type: "blob"})
-					.then((content) => {
-						if (isCancelled) return;
-
-						doUpdateStatus(`Downloading ZIP...`);
-						const filename = item.set && item.artist
-							? `${item.set}__${item.artist}`
-							: "bulk-images";
-						DownloadHelper.saveAs(content, DownloadHelper.sanitizeFilename(filename));
-						doUpdateStatus(`Download complete.`, false, true);
-					});
-			} catch (e) {
-				doUpdateStatus(`Download failed! Error was: ${e.message} (check the log for more information).`, true);
-				console.error(e);
-				doUpdateQueueAndTriggerNext();
-			}
 		} catch (e) {
-			doUpdateQueueAndTriggerNext();
+			setTimeout(() => { throw e; })
+			this._pDoUpdateProgressBar(
+				$wrpProgressBar,
+				`Download failed! Error was: ${e.message} (check the log for more information).`,
+				{isError: true}
+			);
+			this._pDoUpdateQueueAndTriggerNext();
 		}
 	}
 
-	static async downloadZip (...items) {
-		if (items.length === 1) DownloadHelper._queue.push(items[0]);
+	async downloadZip (...items) {
+		if (items.length === 1) this._queue.push(items[0]);
 		else {
 			const fakeItem = {data: items.map(it => it.data).flat()};
-			DownloadHelper._queue.push(fakeItem);
+			this._queue.push(fakeItem);
 		}
 
-		if (DownloadHelper._queue.length === 1) await DownloadHelper._doNextDownload();
+		if (this._queue.length === 1) await this._pDoNextDownload();
 	}
 
-	static async downloadUrls (...items) {
+	async downloadUrls (...items) {
 		const filename = items.length === 1
 			? `${items[0].set}__${items[0].artist}`
 			: `bulk-urls`;
 
 		const contents = items.map(it => it.data).flat().map(it => it.uri).join("\n");
 		const blob = new Blob([contents], {type: "text/plain"});
-		DownloadHelper.saveAs(blob, DownloadHelper.sanitizeFilename(filename));
+		DownloadHelper.saveAs(blob, DownloadHelper._sanitizeFilename(filename));
 	}
 
-	static async downloadJson (...items) {
+	async downloadJson (...items) {
 		const filename = items.length === 1
 			? `${items[0].set}__${items[0].artist}`
 			: `bulk-jsons`;
@@ -170,15 +196,15 @@ class DownloadHelper {
 
 		const contents = JSON.stringify(asJson, null, "\t");
 		const blob = new Blob([contents], {type: "application/json"});
-		DownloadHelper.saveAs(blob, DownloadHelper.sanitizeFilename(filename));
+		DownloadHelper.saveAs(blob, DownloadHelper._sanitizeFilename(filename));
 	}
 
-	static sanitizeFilename (str) {
-		return str.trim().replace(/[^\w\-]/g, "_");
+	static _sanitizeFilename (str) {
+		return str.trim().replace(/[^\w-]/g, "_");
 	}
 }
-DownloadHelper._queue = [];
 
+/* eslint-disable */
 // based on:
 /*! @source http://purl.eligrey.com/github/FileSaver.js/blob/master/src/FileSaver.js */
 DownloadHelper.saveAs = function () {
@@ -332,5 +358,6 @@ DownloadHelper.saveAs = function () {
 
 	return saveAs;
 }();
+/* eslint-enable */
 
 export {DownloadHelper};
