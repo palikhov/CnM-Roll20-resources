@@ -51,7 +51,10 @@ class ArtBrowser {
 		else return true;
 	}
 
-	constructor () {
+	constructor ($parent) {
+		this._$parent = $parent.addClass("artr__wrp");
+		this._downloadHelper = new DownloadHelper($parent);
+
 		this._index = null;
 
 		this._currentItem = null;
@@ -93,12 +96,12 @@ class ArtBrowser {
 
 	_updateCrumbs () {
 		this._$wrpBread.empty();
-		const $txtIndex = $(`<a href="#" class="artr__crumb btn btn-secondary">Index</a>`)
+		const $txtIndex = $(`<a href="#" class="artr__crumb">Index</a>`)
 			.appendTo(this._$wrpBread);
 
 		if (this._currentItem) {
-			const $txtSlash = $(`<span class="artr__crumb artr__crumb--sep">/</span>`).appendTo(this._$wrpBread);
-			const $txtItem = $(`<a href="#${this._currentIndexItem._key}" class="artr__crumb btn btn-secondary">${this._currentItem.set} \u2013 ${this._currentItem.artist}</a>`)
+			const $txtSlash = $(`<span class="artr__crumb--sep">/</span>`).appendTo(this._$wrpBread);
+			const $txtItem = $(`<a href="#${this._currentIndexItem._key}" class="artr__crumb">${this._currentItem.set} \u2013 ${this._currentItem.artist}</a>`)
 				.appendTo(this._$wrpBread);
 		}
 	}
@@ -188,12 +191,12 @@ class ArtBrowser {
 					});
 
 				let isExpanded = false;
-				const $btnToggleExpanded = $(`<button class="btn btn-sm btn-primary artr__item__btn-toggle-expand mr-2">+</button>`)
+				const $btnToggleExpanded = $(`<div class="clickable mr-2 artr__item__btn-toggle-expand">[+]</div>`)
 					.click(() => {
 						isExpanded = !isExpanded;
 						$btnToggleExpanded.toggleClass("active", isExpanded);
 						$itemTop.toggleClass("artr__item__top--expanded", isExpanded);
-						$btnToggleExpanded.text(isExpanded ? "\u2012" : "+");
+						$btnToggleExpanded.text(isExpanded ? "[\u2013]" : "[+]");
 					});
 
 				const $dispName = $(`<div class="clickable mr-2">${it._set} <i>by</i> ${it._artist} (${it._size.toLocaleString()} images)</div>`)
@@ -203,7 +206,7 @@ class ArtBrowser {
 					${$cbSel}
 					${$btnToggleExpanded}
 					${$dispName}
-					<a href="#${it._key}">View</a>
+					<a href="#${it._key}" class="artr__item__lnk-view">View</a>
 				</div>`;
 
 				// Alternate version--avoid using this, as it just wastes bandwidth
@@ -244,7 +247,7 @@ class ArtBrowser {
 						const $img = $(`<img class="artr__item__thumbnail" src="${Const.IMG_LAZY_180}">`);
 						const urlThumb = `${Const.GH_PATH}${indexItem._key}--thumb-${it.hash}.jpg`;
 
-						const $btnCopyUrl = $(`<div class="artr__item__menu_item btn btn-secondary" title="Copy URL"><span class="fas fa-link"/></div>`)
+						const $btnCopyUrl = $(`<div class="artr__item__menu_item" title="Copy URL"><span class="fas fa-link"/></div>`)
 							.click(async (evt) => {
 								evt.stopPropagation();
 								evt.preventDefault();
@@ -254,13 +257,20 @@ class ArtBrowser {
 							});
 
 						const $btnSupport = it.support
-							? $(`<a class="artr__item__menu_item btn btn-secondary" href="${it.support}" target="_blank" title="Support Artist"><span class="fas fa-shopping-cart"/></a>`)
+							? $(`<a class="artr__item__menu_item" href="${it.support}" target="_blank" title="Support Artist"><span class="fas fa-shopping-cart"/></a>`)
 							: null;
 
+						const $lnk = $$`<a href="${it.uri}" target="_blank" class="artr__item__lnk-fullsize" draggable="true">${$img}</a>`
+							.on("dragstart", evt => {
+								const meta = {
+									type: "ve-Art",
+									uri: it.uri
+								};
+								evt.originalEvent.dataTransfer.setData("application/json", JSON.stringify(meta));
+							});
+
 						$$`<div class="artr__item__wrp relative">
-							<a href="${it.uri}" target="_blank">
-								${$img}
-							</a>
+							${$lnk}
 							<div class="artr__item__menu">${$btnCopyUrl}${$btnSupport}</div>
 						</div>`
 							.appendTo($itemTop);
@@ -285,7 +295,7 @@ class ArtBrowser {
 			.map(it => {
 				const urlThumb = `${Const.GH_PATH}${this._currentIndexItem._key}--thumb-${it.hash}.jpg`;
 
-				const $btnCopyUrl = $(`<div class="artr__item__menu_item btn btn-secondary" title="Copy URL"><span class="fas fa-link"/></div>`)
+				const $btnCopyUrl = $(`<div class="artr__item__menu_item" title="Copy URL"><span class="fas fa-link"/></div>`)
 					.click(async (evt) => {
 						evt.stopPropagation();
 						evt.preventDefault();
@@ -295,13 +305,22 @@ class ArtBrowser {
 					});
 
 				const $btnSupport = it.support
-					? $(`<a class="artr__item__menu_item btn btn-secondary" href="${it.support}" target="_blank" title="Support Artist"><span class="fas fa-shopping-cart"/></a>`)
+					? $(`<a class="artr__item__menu_item" href="${it.support}" target="_blank" title="Support Artist"><span class="fas fa-shopping-cart"/></a>`)
 					: null;
 
+				const $lnk = $$`<a href="${it.uri}" target="_blank" class="artr__item__lnk-fullsize" draggable="true">
+					<img class="artr__item__thumbnail" src="${urlThumb}">
+				</a>`
+					.on("dragstart", evt => {
+						const meta = {
+							type: "ve-Art",
+							uri: it.uri
+						};
+						evt.originalEvent.dataTransfer.setData("application/json", JSON.stringify(meta));
+					});
+
 				return $$`<div class="artr__item__wrp relative">
-					<a href="${it.uri}" target="_blank">
-						<img class="artr__item__thumbnail" src="${urlThumb}">
-					</a>
+					${$lnk}
 					<div class="artr__item__menu">${$btnCopyUrl}${$btnSupport}</div>
 				</div>`;
 			})
@@ -310,7 +329,7 @@ class ArtBrowser {
 			${$eles}
 		</div>`;
 
-		const $btnDownload = $(`<button class="btn btn-sm btn-primary">Download</button>`)
+		const $btnDownload = $(`<button class="artr__btn-lg artr__btn-primary">Download</button>`)
 			.click(() => this._pHandleDownloadClick([this._currentIndexItem], {isSingleMode: true}));
 
 		$$`<div class="flex-col w-100 h-100">
@@ -335,7 +354,7 @@ class ArtBrowser {
 			}
 		})();
 
-		const $dispToggle = $(`<div>${isInitialShowing ? "[\u2013]" : "[+]" }</div>`);
+		const $dispToggle = $(`<div>${isInitialShowing ? "[\u2013]" : "[+]"}</div>`);
 		const $wrpHead = $$`<div class="artr__side__tag_header mb-1">
 			<div>${fullName}</div>
 			${$dispToggle}
@@ -355,34 +374,34 @@ class ArtBrowser {
 
 		values.sort(fnSort);
 		const btnMetas = values.map(enm => {
-				const cycleState = dir => {
-					const nxtState = getNextState($btn.attr("data-state"), dir);
-					$btn.attr("data-state", nxtState);
+			const cycleState = dir => {
+				const nxtState = getNextState($btn.attr("data-state"), dir);
+				$btn.attr("data-state", nxtState);
 
-					if (nxtState === "0") {
-						delete filterStorage[propOrHeader][enm.v];
-						if (!Object.keys(filterStorage[propOrHeader]).length) delete filterStorage[propOrHeader];
-					} else (filterStorage[propOrHeader] = filterStorage[propOrHeader] || {})[enm.v] = nxtState === "1";
+				if (nxtState === "0") {
+					delete filterStorage[propOrHeader][enm.v];
+					if (!Object.keys(filterStorage[propOrHeader]).length) delete filterStorage[propOrHeader];
+				} else (filterStorage[propOrHeader] = filterStorage[propOrHeader] || {})[enm.v] = nxtState === "1";
 
-					this._handleHashChange();
-				};
+				this._handleHashChange();
+			};
 
-				const $btn = $(`<button class="btn btn-secondary artr__side__tag" data-state="0">${enm.v} (${enm.c})</button>`)
-					.click(() => cycleState(1))
-					.contextmenu((evt) => {
-						if (!evt.ctrlKey) {
-							evt.preventDefault();
-							cycleState(-1);
-						}
-					});
+			const $btn = $(`<button class="artr__side__tag" data-state="0">${enm.v} (${enm.c})</button>`)
+				.click(() => cycleState(1))
+				.contextmenu((evt) => {
+					if (!evt.ctrlKey) {
+						evt.preventDefault();
+						cycleState(-1);
+					}
+				});
 
-				return {
-					$btn,
-					searchText: (enm.v || "").trim().toLowerCase()
-				}
-			});
+			return {
+				$btn,
+				searchText: (enm.v || "").trim().toLowerCase()
+			}
+		});
 
-		const $iptSearch = $(`<input class="form-control form-control-sm" placeholder="Filter...">`)
+		const $iptSearch = $(`<input placeholder="Filter...">`)
 			.change(() => {
 				const searchVal = $iptSearch.val().trim().toLowerCase();
 
@@ -391,8 +410,8 @@ class ArtBrowser {
 			})
 
 		const $wrpBody = $$`<div class="flex-col">
-			<div class="mb-1 mx-1">${$iptSearch}</div>
-			<div class="artr__side__tag_grid">${btnMetas.map(it => it.$btn)}</div>
+			<div class="pb-1 px-1 artr__side__wrp-tag-filter">${$iptSearch}</div>
+			<div class="artr__side__tag-grid pb-1 mb-1">${btnMetas.map(it => it.$btn)}</div>
 		</div>`
 			.toggleVe(isInitialShowing)
 			.appendTo(this._$sideBody);
@@ -400,19 +419,14 @@ class ArtBrowser {
 
 	_addFakeSidebarSection (title, propToCount, filterStorage) {
 		const fakeValues = Object.keys(propToCount).sort(SortUtil.ascSort).map(it => ({v: it, c: propToCount[it]})); // [v]alue and [c]ount
-		this._addSidebarSection(title, fakeValues, filterStorage, (a,b) => SortUtil.ascSortLower(a.v, b.v), true); // force minimize
+		this._addSidebarSection(title, fakeValues, filterStorage, (a, b) => SortUtil.ascSortLower(a.v, b.v), true); // force minimize
 	}
 
 	async pInit () {
 		const $win = $(`<div class="artr__win"/>`)
-			.appendTo($(`#main_content`));
+			.appendTo(this._$parent);
 
-		const $sidebar = $(`<div class="artr__side"/>`).appendTo($win);
-		const $mainPane = $(`<div class="artr__main"/>`).appendTo($win);
-		const $loadings = [
-			$(`<div class="artr__side__loading" title="Caching repository data, this may take some time">Loading...</div>`).appendTo($sidebar),
-			$(`<div class="artr__main__loading" title="Caching repository data, this may take some time">Loading...</div>`).appendTo($mainPane)
-		];
+		const $dispLoadingSidebar = $(`<div class="artr__side__loading" title="Caching repository data, this may take some time">Loading...</div>`);
 
 		const [enums, index] = await Promise.all([ArtBrowser.pGetJson(`${Const.GH_PATH}_meta_enums.json`), ArtBrowser.pGetJson(`${Const.GH_PATH}_meta_index.json`)]);
 		this._index = index;
@@ -421,12 +435,26 @@ class ArtBrowser {
 
 		window.addEventListener("hashchange", this._handleHashChange.bind(this));
 
-		$loadings.forEach($l => $l.remove());
-
 		// region sidebar
-		const $sideHead = $(`<div class="artr__side__head"><div class="artr__side__head__title">Filters</div></div>`).appendTo($sidebar);
+		const $dispToggleSidebar = $(`<div>[\u2013]</div>`);
+		const $sideHead = $$`<div class="artr__side__head split-v-center clickable">
+			<div class="artr__side__head__title">Filters</div>
+			${$dispToggleSidebar}
+		</div>`
+			.click(() => {
+				$dispToggleSidebar.html($dispToggleSidebar.html() === "[+]" ? "[\u2013]" : "[+]");
+				$sidebar.toggleClass("artr__side--minimized");
+				this._$sideBody.toggleVe();
+			})
 
-		this._$sideBody = $(`<div class="artr__side__body"/>`).appendTo($sidebar);
+		this._$sideBody = $(`<div class="artr__side__body"/>`);
+
+		const $sidebar = $$`<div class="artr__side">
+			${$dispLoadingSidebar}
+
+			${$sideHead}
+			${this._$sideBody}
+		</div>`.appendTo($win);
 
 		// Index artists/sets, to make fake tag sections
 		const artists = {};
@@ -444,6 +472,10 @@ class ArtBrowser {
 		// endregion
 
 		// region main
+		const $mainPane = $(`<div class="artr__main"/>`).appendTo($win);
+
+		const $dispLoadingMain = $(`<div class="artr__main__loading" title="Caching repository data, this may take some time">Loading...</div>`).appendTo($mainPane)
+
 		this._$wrpBread = $(`<div class="artr__bread"/>`);
 		this._updateCrumbs();
 
@@ -452,7 +484,7 @@ class ArtBrowser {
 			this._search = ($iptSearch.val() || "").trim();
 			this._handleHashChange();
 		};
-		const $iptSearch = $(`<input placeholder="Search..." class="form-control artr__search__field">`)
+		const $iptSearch = $(`<input placeholder="Search..." class="artr__search__field">`)
 			.title(`Multiple search terms can be provided by using quotes, e.g.: "ship" "pirate"`)
 			.on("keydown", (e) => {
 				clearTimeout(searchTimeout);
@@ -463,7 +495,7 @@ class ArtBrowser {
 				}
 			});
 
-		const $cbAll = $(`<input type="checkbox" class="mr-2 artr__item__cb-select">`)
+		const $cbAll = $(`<input type="checkbox" class="mr-2 artr__item__cb-select artr__item__cb-select--all">`)
 			.change(() => {
 				if (!this._itemMetas) return;
 				const toVal = $cbAll.prop("checked");
@@ -473,7 +505,7 @@ class ArtBrowser {
 				});
 			});
 
-		const $btnDownloadSelected = $(`<button class="btn btn-sm btn-primary" title="Download ZIP (SHIFT to download a text file of URLs)">Download Selected</button>`)
+		const $btnDownloadSelected = $(`<button class="artr__btn-lg artr__btn-primary" title="Download ZIP (SHIFT to download a text file of URLs)">Download Selected</button>`)
 			.click(() => {
 				if (!this._itemMetas) return;
 				const selected = this._itemMetas.filter(it => it.$cbSel.prop("checked"));
@@ -505,6 +537,11 @@ class ArtBrowser {
 		this._$itemBodyInner = $(`<div class="artr__view_inner"/>`).appendTo(this._$itemBody);
 
 		this._handleHashChange();
+
+		[
+			$dispLoadingSidebar,
+			$dispLoadingMain
+		].forEach($l => $l.remove());
 		// endregion
 	}
 
@@ -516,7 +553,7 @@ class ArtBrowser {
 	async _pHandleDownloadClick (indexItems, opts) {
 		opts = opts || {};
 
-		const {$modalInner} = this._$getShowModal();
+		const {$modalInner, doClose} = this._$getShowModal();
 
 		$modalInner
 			.addClass("flex-vh-center")
@@ -526,58 +563,84 @@ class ArtBrowser {
 
 		$modalInner.empty();
 
+		const options = await this._pGetDownloadModes();
+
 		const $selMode = $(`<select>
-			<option value="0" selected>Text</option>
-			<option value="1">JSON</option>
-			<option value="2">ZIP (Warning: rate-limited)</option>
-		</select>`);
+			${options.map((it, ix) => `<option value="${ix}" ${ix === 0 ? "selected" : ""}>${it.name}</option>`).join("")}
+		</select>`)
+			.change(() => {
+				if (!$wrpCb) return;
+				const option = options[Number($selMode.val())];
+				$wrpCb.toggleVe(!option.isMultipleFilesOnly);
+			});
 
 		const $cbFilePerItem = $(`<input type="checkbox" checked>`);
 
-		const $btnDownload = $(`<button class="btn btn-primary btn-sm">Download</button>`)
+		const $btnDownload = $(`<button class="artr__btn-lg artr__btn-primary">Download</button>`)
 			.click(async () => {
-				$selMode.prop("disabled", true);
-				$cbFilePerItem.prop("disabled", true);
-				$btnDownload.prop("disabled", true);
+				doClose();
 
 				try {
 					const isSingleFile = !$cbFilePerItem.prop("checked");
-					const mode = Number($selMode.val());
+					const option = options[Number($selMode.val())];
 
-					if (isSingleFile) {
-						switch (mode) {
-							case 0: await DownloadHelper.downloadUrls(...jsons); break;
-							case 1:  await DownloadHelper.downloadJson(...jsons); break;
-							case 2: await DownloadHelper.downloadZip(...jsons); break;
-							default: throw new Error(`Unhandled mode!`);
-						}
-					}  else {
-						for (const json of jsons) {
-							switch (mode) {
-								case 0: await DownloadHelper.downloadUrls(json); break;
-								case 1: await DownloadHelper.downloadJson(json); break;
-								case 2: await DownloadHelper.downloadZip(json); break;
-								default: throw new Error(`Unhandled mode!`);
-							}
+					if (isSingleFile && !option.isMultipleFilesOnly) {
+						await option.pDownloadAsSingleFile(...jsons);
+					} else {
+						const len = jsons.length;
+						for (let i = 0; i < len; ++i) {
+							const json = jsons[i];
+							await option.pDownloadAsMultipleFiles(json, i, len);
 							await MiscUtil.pDelay(33);
 						}
 					}
 				} catch (e) {
-					alert(`Download failed! See the console for more information.`)
+					alert(`Download failed! See the console (CTRL+SHIFT+J) for details.`)
 					throw e;
 				}
-
-				$selMode.prop("disabled", false);
-				$cbFilePerItem.prop("disabled", false);
-				$btnDownload.prop("disabled", false);
 			});
+
+		const $wrpCb = indexItems.length > 1 ? $$`<label class="p-0 m-0 mb-2 flex-v-center" title="If the download should be a single file per selected item, as opposed to the default of one file containing all items."><div class="mr-2">One file per item</div>${$cbFilePerItem}</label>` : null;
+		$selMode.change();
 
 		$$`<div class="flex-col">
 			${opts.isSingleMode ? "" : `<div class="flex-v-center mb-2"><i>${indexItems.length} item${indexItems.length === 1 ? "" : "s"} selected</i></div>`}
 			<label class="p-0 m-0 mb-2 flex-v-center"><div class="mr-2">Format</div>${$selMode}</label>
-			${indexItems.length > 1 ? $$`<label class="p-0 m-0 mb-2 flex-v-center" title="If the download should be a single file per selected item, as opposed to the default of one file containing all items."><div class="mr-2">One file per item</div>${$cbFilePerItem}</label>` : ""}
+			${$wrpCb}
 			<div class="flex-vh-center mt-auto w-100">${$btnDownload}</div>
 		</div>`.appendTo($modalInner);
+	}
+
+	get _textDownloadMode () {
+		return {
+			name: "Text",
+			pDownloadAsSingleFile: (jsons) => this._downloadHelper.downloadUrls(...jsons),
+			pDownloadAsMultipleFiles: (json) => this._downloadHelper.downloadUrls(json)
+		};
+	}
+
+	get _jsonDownloadMode () {
+		return {
+			name: "JSON",
+			pDownloadAsSingleFile: (jsons) => this._downloadHelper.downloadJson(...jsons),
+			pDownloadAsMultipleFiles: (json) => this._downloadHelper.downloadJson(json)
+		};
+	}
+
+	/**
+	 * To be overridden externally.
+	 * First item is default selected.
+	 */
+	async _pGetDownloadModes () {
+		return [
+			this._textDownloadMode,
+			this._jsonDownloadMode,
+			{
+				name: "ZIP (Warning: rate-limited)",
+				pDownloadAsSingleFile: (jsons) => this._downloadHelper.downloadZip(...jsons),
+				pDownloadAsMultipleFiles: (json) => this._downloadHelper.downloadZip(json)
+			}
+		]
 	}
 
 	_$getShowModal () {
@@ -590,7 +653,7 @@ class ArtBrowser {
 			.click(evt => {
 				if (evt.target === $wrpOverlay[0]) doClose();
 			})
-			.appendTo(document.body);
+			.appendTo(this._$parent);
 
 		return {$modalInner: $wrpModal, doClose};
 	}
@@ -649,8 +712,4 @@ class ArtBrowser {
 ArtBrowser._JSON_CACHE = {};
 ArtBrowser._JSON_FETCHING = {};
 
-window.addEventListener("load", () => {
-	// expose for debugging
-	window.ART_BROWSER = new ArtBrowser();
-	window.ART_BROWSER.pInit();
-});
+export {ArtBrowser};

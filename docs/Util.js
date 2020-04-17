@@ -1,17 +1,15 @@
 "use strict";
 
-String.prototype.uppercaseFirst = String.prototype.uppercaseFirst ||
-	function () {
-		const str = this.toString();
-		if (str.length === 0) return str;
-		if (str.length === 1) return str.charAt(0).toUpperCase();
-		return str.charAt(0).toUpperCase() + str.slice(1);
-	};
+String.prototype.uppercaseFirst = String.prototype.uppercaseFirst || function () {
+	const str = this.toString();
+	if (str.length === 0) return str;
+	if (str.length === 1) return str.charAt(0).toUpperCase();
+	return str.charAt(0).toUpperCase() + str.slice(1);
+};
 
-Array.prototype.last = Array.prototype.last ||
-	function () {
-		return this[this.length - 1];
-	};
+Array.prototype.last = Array.prototype.last || function () {
+	return this[this.length - 1];
+};
 
 /**
  * Template strings which can contain jQuery objects.
