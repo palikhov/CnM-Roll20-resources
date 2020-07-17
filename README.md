@@ -14,7 +14,7 @@ This repository holds resources to use within Roll20, follow these links organiz
   
  ⁍ [Macro](https://github.com/DMsGuild201/Roll20_resources/blob/master/Macro/README.md)
  
- ⁍ [Module](https://github.com/DMsGuild201/Roll20_resources/blob/master/Module/README.md)
+ ⁍ [Module](https://github.com/DMsGuild201/Roll20_resources/blob/master/Module/README.md) (games)
  
  ⁍ [NPC](https://github.com/DMsGuild201/Roll20_resources/blob/master/NPC/README.md)
  
