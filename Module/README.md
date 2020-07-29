@@ -15,9 +15,11 @@ File structure <Gamesystem_Structure>
 
 ### Game Systems
 * 5e (5th Edition D&D)
-* PF (Pathfinder 1st edition)
+* PF (Pathfinder 1st & 2nd edition)
+* 13th Age
+* Call of Cthuhlu 
+* Starfinder
 * not labled will likely be system independent (ie platform agnostic)
 
 
 ...Otherwise the files will be the name of the game
-
