@@ -22,7 +22,7 @@ class ArtBrowser {
 
 	static _searchFeatures (searchTerm, item, doLowercase) {
 		// features are lowercase in index
-		return !!(item.features || []).find(x => (doLowercase ? x.toLowerCase() : x).includes(searchTerm));
+		return (item.features || []).some(x => (doLowercase ? x.toLowerCase() : x).includes(searchTerm));
 	}
 
 	static _filterProps (filters, item) {
@@ -152,14 +152,14 @@ class ArtBrowser {
 				const searchTerms = this._getSearchTerms();
 
 				const lowerSet = it._set.toLowerCase();
-				if (searchTerms.every(srch => lowerSet.includes(srch))) return true;
+				const isSetMatch = searchTerms.every(srch => lowerSet.includes(srch))
 
 				const lowerArtist = it._artist.toLowerCase();
-				if (searchTerms.every(srch => lowerArtist.includes(srch))) return true;
+				const isArtistMatch = searchTerms.every(srch => lowerArtist.includes(srch));
 
-				if (searchTerms.every(srch => ArtBrowser._searchFeatures(srch, it))) return true;
+				const isFeatureMatch = searchTerms.every(srch => ArtBrowser._searchFeatures(srch, it));
 
-				return false;
+				if (!isSetMatch && !isArtistMatch && !isFeatureMatch) return false;
 			}
 			if (!ArtBrowser._filterFakeProps(this._filtersArtists, it, Const.FAKE_FILTER_ARTIST, "_artist")) return false;
 			if (!ArtBrowser._filterFakeProps(this._filtersSets, it, Const.FAKE_FILTER_SET, "_set")) return false;
@@ -247,7 +247,7 @@ class ArtBrowser {
 						const $img = $(`<img class="artr__item__thumbnail" src="${Const.IMG_LAZY_180}">`);
 						const urlThumb = `${Const.GH_PATH}${indexItem._key}--thumb-${it.hash}.jpg`;
 
-						const $btnCopyUrl = $(`<div class="artr__item__menu_item" title="Copy URL"><span class="fas fa-link"/></div>`)
+						const $btnCopyUrl = $(`<div class="artr__item__menu_item" title="Copy URL"><span class="fas fa-link"></span></div>`)
 							.click(async (evt) => {
 								evt.stopPropagation();
 								evt.preventDefault();
@@ -257,7 +257,7 @@ class ArtBrowser {
 							});
 
 						const $btnSupport = it.support
-							? $(`<a class="artr__item__menu_item" href="${it.support}" target="_blank" title="Support Artist"><span class="fas fa-shopping-cart"/></a>`)
+							? $(`<a class="artr__item__menu_item" href="${it.support}" target="_blank" title="Support Artist"><span class="fas fa-shopping-cart"></span></a>`)
 							: null;
 
 						const $lnk = $$`<a href="${it.uri}" target="_blank" class="artr__item__lnk-fullsize" draggable="true">${$img}</a>`
@@ -295,7 +295,7 @@ class ArtBrowser {
 			.map(it => {
 				const urlThumb = `${Const.GH_PATH}${this._currentIndexItem._key}--thumb-${it.hash}.jpg`;
 
-				const $btnCopyUrl = $(`<div class="artr__item__menu_item" title="Copy URL"><span class="fas fa-link"/></div>`)
+				const $btnCopyUrl = $(`<div class="artr__item__menu_item" title="Copy URL"><span class="fas fa-link"></span>/div>`)
 					.click(async (evt) => {
 						evt.stopPropagation();
 						evt.preventDefault();
@@ -305,7 +305,7 @@ class ArtBrowser {
 					});
 
 				const $btnSupport = it.support
-					? $(`<a class="artr__item__menu_item" href="${it.support}" target="_blank" title="Support Artist"><span class="fas fa-shopping-cart"/></a>`)
+					? $(`<a class="artr__item__menu_item" href="${it.support}" target="_blank" title="Support Artist"><span class="fas fa-shopping-cart"></span></a>`)
 					: null;
 
 				const $lnk = $$`<a href="${it.uri}" target="_blank" class="artr__item__lnk-fullsize" draggable="true">
@@ -423,7 +423,7 @@ class ArtBrowser {
 	}
 
 	async pInit () {
-		const $win = $(`<div class="artr__win"/>`)
+		const $win = $(`<div class="artr__win"></div>`)
 			.appendTo(this._$parent);
 
 		const $dispLoadingSidebar = $(`<div class="artr__side__loading" title="Caching repository data, this may take some time">Loading...</div>`);
@@ -447,7 +447,7 @@ class ArtBrowser {
 				this._$sideBody.toggleVe();
 			})
 
-		this._$sideBody = $(`<div class="artr__side__body"/>`);
+		this._$sideBody = $(`<div class="artr__side__body"></div>`);
 
 		const $sidebar = $$`<div class="artr__side">
 			${$dispLoadingSidebar}
@@ -472,11 +472,11 @@ class ArtBrowser {
 		// endregion
 
 		// region main
-		const $mainPane = $(`<div class="artr__main"/>`).appendTo($win);
+		const $mainPane = $(`<div class="artr__main"></div>`).appendTo($win);
 
 		const $dispLoadingMain = $(`<div class="artr__main__loading" title="Caching repository data, this may take some time">Loading...</div>`).appendTo($mainPane)
 
-		this._$wrpBread = $(`<div class="artr__bread"/>`);
+		this._$wrpBread = $(`<div class="artr__bread"></div>`);
 		this._updateCrumbs();
 
 		let searchTimeout;
@@ -530,11 +530,11 @@ class ArtBrowser {
 			</div>
 		</div>`.appendTo($mainPane);
 
-		this._$mainBody = $(`<div class="artr__view"/>`).appendTo($mainPane);
-		this._$mainBodyInner = $(`<div class="artr__view_inner"/>`).appendTo(this._$mainBody);
+		this._$mainBody = $(`<div class="artr__view"></div>`).appendTo($mainPane);
+		this._$mainBodyInner = $(`<div class="artr__view_inner"></div>`).appendTo(this._$mainBody);
 
-		this._$itemBody = $(`<div class="artr__view"/>`).hideVe().appendTo($mainPane);
-		this._$itemBodyInner = $(`<div class="artr__view_inner"/>`).appendTo(this._$itemBody);
+		this._$itemBody = $(`<div class="artr__view"></div>`).hideVe().appendTo($mainPane);
+		this._$itemBodyInner = $(`<div class="artr__view_inner"></div>`).appendTo(this._$itemBody);
 
 		this._handleHashChange();
 
@@ -648,7 +648,7 @@ class ArtBrowser {
 			$wrpOverlay.remove();
 		};
 
-		const $wrpModal = $(`<div class="flex-col artr__modal__wrp p-2"/>`);
+		const $wrpModal = $(`<div class="flex-col artr__modal__wrp p-2"></div>`);
 		const $wrpOverlay = $$`<div class="flex-vh-center artr__modal__overlay">${$wrpModal}</div>`
 			.click(evt => {
 				if (evt.target === $wrpOverlay[0]) doClose();
