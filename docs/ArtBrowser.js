@@ -1,7 +1,7 @@
 "use strict";
 
 import {Const} from "./Const.js";
-import {MiscUtil, SortUtil} from "./Util.js";
+import {MiscUtil, SortUtil, StorageUtil} from "./Util.js";
 import {DownloadHelper} from "./DownloadHelper.js";
 
 class ArtBrowser {
@@ -295,7 +295,7 @@ class ArtBrowser {
 			.map(it => {
 				const urlThumb = `${Const.GH_PATH}${this._currentIndexItem._key}--thumb-${it.hash}.jpg`;
 
-				const $btnCopyUrl = $(`<div class="artr__item__menu_item" title="Copy URL"><span class="fas fa-link"></span>/div>`)
+				const $btnCopyUrl = $(`<div class="artr__item__menu_item" title="Copy URL"><span class="fas fa-link"></span></div>`)
 					.click(async (evt) => {
 						evt.stopPropagation();
 						evt.preventDefault();
@@ -514,6 +514,50 @@ class ArtBrowser {
 				return this._pHandleDownloadClick(indexItems);
 			});
 
+		let $style = $(`#${ArtBrowser._ID_STYLE_THUMBNAILS}`);
+		if (!$style.length) {
+			$style = $(`<style id="${ArtBrowser._ID_STYLE_THUMBNAILS}"></style>`).appendTo(document.body);
+		}
+
+		let lastThumbnailSize = null;
+		const hkThumbnailSize = () => {
+			const sliderVal = $sldThumbnailSize.val();
+			const size = Math.round(ArtBrowser._SZ_PX_THUMBNAIL * (sliderVal / 100));
+
+			if (lastThumbnailSize === size) return;
+			lastThumbnailSize = size;
+
+			$style.html(`
+.artr__wrp .artr__item__top {
+    height: ${size + ArtBrowser._SZ_PX_MAIN_ROW_HEADER}px;
+}
+
+.artr__wrp .artr__item__top--expanded {
+	height: initial;
+}
+
+.artr__wrp .artr__item__thumbnail {
+	min-width: ${size}px;
+	min-height: ${size}px;
+	max-width: ${size}px;
+	max-height: ${size}px;
+}`);
+			StorageUtil.syncSet(ArtBrowser._STORAGE_KEY_THUMBNAIL_SIZE, sliderVal);
+		};
+		const $sldThumbnailSize = $(`<input type="range" min="25" max="200" title="Thumbnail Size">`)
+			.mousemove(evt => {
+				if (evt.currentTarget !== $sldThumbnailSize[0]) return;
+				hkThumbnailSize();
+			})
+			.change(() => {
+				hkThumbnailSize();
+			});
+		let savedThumbnailSize = StorageUtil.syncGet(ArtBrowser._STORAGE_KEY_THUMBNAIL_SIZE);
+		if (savedThumbnailSize != null) {
+			$sldThumbnailSize.val(Math.min(200, Math.max(25, savedThumbnailSize)));
+			hkThumbnailSize();
+		}
+
 		const $wrpHeaderControlsMain = $$`<div class="flex-v-center no-shrink">
 			${$cbAll}
 			${$btnDownloadSelected}
@@ -527,6 +571,13 @@ class ArtBrowser {
 			<div class="flex-col w-100">
 				${this._$wrpBread}
 				${$iptSearch}
+			</div>
+			<div class="flex-v-center h-100">
+				<div class="artr__search__divider mx-2"></div>
+				<div class="flex-col flex-vh-center">
+					<div class="mb-1">Thumbnail Size</div>
+					${$sldThumbnailSize}
+				</div>
 			</div>
 		</div>`.appendTo($mainPane);
 
@@ -711,5 +762,9 @@ class ArtBrowser {
 }
 ArtBrowser._JSON_CACHE = {};
 ArtBrowser._JSON_FETCHING = {};
+ArtBrowser._ID_STYLE_THUMBNAILS = "artr__style__thumbnails";
+ArtBrowser._SZ_PX_MAIN_ROW_HEADER = 18;
+ArtBrowser._SZ_PX_THUMBNAIL = 180;
+ArtBrowser._STORAGE_KEY_THUMBNAIL_SIZE = "artr__style__thumbnails";
 
 export {ArtBrowser};
