@@ -1,0 +1,310 @@
+{
+    "map": [
+        {
+            "id": "5e_Decks",
+            "name": "5e Decks",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "5e_Maps",
+            "name": "5e Map Packs",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "5e_NPCS",
+            "name": "5e NPCS",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "min-dun",
+            "name": "AAW: Mini Dungeons Collections",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Amazon",
+            "name": "Amazon",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "sc-dod-a1",
+            "name": "Bad Apples",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Base_Game",
+            "name": "Base Template",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "bok-attack-of-the-giant-chicken",
+            "name": "BOK! attack of the Giant Chicken",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "cotsf",
+            "name": "Court of the Shadow Fey",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "DOMT",
+            "name": "Deck of Many Things",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Drow_Hard",
+            "name": "Drow Hard",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "brw-bol-e",
+            "name": "Eldritch Lairs",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "eog",
+            "name": "Empire of the Ghouls",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "ddal09-01",
+            "name": "Escape from Elturgard",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Fate_of_the_Oracle",
+            "name": "Fate of the Oracle",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Humblewood_Adventure",
+            "name": "Humblewood:",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Island_of_the_Axis_of_the_World",
+            "name": "island of the axis of the world",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "jinker_maps",
+            "name": "Jinker Map Pack",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Last_Gasp",
+            "name": "Last Gasp",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "lhoe",
+            "name": "Lost Halls of Everforge",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "midgard_Saga_blood_on_fallen_star",
+            "name": "Midgard Saga - blood on fallen star",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "midgard_Saga_madman_at_the_bridge",
+            "name": "Midgard Saga - madman at the bridge",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Midgard_Saga_murder_on_the_crossroads",
+            "name": "Midgard Saga - murder on the crossroads",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Midgard_Saga_raiders_of_the_chamber_of_tomorrows",
+            "name": "Midgard Saga - raiders of the chamber of tomorrows",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Midgard_Saga_the_mhalmet_heist",
+            "name": "Midgard Saga - the mhalmet heist",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Midgard_Saga_to_wake_war",
+            "name": "Midgard Saga - to wake war",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "mom",
+            "name": "Mines of Madness",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "mirrorplane",
+            "name": "Mirrorplane",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "mad",
+            "name": "Monsters a Day collection",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Necropolis_of_the_Mailed_Fist",
+            "name": "Necropolis of the Mailed Fist",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "pftpc",
+            "name": "Pathfinder: The Pirate Cove",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Prepared__a_bad_night_for_betting",
+            "name": "Prepared! a bad night for betting",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Prepared__atop_the_mountain",
+            "name": "Prepared! atop the mountain",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Prepared__In_its_horrid_wake",
+            "name": "Prepared! in its horrid wake",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Prepared__the_burning_crater",
+            "name": "Prepared! the burning crater",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Prepared__The_claret_wellspring",
+            "name": "Prepared! the claret wellspring",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Prepared__The_impregnable_fortress_of_Dib",
+            "name": "Prepared! the impregnable fortress of Dib",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Prepared__The_marrow_mines",
+            "name": "Prepared! the marrow mines",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Prepared__The_obsidian_pass",
+            "name": "Prepared! the obsidian pass",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Prepared__The_room_with_five_corners",
+            "name": "Prepared! the room with five corners",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Prepared__The_vault_of_Pallon_the_Pious",
+            "name": "Prepared! the vault of Pallon the Pious",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Prepared__Under_reveler_s_feet",
+            "name": "Prepared! under reveler's feet",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Waterdeep__Dungeon_of_the_Mad_Mage___Adventure_Preview",
+            "name": "Preview: Waterdeep: Dungeon of the Mad Mage",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "dia-mord",
+            "name": "rrakkma",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "tactlmaps",
+            "name": "Tactical Maps Reincarnated",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "toom",
+            "name": "Tales of the Old Margreve",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "Tom",
+            "name": "Tomb of Mercy",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "some_maps_for_underdark",
+            "name": "Underdark Maps Packs",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "brw-bol-u",
+            "name": "Underworld Lairs",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "ootd",
+            "name": "Odyssey of the Dragonlords",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        },
+        {
+            "id": "rotr",
+            "name": "Rise of the Runelords",
+            "version": "1.0.0",
+            "dateLastModified": 1617621656
+        }
+    ]
+}
