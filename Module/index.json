@@ -1,21 +1,21 @@
 {
     "map": [
         {
-            "id": "5e_Decks",
+            "id": "5ed",
             "name": "5e Decks",
             "filename": "5e_Decks.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "5e_Maps",
+            "id": "5eMaps",
             "name": "5e Map Packs",
             "filename": "5e_Maps.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "5e_NPCS",
+            "id": "5eNPCS",
             "name": "5e NPCS",
             "filename": "5e_NPCS.json",
             "version": "1.0.0",
@@ -29,7 +29,7 @@
             "dateLastModified": 1617621656
         },
         {
-            "id": "Amazon",
+            "id": "CrxA",
             "name": "Amazon",
             "filename": "Amazon.json",
             "version": "1.0.0",
@@ -43,14 +43,14 @@
             "dateLastModified": 1617621656
         },
         {
-            "id": "Base_Game",
+            "id": "BaseTmp",
             "name": "Base Template",
             "filename": "Base_Game.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "bok-attack-of-the-giant-chicken",
+            "id": "bok",
             "name": "BOK! attack of the Giant Chicken",
             "filename": "Bok__Attack_of_the_Giant_Chicken.json",
             "version": "1.0.0",
@@ -71,14 +71,14 @@
             "dateLastModified": 1617621656
         },
         {
-            "id": "Drow_Hard",
+            "id": "DH",
             "name": "Drow Hard",
             "filename": "Drow_Hard.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "brw-bol-e",
+            "id": "bol-e",
             "name": "Eldritch Lairs",
             "filename": "",
             "version": "1.0.0",
@@ -99,35 +99,35 @@
             "dateLastModified": 1617621656
         },
         {
-            "id": "Fate_of_the_Oracle",
+            "id": "FotO",
             "name": "Fate of the Oracle",
             "filename": "Fate_of_the_Oracle.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Humblewood_Adventure",
+            "id": "AitW",
             "name": "Humblewood:",
             "filename": "Humblewood_Adventure.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Island_of_the_Axis_of_the_World",
+            "id": "IAW",
             "name": "island of the axis of the world",
             "filename": "Island_of_the_Axis_of_the_World.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "jinker_maps",
+            "id": "jinker",
             "name": "Jinker Map Pack",
             "filename": "jinker_maps.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Last_Gasp",
+            "id": "LG",
             "name": "Last Gasp",
             "filename": "Last_Gasp.json",
             "version": "1.0.0",
@@ -141,42 +141,42 @@
             "dateLastModified": 1617621656
         },
         {
-            "id": "midgard_Saga_blood_on_fallen_star",
+            "id": "ms:bofs",
             "name": "Midgard Saga - blood on fallen star",
             "filename": "midgard_Saga_blood_on_fallen_star.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "midgard_Saga_madman_at_the_bridge",
+            "id": "ms:mb",
             "name": "Midgard Saga - madman at the bridge",
             "filename": "midgard_Saga_madman_at_the_bridge.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Midgard_Saga_murder_on_the_crossroads",
+            "id": "ms:mc",
             "name": "Midgard Saga - murder on the crossroads",
             "filename": "Midgard_Saga_murder_on_the_crossroads.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Midgard_Saga_raiders_of_the_chamber_of_tomorrows",
+            "id": "ms:rct",
             "name": "Midgard Saga - raiders of the chamber of tomorrows",
             "filename": "Midgard_Saga_raiders_of_the_chamber_of_tomorrows.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Midgard_Saga_the_mhalmet_heist",
+            "id": "ms:mh",
             "name": "Midgard Saga - the mhalmet heist",
             "filename": "Midgard_Saga_the_mhalmet_heist.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Midgard_Saga_to_wake_war",
+            "id": "ms:ww",
             "name": "Midgard Saga - to wake war",
             "filename": "Midgard_Saga_to_wake_war.json",
             "version": "1.0.0",
@@ -190,7 +190,7 @@
             "dateLastModified": 1617621656
         },
         {
-            "id": "mirrorplane",
+            "id": "crx:m",
             "name": "Mirrorplane",
             "filename": "Mirrorplane.json",
             "version": "1.0.0",
@@ -204,7 +204,7 @@
             "dateLastModified": 1617621656
         },
         {
-            "id": "Necropolis_of_the_Mailed_Fist",
+            "id": "NotMF",
             "name": "Necropolis of the Mailed Fist",
             "filename": "Necropolis_of_the_Mailed_Fist.json",
             "version": "1.0.0",
@@ -218,42 +218,42 @@
             "dateLastModified": 1617621656
         },
         {
-            "id": "Prepared__a_bad_night_for_betting",
+            "id": "P!bnb",
             "name": "Prepared! a bad night for betting",
             "filename": "Prepared__a_bad_night_for_betting.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Prepared__atop_the_mountain",
+            "id": "P!am",
             "name": "Prepared! atop the mountain",
             "filename": "Prepared__atop_the_mountain.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Prepared__In_its_horrid_wake",
+            "id": "P!iihow",
             "name": "Prepared! in its horrid wake",
             "filename": "Prepared__In_its_horrid_wake.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Prepared__the_burning_crater",
+            "id": "P!tbc",
             "name": "Prepared! the burning crater",
             "filename": "Prepared__the_burning_crater.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Prepared__The_claret_wellspring",
+            "id": "P!tcw",
             "name": "Prepared! the claret wellspring",
             "filename": "Prepared__The_claret_wellspring.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Prepared__The_impregnable_fortress_of_Dib",
+            "id": "P!tifod",
             "name": "Prepared! the impregnable fortress of Dib",
             "filename": "Prepared__The_impregnable_fortress_of_Dib.json",
             "version": "1.0.0",
@@ -267,35 +267,35 @@
             "dateLastModified": 1617621656
         },
         {
-            "id": "Prepared__The_obsidian_pass",
+            "id": "P!top",
             "name": "Prepared! the obsidian pass",
             "filename": "Prepared__The_obsidian_pass.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Prepared__The_room_with_five_corners",
+            "id": "P!trwfc",
             "name": "Prepared! the room with five corners",
             "filename": "Prepared__The_room_with_five_corners.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Prepared__The_vault_of_Pallon_the_Pious",
+            "id": "P!tvoptp",
             "name": "Prepared! the vault of Pallon the Pious",
             "filename": "Prepared__The_vault_of_Pallon_the_Pious.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Prepared__Under_reveler_s_feet",
+            "id": "P!urf",
             "name": "Prepared! under reveler's feet",
             "filename": "Prepared__Under_reveler_s_feet.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "Waterdeep__Dungeon_of_the_Mad_Mage___Adventure_Preview",
+            "id": "WD:DMM_Preview",
             "name": "Preview: Waterdeep: Dungeon of the Mad Mage",
             "filename": "Waterdeep__Dungeon_of_the_Mad_Mage___Adventure_Preview.json",
             "version": "1.0.0",
@@ -330,14 +330,14 @@
             "dateLastModified": 1617621656
         },
         {
-            "id": "some_maps_for_underdark",
+            "id": "maps:underdark",
             "name": "Underdark Maps Packs",
             "filename": "some_maps_for_underdark.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
         },
         {
-            "id": "brw-bol-u",
+            "id": "bol-u",
             "name": "Underworld Lairs",
             "filename": "Underworld Lairs.json",
             "version": "1.0.0",
