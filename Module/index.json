@@ -36,6 +36,13 @@
             "dateLastModified": 1617621656
         },
         {
+            "id": "wdh",
+            "name": "Waterdeep: Dragon Heist (fixed)",
+            "filename": "Waterdeep_Dragon_Heist.json",
+            "version": "1.0.0",
+            "dateLastModified": 1620483881
+        },
+        {
             "id": "sc-dod-a1",
             "name": "Bad Apples",
             "filename": "Bad_Apples.json",
