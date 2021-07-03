@@ -14,7 +14,7 @@ This repository holds resources to use within Roll20, follow these links organiz
   
  ⁍ [Macro](https://github.com/DMsGuild201/Roll20_resources/blob/master/Macro/README.md)
  
- ⁍ [Module](https://github.com/DMsGuild201/Roll20_resources/blob/master/Module/README.md) (games)
+ ⁍ [Module](https://github.com/DMsGuild201/Roll20_resources/blob/master/Module/README.md)
  
  ⁍ [NPC](https://github.com/DMsGuild201/Roll20_resources/blob/master/NPC/README.md)
  
@@ -35,3 +35,6 @@ To use Google API functionality, a client ID/secret is required; see Step 1 [her
 Download the `credentials.json` file it provides, and **place the file in the project root**. 
 
 **DO NOT commit this file** or otherwise share it, as it provides various access permissions to the Google account which was used to create it. Similarly, `token.json` (which the login process generates) should be kept private.
+
+**Note:** if you have an existing `token.json` but are failing to log in (e.g. due to an `invalid_grant` error), try deleting the `token.json` and re-running the script.
+

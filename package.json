@@ -17,11 +17,9 @@
 	},
 	"homepage": "https://github.com/DMsGuild201/Roll20_resources#readme",
 	"dependencies": {
-		"googleapis": "^45.0.0",
+		"axios": "^0.21.1",
+		"googleapis": "^80.1.0",
 		"minimist": "^1.2.5",
-		"request": "^2.88.2",
-		"request-promise-native": "^1.0.8",
-		"sharp": "^0.21.3",
-		"youtube-dl": "^1.13.1"
+		"sharp": "^0.28.3"
 	}
 }
