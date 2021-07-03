@@ -1,7 +1,7 @@
 const fs = require("fs");
 const crypto = require("crypto");
 const sharp = require("sharp");
-const rp = require("request-promise-native");
+const axios = require("axios");
 const google = require("./GoogleAuth");
 const rq = require("./RequestQueue");
 const kg = require("./Kludge");
@@ -158,7 +158,9 @@ class ArtGrab {
 			console.log(`${kg.logPad("SHEETS")}Retrieved rows for ${targetSheet.docsId} -> ${targetSheet.sheetName}...`);
 
 			// track all current files, so we can later delete those which should not exist
-			fs.readdirSync("ExternalArt/dist").forEach(file => this.filesToRemove[file] = true);
+			const extDistDir = "ExternalArt/dist";
+			fs.mkdirSync(extDistDir, {recursive: true});
+			fs.readdirSync(extDistDir).forEach(file => this.filesToRemove[file] = true);
 
 			const rowsBody = resBody.data.values;
 			rowsBody.map(r => this._parseRow(r)).filter(it => it).sort(ArtGrab._sortRows).forEach(r => {
@@ -225,20 +227,22 @@ class ArtGrab {
 		let retries = this.retryCount;
 		let lastE = null;
 		while (retries-- > 0 && imageData == null) {
-			try { imageData = await rp({url: uri, encoding: null}); }
-			catch (e) {
+			try {
+				const resp = await axios.get(uri, {responseType: "arraybuffer"});
+				imageData = resp.data;
+			} catch (e) {
 				lastE = e;
 				await new Promise(resolve => setTimeout(() => resolve(), this.retryTimeout));
 			}
 		}
-		if (imageData == null) return console.error(`${kg.logPad("THUMBNAIL")}Failed to retrieve image data from "${uri}": `, lastE.message);
+		if (imageData == null) return console.error(`${kg.logPad("THUMBNAIL")}Failed to retrieve image data from "${uri}": `, (lastE | {}).message);
 
 		let img;
 		try {
 			img = sharp(imageData, {limitInputPixels: false})
 				.flatten({background: ArtGrab.WHITE}) // remove alpha channel
 				.resize(180, 180, {fit: "contain", background: ArtGrab.WHITE})
-				.jpeg();
+				.jpeg({quality: 70});
 		} catch (e) { return console.error(`${kg.logPad("THUMBNAIL")}Failed to create thumbnail image for "${uri}": `, e.message); }
 
 		if (this.dryRun) console.log(`${kg.logPad("DRY_RUN")}Skipping image write: "${fileName}"...`);
