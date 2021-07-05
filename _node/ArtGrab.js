@@ -153,14 +153,15 @@ class ArtGrab {
 		// endregion
 
 		// region bodies
+
+		// track all current files, so we can later delete those which should not exist
+		const extDistDir = "ExternalArt/dist";
+		fs.mkdirSync(extDistDir, {recursive: true});
+		fs.readdirSync(extDistDir).forEach(file => this.filesToRemove[file] = true);
+
 		for (const targetSheet of targetSheets) {
 			const resBody = await google.pGetSheetValues(sheets, targetSheet.docsId, `${targetSheet.sheetName}!A2:T`);
 			console.log(`${kg.logPad("SHEETS")}Retrieved rows for ${targetSheet.docsId} -> ${targetSheet.sheetName}...`);
-
-			// track all current files, so we can later delete those which should not exist
-			const extDistDir = "ExternalArt/dist";
-			fs.mkdirSync(extDistDir, {recursive: true});
-			fs.readdirSync(extDistDir).forEach(file => this.filesToRemove[file] = true);
 
 			const rowsBody = resBody.data.values;
 			rowsBody.map(r => this._parseRow(r)).filter(it => it).sort(ArtGrab._sortRows).forEach(r => {
