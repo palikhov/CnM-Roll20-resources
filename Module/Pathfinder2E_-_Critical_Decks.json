@@ -1,0 +1,2492 @@
+{
+	"schema_version": 1,
+	"decks": [
+		{
+			"attributes": {
+				"name": "Pathfinder 2E - Critical Hit Deck",
+				"currentDeck": "",
+				"currentIndex": -1,
+				"currentCardShown": true,
+				"showplayers": true,
+				"show_tooltips": false,
+				"playerscandraw": false,
+				"avatar": "https://i.ibb.co/CnmjwwY/Back.png",
+				"shown": false,
+				"players_seenumcards": true,
+				"players_seefrontofcards": false,
+				"gm_seenumcards": true,
+				"gm_seefrontofcards": false,
+				"infinitecards": false,
+				"cardSequencer": -1,
+				"cardsplayed": "faceup",
+				"defaultheight": "",
+				"defaultwidth": "",
+				"discardpilemode": "none",
+				"discardPile": "",
+				"removedcardsmode": "none",
+				"removedcards": "none",
+				"deckpilemode": "none",
+				"treatasdrawing": true,
+				"dealToOffline": false,
+				"cards": {
+					"-NBsIow62o8r6cJZSNcF": {
+						"avatar": "https://i.ibb.co/6bBF7gk/44.png",
+						"id": "-NBsIow62o8r6cJZSNcF",
+						"name": "01"
+					},
+					"-NBsIowT0uWUer6pL3Wz": {
+						"avatar": "https://i.ibb.co/MNqbgW9/45.png",
+						"id": "-NBsIowT0uWUer6pL3Wz",
+						"name": "02"
+					},
+					"-NBsIowqj4mnzPO2z3Yg": {
+						"avatar": "https://i.ibb.co/kJ6yLwW/46.png",
+						"id": "-NBsIowqj4mnzPO2z3Yg",
+						"name": "03"
+					},
+					"-NBsIox9H3OKVCrm3Bvv": {
+						"avatar": "https://i.ibb.co/H20PRBJ/47.png",
+						"id": "-NBsIox9H3OKVCrm3Bvv",
+						"name": "04"
+					},
+					"-NBsIoxQSm8xp3jTlifs": {
+						"avatar": "https://i.ibb.co/Cn9N8Yw/48.png",
+						"id": "-NBsIoxQSm8xp3jTlifs",
+						"name": "05"
+					},
+					"-NBsIoxghptzdZZRpjTr": {
+						"avatar": "https://i.ibb.co/8zXxPzC/49.png",
+						"id": "-NBsIoxghptzdZZRpjTr",
+						"name": "06"
+					},
+					"-NBsIoxw4Q1NzqNbKXqE": {
+						"avatar": "https://i.ibb.co/4m06c1v/50.png",
+						"id": "-NBsIoxw4Q1NzqNbKXqE",
+						"name": "07"
+					},
+					"-NBsIoyJ6R9MPQEZfMvj": {
+						"avatar": "https://i.ibb.co/wNrwDhT/51.png",
+						"id": "-NBsIoyJ6R9MPQEZfMvj",
+						"name": "08"
+					},
+					"-NBsIoyXsw7KTMtX3YcY": {
+						"avatar": "https://i.ibb.co/R0PYTbC/52.png",
+						"id": "-NBsIoyXsw7KTMtX3YcY",
+						"name": "09"
+					},
+					"-NBsIoynfQQnXpebJJbt": {
+						"avatar": "https://i.ibb.co/f8HSxfN/53.png",
+						"id": "-NBsIoynfQQnXpebJJbt",
+						"name": "10"
+					},
+					"-NBsIoz4resvKzZjwU89": {
+						"avatar": "https://i.ibb.co/mcCRf48/01.png",
+						"id": "-NBsIoz4resvKzZjwU89",
+						"name": "11"
+					},
+					"-NBsIozMIYBD061N6NYi": {
+						"avatar": "https://i.ibb.co/g7gqyW4/02.png",
+						"id": "-NBsIozMIYBD061N6NYi",
+						"name": "12"
+					},
+					"-NBsIozcml-o0tdXxfID": {
+						"avatar": "https://i.ibb.co/Wkf5B1C/03.png",
+						"id": "-NBsIozcml-o0tdXxfID",
+						"name": "13"
+					},
+					"-NBsIozunNn9mFzGc-Qm": {
+						"avatar": "https://i.ibb.co/cF86NGJ/04.png",
+						"id": "-NBsIozunNn9mFzGc-Qm",
+						"name": "14"
+					},
+					"-NBsIp-CAzNhRQZYhpGI": {
+						"avatar": "https://i.ibb.co/S6RJ4fV/05.png",
+						"id": "-NBsIp-CAzNhRQZYhpGI",
+						"name": "15"
+					},
+					"-NBsIp-UycCKfd8rvHHR": {
+						"avatar": "https://i.ibb.co/H7WVnx2/06.png",
+						"id": "-NBsIp-UycCKfd8rvHHR",
+						"name": "16"
+					},
+					"-NBsIp-kTUkdqOzCoBdr": {
+						"avatar": "https://i.ibb.co/4jv1hS6/07.png",
+						"id": "-NBsIp-kTUkdqOzCoBdr",
+						"name": "17"
+					},
+					"-NBsIp0-nolD9Fd90QtH": {
+						"avatar": "https://i.ibb.co/GMj6xb2/08.png",
+						"id": "-NBsIp0-nolD9Fd90QtH",
+						"name": "18"
+					},
+					"-NBsIp0K-D9AxhFoHaEG": {
+						"avatar": "https://i.ibb.co/2jYmYQY/09.png",
+						"id": "-NBsIp0K-D9AxhFoHaEG",
+						"name": "19"
+					},
+					"-NBsIp0dplZy7lccAKjV": {
+						"avatar": "https://i.ibb.co/MZLztG4/10.png",
+						"id": "-NBsIp0dplZy7lccAKjV",
+						"name": "20"
+					},
+					"-NBsIp0wVj9fDpaOZZiV": {
+						"avatar": "https://i.ibb.co/rtd7NbY/11.png",
+						"id": "-NBsIp0wVj9fDpaOZZiV",
+						"name": "21"
+					},
+					"-NBsIp1EAs1RoYcOJdmd": {
+						"avatar": "https://i.ibb.co/cXDQNd1/12.png",
+						"id": "-NBsIp1EAs1RoYcOJdmd",
+						"name": "22"
+					},
+					"-NBsIp1XFTeLm1bSK2sx": {
+						"avatar": "https://i.ibb.co/9TY8r82/13.png43",
+						"id": "-NBsIp1XFTeLm1bSK2sx",
+						"name": "23"
+					},
+					"-NBsIp1rBtJVy1u4z3PT": {
+						"avatar": "https://i.ibb.co/mzhsKb5/14.png",
+						"id": "-NBsIp1rBtJVy1u4z3PT",
+						"name": "24"
+					},
+					"-NBsIp29qy5XOVN8-AS8": {
+						"avatar": "https://i.ibb.co/HtYb6c5/15.png",
+						"id": "-NBsIp29qy5XOVN8-AS8",
+						"name": "25"
+					},
+					"-NBsIp2VrEmCLL-mJgNW": {
+						"avatar": "https://i.ibb.co/0jfWydY/16.png",
+						"id": "-NBsIp2VrEmCLL-mJgNW",
+						"name": "26"
+					},
+					"-NBsIp2qqNVRnb3PZZ3a": {
+						"avatar": "https://i.ibb.co/VT7zmgD/17.png",
+						"id": "-NBsIp2qqNVRnb3PZZ3a",
+						"name": "27"
+					},
+					"-NBsIp39pYmJRhtXpSHa": {
+						"avatar": "https://i.ibb.co/m05GkNz/18.png",
+						"id": "-NBsIp39pYmJRhtXpSHa",
+						"name": "28"
+					},
+					"-NBsIp3UkRS6zTY8bY8l": {
+						"avatar": "https://i.ibb.co/0DmVLnf/19.png",
+						"id": "-NBsIp3UkRS6zTY8bY8l",
+						"name": "29"
+					},
+					"-NBsIp3oFVWcwW2QXZcL": {
+						"avatar": "https://i.ibb.co/TqQSCcb/20.png",
+						"id": "-NBsIp3oFVWcwW2QXZcL",
+						"name": "30"
+					},
+					"-NBsIp47NuAYctV3rLFf": {
+						"avatar": "https://i.ibb.co/g6w89Kj/21.png",
+						"id": "-NBsIp47NuAYctV3rLFf",
+						"name": "31"
+					},
+					"-NBsIp4TYpMMwMuoXSYW": {
+						"avatar": "https://i.ibb.co/5TGBXv2/22.png",
+						"id": "-NBsIp4TYpMMwMuoXSYW",
+						"name": "32"
+					},
+					"-NBsIp4orQY4Q8XHfmPQ": {
+						"avatar": "https://i.ibb.co/WBmgrRx/23.png",
+						"id": "-NBsIp4orQY4Q8XHfmPQ",
+						"name": "33"
+					},
+					"-NBsIp57Ekm5qZFkHmuz": {
+						"avatar": "https://i.ibb.co/Y24Ngpm/24.png",
+						"id": "-NBsIp57Ekm5qZFkHmuz",
+						"name": "34"
+					},
+					"-NBsIp5ZuyucKE5AZzy8": {
+						"avatar": "https://i.ibb.co/hFzX8DK/25.png",
+						"id": "-NBsIp5ZuyucKE5AZzy8",
+						"name": "35"
+					},
+					"-NBsIp5wTl48SmojY41L": {
+						"avatar": "https://i.ibb.co/CbZMzxM/26.png",
+						"id": "-NBsIp5wTl48SmojY41L",
+						"name": "36"
+					},
+					"-NBsIp6GrHMxxnVOTJZp": {
+						"avatar": "https://i.ibb.co/TvVZMq0/27.png",
+						"id": "-NBsIp6GrHMxxnVOTJZp",
+						"name": "37"
+					},
+					"-NBsIp6dkq0fG4i1pHDz": {
+						"avatar": "https://i.ibb.co/Gp3RVhv/28.png",
+						"id": "-NBsIp6dkq0fG4i1pHDz",
+						"name": "38"
+					},
+					"-NBsIp7-PKNzwt2M0pAR": {
+						"avatar": "https://i.ibb.co/X7Pf3B0/29.png",
+						"id": "-NBsIp7-PKNzwt2M0pAR",
+						"name": "39"
+					},
+					"-NBsIp7MbBbfsRNf9XHG": {
+						"avatar": "https://i.ibb.co/WVcggxn/30.png",
+						"id": "-NBsIp7MbBbfsRNf9XHG",
+						"name": "40"
+					},
+					"-NBsIp7msKOzZfwy6ptn": {
+						"avatar": "https://i.ibb.co/zHKHzvf/31.png",
+						"id": "-NBsIp7msKOzZfwy6ptn",
+						"name": "41"
+					},
+					"-NBsIp8C2X6xC2fC2q-y": {
+						"avatar": "https://i.ibb.co/8sqB23M/32.png",
+						"id": "-NBsIp8C2X6xC2fC2q-y",
+						"name": "42"
+					},
+					"-NBsIp8ZhTugYSUR7Sfc": {
+						"avatar": "https://i.ibb.co/PcxwPRs/33.png",
+						"id": "-NBsIp8ZhTugYSUR7Sfc",
+						"name": "43"
+					},
+					"-NBsIp90VZBYbjpds2kq": {
+						"avatar": "https://i.ibb.co/nrm84nD/34.png",
+						"id": "-NBsIp90VZBYbjpds2kq",
+						"name": "44"
+					},
+					"-NBsIp9PjX22ZeyQJy5f": {
+						"avatar": "https://i.ibb.co/JqgNh5V/35.png",
+						"id": "-NBsIp9PjX22ZeyQJy5f",
+						"name": "45"
+					},
+					"-NBsIp9wKGR5zjgXpjtQ": {
+						"avatar": "https://i.ibb.co/0s53yXb/36.png",
+						"id": "-NBsIp9wKGR5zjgXpjtQ",
+						"name": "46"
+					},
+					"-NBsIpALZugewmiZDOsp": {
+						"avatar": "https://i.ibb.co/0q9T3pn/37.png",
+						"id": "-NBsIpALZugewmiZDOsp",
+						"name": "47"
+					},
+					"-NBsIpAnmnB2B6h3ls1e": {
+						"avatar": "https://i.ibb.co/q1NGjBQ/38.png",
+						"id": "-NBsIpAnmnB2B6h3ls1e",
+						"name": "48"
+					},
+					"-NBsIpBF6K53mQJS0eZ4": {
+						"avatar": "https://i.ibb.co/RDbp1cY/39.png",
+						"id": "-NBsIpBF6K53mQJS0eZ4",
+						"name": "49"
+					},
+					"-NBsIpBfZfWemut2askT": {
+						"avatar": "https://i.ibb.co/fdJWbGv/40.png",
+						"id": "-NBsIpBfZfWemut2askT",
+						"name": "50"
+					},
+					"-NBsIpC8mUIg6VIxgMdl": {
+						"avatar": "https://i.ibb.co/BzcZDzq/41.png",
+						"id": "-NBsIpC8mUIg6VIxgMdl",
+						"name": "51"
+					},
+					"-NBsIpCWXE-Z30xZf368": {
+						"avatar": "https://i.ibb.co/4ptbQd8/42.png",
+						"id": "-NBsIpCWXE-Z30xZf368",
+						"name": "52"
+					},
+					"-NBsIpCsvvoGhh5emNBy": {
+						"avatar": "https://i.ibb.co/BPGYhhK/43.png",
+						"id": "-NBsIpCsvvoGhh5emNBy",
+						"name": "53"
+					}
+				},
+				"id": "-NBsCi8-i1rV10ApkGmQ",
+				"infinitecardstype": "random"
+			},
+			"cards": [
+				{
+					"name": "01",
+					"avatar": "https://i.ibb.co/6bBF7gk/44.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIow62o8r6cJZSNcF"
+				},
+				{
+					"name": "02",
+					"avatar": "https://i.ibb.co/MNqbgW9/45.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIowT0uWUer6pL3Wz"
+				},
+				{
+					"name": "03",
+					"avatar": "https://i.ibb.co/kJ6yLwW/46.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIowqj4mnzPO2z3Yg"
+				},
+				{
+					"name": "04",
+					"avatar": "https://i.ibb.co/H20PRBJ/47.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIox9H3OKVCrm3Bvv"
+				},
+				{
+					"name": "05",
+					"avatar": "https://i.ibb.co/Cn9N8Yw/48.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIoxQSm8xp3jTlifs"
+				},
+				{
+					"name": "06",
+					"avatar": "https://i.ibb.co/8zXxPzC/49.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIoxghptzdZZRpjTr"
+				},
+				{
+					"name": "07",
+					"avatar": "https://i.ibb.co/4m06c1v/50.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIoxw4Q1NzqNbKXqE"
+				},
+				{
+					"name": "08",
+					"avatar": "https://i.ibb.co/wNrwDhT/51.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIoyJ6R9MPQEZfMvj"
+				},
+				{
+					"name": "09",
+					"avatar": "https://i.ibb.co/R0PYTbC/52.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIoyXsw7KTMtX3YcY"
+				},
+				{
+					"name": "10",
+					"avatar": "https://i.ibb.co/f8HSxfN/53.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIoynfQQnXpebJJbt"
+				},
+				{
+					"name": "11",
+					"avatar": "https://i.ibb.co/mcCRf48/01.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIoz4resvKzZjwU89"
+				},
+				{
+					"name": "12",
+					"avatar": "https://i.ibb.co/g7gqyW4/02.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIozMIYBD061N6NYi"
+				},
+				{
+					"name": "13",
+					"avatar": "https://i.ibb.co/Wkf5B1C/03.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIozcml-o0tdXxfID"
+				},
+				{
+					"name": "14",
+					"avatar": "https://i.ibb.co/cF86NGJ/04.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIozunNn9mFzGc-Qm"
+				},
+				{
+					"name": "15",
+					"avatar": "https://i.ibb.co/S6RJ4fV/05.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp-CAzNhRQZYhpGI"
+				},
+				{
+					"name": "16",
+					"avatar": "https://i.ibb.co/H7WVnx2/06.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp-UycCKfd8rvHHR"
+				},
+				{
+					"name": "17",
+					"avatar": "https://i.ibb.co/4jv1hS6/07.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp-kTUkdqOzCoBdr"
+				},
+				{
+					"name": "18",
+					"avatar": "https://i.ibb.co/GMj6xb2/08.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp0-nolD9Fd90QtH"
+				},
+				{
+					"name": "19",
+					"avatar": "https://i.ibb.co/2jYmYQY/09.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp0K-D9AxhFoHaEG"
+				},
+				{
+					"name": "20",
+					"avatar": "https://i.ibb.co/MZLztG4/10.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp0dplZy7lccAKjV"
+				},
+				{
+					"name": "21",
+					"avatar": "https://i.ibb.co/rtd7NbY/11.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp0wVj9fDpaOZZiV"
+				},
+				{
+					"name": "22",
+					"avatar": "https://i.ibb.co/cXDQNd1/12.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp1EAs1RoYcOJdmd"
+				},
+				{
+					"name": "23",
+					"avatar": "https://i.ibb.co/9TY8r82/13.png43",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp1XFTeLm1bSK2sx"
+				},
+				{
+					"name": "24",
+					"avatar": "https://i.ibb.co/mzhsKb5/14.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp1rBtJVy1u4z3PT"
+				},
+				{
+					"name": "25",
+					"avatar": "https://i.ibb.co/HtYb6c5/15.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp29qy5XOVN8-AS8"
+				},
+				{
+					"name": "26",
+					"avatar": "https://i.ibb.co/0jfWydY/16.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp2VrEmCLL-mJgNW"
+				},
+				{
+					"name": "27",
+					"avatar": "https://i.ibb.co/VT7zmgD/17.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp2qqNVRnb3PZZ3a"
+				},
+				{
+					"name": "28",
+					"avatar": "https://i.ibb.co/m05GkNz/18.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp39pYmJRhtXpSHa"
+				},
+				{
+					"name": "29",
+					"avatar": "https://i.ibb.co/0DmVLnf/19.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp3UkRS6zTY8bY8l"
+				},
+				{
+					"name": "30",
+					"avatar": "https://i.ibb.co/TqQSCcb/20.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp3oFVWcwW2QXZcL"
+				},
+				{
+					"name": "31",
+					"avatar": "https://i.ibb.co/g6w89Kj/21.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp47NuAYctV3rLFf"
+				},
+				{
+					"name": "32",
+					"avatar": "https://i.ibb.co/5TGBXv2/22.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp4TYpMMwMuoXSYW"
+				},
+				{
+					"name": "33",
+					"avatar": "https://i.ibb.co/WBmgrRx/23.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp4orQY4Q8XHfmPQ"
+				},
+				{
+					"name": "34",
+					"avatar": "https://i.ibb.co/Y24Ngpm/24.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp57Ekm5qZFkHmuz"
+				},
+				{
+					"name": "35",
+					"avatar": "https://i.ibb.co/hFzX8DK/25.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp5ZuyucKE5AZzy8"
+				},
+				{
+					"name": "36",
+					"avatar": "https://i.ibb.co/CbZMzxM/26.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp5wTl48SmojY41L"
+				},
+				{
+					"name": "37",
+					"avatar": "https://i.ibb.co/TvVZMq0/27.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp6GrHMxxnVOTJZp"
+				},
+				{
+					"name": "38",
+					"avatar": "https://i.ibb.co/Gp3RVhv/28.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp6dkq0fG4i1pHDz"
+				},
+				{
+					"name": "39",
+					"avatar": "https://i.ibb.co/X7Pf3B0/29.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp7-PKNzwt2M0pAR"
+				},
+				{
+					"name": "40",
+					"avatar": "https://i.ibb.co/WVcggxn/30.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp7MbBbfsRNf9XHG"
+				},
+				{
+					"name": "41",
+					"avatar": "https://i.ibb.co/zHKHzvf/31.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp7msKOzZfwy6ptn"
+				},
+				{
+					"name": "42",
+					"avatar": "https://i.ibb.co/8sqB23M/32.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp8C2X6xC2fC2q-y"
+				},
+				{
+					"name": "43",
+					"avatar": "https://i.ibb.co/PcxwPRs/33.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp8ZhTugYSUR7Sfc"
+				},
+				{
+					"name": "44",
+					"avatar": "https://i.ibb.co/nrm84nD/34.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp90VZBYbjpds2kq"
+				},
+				{
+					"name": "45",
+					"avatar": "https://i.ibb.co/JqgNh5V/35.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp9PjX22ZeyQJy5f"
+				},
+				{
+					"name": "46",
+					"avatar": "https://i.ibb.co/0s53yXb/36.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIp9wKGR5zjgXpjtQ"
+				},
+				{
+					"name": "47",
+					"avatar": "https://i.ibb.co/0q9T3pn/37.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIpALZugewmiZDOsp"
+				},
+				{
+					"name": "48",
+					"avatar": "https://i.ibb.co/q1NGjBQ/38.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIpAnmnB2B6h3ls1e"
+				},
+				{
+					"name": "49",
+					"avatar": "https://i.ibb.co/RDbp1cY/39.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIpBF6K53mQJS0eZ4"
+				},
+				{
+					"name": "50",
+					"avatar": "https://i.ibb.co/fdJWbGv/40.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIpBfZfWemut2askT"
+				},
+				{
+					"name": "51",
+					"avatar": "https://i.ibb.co/BzcZDzq/41.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIpC8mUIg6VIxgMdl"
+				},
+				{
+					"name": "52",
+					"avatar": "https://i.ibb.co/4ptbQd8/42.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIpCWXE-Z30xZf368"
+				},
+				{
+					"name": "53",
+					"avatar": "https://i.ibb.co/BPGYhhK/43.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsIpCsvvoGhh5emNBy"
+				}
+			]
+		},
+		{
+			"attributes": {
+				"name": "Pathfinder 2E - Critical Fumble Deck",
+				"currentDeck": "",
+				"currentIndex": -1,
+				"currentCardShown": true,
+				"showplayers": true,
+				"show_tooltips": false,
+				"playerscandraw": false,
+				"avatar": "https://i.ibb.co/dt26HDJ/Card-Back.png",
+				"shown": false,
+				"players_seenumcards": true,
+				"players_seefrontofcards": false,
+				"gm_seenumcards": true,
+				"gm_seefrontofcards": false,
+				"infinitecards": false,
+				"cardSequencer": -1,
+				"cardsplayed": "faceup",
+				"defaultheight": "",
+				"defaultwidth": "",
+				"discardpilemode": "none",
+				"discardPile": "",
+				"removedcardsmode": "none",
+				"removedcards": "none",
+				"deckpilemode": "none",
+				"treatasdrawing": true,
+				"dealToOffline": false,
+				"cards": {
+					"-NBsR3dm2qiIu--qFql8": {
+						"avatar": "https://i.ibb.co/Wkjvsx4/01.png",
+						"id": "-NBsR3dm2qiIu--qFql8",
+						"name": "01"
+					},
+					"-NBsR3eAH8Fj33yccPH4": {
+						"avatar": "https://i.ibb.co/R7SQf8d/02.png",
+						"id": "-NBsR3eAH8Fj33yccPH4",
+						"name": "02"
+					},
+					"-NBsR3eRHGcbdbwhyEyq": {
+						"avatar": "https://i.ibb.co/JtLM14p/03.png",
+						"id": "-NBsR3eRHGcbdbwhyEyq",
+						"name": "03"
+					},
+					"-NBsR3egniJhuXiKyMvJ": {
+						"avatar": "https://i.ibb.co/pjPGBQF/04.png",
+						"id": "-NBsR3egniJhuXiKyMvJ",
+						"name": "04"
+					},
+					"-NBsR3ex1GMkkTsyq5SP": {
+						"avatar": "https://i.ibb.co/BjN3y7p/05.png",
+						"id": "-NBsR3ex1GMkkTsyq5SP",
+						"name": "05"
+					},
+					"-NBsR3fITNkd1SqdBgQ5": {
+						"avatar": "https://i.ibb.co/7NyHGj2/06.png",
+						"id": "-NBsR3fITNkd1SqdBgQ5",
+						"name": "06"
+					},
+					"-NBsR3fYrjnRYmAk0HD6": {
+						"avatar": "https://i.ibb.co/2M7dY9y/07.png",
+						"id": "-NBsR3fYrjnRYmAk0HD6",
+						"name": "07"
+					},
+					"-NBsR3fnTvXMMI20bNQo": {
+						"avatar": "https://i.ibb.co/Yj48mcc/08.png",
+						"id": "-NBsR3fnTvXMMI20bNQo",
+						"name": "08"
+					},
+					"-NBsR3g3ArvXX2gcN7q1": {
+						"avatar": "https://i.ibb.co/Qvr5gRd/09.png",
+						"id": "-NBsR3g3ArvXX2gcN7q1",
+						"name": "09"
+					},
+					"-NBsR3gLyq8wRB2GsPyJ": {
+						"avatar": "https://i.ibb.co/fD1k3Bz/10.png",
+						"id": "-NBsR3gLyq8wRB2GsPyJ",
+						"name": "10"
+					},
+					"-NBsR3gcVZ-iGDwYxKnf": {
+						"avatar": "https://i.ibb.co/F5tqytB/11.png",
+						"id": "-NBsR3gcVZ-iGDwYxKnf",
+						"name": "11"
+					},
+					"-NBsR3guvXqwpmV3Jah9": {
+						"avatar": "https://i.ibb.co/LCgVm95/12.png",
+						"id": "-NBsR3guvXqwpmV3Jah9",
+						"name": "12"
+					},
+					"-NBsR3hEXjdpXzsIgWPz": {
+						"avatar": "https://i.ibb.co/p0kTqNY/13.png",
+						"id": "-NBsR3hEXjdpXzsIgWPz",
+						"name": "13"
+					},
+					"-NBsR3hWywg4L2KnlP6R": {
+						"avatar": "https://i.ibb.co/LdpXTbD/14.png",
+						"id": "-NBsR3hWywg4L2KnlP6R",
+						"name": "14"
+					},
+					"-NBsR3hpNNWziC-A6sz7": {
+						"avatar": "https://i.ibb.co/P4nXP8h/15.png",
+						"id": "-NBsR3hpNNWziC-A6sz7",
+						"name": "15"
+					},
+					"-NBsR3i6zFWaQhM1RSHr": {
+						"avatar": "https://i.ibb.co/LR0SBBc/16.png",
+						"id": "-NBsR3i6zFWaQhM1RSHr",
+						"name": "16"
+					},
+					"-NBsR3iOq6pehFKUGOed": {
+						"avatar": "https://i.ibb.co/Mn4bBCT/17.png",
+						"id": "-NBsR3iOq6pehFKUGOed",
+						"name": "17"
+					},
+					"-NBsR3iemqgkDYw-BZvy": {
+						"avatar": "https://i.ibb.co/LNzgs25/18.png",
+						"id": "-NBsR3iemqgkDYw-BZvy",
+						"name": "18"
+					},
+					"-NBsR3izMzKCX560VF-p": {
+						"avatar": "https://i.ibb.co/ZWcZfXR/19.png",
+						"id": "-NBsR3izMzKCX560VF-p",
+						"name": "19"
+					},
+					"-NBsR3jH69fDGfJq8pGb": {
+						"avatar": "https://i.ibb.co/m9z7cV8/20.png",
+						"id": "-NBsR3jH69fDGfJq8pGb",
+						"name": "20"
+					},
+					"-NBsR3jbzbFQRJjZe9Vo": {
+						"avatar": "https://i.ibb.co/p33Q8xt/21.png",
+						"id": "-NBsR3jbzbFQRJjZe9Vo",
+						"name": "21"
+					},
+					"-NBsR3ju5pYYLvYaS3vS": {
+						"avatar": "https://i.ibb.co/0Zykd23/22.png",
+						"id": "-NBsR3ju5pYYLvYaS3vS",
+						"name": "22"
+					},
+					"-NBsR3kCaFLg9CKgkKan": {
+						"avatar": "https://i.ibb.co/B32p3Z0/23.png",
+						"id": "-NBsR3kCaFLg9CKgkKan",
+						"name": "23"
+					},
+					"-NBsR3kW4BO0NfuJ27gt": {
+						"avatar": "https://i.ibb.co/tBh9ZJ4/24.png",
+						"id": "-NBsR3kW4BO0NfuJ27gt",
+						"name": "24"
+					},
+					"-NBsR3kvMmCZ23kj0oEr": {
+						"avatar": "https://i.ibb.co/pJYV4jv/25.png",
+						"id": "-NBsR3kvMmCZ23kj0oEr",
+						"name": "25"
+					},
+					"-NBsR3lHmFdFf7uytTPH": {
+						"avatar": "https://i.ibb.co/wSFBq4g/26.png",
+						"id": "-NBsR3lHmFdFf7uytTPH",
+						"name": "26"
+					},
+					"-NBsR3lc3qKBs0cPpS-x": {
+						"avatar": "https://i.ibb.co/rmW4TT0/27.png",
+						"id": "-NBsR3lc3qKBs0cPpS-x",
+						"name": "27"
+					},
+					"-NBsR3m0JKYqfvEIRNWi": {
+						"avatar": "https://i.ibb.co/n0DCRWq/28.png",
+						"id": "-NBsR3m0JKYqfvEIRNWi",
+						"name": "28"
+					},
+					"-NBsR3mNSrSTbxx2gvy3": {
+						"avatar": "https://i.ibb.co/6RsMZNH/29.png",
+						"id": "-NBsR3mNSrSTbxx2gvy3",
+						"name": "29"
+					},
+					"-NBsR3mk0IFfJSE05-zV": {
+						"avatar": "https://i.ibb.co/NVYZRS0/30.png",
+						"id": "-NBsR3mk0IFfJSE05-zV",
+						"name": "30"
+					},
+					"-NBsR3nEuoXGMIiboSwa": {
+						"avatar": "https://i.ibb.co/CtVyvVV/31.png",
+						"id": "-NBsR3nEuoXGMIiboSwa",
+						"name": "31"
+					},
+					"-NBsR3nluWkozcuo4g9k": {
+						"avatar": "https://i.ibb.co/rbTWgL7/32.png",
+						"id": "-NBsR3nluWkozcuo4g9k",
+						"name": "32"
+					},
+					"-NBsR3oTZMWv5CYJYGib": {
+						"avatar": "https://i.ibb.co/YWcKBkq/33.png",
+						"id": "-NBsR3oTZMWv5CYJYGib",
+						"name": "33"
+					},
+					"-NBsR3pM1UPf9ZwWy8Uw": {
+						"avatar": "https://i.ibb.co/cLCY3RK/34.png",
+						"id": "-NBsR3pM1UPf9ZwWy8Uw",
+						"name": "34"
+					},
+					"-NBsR3qOh-FS81sEGgrL": {
+						"avatar": "https://i.ibb.co/0mnGczK/35.png",
+						"id": "-NBsR3qOh-FS81sEGgrL",
+						"name": "35"
+					},
+					"-NBsR3r4-XU6uMPytftq": {
+						"avatar": "https://i.ibb.co/ynQBdJD/36.png",
+						"id": "-NBsR3r4-XU6uMPytftq",
+						"name": "36"
+					},
+					"-NBsR3raWO21oDhDdZGp": {
+						"avatar": "https://i.ibb.co/LN6sLpq/37.png",
+						"id": "-NBsR3raWO21oDhDdZGp",
+						"name": "37"
+					},
+					"-NBsR3ry9WBQ8NFiPL4C": {
+						"avatar": "https://i.ibb.co/bz4yCxk/38.png",
+						"id": "-NBsR3ry9WBQ8NFiPL4C",
+						"name": "38"
+					},
+					"-NBsR3sbZsDRbmgdTpEu": {
+						"avatar": "https://i.ibb.co/sjBT7H7/39.png",
+						"id": "-NBsR3sbZsDRbmgdTpEu",
+						"name": "39"
+					},
+					"-NBsR3tR5HZdF0zE5a4S": {
+						"avatar": "https://i.ibb.co/grgKZHn/40.png",
+						"id": "-NBsR3tR5HZdF0zE5a4S",
+						"name": "40"
+					},
+					"-NBsR3ttQGg7YQzU78ul": {
+						"avatar": "https://i.ibb.co/2W3JTrn/41.png",
+						"id": "-NBsR3ttQGg7YQzU78ul",
+						"name": "41"
+					},
+					"-NBsR3uImaB2s89Eq10Z": {
+						"avatar": "https://i.ibb.co/YLpCDHM/42.png",
+						"id": "-NBsR3uImaB2s89Eq10Z",
+						"name": "42"
+					},
+					"-NBsR3uofupE73CKUy0D": {
+						"avatar": "https://i.ibb.co/ncWywkL/43.png",
+						"id": "-NBsR3uofupE73CKUy0D",
+						"name": "43"
+					},
+					"-NBsR3vH4bPWoVdA6fLO": {
+						"avatar": "https://i.ibb.co/s2tXtBd/44.png",
+						"id": "-NBsR3vH4bPWoVdA6fLO",
+						"name": "44"
+					},
+					"-NBsR3vfcyJZhxf6HH-z": {
+						"avatar": "https://i.ibb.co/TbmrhyB/45.png",
+						"id": "-NBsR3vfcyJZhxf6HH-z",
+						"name": "45"
+					},
+					"-NBsR3w3bpQ0yjElgOAp": {
+						"avatar": "https://i.ibb.co/4T2QkzW/46.png",
+						"id": "-NBsR3w3bpQ0yjElgOAp",
+						"name": "46"
+					},
+					"-NBsR3wUSmhQuiMRObnS": {
+						"avatar": "https://i.ibb.co/whnFsFT/47.png",
+						"id": "-NBsR3wUSmhQuiMRObnS",
+						"name": "47"
+					},
+					"-NBsR3wtFkexKV6S4Fbu": {
+						"avatar": "https://i.ibb.co/VpZqdk5/48.png",
+						"id": "-NBsR3wtFkexKV6S4Fbu",
+						"name": "48"
+					},
+					"-NBsR3xK5BvNX82gEMir": {
+						"avatar": "https://i.ibb.co/RCR183k/49.png",
+						"id": "-NBsR3xK5BvNX82gEMir",
+						"name": "49"
+					},
+					"-NBsR3xkkcoGGzssmTG7": {
+						"avatar": "https://i.ibb.co/MBcyJHZ/50.png",
+						"id": "-NBsR3xkkcoGGzssmTG7",
+						"name": "50"
+					},
+					"-NBsR3yBzFOCyMYNl4jv": {
+						"avatar": "https://i.ibb.co/3swgx6P/51.png",
+						"id": "-NBsR3yBzFOCyMYNl4jv",
+						"name": "51"
+					},
+					"-NBsR3ybiJvAUjEhxSs4": {
+						"avatar": "https://i.ibb.co/Y499wxM/52.png",
+						"id": "-NBsR3ybiJvAUjEhxSs4",
+						"name": "52"
+					},
+					"-NBsR3z70ZJbDQbBrEB-": {
+						"avatar": "https://i.ibb.co/frhPg4p/53.png",
+						"id": "-NBsR3z70ZJbDQbBrEB-",
+						"name": "53"
+					}
+				},
+				"id": "-NBsPry5TEGlHmVHYkgX",
+				"infinitecardstype": "random"
+			},
+			"cards": [
+				{
+					"name": "01",
+					"avatar": "https://i.ibb.co/Wkjvsx4/01.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3dm2qiIu--qFql8"
+				},
+				{
+					"name": "02",
+					"avatar": "https://i.ibb.co/R7SQf8d/02.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3eAH8Fj33yccPH4"
+				},
+				{
+					"name": "03",
+					"avatar": "https://i.ibb.co/JtLM14p/03.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3eRHGcbdbwhyEyq"
+				},
+				{
+					"name": "04",
+					"avatar": "https://i.ibb.co/pjPGBQF/04.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3egniJhuXiKyMvJ"
+				},
+				{
+					"name": "05",
+					"avatar": "https://i.ibb.co/BjN3y7p/05.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3ex1GMkkTsyq5SP"
+				},
+				{
+					"name": "06",
+					"avatar": "https://i.ibb.co/7NyHGj2/06.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3fITNkd1SqdBgQ5"
+				},
+				{
+					"name": "07",
+					"avatar": "https://i.ibb.co/2M7dY9y/07.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3fYrjnRYmAk0HD6"
+				},
+				{
+					"name": "08",
+					"avatar": "https://i.ibb.co/Yj48mcc/08.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3fnTvXMMI20bNQo"
+				},
+				{
+					"name": "09",
+					"avatar": "https://i.ibb.co/Qvr5gRd/09.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3g3ArvXX2gcN7q1"
+				},
+				{
+					"name": "10",
+					"avatar": "https://i.ibb.co/fD1k3Bz/10.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3gLyq8wRB2GsPyJ"
+				},
+				{
+					"name": "11",
+					"avatar": "https://i.ibb.co/F5tqytB/11.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3gcVZ-iGDwYxKnf"
+				},
+				{
+					"name": "12",
+					"avatar": "https://i.ibb.co/LCgVm95/12.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3guvXqwpmV3Jah9"
+				},
+				{
+					"name": "13",
+					"avatar": "https://i.ibb.co/p0kTqNY/13.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3hEXjdpXzsIgWPz"
+				},
+				{
+					"name": "14",
+					"avatar": "https://i.ibb.co/LdpXTbD/14.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3hWywg4L2KnlP6R"
+				},
+				{
+					"name": "15",
+					"avatar": "https://i.ibb.co/P4nXP8h/15.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3hpNNWziC-A6sz7"
+				},
+				{
+					"name": "16",
+					"avatar": "https://i.ibb.co/LR0SBBc/16.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3i6zFWaQhM1RSHr"
+				},
+				{
+					"name": "17",
+					"avatar": "https://i.ibb.co/Mn4bBCT/17.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3iOq6pehFKUGOed"
+				},
+				{
+					"name": "18",
+					"avatar": "https://i.ibb.co/LNzgs25/18.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3iemqgkDYw-BZvy"
+				},
+				{
+					"name": "19",
+					"avatar": "https://i.ibb.co/ZWcZfXR/19.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3izMzKCX560VF-p"
+				},
+				{
+					"name": "20",
+					"avatar": "https://i.ibb.co/m9z7cV8/20.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3jH69fDGfJq8pGb"
+				},
+				{
+					"name": "21",
+					"avatar": "https://i.ibb.co/p33Q8xt/21.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3jbzbFQRJjZe9Vo"
+				},
+				{
+					"name": "22",
+					"avatar": "https://i.ibb.co/0Zykd23/22.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3ju5pYYLvYaS3vS"
+				},
+				{
+					"name": "23",
+					"avatar": "https://i.ibb.co/B32p3Z0/23.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3kCaFLg9CKgkKan"
+				},
+				{
+					"name": "24",
+					"avatar": "https://i.ibb.co/tBh9ZJ4/24.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3kW4BO0NfuJ27gt"
+				},
+				{
+					"name": "25",
+					"avatar": "https://i.ibb.co/pJYV4jv/25.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3kvMmCZ23kj0oEr"
+				},
+				{
+					"name": "26",
+					"avatar": "https://i.ibb.co/wSFBq4g/26.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3lHmFdFf7uytTPH"
+				},
+				{
+					"name": "27",
+					"avatar": "https://i.ibb.co/rmW4TT0/27.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3lc3qKBs0cPpS-x"
+				},
+				{
+					"name": "28",
+					"avatar": "https://i.ibb.co/n0DCRWq/28.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3m0JKYqfvEIRNWi"
+				},
+				{
+					"name": "29",
+					"avatar": "https://i.ibb.co/6RsMZNH/29.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3mNSrSTbxx2gvy3"
+				},
+				{
+					"name": "30",
+					"avatar": "https://i.ibb.co/NVYZRS0/30.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3mk0IFfJSE05-zV"
+				},
+				{
+					"name": "31",
+					"avatar": "https://i.ibb.co/CtVyvVV/31.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3nEuoXGMIiboSwa"
+				},
+				{
+					"name": "32",
+					"avatar": "https://i.ibb.co/rbTWgL7/32.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3nluWkozcuo4g9k"
+				},
+				{
+					"name": "33",
+					"avatar": "https://i.ibb.co/YWcKBkq/33.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3oTZMWv5CYJYGib"
+				},
+				{
+					"name": "34",
+					"avatar": "https://i.ibb.co/cLCY3RK/34.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3pM1UPf9ZwWy8Uw"
+				},
+				{
+					"name": "35",
+					"avatar": "https://i.ibb.co/0mnGczK/35.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3qOh-FS81sEGgrL"
+				},
+				{
+					"name": "36",
+					"avatar": "https://i.ibb.co/ynQBdJD/36.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3r4-XU6uMPytftq"
+				},
+				{
+					"name": "37",
+					"avatar": "https://i.ibb.co/LN6sLpq/37.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3raWO21oDhDdZGp"
+				},
+				{
+					"name": "38",
+					"avatar": "https://i.ibb.co/bz4yCxk/38.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3ry9WBQ8NFiPL4C"
+				},
+				{
+					"name": "39",
+					"avatar": "https://i.ibb.co/sjBT7H7/39.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3sbZsDRbmgdTpEu"
+				},
+				{
+					"name": "40",
+					"avatar": "https://i.ibb.co/grgKZHn/40.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3tR5HZdF0zE5a4S"
+				},
+				{
+					"name": "41",
+					"avatar": "https://i.ibb.co/2W3JTrn/41.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3ttQGg7YQzU78ul"
+				},
+				{
+					"name": "42",
+					"avatar": "https://i.ibb.co/YLpCDHM/42.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3uImaB2s89Eq10Z"
+				},
+				{
+					"name": "43",
+					"avatar": "https://i.ibb.co/ncWywkL/43.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3uofupE73CKUy0D"
+				},
+				{
+					"name": "44",
+					"avatar": "https://i.ibb.co/s2tXtBd/44.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3vH4bPWoVdA6fLO"
+				},
+				{
+					"name": "45",
+					"avatar": "https://i.ibb.co/TbmrhyB/45.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3vfcyJZhxf6HH-z"
+				},
+				{
+					"name": "46",
+					"avatar": "https://i.ibb.co/4T2QkzW/46.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3w3bpQ0yjElgOAp"
+				},
+				{
+					"name": "47",
+					"avatar": "https://i.ibb.co/whnFsFT/47.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3wUSmhQuiMRObnS"
+				},
+				{
+					"name": "48",
+					"avatar": "https://i.ibb.co/VpZqdk5/48.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3wtFkexKV6S4Fbu"
+				},
+				{
+					"name": "49",
+					"avatar": "https://i.ibb.co/RCR183k/49.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3xK5BvNX82gEMir"
+				},
+				{
+					"name": "50",
+					"avatar": "https://i.ibb.co/MBcyJHZ/50.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3xkkcoGGzssmTG7"
+				},
+				{
+					"name": "51",
+					"avatar": "https://i.ibb.co/3swgx6P/51.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3yBzFOCyMYNl4jv"
+				},
+				{
+					"name": "52",
+					"avatar": "https://i.ibb.co/Y499wxM/52.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3ybiJvAUjEhxSs4"
+				},
+				{
+					"name": "53",
+					"avatar": "https://i.ibb.co/frhPg4p/53.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NBsR3z70ZJbDQbBrEB-"
+				}
+			]
+		},
+		{
+			"attributes": {
+				"name": "Playing Cards",
+				"currentDeck": "",
+				"currentIndex": -1,
+				"currentCardShown": true,
+				"showplayers": true,
+				"show_tooltips": true,
+				"playerscandraw": true,
+				"avatar": "https://s3.amazonaws.com/files.d20.io/images/1433/med.png?1335737429",
+				"shown": false,
+				"players_seenumcards": true,
+				"players_seefrontofcards": false,
+				"gm_seenumcards": true,
+				"gm_seefrontofcards": false,
+				"infinitecards": false,
+				"cardSequencer": -1,
+				"cardsplayed": "faceup",
+				"defaultheight": "",
+				"defaultwidth": "",
+				"discardpilemode": "none",
+				"discardPile": "",
+				"removedcardsmode": "choosefronts",
+				"removedcards": "none",
+				"deckpilemode": "none",
+				"treatasdrawing": true,
+				"dealToOffline": false,
+				"cards": {
+					"0E7F0D1B-48B9-4B89-B848-76ECC494D3E1": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1464/med.png?1335737697",
+						"id": "0E7F0D1B-48B9-4B89-B848-76ECC494D3E1",
+						"name": "Six of Hearts",
+						"placement": 99
+					},
+					"110C9DF1-360D-40CC-ADAB-1D99F7FC302A": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1466/med.png?1335737714",
+						"id": "110C9DF1-360D-40CC-ADAB-1D99F7FC302A",
+						"name": "Eight of Hearts",
+						"placement": 99
+					},
+					"1252C24A-32B6-499E-A212-355ACAF3C732": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1465/med.png?1335737705",
+						"id": "1252C24A-32B6-499E-A212-355ACAF3C732",
+						"name": "Seven of Hearts",
+						"placement": 99
+					},
+					"13401808-636C-41AA-B7F0-A34D7ED987BF": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1472/med.png?1335737762",
+						"id": "13401808-636C-41AA-B7F0-A34D7ED987BF",
+						"name": "Ace of Hearts",
+						"placement": 99
+					},
+					"190FCDB6-0271-481F-9F1A-BBC127287E39": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1476/med.png?1335737796",
+						"id": "190FCDB6-0271-481F-9F1A-BBC127287E39",
+						"name": "Five of Spades",
+						"placement": 99
+					},
+					"1E728ADC-33D0-4CD9-A1DE-D345C250845D": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1486/med.png?1335737876",
+						"id": "1E728ADC-33D0-4CD9-A1DE-D345C250845D",
+						"name": "Black Joker",
+						"placement": 99
+					},
+					"2257A8D3-74C0-405A-A1EF-504EC2382D09": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1438/med.png?1335737473",
+						"id": "2257A8D3-74C0-405A-A1EF-504EC2382D09",
+						"name": "Six of Clubs",
+						"placement": 99
+					},
+					"2AFEBEF8-3706-4F25-A3B9-2ECE232E1EC5": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1439/med.png?1335737481",
+						"id": "2AFEBEF8-3706-4F25-A3B9-2ECE232E1EC5",
+						"name": "Seven of Clubs",
+						"placement": 99
+					},
+					"2D55728D-BC3C-41CF-9516-6E55D66ABBEE": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1471/med.png?1335737754",
+						"id": "2D55728D-BC3C-41CF-9516-6E55D66ABBEE",
+						"name": "King of Hearts",
+						"placement": 99
+					},
+					"33DA353A-C68E-4227-96C5-FA0F0F31341B": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1450/med.png?1335737569",
+						"id": "33DA353A-C68E-4227-96C5-FA0F0F31341B",
+						"name": "Five of Diamonds",
+						"placement": 99
+					},
+					"34C6DEF9-ADEF-4F6B-9404-19B0861871C7": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1437/med.png?1335737465",
+						"id": "34C6DEF9-ADEF-4F6B-9404-19B0861871C7",
+						"name": "Five of Clubs",
+						"placement": 99
+					},
+					"3567727D-69A1-4B57-B08A-023412437248": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1458/med.png?1335737641",
+						"id": "3567727D-69A1-4B57-B08A-023412437248",
+						"name": "King of Diamonds",
+						"placement": 99
+					},
+					"3666790F-C0DA-43AD-8E8E-23F59F00A0CF": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1483/med.png?1335737852",
+						"id": "3666790F-C0DA-43AD-8E8E-23F59F00A0CF",
+						"name": "Queen of Spades",
+						"placement": 99
+					},
+					"36D907D6-B340-4809-A033-216C8BCF7159": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1468/med.png?1335737729",
+						"id": "36D907D6-B340-4809-A033-216C8BCF7159",
+						"name": "Ten of Hearts",
+						"placement": 99
+					},
+					"41B8D164-53E3-4825-B34A-90516FDDECA8": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1469/med.png?1335737737",
+						"id": "41B8D164-53E3-4825-B34A-90516FDDECA8",
+						"name": "Jack of Hearts",
+						"placement": 99
+					},
+					"4288EF3F-19A8-4DB2-B8E9-BFBAD14A9500": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1481/med.png?1335737835",
+						"id": "4288EF3F-19A8-4DB2-B8E9-BFBAD14A9500",
+						"name": "Ten of Spades",
+						"placement": 99
+					},
+					"4C00B0FB-566A-4B3B-987A-C1851E593AA5": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1455/med.png?1335737614",
+						"id": "4C00B0FB-566A-4B3B-987A-C1851E593AA5",
+						"name": "Ten of Diamonds",
+						"placement": 99
+					},
+					"51403249-45D7-45C8-B87E-2863DA016499": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1442/med.png?1335737503",
+						"id": "51403249-45D7-45C8-B87E-2863DA016499",
+						"name": "Ten of Clubs",
+						"placement": 99
+					},
+					"5B37E3FE-B99A-4594-92D9-E2C2C0008FFF": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1451/med.png?1335737579",
+						"id": "5B37E3FE-B99A-4594-92D9-E2C2C0008FFF",
+						"name": "Six of Diamonds",
+						"placement": 99
+					},
+					"5F602642-A624-4877-B1B9-5715DF8D02B0": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1457/med.png?1335737632",
+						"id": "5F602642-A624-4877-B1B9-5715DF8D02B0",
+						"name": "Queen of Diamonds",
+						"placement": 99
+					},
+					"61C9F0F0-BFE4-4ED5-8A55-2B75274702AD": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1448/med.png?1335737552",
+						"id": "61C9F0F0-BFE4-4ED5-8A55-2B75274702AD",
+						"name": "Three of Diamonds",
+						"placement": 99
+					},
+					"64CC77BB-4565-496A-8871-94BF93401B67": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1460/med.png?1335737667",
+						"id": "64CC77BB-4565-496A-8871-94BF93401B67",
+						"name": "Two of Hearts",
+						"placement": 99
+					},
+					"65965D14-1AFA-45F1-B106-8235361F7C15": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1459/med.png?1335737651",
+						"id": "65965D14-1AFA-45F1-B106-8235361F7C15",
+						"name": "Ace of Diamonds",
+						"placement": 99
+					},
+					"67388D62-EDF6-4A1F-935A-43EE6BD41FD8": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1478/med.png?1335737811",
+						"id": "67388D62-EDF6-4A1F-935A-43EE6BD41FD8",
+						"name": "Seven of Spades",
+						"placement": 99
+					},
+					"68AC642B-9C27-42E7-93B0-920B9164C622": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1435/med.png?1335737450",
+						"id": "68AC642B-9C27-42E7-93B0-920B9164C622",
+						"name": "Three of Clubs",
+						"placement": 99
+					},
+					"6A6C3284-EFF1-449C-A02B-B7B0FDF7A5D5": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1467/med.png?1335737721",
+						"id": "6A6C3284-EFF1-449C-A02B-B7B0FDF7A5D5",
+						"name": "Nine of Hearts",
+						"placement": 99
+					},
+					"6C8DF866-9243-4575-8F88-19C27AB39D27": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1445/med.png?1335737528",
+						"id": "6C8DF866-9243-4575-8F88-19C27AB39D27",
+						"name": "King of Clubs",
+						"placement": 99
+					},
+					"855E050F-EA2D-4B32-901D-56BB7E4B5857": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1475/med.png?1335737788",
+						"id": "855E050F-EA2D-4B32-901D-56BB7E4B5857",
+						"name": "Four of Spades",
+						"placement": 99
+					},
+					"8E949576-4946-4AC4-9522-D3E4C4E50741": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1452/med.png?1335737590",
+						"id": "8E949576-4946-4AC4-9522-D3E4C4E50741",
+						"name": "Seven of Diamonds",
+						"placement": 99
+					},
+					"901BFB44-C41A-450F-B35D-868BCDE6CCFE": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1443/med.png?1335737512",
+						"id": "901BFB44-C41A-450F-B35D-868BCDE6CCFE",
+						"name": "Jack of Clubs",
+						"placement": 99
+					},
+					"9E920B87-A20E-42BA-B6E0-DD9022AE1DD2": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1484/med.png?1335737860",
+						"id": "9E920B87-A20E-42BA-B6E0-DD9022AE1DD2",
+						"name": "King of Spades",
+						"placement": 99
+					},
+					"9FCC0D54-ACC0-4C6F-AB0F-3422851A90BE": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1482/med.png?1335737844",
+						"id": "9FCC0D54-ACC0-4C6F-AB0F-3422851A90BE",
+						"name": "Jack of Spades",
+						"placement": 99
+					},
+					"9FFA798A-11F0-46DA-9807-9DC13FE366E4": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1436/med.png?1335737458",
+						"id": "9FFA798A-11F0-46DA-9807-9DC13FE366E4",
+						"name": "Four of Clubs",
+						"placement": 99
+					},
+					"A5AD4508-1C42-40F3-BE37-4812C8012D65": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1480/med.png?1335737829",
+						"id": "A5AD4508-1C42-40F3-BE37-4812C8012D65",
+						"name": "Nine of Spades",
+						"placement": 99
+					},
+					"A9B74EFD-47F1-4CC7-B472-7478D6D70C50": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1453/med.png?1335737598",
+						"id": "A9B74EFD-47F1-4CC7-B472-7478D6D70C50",
+						"name": "Eight of Diamonds",
+						"placement": 99
+					},
+					"AB23A388-7747-4F7A-8F24-5220CCE2D25A": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1463/med.png?1335737690",
+						"id": "AB23A388-7747-4F7A-8F24-5220CCE2D25A",
+						"name": "Five of Hearts",
+						"placement": 99
+					},
+					"AE50176D-2206-4738-B229-9886EB3DA253": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1444/med.png?1335737521",
+						"id": "AE50176D-2206-4738-B229-9886EB3DA253",
+						"name": "Queen of Clubs",
+						"placement": 99
+					},
+					"B4CF2B55-F81E-4508-9AE1-8019B0F04E7E": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1474/med.png?1335737781",
+						"id": "B4CF2B55-F81E-4508-9AE1-8019B0F04E7E",
+						"name": "Three of Spades",
+						"placement": 99
+					},
+					"B8F435D9-9B46-4F54-A1A1-1EEDCD099FC2": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1462/med.png?1335737682",
+						"id": "B8F435D9-9B46-4F54-A1A1-1EEDCD099FC2",
+						"name": "Four of Hearts",
+						"placement": 99
+					},
+					"BBC550AA-8E90-4DBD-B6BF-CC4EE5358DF4": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1477/med.png?1335737804",
+						"id": "BBC550AA-8E90-4DBD-B6BF-CC4EE5358DF4",
+						"name": "Six of Spades",
+						"placement": 99
+					},
+					"BBF9DF2E-F7B8-4F74-B7A1-91CF426C582E": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1449/med.png?1335737560",
+						"id": "BBF9DF2E-F7B8-4F74-B7A1-91CF426C582E",
+						"name": "Four of Diamonds",
+						"placement": 99
+					},
+					"C0062CB1-16E7-49AC-84D1-CB6213C9F2AF": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1434/med.png?1335737442",
+						"id": "C0062CB1-16E7-49AC-84D1-CB6213C9F2AF",
+						"name": "Two of Clubs",
+						"placement": 99
+					},
+					"C1E084D4-EC4F-4BF7-B9D3-BE99FAED12CF": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1479/med.png?1335737819",
+						"id": "C1E084D4-EC4F-4BF7-B9D3-BE99FAED12CF",
+						"name": "Eight of Spades",
+						"placement": 99
+					},
+					"C8E365C7-C67E-4E71-BB17-68468C9E626F": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1461/med.png?1335737674",
+						"id": "C8E365C7-C67E-4E71-BB17-68468C9E626F",
+						"name": "Three of Hearts",
+						"placement": 99
+					},
+					"C98763E1-4BB5-4D13-A1EC-3F7357F9CC4B": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1454/med.png?1335737606",
+						"id": "C98763E1-4BB5-4D13-A1EC-3F7357F9CC4B",
+						"name": "Nine of Diamonds",
+						"placement": 99
+					},
+					"CB1B06E8-D1CE-4838-B4B7-B658132999CB": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1456/med.png?1335737624",
+						"id": "CB1B06E8-D1CE-4838-B4B7-B658132999CB",
+						"name": "Jack of Diamonds",
+						"placement": 99
+					},
+					"CB38D043-5B95-4813-B039-60253A020CD6": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1441/med.png?1335737495",
+						"id": "CB38D043-5B95-4813-B039-60253A020CD6",
+						"name": "Nine of Clubs",
+						"placement": 99
+					},
+					"D949193A-FC9B-48FC-8CAD-5BD4071A7E18": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1446/med.png?1335737536",
+						"id": "D949193A-FC9B-48FC-8CAD-5BD4071A7E18",
+						"name": "Ace of Clubs",
+						"placement": 99
+					},
+					"E18687DE-9AFD-4F78-BC4D-7DDBC7943528": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1473/med.png?1335737774",
+						"id": "E18687DE-9AFD-4F78-BC4D-7DDBC7943528",
+						"name": "Two of Spades",
+						"placement": 99
+					},
+					"EB0BD770-5E05-4488-AC58-88196BD442A1": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1440/med.png?1335737488",
+						"id": "EB0BD770-5E05-4488-AC58-88196BD442A1",
+						"name": "Eight of Clubs",
+						"placement": 99
+					},
+					"EB7D24C2-30B9-4D96-890A-1C064C90D050": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1470/med.png?1335737745",
+						"id": "EB7D24C2-30B9-4D96-890A-1C064C90D050",
+						"name": "Queen of Hearts",
+						"placement": 99
+					},
+					"EFDB047C-C683-4623-86D5-DBA4E4ED058E": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1485/med.png?1335737869",
+						"id": "EFDB047C-C683-4623-86D5-DBA4E4ED058E",
+						"name": "Ace of Spades",
+						"placement": 99
+					},
+					"F2D8AE23-CF91-4CEA-BC17-AEB643A17BC9": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1487/med.png?1335737884",
+						"id": "F2D8AE23-CF91-4CEA-BC17-AEB643A17BC9",
+						"name": "Red Joker",
+						"placement": 99
+					},
+					"F92A58C4-8349-426D-9930-98AB387981BD": {
+						"avatar": "https://s3.amazonaws.com/files.d20.io/images/1447/med.png?1335737545",
+						"id": "F92A58C4-8349-426D-9930-98AB387981BD",
+						"name": "Two of Diamonds",
+						"placement": 99
+					}
+				},
+				"id": "A778E120-672D-49D0-BAF8-8646DA3D3FAC",
+				"showhands": true
+			},
+			"cards": [
+				{
+					"name": "Six of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1464/med.png?1335737697",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "0E7F0D1B-48B9-4B89-B848-76ECC494D3E1"
+				},
+				{
+					"name": "Eight of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1466/med.png?1335737714",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "110C9DF1-360D-40CC-ADAB-1D99F7FC302A"
+				},
+				{
+					"name": "Seven of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1465/med.png?1335737705",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "1252C24A-32B6-499E-A212-355ACAF3C732"
+				},
+				{
+					"name": "Ace of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1472/med.png?1335737762",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "13401808-636C-41AA-B7F0-A34D7ED987BF"
+				},
+				{
+					"name": "Five of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1476/med.png?1335737796",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "190FCDB6-0271-481F-9F1A-BBC127287E39"
+				},
+				{
+					"name": "Black Joker",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1486/med.png?1335737876",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "1E728ADC-33D0-4CD9-A1DE-D345C250845D"
+				},
+				{
+					"name": "Six of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1438/med.png?1335737473",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "2257A8D3-74C0-405A-A1EF-504EC2382D09"
+				},
+				{
+					"name": "Seven of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1439/med.png?1335737481",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "2AFEBEF8-3706-4F25-A3B9-2ECE232E1EC5"
+				},
+				{
+					"name": "King of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1471/med.png?1335737754",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "2D55728D-BC3C-41CF-9516-6E55D66ABBEE"
+				},
+				{
+					"name": "Five of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1450/med.png?1335737569",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "33DA353A-C68E-4227-96C5-FA0F0F31341B"
+				},
+				{
+					"name": "Five of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1437/med.png?1335737465",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "34C6DEF9-ADEF-4F6B-9404-19B0861871C7"
+				},
+				{
+					"name": "King of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1458/med.png?1335737641",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "3567727D-69A1-4B57-B08A-023412437248"
+				},
+				{
+					"name": "Queen of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1483/med.png?1335737852",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "3666790F-C0DA-43AD-8E8E-23F59F00A0CF"
+				},
+				{
+					"name": "Ten of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1468/med.png?1335737729",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "36D907D6-B340-4809-A033-216C8BCF7159"
+				},
+				{
+					"name": "Jack of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1469/med.png?1335737737",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "41B8D164-53E3-4825-B34A-90516FDDECA8"
+				},
+				{
+					"name": "Ten of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1481/med.png?1335737835",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "4288EF3F-19A8-4DB2-B8E9-BFBAD14A9500"
+				},
+				{
+					"name": "Ten of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1455/med.png?1335737614",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "4C00B0FB-566A-4B3B-987A-C1851E593AA5"
+				},
+				{
+					"name": "Ten of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1442/med.png?1335737503",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "51403249-45D7-45C8-B87E-2863DA016499"
+				},
+				{
+					"name": "Six of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1451/med.png?1335737579",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "5B37E3FE-B99A-4594-92D9-E2C2C0008FFF"
+				},
+				{
+					"name": "Queen of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1457/med.png?1335737632",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "5F602642-A624-4877-B1B9-5715DF8D02B0"
+				},
+				{
+					"name": "Three of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1448/med.png?1335737552",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "61C9F0F0-BFE4-4ED5-8A55-2B75274702AD"
+				},
+				{
+					"name": "Two of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1460/med.png?1335737667",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "64CC77BB-4565-496A-8871-94BF93401B67"
+				},
+				{
+					"name": "Ace of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1459/med.png?1335737651",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "65965D14-1AFA-45F1-B106-8235361F7C15"
+				},
+				{
+					"name": "Seven of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1478/med.png?1335737811",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "67388D62-EDF6-4A1F-935A-43EE6BD41FD8"
+				},
+				{
+					"name": "Three of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1435/med.png?1335737450",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "68AC642B-9C27-42E7-93B0-920B9164C622"
+				},
+				{
+					"name": "Nine of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1467/med.png?1335737721",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "6A6C3284-EFF1-449C-A02B-B7B0FDF7A5D5"
+				},
+				{
+					"name": "King of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1445/med.png?1335737528",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "6C8DF866-9243-4575-8F88-19C27AB39D27"
+				},
+				{
+					"name": "Four of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1475/med.png?1335737788",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "855E050F-EA2D-4B32-901D-56BB7E4B5857"
+				},
+				{
+					"name": "Seven of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1452/med.png?1335737590",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "8E949576-4946-4AC4-9522-D3E4C4E50741"
+				},
+				{
+					"name": "Jack of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1443/med.png?1335737512",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "901BFB44-C41A-450F-B35D-868BCDE6CCFE"
+				},
+				{
+					"name": "King of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1484/med.png?1335737860",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "9E920B87-A20E-42BA-B6E0-DD9022AE1DD2"
+				},
+				{
+					"name": "Jack of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1482/med.png?1335737844",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "9FCC0D54-ACC0-4C6F-AB0F-3422851A90BE"
+				},
+				{
+					"name": "Four of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1436/med.png?1335737458",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "9FFA798A-11F0-46DA-9807-9DC13FE366E4"
+				},
+				{
+					"name": "Nine of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1480/med.png?1335737829",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "A5AD4508-1C42-40F3-BE37-4812C8012D65"
+				},
+				{
+					"name": "Eight of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1453/med.png?1335737598",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "A9B74EFD-47F1-4CC7-B472-7478D6D70C50"
+				},
+				{
+					"name": "Five of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1463/med.png?1335737690",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "AB23A388-7747-4F7A-8F24-5220CCE2D25A"
+				},
+				{
+					"name": "Queen of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1444/med.png?1335737521",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "AE50176D-2206-4738-B229-9886EB3DA253"
+				},
+				{
+					"name": "Three of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1474/med.png?1335737781",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "B4CF2B55-F81E-4508-9AE1-8019B0F04E7E"
+				},
+				{
+					"name": "Four of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1462/med.png?1335737682",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "B8F435D9-9B46-4F54-A1A1-1EEDCD099FC2"
+				},
+				{
+					"name": "Six of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1477/med.png?1335737804",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "BBC550AA-8E90-4DBD-B6BF-CC4EE5358DF4"
+				},
+				{
+					"name": "Four of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1449/med.png?1335737560",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "BBF9DF2E-F7B8-4F74-B7A1-91CF426C582E"
+				},
+				{
+					"name": "Two of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1434/med.png?1335737442",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "C0062CB1-16E7-49AC-84D1-CB6213C9F2AF"
+				},
+				{
+					"name": "Eight of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1479/med.png?1335737819",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "C1E084D4-EC4F-4BF7-B9D3-BE99FAED12CF"
+				},
+				{
+					"name": "Three of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1461/med.png?1335737674",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "C8E365C7-C67E-4E71-BB17-68468C9E626F"
+				},
+				{
+					"name": "Nine of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1454/med.png?1335737606",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "C98763E1-4BB5-4D13-A1EC-3F7357F9CC4B"
+				},
+				{
+					"name": "Jack of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1456/med.png?1335737624",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "CB1B06E8-D1CE-4838-B4B7-B658132999CB"
+				},
+				{
+					"name": "Nine of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1441/med.png?1335737495",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "CB38D043-5B95-4813-B039-60253A020CD6"
+				},
+				{
+					"name": "Ace of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1446/med.png?1335737536",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "D949193A-FC9B-48FC-8CAD-5BD4071A7E18"
+				},
+				{
+					"name": "Two of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1473/med.png?1335737774",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "E18687DE-9AFD-4F78-BC4D-7DDBC7943528"
+				},
+				{
+					"name": "Eight of Clubs",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1440/med.png?1335737488",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "EB0BD770-5E05-4488-AC58-88196BD442A1"
+				},
+				{
+					"name": "Queen of Hearts",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1470/med.png?1335737745",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "EB7D24C2-30B9-4D96-890A-1C064C90D050"
+				},
+				{
+					"name": "Ace of Spades",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1485/med.png?1335737869",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "EFDB047C-C683-4623-86D5-DBA4E4ED058E"
+				},
+				{
+					"name": "Red Joker",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1487/med.png?1335737884",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "F2D8AE23-CF91-4CEA-BC17-AEB643A17BC9"
+				},
+				{
+					"name": "Two of Diamonds",
+					"avatar": "https://s3.amazonaws.com/files.d20.io/images/1447/med.png?1335737545",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "F92A58C4-8349-426D-9930-98AB387981BD"
+				}
+			]
+		}
+	],
+	"journal": [
+		{
+			"id": "-NBsBxkAJqp9E3vPFFUF",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Hit Deck"
+			]
+		},
+		{
+			"id": "-NBsCQERZNoQmn5-9EJ1",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Hit Deck"
+			]
+		},
+		{
+			"id": "-NBsRhu0hl2BwsDmlT3O",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Fumble Deck"
+			]
+		},
+		{
+			"id": "-NBsRh7_StP6SCLbmEKI",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Fumble Deck"
+			]
+		}
+	],
+	"handouts": [
+		{
+			"attributes": {
+				"name": "The Rules",
+				"notes": "",
+				"avatar": "https://s3.amazonaws.com/files.d20.io/images/304435844/Y-8UEDzzXanPpUBYNxXuHA/med.png?1663095331",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsBxkAJqp9E3vPFFUF"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "Special Rules",
+				"notes": "",
+				"avatar": "https://s3.amazonaws.com/files.d20.io/images/304436051/uU7aEe1C9Tj_-dWSlGWOwg/med.png?1663095409",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsCQERZNoQmn5-9EJ1"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "Special Rules",
+				"notes": "",
+				"avatar": "https://i.ibb.co/zFN9d6B/Rules2.png",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsRh7_StP6SCLbmEKI"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "The Rules",
+				"notes": "",
+				"avatar": "https://i.ibb.co/QYY8Cfb/Rules1.png",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsRhu0hl2BwsDmlT3O"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		}
+	]
+}
