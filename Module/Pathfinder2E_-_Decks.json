@@ -1,0 +1,2452 @@
+{
+	"schema_version": 1,
+	"decks": [
+		{
+			"attributes": {
+				"name": "Pathfinder 2E - Critical Hit Deck",
+				"currentDeck": "",
+				"currentIndex": -1,
+				"currentCardShown": true,
+				"showplayers": true,
+				"show_tooltips": false,
+				"playerscandraw": true,
+				"avatar": "https://i.ibb.co/7jzKtMC/Back.png",
+				"shown": false,
+				"players_seenumcards": true,
+				"players_seefrontofcards": false,
+				"gm_seenumcards": true,
+				"gm_seefrontofcards": false,
+				"infinitecards": false,
+				"cardSequencer": -1,
+				"cardsplayed": "faceup",
+				"defaultheight": "",
+				"defaultwidth": "",
+				"discardpilemode": "none",
+				"discardPile": "",
+				"removedcardsmode": "none",
+				"removedcards": "none",
+				"deckpilemode": "none",
+				"treatasdrawing": true,
+				"dealToOffline": false,
+				"id": "-NC0QOc9THZqcTjtZMJS",
+				"infinitecardstype": "random",
+				"cards": {
+					"-NC0RkwzSzHBVd2SJ9cG": {
+						"avatar": "https://i.ibb.co/FhBmq0S/PF2e-CHD-01.png",
+						"id": "-NC0RkwzSzHBVd2SJ9cG",
+						"name": "PF2e-CHD-01"
+					},
+					"-NC0RkxMfvHRpywB1B5M": {
+						"avatar": "https://i.ibb.co/qybynX8/PF2e-CHD-02.png",
+						"id": "-NC0RkxMfvHRpywB1B5M",
+						"name": "PF2e-CHD-02"
+					},
+					"-NC0RkxaT5dPek6xpU4D": {
+						"avatar": "https://i.ibb.co/98d5BD5/PF2e-CHD-03.png",
+						"id": "-NC0RkxaT5dPek6xpU4D",
+						"name": "PF2e-CHD-03"
+					},
+					"-NC0Rkxnf55ZWXv78E1y": {
+						"avatar": "https://i.ibb.co/vwdv0sR/PF2e-CHD-04.png",
+						"id": "-NC0Rkxnf55ZWXv78E1y",
+						"name": "PF2e-CHD-04"
+					},
+					"-NC0Rky1pAZP2KZ1kOMT": {
+						"avatar": "https://i.ibb.co/F009CKj/PF2e-CHD-05.png",
+						"id": "-NC0Rky1pAZP2KZ1kOMT",
+						"name": "PF2e-CHD-05"
+					},
+					"-NC0RkyInFSk1wDT5fhU": {
+						"avatar": "https://i.ibb.co/LxYJ6Nq/PF2e-CHD-06.png",
+						"id": "-NC0RkyInFSk1wDT5fhU",
+						"name": "PF2e-CHD-06"
+					},
+					"-NC0RkyX2xeG39P9ZaMn": {
+						"avatar": "https://i.ibb.co/56fdCYv/PF2e-CHD-07.png",
+						"id": "-NC0RkyX2xeG39P9ZaMn",
+						"name": "PF2e-CHD-07"
+					},
+					"-NC0RkylxwxE323rg1Qd": {
+						"avatar": "https://i.ibb.co/K9v7gsz/PF2e-CHD-08.png",
+						"id": "-NC0RkylxwxE323rg1Qd",
+						"name": "PF2e-CHD-08"
+					},
+					"-NC0Rkz-RqPtpvYllfEw": {
+						"avatar": "https://i.ibb.co/pn7YYDw/PF2e-CHD-09.png",
+						"id": "-NC0Rkz-RqPtpvYllfEw",
+						"name": "PF2e-CHD-09"
+					},
+					"-NC0RkzESeMfb6cFVNId": {
+						"avatar": "https://i.ibb.co/FsPs0xB/PF2e-CHD-10.png",
+						"id": "-NC0RkzESeMfb6cFVNId",
+						"name": "PF2e-CHD-10"
+					},
+					"-NC0RkzUZiL0OEDMe7gR": {
+						"avatar": "https://i.ibb.co/Q9j9tJv/PF2e-CHD-11.png",
+						"id": "-NC0RkzUZiL0OEDMe7gR",
+						"name": "PF2e-CHD-11"
+					},
+					"-NC0RkzjfbQv2FaUZRfK": {
+						"avatar": "https://i.ibb.co/KL2dtdD/PF2e-CHD-12.png",
+						"id": "-NC0RkzjfbQv2FaUZRfK",
+						"name": "PF2e-CHD-12"
+					},
+					"-NC0Rl--nFpZBeJoZnVM": {
+						"avatar": "https://i.ibb.co/CH97hmf/PF2e-CHD-13.png",
+						"id": "-NC0Rl--nFpZBeJoZnVM",
+						"name": "PF2e-CHD-13"
+					},
+					"-NC0Rl-DG60ghgrJFLhi": {
+						"avatar": "https://i.ibb.co/jTMsTN5/PF2e-CHD-14.png",
+						"id": "-NC0Rl-DG60ghgrJFLhi",
+						"name": "PF2e-CHD-14"
+					},
+					"-NC0Rl-UZ3qt0E3tRRxh": {
+						"avatar": "https://i.ibb.co/YjXLzqH/PF2e-CHD-15.png",
+						"id": "-NC0Rl-UZ3qt0E3tRRxh",
+						"name": "PF2e-CHD-15"
+					},
+					"-NC0Rl-jrEN6bTxAVguS": {
+						"avatar": "https://i.ibb.co/KrCB02n/PF2e-CHD-16.png",
+						"id": "-NC0Rl-jrEN6bTxAVguS",
+						"name": "PF2e-CHD-16"
+					},
+					"-NC0Rl-yZqu2XRy8RC5p": {
+						"avatar": "https://i.ibb.co/tz7TFJh/PF2e-CHD-17.png",
+						"id": "-NC0Rl-yZqu2XRy8RC5p",
+						"name": "PF2e-CHD-17"
+					},
+					"-NC0Rl0DR1CAd6C2QCF-": {
+						"avatar": "https://i.ibb.co/10S9Tg6/PF2e-CHD-18.png",
+						"id": "-NC0Rl0DR1CAd6C2QCF-",
+						"name": "PF2e-CHD-18"
+					},
+					"-NC0Rl0WieyDSK1m67G9": {
+						"avatar": "https://i.ibb.co/xDHFHSP/PF2e-CHD-19.png",
+						"id": "-NC0Rl0WieyDSK1m67G9",
+						"name": "PF2e-CHD-19"
+					},
+					"-NC0Rl0mxo0GncJ8fn8w": {
+						"avatar": "https://i.ibb.co/DbfwB9G/PF2e-CHD-20.png",
+						"id": "-NC0Rl0mxo0GncJ8fn8w",
+						"name": "PF2e-CHD-20"
+					},
+					"-NC0Rl1528TV1atJZ6yV": {
+						"avatar": "https://i.ibb.co/Qcr1k3w/PF2e-CHD-21.png",
+						"id": "-NC0Rl1528TV1atJZ6yV",
+						"name": "PF2e-CHD-21"
+					},
+					"-NC0Rl1MtvmG2JBGqH1V": {
+						"avatar": "https://i.ibb.co/6gy74S4/PF2e-CHD-22.png",
+						"id": "-NC0Rl1MtvmG2JBGqH1V",
+						"name": "PF2e-CHD-22"
+					},
+					"-NC0Rl1dge7KOKInIDLw": {
+						"avatar": "https://i.ibb.co/jb1f09H/PF2e-CHD-23.png",
+						"id": "-NC0Rl1dge7KOKInIDLw",
+						"name": "PF2e-CHD-23"
+					},
+					"-NC0Rl1x6GMWtcuoG6Hq": {
+						"avatar": "https://i.ibb.co/QmWWmp3/PF2e-CHD-24.png",
+						"id": "-NC0Rl1x6GMWtcuoG6Hq",
+						"name": "PF2e-CHD-24"
+					},
+					"-NC0Rl2FyvaHZbcbBT6B": {
+						"avatar": "https://i.ibb.co/9Nxx0Kh/PF2e-CHD-25.png",
+						"id": "-NC0Rl2FyvaHZbcbBT6B",
+						"name": "PF2e-CHD-25"
+					},
+					"-NC0Rl2YoUsGMVUmbxJr": {
+						"avatar": "https://i.ibb.co/DkQLkPj/PF2e-CHD-26.png",
+						"id": "-NC0Rl2YoUsGMVUmbxJr",
+						"name": "PF2e-CHD-26"
+					},
+					"-NC0Rl2qmm0Q741RRHEN": {
+						"avatar": "https://i.ibb.co/8KMpZT0/PF2e-CHD-27.png",
+						"id": "-NC0Rl2qmm0Q741RRHEN",
+						"name": "PF2e-CHD-27"
+					},
+					"-NC0Rl3C3HUbbrrcH2eH": {
+						"avatar": "https://i.ibb.co/hZDwjnh/PF2e-CHD-28.png",
+						"id": "-NC0Rl3C3HUbbrrcH2eH",
+						"name": "PF2e-CHD-28"
+					},
+					"-NC0Rl3W7ZR6MU8zFn9H": {
+						"avatar": "https://i.ibb.co/vDpKWJY/PF2e-CHD-29.png",
+						"id": "-NC0Rl3W7ZR6MU8zFn9H",
+						"name": "PF2e-CHD-29"
+					},
+					"-NC0Rl3pZHKXTHfU-odz": {
+						"avatar": "https://i.ibb.co/mFw7FRS/PF2e-CHD-30.png",
+						"id": "-NC0Rl3pZHKXTHfU-odz",
+						"name": "PF2e-CHD-30"
+					},
+					"-NC0Rl4BdBoW7vXOH3ZZ": {
+						"avatar": "https://i.ibb.co/bFwpFDG/PF2e-CHD-31.png",
+						"id": "-NC0Rl4BdBoW7vXOH3ZZ",
+						"name": "PF2e-CHD-31"
+					},
+					"-NC0Rl4ZZk33t4BwIbl0": {
+						"avatar": "https://i.ibb.co/7rgfDhq/PF2e-CHD-32.png",
+						"id": "-NC0Rl4ZZk33t4BwIbl0",
+						"name": "PF2e-CHD-32"
+					},
+					"-NC0Rl5-JJ3SyGd1ZcUs": {
+						"avatar": "https://i.ibb.co/f2gTYrZ/PF2e-CHD-33.png",
+						"id": "-NC0Rl5-JJ3SyGd1ZcUs",
+						"name": "PF2e-CHD-33"
+					},
+					"-NC0Rl5NOoL9KIrR22YG": {
+						"avatar": "https://i.ibb.co/YXxPyqC/PF2e-CHD-34.png",
+						"id": "-NC0Rl5NOoL9KIrR22YG",
+						"name": "PF2e-CHD-34"
+					},
+					"-NC0Rl5nc34NYX5XYwvU": {
+						"avatar": "https://i.ibb.co/N6mnFqs/PF2e-CHD-35.png",
+						"id": "-NC0Rl5nc34NYX5XYwvU",
+						"name": "PF2e-CHD-35"
+					},
+					"-NC0Rl6BnkL20rKlpagX": {
+						"avatar": "https://i.ibb.co/q0Cqy72/PF2e-CHD-36.png",
+						"id": "-NC0Rl6BnkL20rKlpagX",
+						"name": "PF2e-CHD-36"
+					},
+					"-NC0Rl6ZPhMQqRB0tN8e": {
+						"avatar": "https://i.ibb.co/m8MPZQC/PF2e-CHD-37.png",
+						"id": "-NC0Rl6ZPhMQqRB0tN8e",
+						"name": "PF2e-CHD-37"
+					},
+					"-NC0Rl70wPMSLHIoMIfQ": {
+						"avatar": "https://i.ibb.co/f2mHvgk/PF2e-CHD-38.png",
+						"id": "-NC0Rl70wPMSLHIoMIfQ",
+						"name": "PF2e-CHD-38"
+					},
+					"-NC0Rl7bSp0rJYdKj4Fi": {
+						"avatar": "https://i.ibb.co/JjPBMQx/PF2e-CHD-39.png",
+						"id": "-NC0Rl7bSp0rJYdKj4Fi",
+						"name": "PF2e-CHD-39"
+					},
+					"-NC0Rl8OZJfeVk11jxS9": {
+						"avatar": "https://i.ibb.co/RjJgKQW/PF2e-CHD-40.png",
+						"id": "-NC0Rl8OZJfeVk11jxS9",
+						"name": "PF2e-CHD-40"
+					},
+					"-NC0Rl9-Us83nP5H0Tam": {
+						"avatar": "https://i.ibb.co/qNZ8tx5/PF2e-CHD-41.png",
+						"id": "-NC0Rl9-Us83nP5H0Tam",
+						"name": "PF2e-CHD-41"
+					},
+					"-NC0Rl9lXNPMqKUp05SJ": {
+						"avatar": "https://i.ibb.co/vw83xbw/PF2e-CHD-42.png",
+						"id": "-NC0Rl9lXNPMqKUp05SJ",
+						"name": "PF2e-CHD-42"
+					},
+					"-NC0RlATGOLquIR14NLd": {
+						"avatar": "https://i.ibb.co/mRjxTVZ/PF2e-CHD-43.png",
+						"id": "-NC0RlATGOLquIR14NLd",
+						"name": "PF2e-CHD-43"
+					},
+					"-NC0RlB1Aj2x0QNZ8mf9": {
+						"avatar": "https://i.ibb.co/Lnzswyp/PF2e-CHD-44.png",
+						"id": "-NC0RlB1Aj2x0QNZ8mf9",
+						"name": "PF2e-CHD-44"
+					},
+					"-NC0RlBSRWtCYT2ucT13": {
+						"avatar": "https://i.ibb.co/grtrpqc/PF2e-CHD-45.png",
+						"id": "-NC0RlBSRWtCYT2ucT13",
+						"name": "PF2e-CHD-45"
+					},
+					"-NC0RlBpZqfeoCr-jBV8": {
+						"avatar": "https://i.ibb.co/ZMCxy8w/PF2e-CHD-46.png",
+						"id": "-NC0RlBpZqfeoCr-jBV8",
+						"name": "PF2e-CHD-46"
+					},
+					"-NC0RlCAApK7H0U5yeeB": {
+						"avatar": "https://i.ibb.co/8M7Ykx7/PF2e-CHD-47.png",
+						"id": "-NC0RlCAApK7H0U5yeeB",
+						"name": "PF2e-CHD-47"
+					},
+					"-NC0RlCYX8yvnsLXOyug": {
+						"avatar": "https://i.ibb.co/2WZS42m/PF2e-CHD-48.png",
+						"id": "-NC0RlCYX8yvnsLXOyug",
+						"name": "PF2e-CHD-48"
+					},
+					"-NC0RlCx2hWZroE1nqq8": {
+						"avatar": "https://i.ibb.co/jkCYh4q/PF2e-CHD-49.png",
+						"id": "-NC0RlCx2hWZroE1nqq8",
+						"name": "PF2e-CHD-49"
+					},
+					"-NC0RlE3jtqwshcg3UOH": {
+						"avatar": "https://i.ibb.co/Yhftx0F/PF2e-CHD-50.png",
+						"id": "-NC0RlE3jtqwshcg3UOH",
+						"name": "PF2e-CHD-50"
+					},
+					"-NC0RlEu8WCf4CKAz3cL": {
+						"avatar": "https://i.ibb.co/tCNdd4v/PF2e-CHD-51.png",
+						"id": "-NC0RlEu8WCf4CKAz3cL",
+						"name": "PF2e-CHD-51"
+					},
+					"-NC0RlFSGo5YKdWezvw4": {
+						"avatar": "https://i.ibb.co/fvvk7Ts/PF2e-CHD-52.png",
+						"id": "-NC0RlFSGo5YKdWezvw4",
+						"name": "PF2e-CHD-52"
+					},
+					"-NC0RlGJxM7DTQCMOHj-": {
+						"avatar": "https://i.ibb.co/Yf3Dpwy/PF2e-CHD-53.png",
+						"id": "-NC0RlGJxM7DTQCMOHj-",
+						"name": "PF2e-CHD-53"
+					}
+				}
+			},
+			"cards": [
+				{
+					"name": "PF2e-CHD-01",
+					"avatar": "https://i.ibb.co/FhBmq0S/PF2e-CHD-01.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RkwzSzHBVd2SJ9cG"
+				},
+				{
+					"name": "PF2e-CHD-02",
+					"avatar": "https://i.ibb.co/qybynX8/PF2e-CHD-02.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RkxMfvHRpywB1B5M"
+				},
+				{
+					"name": "PF2e-CHD-03",
+					"avatar": "https://i.ibb.co/98d5BD5/PF2e-CHD-03.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RkxaT5dPek6xpU4D"
+				},
+				{
+					"name": "PF2e-CHD-04",
+					"avatar": "https://i.ibb.co/vwdv0sR/PF2e-CHD-04.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rkxnf55ZWXv78E1y"
+				},
+				{
+					"name": "PF2e-CHD-05",
+					"avatar": "https://i.ibb.co/F009CKj/PF2e-CHD-05.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rky1pAZP2KZ1kOMT"
+				},
+				{
+					"name": "PF2e-CHD-06",
+					"avatar": "https://i.ibb.co/LxYJ6Nq/PF2e-CHD-06.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RkyInFSk1wDT5fhU"
+				},
+				{
+					"name": "PF2e-CHD-07",
+					"avatar": "https://i.ibb.co/56fdCYv/PF2e-CHD-07.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RkyX2xeG39P9ZaMn"
+				},
+				{
+					"name": "PF2e-CHD-08",
+					"avatar": "https://i.ibb.co/K9v7gsz/PF2e-CHD-08.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RkylxwxE323rg1Qd"
+				},
+				{
+					"name": "PF2e-CHD-09",
+					"avatar": "https://i.ibb.co/pn7YYDw/PF2e-CHD-09.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rkz-RqPtpvYllfEw"
+				},
+				{
+					"name": "PF2e-CHD-10",
+					"avatar": "https://i.ibb.co/FsPs0xB/PF2e-CHD-10.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RkzESeMfb6cFVNId"
+				},
+				{
+					"name": "PF2e-CHD-11",
+					"avatar": "https://i.ibb.co/Q9j9tJv/PF2e-CHD-11.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RkzUZiL0OEDMe7gR"
+				},
+				{
+					"name": "PF2e-CHD-12",
+					"avatar": "https://i.ibb.co/KL2dtdD/PF2e-CHD-12.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RkzjfbQv2FaUZRfK"
+				},
+				{
+					"name": "PF2e-CHD-13",
+					"avatar": "https://i.ibb.co/CH97hmf/PF2e-CHD-13.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl--nFpZBeJoZnVM"
+				},
+				{
+					"name": "PF2e-CHD-14",
+					"avatar": "https://i.ibb.co/jTMsTN5/PF2e-CHD-14.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl-DG60ghgrJFLhi"
+				},
+				{
+					"name": "PF2e-CHD-15",
+					"avatar": "https://i.ibb.co/YjXLzqH/PF2e-CHD-15.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl-UZ3qt0E3tRRxh"
+				},
+				{
+					"name": "PF2e-CHD-16",
+					"avatar": "https://i.ibb.co/KrCB02n/PF2e-CHD-16.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl-jrEN6bTxAVguS"
+				},
+				{
+					"name": "PF2e-CHD-17",
+					"avatar": "https://i.ibb.co/tz7TFJh/PF2e-CHD-17.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl-yZqu2XRy8RC5p"
+				},
+				{
+					"name": "PF2e-CHD-18",
+					"avatar": "https://i.ibb.co/10S9Tg6/PF2e-CHD-18.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl0DR1CAd6C2QCF-"
+				},
+				{
+					"name": "PF2e-CHD-19",
+					"avatar": "https://i.ibb.co/xDHFHSP/PF2e-CHD-19.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl0WieyDSK1m67G9"
+				},
+				{
+					"name": "PF2e-CHD-20",
+					"avatar": "https://i.ibb.co/DbfwB9G/PF2e-CHD-20.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl0mxo0GncJ8fn8w"
+				},
+				{
+					"name": "PF2e-CHD-21",
+					"avatar": "https://i.ibb.co/Qcr1k3w/PF2e-CHD-21.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl1528TV1atJZ6yV"
+				},
+				{
+					"name": "PF2e-CHD-22",
+					"avatar": "https://i.ibb.co/6gy74S4/PF2e-CHD-22.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl1MtvmG2JBGqH1V"
+				},
+				{
+					"name": "PF2e-CHD-23",
+					"avatar": "https://i.ibb.co/jb1f09H/PF2e-CHD-23.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl1dge7KOKInIDLw"
+				},
+				{
+					"name": "PF2e-CHD-24",
+					"avatar": "https://i.ibb.co/QmWWmp3/PF2e-CHD-24.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl1x6GMWtcuoG6Hq"
+				},
+				{
+					"name": "PF2e-CHD-25",
+					"avatar": "https://i.ibb.co/9Nxx0Kh/PF2e-CHD-25.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl2FyvaHZbcbBT6B"
+				},
+				{
+					"name": "PF2e-CHD-26",
+					"avatar": "https://i.ibb.co/DkQLkPj/PF2e-CHD-26.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl2YoUsGMVUmbxJr"
+				},
+				{
+					"name": "PF2e-CHD-27",
+					"avatar": "https://i.ibb.co/8KMpZT0/PF2e-CHD-27.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl2qmm0Q741RRHEN"
+				},
+				{
+					"name": "PF2e-CHD-28",
+					"avatar": "https://i.ibb.co/hZDwjnh/PF2e-CHD-28.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl3C3HUbbrrcH2eH"
+				},
+				{
+					"name": "PF2e-CHD-29",
+					"avatar": "https://i.ibb.co/vDpKWJY/PF2e-CHD-29.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl3W7ZR6MU8zFn9H"
+				},
+				{
+					"name": "PF2e-CHD-30",
+					"avatar": "https://i.ibb.co/mFw7FRS/PF2e-CHD-30.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl3pZHKXTHfU-odz"
+				},
+				{
+					"name": "PF2e-CHD-31",
+					"avatar": "https://i.ibb.co/bFwpFDG/PF2e-CHD-31.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl4BdBoW7vXOH3ZZ"
+				},
+				{
+					"name": "PF2e-CHD-32",
+					"avatar": "https://i.ibb.co/7rgfDhq/PF2e-CHD-32.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl4ZZk33t4BwIbl0"
+				},
+				{
+					"name": "PF2e-CHD-33",
+					"avatar": "https://i.ibb.co/f2gTYrZ/PF2e-CHD-33.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl5-JJ3SyGd1ZcUs"
+				},
+				{
+					"name": "PF2e-CHD-34",
+					"avatar": "https://i.ibb.co/YXxPyqC/PF2e-CHD-34.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl5NOoL9KIrR22YG"
+				},
+				{
+					"name": "PF2e-CHD-35",
+					"avatar": "https://i.ibb.co/N6mnFqs/PF2e-CHD-35.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl5nc34NYX5XYwvU"
+				},
+				{
+					"name": "PF2e-CHD-36",
+					"avatar": "https://i.ibb.co/q0Cqy72/PF2e-CHD-36.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl6BnkL20rKlpagX"
+				},
+				{
+					"name": "PF2e-CHD-37",
+					"avatar": "https://i.ibb.co/m8MPZQC/PF2e-CHD-37.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl6ZPhMQqRB0tN8e"
+				},
+				{
+					"name": "PF2e-CHD-38",
+					"avatar": "https://i.ibb.co/f2mHvgk/PF2e-CHD-38.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl70wPMSLHIoMIfQ"
+				},
+				{
+					"name": "PF2e-CHD-39",
+					"avatar": "https://i.ibb.co/JjPBMQx/PF2e-CHD-39.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl7bSp0rJYdKj4Fi"
+				},
+				{
+					"name": "PF2e-CHD-40",
+					"avatar": "https://i.ibb.co/RjJgKQW/PF2e-CHD-40.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl8OZJfeVk11jxS9"
+				},
+				{
+					"name": "PF2e-CHD-41",
+					"avatar": "https://i.ibb.co/qNZ8tx5/PF2e-CHD-41.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl9-Us83nP5H0Tam"
+				},
+				{
+					"name": "PF2e-CHD-42",
+					"avatar": "https://i.ibb.co/vw83xbw/PF2e-CHD-42.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0Rl9lXNPMqKUp05SJ"
+				},
+				{
+					"name": "PF2e-CHD-43",
+					"avatar": "https://i.ibb.co/mRjxTVZ/PF2e-CHD-43.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RlATGOLquIR14NLd"
+				},
+				{
+					"name": "PF2e-CHD-44",
+					"avatar": "https://i.ibb.co/Lnzswyp/PF2e-CHD-44.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RlB1Aj2x0QNZ8mf9"
+				},
+				{
+					"name": "PF2e-CHD-45",
+					"avatar": "https://i.ibb.co/grtrpqc/PF2e-CHD-45.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RlBSRWtCYT2ucT13"
+				},
+				{
+					"name": "PF2e-CHD-46",
+					"avatar": "https://i.ibb.co/ZMCxy8w/PF2e-CHD-46.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RlBpZqfeoCr-jBV8"
+				},
+				{
+					"name": "PF2e-CHD-47",
+					"avatar": "https://i.ibb.co/8M7Ykx7/PF2e-CHD-47.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RlCAApK7H0U5yeeB"
+				},
+				{
+					"name": "PF2e-CHD-48",
+					"avatar": "https://i.ibb.co/2WZS42m/PF2e-CHD-48.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RlCYX8yvnsLXOyug"
+				},
+				{
+					"name": "PF2e-CHD-49",
+					"avatar": "https://i.ibb.co/jkCYh4q/PF2e-CHD-49.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RlCx2hWZroE1nqq8"
+				},
+				{
+					"name": "PF2e-CHD-50",
+					"avatar": "https://i.ibb.co/Yhftx0F/PF2e-CHD-50.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RlE3jtqwshcg3UOH"
+				},
+				{
+					"name": "PF2e-CHD-51",
+					"avatar": "https://i.ibb.co/tCNdd4v/PF2e-CHD-51.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RlEu8WCf4CKAz3cL"
+				},
+				{
+					"name": "PF2e-CHD-52",
+					"avatar": "https://i.ibb.co/fvvk7Ts/PF2e-CHD-52.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RlFSGo5YKdWezvw4"
+				},
+				{
+					"name": "PF2e-CHD-53",
+					"avatar": "https://i.ibb.co/Yf3Dpwy/PF2e-CHD-53.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0RlGJxM7DTQCMOHj-"
+				}
+			]
+		},
+		{
+			"attributes": {
+				"name": "Pathfinder 2E - Critical Fumble Deck",
+				"currentDeck": "",
+				"currentIndex": -1,
+				"currentCardShown": true,
+				"showplayers": true,
+				"show_tooltips": false,
+				"playerscandraw": true,
+				"avatar": "https://i.ibb.co/z2b0w70/PF2e-CFD-Back.png",
+				"shown": false,
+				"players_seenumcards": true,
+				"players_seefrontofcards": true,
+				"gm_seenumcards": true,
+				"gm_seefrontofcards": true,
+				"infinitecards": false,
+				"cardSequencer": -1,
+				"cardsplayed": "faceup",
+				"defaultheight": "",
+				"defaultwidth": "",
+				"discardpilemode": "none",
+				"discardPile": "",
+				"removedcardsmode": "none",
+				"removedcards": "none",
+				"deckpilemode": "none",
+				"treatasdrawing": true,
+				"dealToOffline": false,
+				"id": "-NC0T3QApC2BA0y43lkh",
+				"infinitecardstype": "random",
+				"cards": {
+					"-NC0VJl4AtgZQtqJcMML": {
+						"avatar": "https://i.ibb.co/G0BncPs/PF2e-CFD-46.png",
+						"id": "-NC0VJl4AtgZQtqJcMML",
+						"name": "PF2e-CFD-01"
+					},
+					"-NC0VJlPTlwjeK9znmIf": {
+						"avatar": "https://i.ibb.co/TqynWcY/PF2e-CFD-47.png",
+						"id": "-NC0VJlPTlwjeK9znmIf",
+						"name": "PF2e-CFD-02"
+					},
+					"-NC0VJle9gvMlFu6wsZs": {
+						"avatar": "https://i.ibb.co/Rgpwmdd/PF2e-CFD-48.png",
+						"id": "-NC0VJle9gvMlFu6wsZs",
+						"name": "PF2e-CFD-03"
+					},
+					"-NC0VJlw1D2owCEs2r0g": {
+						"avatar": "https://i.ibb.co/xjXZ781/PF2e-CFD-49.png",
+						"id": "-NC0VJlw1D2owCEs2r0g",
+						"name": "PF2e-CFD-04"
+					},
+					"-NC0VJmBkBgOoYUuOkZJ": {
+						"avatar": "https://i.ibb.co/k5JBgzx/PF2e-CFD-50.png",
+						"id": "-NC0VJmBkBgOoYUuOkZJ",
+						"name": "PF2e-CFD-05"
+					},
+					"-NC0VJmQ2yqSsAbw3i95": {
+						"avatar": "https://i.ibb.co/DMC2V9G/PF2e-CFD-51.png",
+						"id": "-NC0VJmQ2yqSsAbw3i95",
+						"name": "PF2e-CFD-06"
+					},
+					"-NC0VJmeqzZ4tfT8dAUk": {
+						"avatar": "https://i.ibb.co/QYQZxhD/PF2e-CFD-52.png",
+						"id": "-NC0VJmeqzZ4tfT8dAUk",
+						"name": "PF2e-CFD-07"
+					},
+					"-NC0VJmujzt5EFsZcHew": {
+						"avatar": "https://i.ibb.co/tszYGx9/PF2e-CFD-53.png",
+						"id": "-NC0VJmujzt5EFsZcHew",
+						"name": "PF2e-CFD-08"
+					},
+					"-NC0VJnBjPmdNFnxmNUb": {
+						"avatar": "https://i.ibb.co/6HCBQ2Q/PF2e-CFD-01.png",
+						"id": "-NC0VJnBjPmdNFnxmNUb",
+						"name": "PF2e-CFD-09"
+					},
+					"-NC0VJnQtepO2KWYLICr": {
+						"avatar": "https://i.ibb.co/h7jbFPT/PF2e-CFD-02.png",
+						"id": "-NC0VJnQtepO2KWYLICr",
+						"name": "PF2e-CFD-10"
+					},
+					"-NC0VJnfyyL76Hzwa32C": {
+						"avatar": "https://i.ibb.co/qnTRhzx/PF2e-CFD-03.png",
+						"id": "-NC0VJnfyyL76Hzwa32C",
+						"name": "PF2e-CFD-11"
+					},
+					"-NC0VJnuSw6PSYIaLTEn": {
+						"avatar": "https://i.ibb.co/Vv6fXLX/PF2e-CFD-04.png",
+						"id": "-NC0VJnuSw6PSYIaLTEn",
+						"name": "PF2e-CFD-12"
+					},
+					"-NC0VJo9nRBzZDRpBNml": {
+						"avatar": "https://i.ibb.co/HTKX88c/PF2e-CFD-05.png",
+						"id": "-NC0VJo9nRBzZDRpBNml",
+						"name": "PF2e-CFD-13"
+					},
+					"-NC0VJoRSB8fuwEigZfS": {
+						"avatar": "https://i.ibb.co/4RRk60c/PF2e-CFD-06.png",
+						"id": "-NC0VJoRSB8fuwEigZfS",
+						"name": "PF2e-CFD-14"
+					},
+					"-NC0VJogWfR9j8gwkxBr": {
+						"avatar": "https://i.ibb.co/Ptwy8tt/PF2e-CFD-07.png",
+						"id": "-NC0VJogWfR9j8gwkxBr",
+						"name": "PF2e-CFD-15"
+					},
+					"-NC0VJoy8hgXZABQdoGE": {
+						"avatar": "https://i.ibb.co/SRYcGmc/PF2e-CFD-08.png",
+						"id": "-NC0VJoy8hgXZABQdoGE",
+						"name": "PF2e-CFD-16"
+					},
+					"-NC0VJpEharXPpsoRZrF": {
+						"avatar": "https://i.ibb.co/kMJN5YC/PF2e-CFD-09.png",
+						"id": "-NC0VJpEharXPpsoRZrF",
+						"name": "PF2e-CFD-17"
+					},
+					"-NC0VJpWsxyOgFxsG7IR": {
+						"avatar": "https://i.ibb.co/02Xw0mr/PF2e-CFD-10.png",
+						"id": "-NC0VJpWsxyOgFxsG7IR",
+						"name": "PF2e-CFD-18"
+					},
+					"-NC0VJplBKGUqgnuGLKu": {
+						"avatar": "https://i.ibb.co/KqknRfG/PF2e-CFD-11.png",
+						"id": "-NC0VJplBKGUqgnuGLKu",
+						"name": "PF2e-CFD-19"
+					},
+					"-NC0VJq3jBLIe2TLJLAN": {
+						"avatar": "https://i.ibb.co/JQQ9rz8/PF2e-CFD-12.png",
+						"id": "-NC0VJq3jBLIe2TLJLAN",
+						"name": "PF2e-CFD-20"
+					},
+					"-NC0VJqMdZlp4DYuNyP4": {
+						"avatar": "https://i.ibb.co/Fs2T64h/PF2e-CFD-13.png",
+						"id": "-NC0VJqMdZlp4DYuNyP4",
+						"name": "PF2e-CFD-21"
+					},
+					"-NC0VJqeqX46P1wpShFv": {
+						"avatar": "https://i.ibb.co/5WFT8wp/PF2e-CFD-14.png",
+						"id": "-NC0VJqeqX46P1wpShFv",
+						"name": "PF2e-CFD-22"
+					},
+					"-NC0VJqyPb2LMXpqaeIu": {
+						"avatar": "https://i.ibb.co/v4xSQW6/PF2e-CFD-15.png",
+						"id": "-NC0VJqyPb2LMXpqaeIu",
+						"name": "PF2e-CFD-23"
+					},
+					"-NC0VJrO39y-oU1UWzSc": {
+						"avatar": "https://i.ibb.co/5McnhgD/PF2e-CFD-16.png",
+						"id": "-NC0VJrO39y-oU1UWzSc",
+						"name": "PF2e-CFD-24"
+					},
+					"-NC0VJrhVI5VYsn15BD5": {
+						"avatar": "https://i.ibb.co/ZGkgh9w/PF2e-CFD-17.png",
+						"id": "-NC0VJrhVI5VYsn15BD5",
+						"name": "PF2e-CFD-25"
+					},
+					"-NC0VJs-FUOP4QZ177gZ": {
+						"avatar": "https://i.ibb.co/1T5qfMX/PF2e-CFD-18.png",
+						"id": "-NC0VJs-FUOP4QZ177gZ",
+						"name": "PF2e-CFD-26"
+					},
+					"-NC0VJsJbSRZmZBM01XB": {
+						"avatar": "https://i.ibb.co/6Fp0fvD/PF2e-CFD-19.png",
+						"id": "-NC0VJsJbSRZmZBM01XB",
+						"name": "PF2e-CFD-27"
+					},
+					"-NC0VJsg4Cmo683n0gwY": {
+						"avatar": "https://i.ibb.co/4K4dq2r/PF2e-CFD-20.png",
+						"id": "-NC0VJsg4Cmo683n0gwY",
+						"name": "PF2e-CFD-28"
+					},
+					"-NC0VJt13EUSWl9qn3wm": {
+						"avatar": "https://i.ibb.co/f4WVwrc/PF2e-CFD-21.png",
+						"id": "-NC0VJt13EUSWl9qn3wm",
+						"name": "PF2e-CFD-29"
+					},
+					"-NC0VJtQd1PDOyzUgVBX": {
+						"avatar": "https://i.ibb.co/9nYSjjY/PF2e-CFD-22.png",
+						"id": "-NC0VJtQd1PDOyzUgVBX",
+						"name": "PF2e-CFD-30"
+					},
+					"-NC0VJtqOWsiqP0m8C37": {
+						"avatar": "https://i.ibb.co/7RJ2dc8/PF2e-CFD-23.png",
+						"id": "-NC0VJtqOWsiqP0m8C37",
+						"name": "PF2e-CFD-31"
+					},
+					"-NC0VJuEc0EbbCQSuaKm": {
+						"avatar": "https://i.ibb.co/cTbSLLR/PF2e-CFD-24.png",
+						"id": "-NC0VJuEc0EbbCQSuaKm",
+						"name": "PF2e-CFD-32"
+					},
+					"-NC0VJubQvYsNQJiT3Se": {
+						"avatar": "https://i.ibb.co/94Rxhs6/PF2e-CFD-25.png",
+						"id": "-NC0VJubQvYsNQJiT3Se",
+						"name": "PF2e-CFD-33"
+					},
+					"-NC0VJv3qZTtwve3hHUB": {
+						"avatar": "https://i.ibb.co/G72RMgW/PF2e-CFD-26.png",
+						"id": "-NC0VJv3qZTtwve3hHUB",
+						"name": "PF2e-CFD-34"
+					},
+					"-NC0VJvUcac0tpPp3ca0": {
+						"avatar": "https://i.ibb.co/D1rcsfM/PF2e-CFD-27.png",
+						"id": "-NC0VJvUcac0tpPp3ca0",
+						"name": "PF2e-CFD-35"
+					},
+					"-NC0VJvsLbiIqVfBiUHA": {
+						"avatar": "https://i.ibb.co/nnv401t/PF2e-CFD-28.png",
+						"id": "-NC0VJvsLbiIqVfBiUHA",
+						"name": "PF2e-CFD-36"
+					},
+					"-NC0VJwJ0XMBC6ghkVP3": {
+						"avatar": "https://i.ibb.co/LxrBQrj/PF2e-CFD-29.png",
+						"id": "-NC0VJwJ0XMBC6ghkVP3",
+						"name": "PF2e-CFD-37"
+					},
+					"-NC0VJwjnF2d-44luGiV": {
+						"avatar": "https://i.ibb.co/r4dCvJQ/PF2e-CFD-30.png",
+						"id": "-NC0VJwjnF2d-44luGiV",
+						"name": "PF2e-CFD-38"
+					},
+					"-NC0VJxBnJ0VWlWIOGqK": {
+						"avatar": "https://i.ibb.co/yhngyYJ/PF2e-CFD-31.png",
+						"id": "-NC0VJxBnJ0VWlWIOGqK",
+						"name": "PF2e-CFD-39"
+					},
+					"-NC0VJxb1HKIQ0LWMram": {
+						"avatar": "https://i.ibb.co/2sbQgcP/PF2e-CFD-32.png",
+						"id": "-NC0VJxb1HKIQ0LWMram",
+						"name": "PF2e-CFD-40"
+					},
+					"-NC0VJy5FA4R4dnT1po-": {
+						"avatar": "https://i.ibb.co/WKnz146/PF2e-CFD-33.png",
+						"id": "-NC0VJy5FA4R4dnT1po-",
+						"name": "PF2e-CFD-41"
+					},
+					"-NC0VJyVtLqZJMo8Uvd6": {
+						"avatar": "https://i.ibb.co/17VtJ8x/PF2e-CFD-34.png",
+						"id": "-NC0VJyVtLqZJMo8Uvd6",
+						"name": "PF2e-CFD-42"
+					},
+					"-NC0VJytfxg5JFIyLZZa": {
+						"avatar": "https://i.ibb.co/VwnxzgG/PF2e-CFD-35.png",
+						"id": "-NC0VJytfxg5JFIyLZZa",
+						"name": "PF2e-CFD-43"
+					},
+					"-NC0VJzI99OHfoDZiPzn": {
+						"avatar": "https://i.ibb.co/WxsR7qX/PF2e-CFD-36.png",
+						"id": "-NC0VJzI99OHfoDZiPzn",
+						"name": "PF2e-CFD-44"
+					},
+					"-NC0VJzlab7xAowwYjmC": {
+						"avatar": "https://i.ibb.co/1m2VRfW/PF2e-CFD-37.png",
+						"id": "-NC0VJzlab7xAowwYjmC",
+						"name": "PF2e-CFD-45"
+					},
+					"-NC0VK-8aMwwchYBDDup": {
+						"avatar": "https://i.ibb.co/QFVQkL5/PF2e-CFD-38.png",
+						"id": "-NC0VK-8aMwwchYBDDup",
+						"name": "PF2e-CFD-46"
+					},
+					"-NC0VK-krEInLSou-EnW": {
+						"avatar": "https://i.ibb.co/b2Rgjgy/PF2e-CFD-39.png",
+						"id": "-NC0VK-krEInLSou-EnW",
+						"name": "PF2e-CFD-47"
+					},
+					"-NC0VK0HV7ZVjqAwqgaU": {
+						"avatar": "https://i.ibb.co/DkBjSHW/PF2e-CFD-40.png",
+						"id": "-NC0VK0HV7ZVjqAwqgaU",
+						"name": "PF2e-CFD-48"
+					},
+					"-NC0VK0v85VukxZyAwOh": {
+						"avatar": "https://i.ibb.co/HXw3tfM/PF2e-CFD-41.png",
+						"id": "-NC0VK0v85VukxZyAwOh",
+						"name": "PF2e-CFD-49"
+					},
+					"-NC0VK2-svyNdUAavqfN": {
+						"avatar": "https://i.ibb.co/42wFRFV/PF2e-CFD-42.png",
+						"id": "-NC0VK2-svyNdUAavqfN",
+						"name": "PF2e-CFD-50"
+					},
+					"-NC0VK2SELsnWIjlHFcn": {
+						"avatar": "https://i.ibb.co/vV3nn5T/PF2e-CFD-43.png",
+						"id": "-NC0VK2SELsnWIjlHFcn",
+						"name": "PF2e-CFD-51"
+					},
+					"-NC0VK2t6xIoqlphoTwQ": {
+						"avatar": "https://i.ibb.co/4p6x3C1/PF2e-CFD-44.png",
+						"id": "-NC0VK2t6xIoqlphoTwQ",
+						"name": "PF2e-CFD-52"
+					},
+					"-NC0VK3OHvj7O1TPrYbk": {
+						"avatar": "https://i.ibb.co/QHxtm1t/PF2e-CFD-45.png",
+						"id": "-NC0VK3OHvj7O1TPrYbk",
+						"name": "PF2e-CFD-53"
+					}
+				}
+			},
+			"cards": [
+				{
+					"name": "PF2e-CFD-01",
+					"avatar": "https://i.ibb.co/G0BncPs/PF2e-CFD-46.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJl4AtgZQtqJcMML"
+				},
+				{
+					"name": "PF2e-CFD-02",
+					"avatar": "https://i.ibb.co/TqynWcY/PF2e-CFD-47.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJlPTlwjeK9znmIf"
+				},
+				{
+					"name": "PF2e-CFD-03",
+					"avatar": "https://i.ibb.co/Rgpwmdd/PF2e-CFD-48.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJle9gvMlFu6wsZs"
+				},
+				{
+					"name": "PF2e-CFD-04",
+					"avatar": "https://i.ibb.co/xjXZ781/PF2e-CFD-49.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJlw1D2owCEs2r0g"
+				},
+				{
+					"name": "PF2e-CFD-05",
+					"avatar": "https://i.ibb.co/k5JBgzx/PF2e-CFD-50.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJmBkBgOoYUuOkZJ"
+				},
+				{
+					"name": "PF2e-CFD-06",
+					"avatar": "https://i.ibb.co/DMC2V9G/PF2e-CFD-51.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJmQ2yqSsAbw3i95"
+				},
+				{
+					"name": "PF2e-CFD-07",
+					"avatar": "https://i.ibb.co/QYQZxhD/PF2e-CFD-52.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJmeqzZ4tfT8dAUk"
+				},
+				{
+					"name": "PF2e-CFD-08",
+					"avatar": "https://i.ibb.co/tszYGx9/PF2e-CFD-53.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJmujzt5EFsZcHew"
+				},
+				{
+					"name": "PF2e-CFD-09",
+					"avatar": "https://i.ibb.co/6HCBQ2Q/PF2e-CFD-01.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJnBjPmdNFnxmNUb"
+				},
+				{
+					"name": "PF2e-CFD-10",
+					"avatar": "https://i.ibb.co/h7jbFPT/PF2e-CFD-02.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJnQtepO2KWYLICr"
+				},
+				{
+					"name": "PF2e-CFD-11",
+					"avatar": "https://i.ibb.co/qnTRhzx/PF2e-CFD-03.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJnfyyL76Hzwa32C"
+				},
+				{
+					"name": "PF2e-CFD-12",
+					"avatar": "https://i.ibb.co/Vv6fXLX/PF2e-CFD-04.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJnuSw6PSYIaLTEn"
+				},
+				{
+					"name": "PF2e-CFD-13",
+					"avatar": "https://i.ibb.co/HTKX88c/PF2e-CFD-05.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJo9nRBzZDRpBNml"
+				},
+				{
+					"name": "PF2e-CFD-14",
+					"avatar": "https://i.ibb.co/4RRk60c/PF2e-CFD-06.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJoRSB8fuwEigZfS"
+				},
+				{
+					"name": "PF2e-CFD-15",
+					"avatar": "https://i.ibb.co/Ptwy8tt/PF2e-CFD-07.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJogWfR9j8gwkxBr"
+				},
+				{
+					"name": "PF2e-CFD-16",
+					"avatar": "https://i.ibb.co/SRYcGmc/PF2e-CFD-08.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJoy8hgXZABQdoGE"
+				},
+				{
+					"name": "PF2e-CFD-17",
+					"avatar": "https://i.ibb.co/kMJN5YC/PF2e-CFD-09.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJpEharXPpsoRZrF"
+				},
+				{
+					"name": "PF2e-CFD-18",
+					"avatar": "https://i.ibb.co/02Xw0mr/PF2e-CFD-10.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJpWsxyOgFxsG7IR"
+				},
+				{
+					"name": "PF2e-CFD-19",
+					"avatar": "https://i.ibb.co/KqknRfG/PF2e-CFD-11.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJplBKGUqgnuGLKu"
+				},
+				{
+					"name": "PF2e-CFD-20",
+					"avatar": "https://i.ibb.co/JQQ9rz8/PF2e-CFD-12.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJq3jBLIe2TLJLAN"
+				},
+				{
+					"name": "PF2e-CFD-21",
+					"avatar": "https://i.ibb.co/Fs2T64h/PF2e-CFD-13.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJqMdZlp4DYuNyP4"
+				},
+				{
+					"name": "PF2e-CFD-22",
+					"avatar": "https://i.ibb.co/5WFT8wp/PF2e-CFD-14.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJqeqX46P1wpShFv"
+				},
+				{
+					"name": "PF2e-CFD-23",
+					"avatar": "https://i.ibb.co/v4xSQW6/PF2e-CFD-15.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJqyPb2LMXpqaeIu"
+				},
+				{
+					"name": "PF2e-CFD-24",
+					"avatar": "https://i.ibb.co/5McnhgD/PF2e-CFD-16.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJrO39y-oU1UWzSc"
+				},
+				{
+					"name": "PF2e-CFD-25",
+					"avatar": "https://i.ibb.co/ZGkgh9w/PF2e-CFD-17.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJrhVI5VYsn15BD5"
+				},
+				{
+					"name": "PF2e-CFD-26",
+					"avatar": "https://i.ibb.co/1T5qfMX/PF2e-CFD-18.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJs-FUOP4QZ177gZ"
+				},
+				{
+					"name": "PF2e-CFD-27",
+					"avatar": "https://i.ibb.co/6Fp0fvD/PF2e-CFD-19.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJsJbSRZmZBM01XB"
+				},
+				{
+					"name": "PF2e-CFD-28",
+					"avatar": "https://i.ibb.co/4K4dq2r/PF2e-CFD-20.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJsg4Cmo683n0gwY"
+				},
+				{
+					"name": "PF2e-CFD-29",
+					"avatar": "https://i.ibb.co/f4WVwrc/PF2e-CFD-21.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJt13EUSWl9qn3wm"
+				},
+				{
+					"name": "PF2e-CFD-30",
+					"avatar": "https://i.ibb.co/9nYSjjY/PF2e-CFD-22.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJtQd1PDOyzUgVBX"
+				},
+				{
+					"name": "PF2e-CFD-31",
+					"avatar": "https://i.ibb.co/7RJ2dc8/PF2e-CFD-23.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJtqOWsiqP0m8C37"
+				},
+				{
+					"name": "PF2e-CFD-32",
+					"avatar": "https://i.ibb.co/cTbSLLR/PF2e-CFD-24.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJuEc0EbbCQSuaKm"
+				},
+				{
+					"name": "PF2e-CFD-33",
+					"avatar": "https://i.ibb.co/94Rxhs6/PF2e-CFD-25.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJubQvYsNQJiT3Se"
+				},
+				{
+					"name": "PF2e-CFD-34",
+					"avatar": "https://i.ibb.co/G72RMgW/PF2e-CFD-26.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJv3qZTtwve3hHUB"
+				},
+				{
+					"name": "PF2e-CFD-35",
+					"avatar": "https://i.ibb.co/D1rcsfM/PF2e-CFD-27.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJvUcac0tpPp3ca0"
+				},
+				{
+					"name": "PF2e-CFD-36",
+					"avatar": "https://i.ibb.co/nnv401t/PF2e-CFD-28.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJvsLbiIqVfBiUHA"
+				},
+				{
+					"name": "PF2e-CFD-37",
+					"avatar": "https://i.ibb.co/LxrBQrj/PF2e-CFD-29.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJwJ0XMBC6ghkVP3"
+				},
+				{
+					"name": "PF2e-CFD-38",
+					"avatar": "https://i.ibb.co/r4dCvJQ/PF2e-CFD-30.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJwjnF2d-44luGiV"
+				},
+				{
+					"name": "PF2e-CFD-39",
+					"avatar": "https://i.ibb.co/yhngyYJ/PF2e-CFD-31.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJxBnJ0VWlWIOGqK"
+				},
+				{
+					"name": "PF2e-CFD-40",
+					"avatar": "https://i.ibb.co/2sbQgcP/PF2e-CFD-32.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJxb1HKIQ0LWMram"
+				},
+				{
+					"name": "PF2e-CFD-41",
+					"avatar": "https://i.ibb.co/WKnz146/PF2e-CFD-33.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJy5FA4R4dnT1po-"
+				},
+				{
+					"name": "PF2e-CFD-42",
+					"avatar": "https://i.ibb.co/17VtJ8x/PF2e-CFD-34.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJyVtLqZJMo8Uvd6"
+				},
+				{
+					"name": "PF2e-CFD-43",
+					"avatar": "https://i.ibb.co/VwnxzgG/PF2e-CFD-35.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJytfxg5JFIyLZZa"
+				},
+				{
+					"name": "PF2e-CFD-44",
+					"avatar": "https://i.ibb.co/WxsR7qX/PF2e-CFD-36.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJzI99OHfoDZiPzn"
+				},
+				{
+					"name": "PF2e-CFD-45",
+					"avatar": "https://i.ibb.co/1m2VRfW/PF2e-CFD-37.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VJzlab7xAowwYjmC"
+				},
+				{
+					"name": "PF2e-CFD-46",
+					"avatar": "https://i.ibb.co/QFVQkL5/PF2e-CFD-38.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VK-8aMwwchYBDDup"
+				},
+				{
+					"name": "PF2e-CFD-47",
+					"avatar": "https://i.ibb.co/b2Rgjgy/PF2e-CFD-39.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VK-krEInLSou-EnW"
+				},
+				{
+					"name": "PF2e-CFD-48",
+					"avatar": "https://i.ibb.co/DkBjSHW/PF2e-CFD-40.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VK0HV7ZVjqAwqgaU"
+				},
+				{
+					"name": "PF2e-CFD-49",
+					"avatar": "https://i.ibb.co/HXw3tfM/PF2e-CFD-41.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VK0v85VukxZyAwOh"
+				},
+				{
+					"name": "PF2e-CFD-50",
+					"avatar": "https://i.ibb.co/42wFRFV/PF2e-CFD-42.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VK2-svyNdUAavqfN"
+				},
+				{
+					"name": "PF2e-CFD-51",
+					"avatar": "https://i.ibb.co/vV3nn5T/PF2e-CFD-43.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VK2SELsnWIjlHFcn"
+				},
+				{
+					"name": "PF2e-CFD-52",
+					"avatar": "https://i.ibb.co/4p6x3C1/PF2e-CFD-44.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VK2t6xIoqlphoTwQ"
+				},
+				{
+					"name": "PF2e-CFD-53",
+					"avatar": "https://i.ibb.co/QHxtm1t/PF2e-CFD-45.png",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0VK3OHvj7O1TPrYbk"
+				}
+			]
+		},
+		{
+			"attributes": {
+				"name": "Pathfinder 2E - Hero Point Deck",
+				"currentDeck": "",
+				"currentIndex": -1,
+				"currentCardShown": true,
+				"showplayers": true,
+				"show_tooltips": false,
+				"playerscandraw": true,
+				"avatar": "https://i.ibb.co/k9Bf5ND/PF2e-HPD-Back.png",
+				"shown": false,
+				"players_seenumcards": true,
+				"players_seefrontofcards": true,
+				"gm_seenumcards": true,
+				"gm_seefrontofcards": true,
+				"infinitecards": false,
+				"cardSequencer": -1,
+				"cardsplayed": "faceup",
+				"defaultheight": "",
+				"defaultwidth": "",
+				"discardpilemode": "none",
+				"discardPile": "",
+				"removedcardsmode": "none",
+				"removedcards": "none",
+				"deckpilemode": "none",
+				"treatasdrawing": true,
+				"dealToOffline": false,
+				"id": "-NC0oyfKSR8i7fGFlUTA",
+				"cards": {
+					"-NC0p-ZeSoIl34SQZ2HP": {
+						"avatar": "https://i.ibb.co/Hg3VTYL/PF2e-HPD-46.jpg",
+						"id": "-NC0p-ZeSoIl34SQZ2HP",
+						"name": "PF2e-HPD-01"
+					},
+					"-NC0p-a0mlT8a5jGl1gv": {
+						"avatar": "https://i.ibb.co/Q9LPK66/PF2e-HPD-47.jpg",
+						"id": "-NC0p-a0mlT8a5jGl1gv",
+						"name": "PF2e-CFD-02"
+					},
+					"-NC0p-aH2XqgoSCD9Z9N": {
+						"avatar": "https://i.ibb.co/XYF4F7J/PF2e-HPD-48.jpg",
+						"id": "-NC0p-aH2XqgoSCD9Z9N",
+						"name": "PF2e-CFD-03"
+					},
+					"-NC0p-aYNoQDUBcsYJmR": {
+						"avatar": "https://i.ibb.co/DtYV9KK/PF2e-HPD-49.jpg",
+						"id": "-NC0p-aYNoQDUBcsYJmR",
+						"name": "PF2e-CFD-04"
+					},
+					"-NC0p-arSo1XLzDyNRJQ": {
+						"avatar": "https://i.ibb.co/w7n1T0d/PF2e-HPD-50.jpg",
+						"id": "-NC0p-arSo1XLzDyNRJQ",
+						"name": "PF2e-CFD-05"
+					},
+					"-NC0p-bAeixRrTXGGknz": {
+						"avatar": "https://i.ibb.co/2qDVxq4/PF2e-HPD-51.jpg",
+						"id": "-NC0p-bAeixRrTXGGknz",
+						"name": "PF2e-CFD-06"
+					},
+					"-NC0p-bRk62FPmTT3Zgk": {
+						"avatar": "https://i.ibb.co/LN3smbY/PF2e-HPD-52.jpg",
+						"id": "-NC0p-bRk62FPmTT3Zgk",
+						"name": "PF2e-CFD-07"
+					},
+					"-NC0p-bhNHVAIfoGbdK1": {
+						"avatar": "https://i.ibb.co/cx2vzsP/PF2e-HPD-01.jpg",
+						"id": "-NC0p-bhNHVAIfoGbdK1",
+						"name": "PF2e-CFD-08"
+					},
+					"-NC0p-bzSXUZjyhjZ4Uk": {
+						"avatar": "https://i.ibb.co/BgcbDYn/PF2e-HPD-02.jpg",
+						"id": "-NC0p-bzSXUZjyhjZ4Uk",
+						"name": "PF2e-CFD-09"
+					},
+					"-NC0p-cHT6ZbvNfOhg7Y": {
+						"avatar": "https://i.ibb.co/4YMnBWV/PF2e-HPD-03.jpg",
+						"id": "-NC0p-cHT6ZbvNfOhg7Y",
+						"name": "PF2e-CFD-10"
+					},
+					"-NC0p-cYRNaxO8wIpp0Z": {
+						"avatar": "https://i.ibb.co/KWhS2bs/PF2e-HPD-04.jpg",
+						"id": "-NC0p-cYRNaxO8wIpp0Z",
+						"name": "PF2e-CFD-11"
+					},
+					"-NC0p-cqAO-iOkiHkYZw": {
+						"avatar": "https://i.ibb.co/s3913vn/PF2e-HPD-05.jpg",
+						"id": "-NC0p-cqAO-iOkiHkYZw",
+						"name": "PF2e-CFD-12"
+					},
+					"-NC0p-d7Nf8gZKRE-QvY": {
+						"avatar": "https://i.ibb.co/74w089Z/PF2e-HPD-06.jpg",
+						"id": "-NC0p-d7Nf8gZKRE-QvY",
+						"name": "PF2e-CFD-13"
+					},
+					"-NC0p-dQUP-lGywIohj-": {
+						"avatar": "https://i.ibb.co/T2hYWv2/PF2e-HPD-07.jpg",
+						"id": "-NC0p-dQUP-lGywIohj-",
+						"name": "PF2e-CFD-14"
+					},
+					"-NC0p-dmt69JlJP7sw1k": {
+						"avatar": "https://i.ibb.co/XFqvfhG/PF2e-HPD-08.jpg",
+						"id": "-NC0p-dmt69JlJP7sw1k",
+						"name": "PF2e-CFD-15"
+					},
+					"-NC0p-e37ll39gYgN1So": {
+						"avatar": "https://i.ibb.co/3NScQBF/PF2e-HPD-09.jpg",
+						"id": "-NC0p-e37ll39gYgN1So",
+						"name": "PF2e-CFD-16"
+					},
+					"-NC0p-eLgGkTPemjRx7N": {
+						"avatar": "https://i.ibb.co/LgLbJs9/PF2e-HPD-10.jpg",
+						"id": "-NC0p-eLgGkTPemjRx7N",
+						"name": "PF2e-CFD-17"
+					},
+					"-NC0p-eclTy81XkiThpY": {
+						"avatar": "https://i.ibb.co/qMFSmt6/PF2e-HPD-11.jpg",
+						"id": "-NC0p-eclTy81XkiThpY",
+						"name": "PF2e-CFD-18"
+					},
+					"-NC0p-evNx9zE-N2iV70": {
+						"avatar": "https://i.ibb.co/fMPXb7h/PF2e-HPD-12.jpg",
+						"id": "-NC0p-evNx9zE-N2iV70",
+						"name": "PF2e-CFD-19"
+					},
+					"-NC0p-fK6w-At4gBB3LJ": {
+						"avatar": "https://i.ibb.co/m5tfmGz/PF2e-HPD-13.jpg",
+						"id": "-NC0p-fK6w-At4gBB3LJ",
+						"name": "PF2e-CFD-20"
+					},
+					"-NC0p-fbb7EhZPzFhGAZ": {
+						"avatar": "https://i.ibb.co/1Gwmbbc/PF2e-HPD-14.jpg",
+						"id": "-NC0p-fbb7EhZPzFhGAZ",
+						"name": "PF2e-CFD-21"
+					},
+					"-NC0p-fuj24hnyQNIASp": {
+						"avatar": "https://i.ibb.co/7jbNGh1/PF2e-HPD-15.jpg",
+						"id": "-NC0p-fuj24hnyQNIASp",
+						"name": "PF2e-CFD-22"
+					},
+					"-NC0p-gEPf6oR0ZUbFDF": {
+						"avatar": "https://i.ibb.co/cCDQLRk/PF2e-HPD-16.jpg",
+						"id": "-NC0p-gEPf6oR0ZUbFDF",
+						"name": "PF2e-CFD-23"
+					},
+					"-NC0p-gZhsa10clNdwgZ": {
+						"avatar": "https://i.ibb.co/HpJg8vS/PF2e-HPD-17.jpg",
+						"id": "-NC0p-gZhsa10clNdwgZ",
+						"name": "PF2e-CFD-24"
+					},
+					"-NC0p-gvnrHZiywDnvee": {
+						"avatar": "https://i.ibb.co/3FW3G5D/PF2e-HPD-18.jpg",
+						"id": "-NC0p-gvnrHZiywDnvee",
+						"name": "PF2e-CFD-25"
+					},
+					"-NC0p-hDKBhrVXZI31HQ": {
+						"avatar": "https://i.ibb.co/mqrcchL/PF2e-HPD-19.jpg",
+						"id": "-NC0p-hDKBhrVXZI31HQ",
+						"name": "PF2e-CFD-26"
+					},
+					"-NC0p-hZv8z0DZmOMCRf": {
+						"avatar": "https://i.ibb.co/x1whxsS/PF2e-HPD-20.jpg",
+						"id": "-NC0p-hZv8z0DZmOMCRf",
+						"name": "PF2e-CFD-27"
+					},
+					"-NC0p-hvrsrFdfWqcQpJ": {
+						"avatar": "https://i.ibb.co/pKvmj5z/PF2e-HPD-21.jpg",
+						"id": "-NC0p-hvrsrFdfWqcQpJ",
+						"name": "PF2e-CFD-28"
+					},
+					"-NC0p-iFmdI4-gUxm55M": {
+						"avatar": "https://i.ibb.co/PhJqSgc/PF2e-HPD-22.jpg",
+						"id": "-NC0p-iFmdI4-gUxm55M",
+						"name": "PF2e-CFD-29"
+					},
+					"-NC0p-ibGekGZ9O-6BF3": {
+						"avatar": "https://i.ibb.co/YpCt7Py/PF2e-HPD-23.jpg",
+						"id": "-NC0p-ibGekGZ9O-6BF3",
+						"name": "PF2e-CFD-30"
+					},
+					"-NC0p-ixwjpwuYWkiYZ5": {
+						"avatar": "https://i.ibb.co/9c1LH91/PF2e-HPD-24.jpg",
+						"id": "-NC0p-ixwjpwuYWkiYZ5",
+						"name": "PF2e-CFD-31"
+					},
+					"-NC0p-jQbDKgZoVUQa9d": {
+						"avatar": "https://i.ibb.co/YtK26Qx/PF2e-HPD-25.jpg",
+						"id": "-NC0p-jQbDKgZoVUQa9d",
+						"name": "PF2e-CFD-32"
+					},
+					"-NC0p-jl6S42R9IkQN8t": {
+						"avatar": "https://i.ibb.co/NxM4J0H/PF2e-HPD-26.jpg",
+						"id": "-NC0p-jl6S42R9IkQN8t",
+						"name": "PF2e-CFD-33"
+					},
+					"-NC0p-k92RA-ZZ0h2nbR": {
+						"avatar": "https://i.ibb.co/McMS0cg/PF2e-HPD-27.jpg",
+						"id": "-NC0p-k92RA-ZZ0h2nbR",
+						"name": "PF2e-CFD-34"
+					},
+					"-NC0p-kWKeYCBsfFtnSL": {
+						"avatar": "https://i.ibb.co/wWKPVkT/PF2e-HPD-28.jpg",
+						"id": "-NC0p-kWKeYCBsfFtnSL",
+						"name": "PF2e-CFD-35"
+					},
+					"-NC0p-l-s-3vXphsuZ3V": {
+						"avatar": "https://i.ibb.co/54bKf5C/PF2e-HPD-29.jpg",
+						"id": "-NC0p-l-s-3vXphsuZ3V",
+						"name": "PF2e-CFD-36"
+					},
+					"-NC0p-lMt0QrwnPVAa3s": {
+						"avatar": "https://i.ibb.co/cTftx0p/PF2e-HPD-30.jpg",
+						"id": "-NC0p-lMt0QrwnPVAa3s",
+						"name": "PF2e-CFD-37"
+					},
+					"-NC0p-ljd1TlnZRqSj5o": {
+						"avatar": "https://i.ibb.co/KXxhwtJ/PF2e-HPD-31.jpg",
+						"id": "-NC0p-ljd1TlnZRqSj5o",
+						"name": "PF2e-CFD-38"
+					},
+					"-NC0p-m8uh28xoc-xbTf": {
+						"avatar": "https://i.ibb.co/mStptJK/PF2e-HPD-32.jpg",
+						"id": "-NC0p-m8uh28xoc-xbTf",
+						"name": "PF2e-CFD-39"
+					},
+					"-NC0p-mbV-nohOHr9o8d": {
+						"avatar": "https://i.ibb.co/jyS95vS/PF2e-HPD-33.jpg",
+						"id": "-NC0p-mbV-nohOHr9o8d",
+						"name": "PF2e-CFD-40"
+					},
+					"-NC0p-n5s4fTYqEs3XTj": {
+						"avatar": "https://i.ibb.co/Kx0Mjy8/PF2e-HPD-34.jpg",
+						"id": "-NC0p-n5s4fTYqEs3XTj",
+						"name": "PF2e-CFD-41"
+					},
+					"-NC0p-nchxksZIbTlBwo": {
+						"avatar": "https://i.ibb.co/MPZnWyr/PF2e-HPD-35.jpg",
+						"id": "-NC0p-nchxksZIbTlBwo",
+						"name": "PF2e-CFD-42"
+					},
+					"-NC0p-o3hgoVVGnDu0Qq": {
+						"avatar": "https://i.ibb.co/j82Ldzx/PF2e-HPD-36.jpg",
+						"id": "-NC0p-o3hgoVVGnDu0Qq",
+						"name": "PF2e-CFD-43"
+					},
+					"-NC0p-oU8UvpAcfn2FBU": {
+						"avatar": "https://i.ibb.co/0Fq6df4/PF2e-HPD-37.jpg",
+						"id": "-NC0p-oU8UvpAcfn2FBU",
+						"name": "PF2e-CFD-44"
+					},
+					"-NC0p-owCrnSeYRoIYfl": {
+						"avatar": "https://i.ibb.co/g7QFrNy/PF2e-HPD-38.jpg",
+						"id": "-NC0p-owCrnSeYRoIYfl",
+						"name": "PF2e-CFD-45"
+					},
+					"-NC0p-pKHN1iCcOOJb4X": {
+						"avatar": "https://i.ibb.co/Mhntd4v/PF2e-HPD-39.jpg",
+						"id": "-NC0p-pKHN1iCcOOJb4X",
+						"name": "PF2e-CFD-46"
+					},
+					"-NC0p-ppf9ZbGSxImMR4": {
+						"avatar": "https://i.ibb.co/Bc4XZKS/PF2e-HPD-40.jpg",
+						"id": "-NC0p-ppf9ZbGSxImMR4",
+						"name": "PF2e-CFD-47"
+					},
+					"-NC0p-qH68PMfBTqoqnh": {
+						"avatar": "https://i.ibb.co/pzd0cVF/PF2e-HPD-41.jpg",
+						"id": "-NC0p-qH68PMfBTqoqnh",
+						"name": "PF2e-CFD-48"
+					},
+					"-NC0p-qht5nwtb1hA2FG": {
+						"avatar": "https://i.ibb.co/wcJmGWq/PF2e-HPD-42.jpg",
+						"id": "-NC0p-qht5nwtb1hA2FG",
+						"name": "PF2e-CFD-49"
+					},
+					"-NC0p-r649SYcoez7n8n": {
+						"avatar": "https://i.ibb.co/RhpvZTT/PF2e-HPD-43.jpg",
+						"id": "-NC0p-r649SYcoez7n8n",
+						"name": "PF2e-CFD-50"
+					},
+					"-NC0p-rhp3IR3bE449AH": {
+						"avatar": "https://i.ibb.co/Gc5k0NH/PF2e-HPD-44.jpg",
+						"id": "-NC0p-rhp3IR3bE449AH",
+						"name": "PF2e-CFD-51"
+					},
+					"-NC0p-sADvLKab0-WAO7": {
+						"avatar": "https://i.ibb.co/YTwMd7L/PF2e-HPD-45.jpg",
+						"id": "-NC0p-sADvLKab0-WAO7",
+						"name": "PF2e-CFD-52"
+					}
+				},
+				"infinitecardstype": "random"
+			},
+			"cards": [
+				{
+					"name": "PF2e-HPD-01",
+					"avatar": "https://i.ibb.co/Hg3VTYL/PF2e-HPD-46.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-ZeSoIl34SQZ2HP"
+				},
+				{
+					"name": "PF2e-CFD-02",
+					"avatar": "https://i.ibb.co/Q9LPK66/PF2e-HPD-47.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-a0mlT8a5jGl1gv"
+				},
+				{
+					"name": "PF2e-CFD-03",
+					"avatar": "https://i.ibb.co/XYF4F7J/PF2e-HPD-48.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-aH2XqgoSCD9Z9N"
+				},
+				{
+					"name": "PF2e-CFD-04",
+					"avatar": "https://i.ibb.co/DtYV9KK/PF2e-HPD-49.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-aYNoQDUBcsYJmR"
+				},
+				{
+					"name": "PF2e-CFD-05",
+					"avatar": "https://i.ibb.co/w7n1T0d/PF2e-HPD-50.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-arSo1XLzDyNRJQ"
+				},
+				{
+					"name": "PF2e-CFD-06",
+					"avatar": "https://i.ibb.co/2qDVxq4/PF2e-HPD-51.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-bAeixRrTXGGknz"
+				},
+				{
+					"name": "PF2e-CFD-07",
+					"avatar": "https://i.ibb.co/LN3smbY/PF2e-HPD-52.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-bRk62FPmTT3Zgk"
+				},
+				{
+					"name": "PF2e-CFD-08",
+					"avatar": "https://i.ibb.co/cx2vzsP/PF2e-HPD-01.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-bhNHVAIfoGbdK1"
+				},
+				{
+					"name": "PF2e-CFD-09",
+					"avatar": "https://i.ibb.co/BgcbDYn/PF2e-HPD-02.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-bzSXUZjyhjZ4Uk"
+				},
+				{
+					"name": "PF2e-CFD-10",
+					"avatar": "https://i.ibb.co/4YMnBWV/PF2e-HPD-03.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-cHT6ZbvNfOhg7Y"
+				},
+				{
+					"name": "PF2e-CFD-11",
+					"avatar": "https://i.ibb.co/KWhS2bs/PF2e-HPD-04.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-cYRNaxO8wIpp0Z"
+				},
+				{
+					"name": "PF2e-CFD-12",
+					"avatar": "https://i.ibb.co/s3913vn/PF2e-HPD-05.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-cqAO-iOkiHkYZw"
+				},
+				{
+					"name": "PF2e-CFD-13",
+					"avatar": "https://i.ibb.co/74w089Z/PF2e-HPD-06.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-d7Nf8gZKRE-QvY"
+				},
+				{
+					"name": "PF2e-CFD-14",
+					"avatar": "https://i.ibb.co/T2hYWv2/PF2e-HPD-07.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-dQUP-lGywIohj-"
+				},
+				{
+					"name": "PF2e-CFD-15",
+					"avatar": "https://i.ibb.co/XFqvfhG/PF2e-HPD-08.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-dmt69JlJP7sw1k"
+				},
+				{
+					"name": "PF2e-CFD-16",
+					"avatar": "https://i.ibb.co/3NScQBF/PF2e-HPD-09.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-e37ll39gYgN1So"
+				},
+				{
+					"name": "PF2e-CFD-17",
+					"avatar": "https://i.ibb.co/LgLbJs9/PF2e-HPD-10.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-eLgGkTPemjRx7N"
+				},
+				{
+					"name": "PF2e-CFD-18",
+					"avatar": "https://i.ibb.co/qMFSmt6/PF2e-HPD-11.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-eclTy81XkiThpY"
+				},
+				{
+					"name": "PF2e-CFD-19",
+					"avatar": "https://i.ibb.co/fMPXb7h/PF2e-HPD-12.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-evNx9zE-N2iV70"
+				},
+				{
+					"name": "PF2e-CFD-20",
+					"avatar": "https://i.ibb.co/m5tfmGz/PF2e-HPD-13.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-fK6w-At4gBB3LJ"
+				},
+				{
+					"name": "PF2e-CFD-21",
+					"avatar": "https://i.ibb.co/1Gwmbbc/PF2e-HPD-14.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-fbb7EhZPzFhGAZ"
+				},
+				{
+					"name": "PF2e-CFD-22",
+					"avatar": "https://i.ibb.co/7jbNGh1/PF2e-HPD-15.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-fuj24hnyQNIASp"
+				},
+				{
+					"name": "PF2e-CFD-23",
+					"avatar": "https://i.ibb.co/cCDQLRk/PF2e-HPD-16.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-gEPf6oR0ZUbFDF"
+				},
+				{
+					"name": "PF2e-CFD-24",
+					"avatar": "https://i.ibb.co/HpJg8vS/PF2e-HPD-17.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-gZhsa10clNdwgZ"
+				},
+				{
+					"name": "PF2e-CFD-25",
+					"avatar": "https://i.ibb.co/3FW3G5D/PF2e-HPD-18.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-gvnrHZiywDnvee"
+				},
+				{
+					"name": "PF2e-CFD-26",
+					"avatar": "https://i.ibb.co/mqrcchL/PF2e-HPD-19.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-hDKBhrVXZI31HQ"
+				},
+				{
+					"name": "PF2e-CFD-27",
+					"avatar": "https://i.ibb.co/x1whxsS/PF2e-HPD-20.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-hZv8z0DZmOMCRf"
+				},
+				{
+					"name": "PF2e-CFD-28",
+					"avatar": "https://i.ibb.co/pKvmj5z/PF2e-HPD-21.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-hvrsrFdfWqcQpJ"
+				},
+				{
+					"name": "PF2e-CFD-29",
+					"avatar": "https://i.ibb.co/PhJqSgc/PF2e-HPD-22.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-iFmdI4-gUxm55M"
+				},
+				{
+					"name": "PF2e-CFD-30",
+					"avatar": "https://i.ibb.co/YpCt7Py/PF2e-HPD-23.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-ibGekGZ9O-6BF3"
+				},
+				{
+					"name": "PF2e-CFD-31",
+					"avatar": "https://i.ibb.co/9c1LH91/PF2e-HPD-24.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-ixwjpwuYWkiYZ5"
+				},
+				{
+					"name": "PF2e-CFD-32",
+					"avatar": "https://i.ibb.co/YtK26Qx/PF2e-HPD-25.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-jQbDKgZoVUQa9d"
+				},
+				{
+					"name": "PF2e-CFD-33",
+					"avatar": "https://i.ibb.co/NxM4J0H/PF2e-HPD-26.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-jl6S42R9IkQN8t"
+				},
+				{
+					"name": "PF2e-CFD-34",
+					"avatar": "https://i.ibb.co/McMS0cg/PF2e-HPD-27.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-k92RA-ZZ0h2nbR"
+				},
+				{
+					"name": "PF2e-CFD-35",
+					"avatar": "https://i.ibb.co/wWKPVkT/PF2e-HPD-28.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-kWKeYCBsfFtnSL"
+				},
+				{
+					"name": "PF2e-CFD-36",
+					"avatar": "https://i.ibb.co/54bKf5C/PF2e-HPD-29.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-l-s-3vXphsuZ3V"
+				},
+				{
+					"name": "PF2e-CFD-37",
+					"avatar": "https://i.ibb.co/cTftx0p/PF2e-HPD-30.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-lMt0QrwnPVAa3s"
+				},
+				{
+					"name": "PF2e-CFD-38",
+					"avatar": "https://i.ibb.co/KXxhwtJ/PF2e-HPD-31.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-ljd1TlnZRqSj5o"
+				},
+				{
+					"name": "PF2e-CFD-39",
+					"avatar": "https://i.ibb.co/mStptJK/PF2e-HPD-32.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-m8uh28xoc-xbTf"
+				},
+				{
+					"name": "PF2e-CFD-40",
+					"avatar": "https://i.ibb.co/jyS95vS/PF2e-HPD-33.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-mbV-nohOHr9o8d"
+				},
+				{
+					"name": "PF2e-CFD-41",
+					"avatar": "https://i.ibb.co/Kx0Mjy8/PF2e-HPD-34.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-n5s4fTYqEs3XTj"
+				},
+				{
+					"name": "PF2e-CFD-42",
+					"avatar": "https://i.ibb.co/MPZnWyr/PF2e-HPD-35.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-nchxksZIbTlBwo"
+				},
+				{
+					"name": "PF2e-CFD-43",
+					"avatar": "https://i.ibb.co/j82Ldzx/PF2e-HPD-36.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-o3hgoVVGnDu0Qq"
+				},
+				{
+					"name": "PF2e-CFD-44",
+					"avatar": "https://i.ibb.co/0Fq6df4/PF2e-HPD-37.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-oU8UvpAcfn2FBU"
+				},
+				{
+					"name": "PF2e-CFD-45",
+					"avatar": "https://i.ibb.co/g7QFrNy/PF2e-HPD-38.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-owCrnSeYRoIYfl"
+				},
+				{
+					"name": "PF2e-CFD-46",
+					"avatar": "https://i.ibb.co/Mhntd4v/PF2e-HPD-39.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-pKHN1iCcOOJb4X"
+				},
+				{
+					"name": "PF2e-CFD-47",
+					"avatar": "https://i.ibb.co/Bc4XZKS/PF2e-HPD-40.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-ppf9ZbGSxImMR4"
+				},
+				{
+					"name": "PF2e-CFD-48",
+					"avatar": "https://i.ibb.co/pzd0cVF/PF2e-HPD-41.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-qH68PMfBTqoqnh"
+				},
+				{
+					"name": "PF2e-CFD-49",
+					"avatar": "https://i.ibb.co/wcJmGWq/PF2e-HPD-42.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-qht5nwtb1hA2FG"
+				},
+				{
+					"name": "PF2e-CFD-50",
+					"avatar": "https://i.ibb.co/RhpvZTT/PF2e-HPD-43.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-r649SYcoez7n8n"
+				},
+				{
+					"name": "PF2e-CFD-51",
+					"avatar": "https://i.ibb.co/Gc5k0NH/PF2e-HPD-44.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-rhp3IR3bE449AH"
+				},
+				{
+					"name": "PF2e-CFD-52",
+					"avatar": "https://i.ibb.co/YTwMd7L/PF2e-HPD-45.jpg",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NC0p-sADvLKab0-WAO7"
+				}
+			]
+		}
+	],
+	"journal": [
+		{
+			"id": "-NC0pL3YfTd_oLP5M0DG",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Hero Point Deck"
+			]
+		},
+		{
+			"id": "-NC0pKWfM5dsKsHmrRKF",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Hero Point Deck"
+			]
+		},
+		{
+			"id": "-NBsBxkAJqp9E3vPFFUF",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Hit Deck"
+			]
+		},
+		{
+			"id": "-NBsCQERZNoQmn5-9EJ1",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Hit Deck"
+			]
+		},
+		{
+			"id": "-NBsRhu0hl2BwsDmlT3O",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Fumble Deck"
+			]
+		},
+		{
+			"id": "-NBsRh7_StP6SCLbmEKI",
+			"path": [
+				"Root",
+				"Pathfinder 2E - Critical Fumble Deck"
+			]
+		}
+	],
+	"handouts": [
+		{
+			"attributes": {
+				"name": "The Rules",
+				"notes": "",
+				"avatar": "https://i.ibb.co/w7J9BP5/Rules1.png",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsBxkAJqp9E3vPFFUF"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "Special Rules",
+				"notes": "",
+				"avatar": "https://i.ibb.co/LNW9JcZ/Rules2.png",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsCQERZNoQmn5-9EJ1"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "Variant Rules",
+				"notes": "",
+				"avatar": "https://i.ibb.co/4Zj0FPv/PF2e-CFD-Rules2.png",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsRh7_StP6SCLbmEKI"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "The Rules",
+				"notes": "",
+				"avatar": "https://i.ibb.co/Qk7G6rx/PF2e-CFD-Rules1.png",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NBsRhu0hl2BwsDmlT3O"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "Optional Rules",
+				"notes": "",
+				"avatar": "https://i.ibb.co/d2kc4wT/PF2e-HPD-Rules2.jpg",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NC0pKWfM5dsKsHmrRKF"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		},
+		{
+			"attributes": {
+				"name": "Rules",
+				"notes": "",
+				"avatar": "https://i.ibb.co/hWypKbd/PF2e-HPD-Rules1.jpg",
+				"inplayerjournals": "all",
+				"archived": false,
+				"tags": "[]",
+				"controlledby": "",
+				"id": "-NC0pL3YfTd_oLP5M0DG"
+			},
+			"blobNotes": "",
+			"blobGmNotes": ""
+		}
+	]
+}
