@@ -356,6 +356,216 @@
             "filename": "Rise_of_the_Runelords.json",
             "version": "1.0.0",
             "dateLastModified": 1617621656
+        },
+        {
+            "id": "pfav1rog",
+            "name": "Pathfinder2E - Abomination Vaults AP1: Ruins of Gauntlight",
+            "filename": "Pathfinder2E_-_Abomination_Vaults_AP1__Ruins_of_Gauntlight.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pfav2hotd",
+            "name": "Pathfinder2E - Abomination Vaults AP2: Hands of the Devil",
+            "filename": "Pathfinder2E_-_Abomination_Vaults_AP2__Hands_of_the_Devil.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pfav3eoed",
+            "name": "Pathfinder2E - Abomination Vaults AP3: Eyes of Empty Death",
+            "filename": "Pathfinder2E_-_Abomination_Vaults_AP3__Eyes_of_Empty_Death.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pfd",
+            "name": "Pathfinder2E Decks",
+            "filename": "Pathfinder2E_-_Decks.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pfdal",
+            "name": "Pathfinder2E - Dinner at Lionlodge",
+            "filename": "Pathfinder2E_-_Dinner_at_Lionlodge.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pfec1tsmgo",
+            "name": "Pathfinder2E - Extinction Curse AP1: The Show Must Go On",
+            "filename": "Pathfinder2E_-_Extinction_Curse_AP1_The_Show_Must_Go_On.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pfhstr",
+            "name": "Pathfinder2E - Head-Shot the Rot",
+            "filename": "Pathfinder2E_-_Head-Shot_the_Rot.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pfmuo",
+            "name": "Pathfinder2E - Menace Under Otari",
+            "filename": "Pathfinder2E_-_Menace_Under_Otari.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pfsas",
+            "name": "Pathfinder2E - Shadows at Sundown",
+            "filename": "Pathfinder2E_-_Shadows_at_Sundown.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pfsot",
+            "name": "Pathfinder2E - Strength of Thousands",
+            "filename": "Pathfinder2E_-_Strength_of_Thousands_AP1of6.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pfsw",
+            "name": "Pathfinder2E - Sundered Waves",
+            "filename": "Pathfinder2E_-_Sundered_Waves.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pftfop",
+            "name": "Pathfinder2E - The Fall of Plaguestone",
+            "filename": "Pathfinder2E_-_The_Fall_of_Plaguestone.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "pftop",
+            "name": "Pathfinder2E - Troubles in Otari",
+            "filename": "Pathfinder2E_-_Troubles_in_Otari.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfatat1trop",
+            "name": "Starfinder - Against the Aeon Throne AP1: The Reach of Empire",
+            "filename": "Starfinder_-_Against_the_Aeon_Throne_AP1__The_Reach_of_Empire.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfatat2eftpm",
+            "name": "Starfinder - Against the Aeon Throne AP2: Escape from the Prison Moon",
+            "filename": "Starfinder_-_Against_the_Aeon_Throne_AP2__Escape_from_the_Prison_Moon.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfatat3trdg",
+            "name": "Starfinder - Against the Aeon Throne AP3: The Rune Drive Gambit",
+            "filename": "Starfinder_-_Against_the_Aeon_Throne_AP3__The_Rune_Drive_Gambit.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfbotr",
+            "name": "Starfinder - Band on the Run",
+            "filename": "Starfinder_-_Band_on_the_Run.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfjd",
+            "name": "Starfinder - Junker's Delight",
+            "filename": "Starfinder_-_Junker_s_Delight.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfkxosa",
+            "name": "Starfinder - King Xeros of Star Azlant",
+            "filename": "Starfinder_-_King_Xeros_of_Star_Azlant.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sflol",
+            "name": "Starfinder - Liberation of Locus-1",
+            "filename": "Starfinder_-_Liberation_of_Locus-1.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfrr",
+            "name": "Starfinder - Redshift Rally",
+            "filename": "Starfinder_-_Redshift_Rally.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfsos1tds",
+            "name": "Starfinder - Signal of Screams AP1: The Diaspora Strain",
+            "filename": "Starfinder_-_Signal_of_Screams_AP1__The_Diaspora_Strain.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfsos2tpp",
+            "name": "Starfinder - Signal of Screams AP2: The Diaspora Strain",
+            "filename": "Starfinder_-_Signal_of_Screams_AP2__The_Penumbra_Protocol.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfsos3hon",
+            "name": "Starfinder - Signal of Screams AP3: Heart of Night",
+            "filename": "Starfinder_-_Signal_of_Screams_AP3__Heart_of_Night.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfstl",
+            "name": "Starfinder - Steel Talon's Lair",
+            "filename": "Starfinder_-_Steel_Talon_s_Lair.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sfsotet",
+            "name": "Starfinder - Storm of the End Times",
+            "filename": "Starfinder_-_Storm_of_the_End_Times.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sftda1wtw",
+            "name": "Starfinder - The Devastation Ark AP1: Waking the Worldseed",
+            "filename": "Starfinder_-_The_Devastation_Ark_AP1__Waking_the_Worldseed.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sftda2tsb",
+            "name": "Starfinder - The Devastation Ark AP2: The Starstone Blockade",
+            "filename": "Starfinder_-_The_Devastation_Ark_AP2__The_Starstone_Blockade.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sftda3de",
+            "name": "Starfinder - The Devastation Ark AP3: Dominion's End",
+            "filename": "Starfinder_-_The_Devastation_Ark_AP3__Dominion_s_End.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
+        },
+        {
+            "id": "sftggr",
+            "name": "Starfinder - The Great Grav-Train Robbery",
+            "filename": "Starfinder_-_The_Great_Grav-Train_Robbery.json",
+            "version": "1.0.0",
+            "dateLastModified": 1667841368
         }
     ]
 }
