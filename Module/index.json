@@ -566,6 +566,13 @@
             "filename": "Starfinder_-_The_Great_Grav-Train_Robbery.json",
             "version": "1.0.0",
             "dateLastModified": 1667841368
+        },
+        {
+            "id": "agttb",
+            "name": "Adventurer's Guide to the Bible",
+            "filename": "Adventurer_s_Guide_to_the_Bible.json",
+            "version": "1.0.0",
+            "dateLastModified": 1675761810
         }
     ]
 }
