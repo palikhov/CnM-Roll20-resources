@@ -407,11 +407,25 @@
             "dateLastModified": 1667841368
         },
         {
+            "id": "pfm",
+            "name": "Pathfinder2E - Malevolence",
+            "filename": "Pathfinder2E_-_Malevolence.json",
+            "version": "1.0.0",
+            "dateLastModified": 1681218117
+        },
+        {
             "id": "pfmuo",
             "name": "Pathfinder2E - Menace Under Otari",
             "filename": "Pathfinder2E_-_Menace_Under_Otari.json",
             "version": "1.0.0",
             "dateLastModified": 1667841368
+        },
+        {
+            "id": "pfnotgd",
+            "name": "Pathfinder2E - Night of the Gray Death",
+            "filename": "Pathfinder2E_-_Night_of_the_Gray_Death.json",
+            "version": "1.0.0",
+            "dateLastModified": 1681218117
         },
         {
             "id": "pfsas",
@@ -566,6 +580,13 @@
             "filename": "Starfinder_-_The_Great_Grav-Train_Robbery.json",
             "version": "1.0.0",
             "dateLastModified": 1667841368
+        },
+        {
+            "id": "sttdtd",
+            "name": "Starfinder - To Defy the Dragon",
+            "filename": "Starfinder_-_To_Defy_the_Dragon.json",
+            "version": "1.0.0",
+            "dateLastModified": 1681218117
         },
         {
             "id": "agttb",
