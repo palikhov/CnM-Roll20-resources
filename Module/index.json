@@ -408,6 +408,13 @@
         },
         {
             "id": "pfm",
+            "name": "Pathfinder2E - Kingmaker",
+            "filename": "Pathfinder2E_-_Kingmaker.json",
+            "version": "1.0.0",
+            "dateLastModified": 1685652388
+        },
+        {
+            "id": "pfm",
             "name": "Pathfinder2E - Malevolence",
             "filename": "Pathfinder2E_-_Malevolence.json",
             "version": "1.0.0",
