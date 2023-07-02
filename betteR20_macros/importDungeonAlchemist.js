@@ -397,7 +397,7 @@ var DungeonAlchemistImporter = (() => {
       height: (grid.y * gridSize) / defaultGridSize,
     });
 
-    map.set({
+    map.save({ // B20 MOD swap .set to .save so that it actually works
       width: mapWidth,
       height: mapHeight,
       top: mapHeight / 2,
